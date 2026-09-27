@@ -300,7 +300,7 @@ export const stages: Stage[] = [
     level: 'advanced',
     summary: 'Fear, bias, fatigue, leadership and group dynamics — decision making with incomplete information.',
     requires: [1],
-    status: 'planned',
+    status: 'available',
     environments: ['all'],
     simulations: ['priority-dilemmas'],
     outline: [
