@@ -84,21 +84,24 @@ export function RuleOfThrees() {
   const x = (m: number) => 150 + (Math.log10(m) / Math.log10(60 * 24 * 90)) * 600
   const ticks = [[1, '1 min'], [60, '1 h'], [60 * 24, '1 day'], [60 * 24 * 7, '1 wk'], [60 * 24 * 30, '1 mo']] as const
   return (
-    <svg className="diagram" viewBox="0 0 780 250" role="img" aria-label="Rule of threes as ranges on a logarithmic time axis">
+    <svg className="diagram" viewBox="0 0 780 290" role="img" aria-label="Rule of threes as ranges on a logarithmic time axis">
       {ticks.map(([m, l]) => (
         <g key={l}>
-          <line x1={x(m)} x2={x(m)} y1={20} y2={210} stroke={LINE} strokeDasharray="3 4" />
-          <text x={x(m)} y={230} textAnchor="middle" fontSize="11" className="muted-fill">{l}</text>
+          <line x1={x(m)} x2={x(m)} y1={20} y2={250} stroke={LINE} strokeDasharray="3 4" />
+          <text x={x(m)} y={268} textAnchor="middle" fontSize="11" className="muted-fill">{l}</text>
         </g>
       ))}
-      {rows.map((r, i) => (
-        <g key={r.label}>
-          <text x={10} y={50 + i * 45} fontSize="13" fontWeight="600">{r.label}</text>
-          <rect x={x(r.lo)} y={36 + i * 45} width={Math.max(8, x(r.hi) - x(r.lo))} height="18" rx="9" fill={[BAD, A2, INFO, OK][i]} opacity="0.85" />
-          <text x={Math.min(x(r.hi) + 8, 600)} y={50 + i * 45} fontSize="10.5" className="muted-fill">{r.note}</text>
-        </g>
-      ))}
-      <text x={390} y={248} textAnchor="middle" fontSize="10" className="muted-fill">time to serious harm (log scale) — ranges, not guarantees</text>
+      {rows.map((r, i) => {
+        const right = x(r.lo) > 450
+        return (
+          <g key={r.label}>
+            <text x={10} y={44 + i * 56} fontSize="13" fontWeight="600">{r.label}</text>
+            <rect x={x(r.lo)} y={30 + i * 56} width={Math.max(8, x(r.hi) - x(r.lo))} height="18" rx="9" fill={[BAD, A2, INFO, OK][i]} opacity="0.85" />
+            <text x={right ? x(r.hi) : x(r.lo)} y={64 + i * 56} textAnchor={right ? 'end' : 'start'} fontSize="10.5" className="muted-fill">{r.note}</text>
+          </g>
+        )
+      })}
+      <text x={390} y={286} textAnchor="middle" fontSize="10" className="muted-fill">time to serious harm (log scale) — ranges, not guarantees</text>
     </svg>
   )
 }
