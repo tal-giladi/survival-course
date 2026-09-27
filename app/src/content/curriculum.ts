@@ -86,7 +86,7 @@ export const stages: Stage[] = [
     level: 'intermediate',
     summary: 'Requirements and dehydration physiology, finding and collecting water in every biome, and the science of treatment.',
     requires: [1],
-    status: 'planned',
+    status: 'available',
     environments: ['desert', 'coastal', 'forest', 'arctic', 'urban'],
     simulations: ['water-advanced', 'solar-still'],
     outline: [
