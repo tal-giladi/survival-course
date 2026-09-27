@@ -231,7 +231,7 @@ planned below at the level of *which exercise, which level, which safety class*.
 
 A Leitner system over individual questions:
 
-- Box 1 → review after 1 day, box 2 → 3 days, box 3 → 7 days, box 4 → 16 days, box 5 → 35 days.
+- Box 1 (missed) → due again immediately; box 2 → 3 days; box 3 → 7 days; box 4 → 16 days; box 5 → 35 days.
 - Correct answer moves a question up a box; wrong moves it to box 1.
 - The Review page mixes due questions across all completed lessons, so fire, water, physiology
   and navigation keep returning. Capstones deliberately re-test earlier concepts in new

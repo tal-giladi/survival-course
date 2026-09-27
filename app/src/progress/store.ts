@@ -95,7 +95,7 @@ export function useProgress(): Progress {
 export const getProgress = () => state
 
 const DAY = 86_400_000
-export const BOX_DAYS = [0, 1, 3, 7, 16, 35]
+export const BOX_DAYS = [0, 0, 3, 7, 16, 35] // box 1 = missed: due again immediately
 
 export const actions = {
   visitLesson(id: string) {

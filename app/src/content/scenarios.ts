@@ -157,9 +157,9 @@ It’s 14:00. The path you’re on has faded out and nothing matches the map. Ev
       title: '18:30 — rain',
       text: 'The first drops fall as the light goes. The phone shows one bar.',
       options: [
-        { id: 'update', text: 'Send a short update (“staying put at [coords], sheltered, OK”), then phone off until a 21:00 check.', effect: { add: { minutes: 10, battery: -5, rescue: 15, morale: 10 } }, next: 'night', quality: 2, feedback: 'Short, scheduled use of the phone keeps searchers informed and the battery alive.' },
-        { id: 'scroll', text: 'Scroll news and play a game to take your mind off things.', effect: { add: { minutes: 60, battery: -30, morale: 5 } }, next: 'night', quality: 0, feedback: 'Distraction helps morale a little — at the cost of your emergency lifeline.' },
-        { id: 'off', text: 'Turn the phone off completely until morning.', effect: { add: { minutes: 5 } }, next: 'night', quality: 1, feedback: 'Saves battery, but misses a cheap chance to update searchers.' },
+        { id: 'update', text: 'Send a short update (“staying put at [coords], sheltered, OK”), then phone off until a 21:00 check.', effect: { set: { minutes: 270 }, add: { minutes: 10, battery: -5, rescue: 15, morale: 10 } }, next: 'night', quality: 2, feedback: 'Short, scheduled use of the phone keeps searchers informed and the battery alive.' },
+        { id: 'scroll', text: 'Scroll news and play a game to take your mind off things.', effect: { set: { minutes: 270 }, add: { minutes: 60, battery: -30, morale: 5 } }, next: 'night', quality: 0, feedback: 'Distraction helps morale a little — at the cost of your emergency lifeline.' },
+        { id: 'off', text: 'Turn the phone off completely until morning.', effect: { set: { minutes: 270 }, add: { minutes: 5 } }, next: 'night', quality: 1, feedback: 'Saves battery, but misses a cheap chance to update searchers.' },
       ],
     },
     {
@@ -167,8 +167,8 @@ It’s 14:00. The path you’re on has faded out and nothing matches the map. Ev
       title: 'The long night',
       text: 'Rain drums on the bivy bag. At 23:00 you’re cold and it feels endless. You hear nothing but rain.',
       options: [
-        { id: 'manage', text: 'Stay in the shelter: hat on, eat your last bar, sip water, do slow isometric exercises when shivering, doze in short bursts, whistle every half hour after first light.', effect: { add: { minutes: 450, energy: -10, warmth: -10, morale: 5, rescue: 25, water: -300 } }, next: 'end-morning', quality: 2, feedback: 'Uncomfortable, but controlled. At first light you move to the clearing and signal.' },
-        { id: 'walk', text: 'You can’t stand it — walk out by headlamp.', effect: { add: { minutes: 180, energy: -35, warmth: -35, lost: 20, morale: -30, injury: 30 } }, next: 'end-night-walk', quality: 0, feedback: 'Night navigation in rain on steep ground, cold and tired — the classic path to a fall or hypothermia.' },
+        { id: 'manage', text: 'Stay in the shelter: hat on, eat your last bar, sip water, do slow isometric exercises when shivering, doze in short bursts, whistle every half hour after first light.', effect: { set: { minutes: 1090 }, add: { energy: -10, warmth: -10, morale: 5, rescue: 25, water: -300 } }, next: 'end-morning', quality: 2, feedback: 'Uncomfortable, but controlled. At first light you move to the clearing and signal.' },
+        { id: 'walk', text: 'You can’t stand it — walk out by headlamp.', effect: { set: { minutes: 870 }, add: { energy: -35, warmth: -35, lost: 20, morale: -30, injury: 30 } }, next: 'end-night-walk', quality: 0, feedback: 'Night navigation in rain on steep ground, cold and tired — the classic path to a fall or hypothermia.' },
       ],
     },
     {

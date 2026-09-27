@@ -23,14 +23,13 @@ export function ReviewPage() {
     <div className="page">
       <h1>Spaced review</h1>
       <p className="lead">
-        Questions come back on a widening schedule — {BOX_DAYS.slice(1).join(', ')} days — each time you get them right, and reset to
-        tomorrow when you miss. Review mixes topics on purpose: fire, water, heat and decisions keep returning in new contexts.
+        Missed questions come back straight away; each correct answer pushes a question further out — {BOX_DAYS.slice(2).join(', ')} days. Review mixes topics on purpose: fire, water, heat and decisions keep returning in new contexts.
       </p>
       <div className="card">
         <h3>Your review boxes</h3>
         <div className="boxes">
           {boxes.map((c, i) => (
-            <div key={i} className="box"><div className="box-n">{c}</div><div className="muted small">Box {i + 1} · {BOX_DAYS[i + 1]}d</div></div>
+            <div key={i} className="box"><div className="box-n">{c}</div><div className="muted small">Box {i + 1} · {i === 0 ? 'now' : `${BOX_DAYS[i + 1]}d`}</div></div>
           ))}
         </div>
       </div>

@@ -93,7 +93,7 @@ export function WaterTreatment({ onScore }: SimProps) {
       <label className="control"><strong>Treatment (combine as you like)</strong></label>
       <div className="chip-group">
         {TREATMENTS.map((t) => (
-          <button key={t.id} className={`chip ${treats.includes(t.id) ? 'on' : ''}`} title={t.note} onClick={() => { setTreats(treats.includes(t.id) ? treats.filter((x) => x !== t.id) : [...treats, t.id]); reset() }}>
+          <button key={t.id} className={`chip ${treats.includes(t.id) ? 'on' : ''}`} title={t.note} onClick={() => { setTreats((cur) => (cur.includes(t.id) ? cur.filter((x) => x !== t.id) : [...cur, t.id])); reset() }}>
             {t.name}
           </button>
         ))}

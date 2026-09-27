@@ -104,7 +104,7 @@ export function KitBuilder({ onScore }: SimProps) {
   const r = evaluate(env, chosen)
   const toggle = (id: string) => {
     setSubmitted(false)
-    setChosen(chosen.includes(id) ? chosen.filter((c) => c !== id) : [...chosen, id])
+    setChosen((cur) => (cur.includes(id) ? cur.filter((c) => c !== id) : [...cur, id]))
   }
 
   return (
