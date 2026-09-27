@@ -265,7 +265,7 @@ export const stages: Stage[] = [
     level: 'advanced',
     summary: 'Knots, hitches, lashings, anchors and mechanical advantage — principles, not unsupervised climbing.',
     requires: [7],
-    status: 'planned',
+    status: 'available',
     environments: ['mountain', 'forest'],
     simulations: ['mechanical-advantage'],
     outline: [
