@@ -25,6 +25,7 @@ function Sidebar({ onNavigate }: { onNavigate: () => void }) {
       <NavLink to="/skills" onClick={onNavigate}>🧭 Skills</NavLink>
       <NavLink to="/sims" onClick={onNavigate}>🎮 Simulations</NavLink>
       <NavLink to="/references" onClick={onNavigate}>📚 References</NavLink>
+      <NavLink to="/lesson/final" onClick={onNavigate}>🎓 Final assessment</NavLink>
       <NavLink to="/safety" onClick={onNavigate}>⛑️ Safety &amp; data</NavLink>
       <div className="nav-group">Stages</div>
       {stages.map((s) => (
