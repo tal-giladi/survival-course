@@ -4,8 +4,8 @@ Source brief: `plan.md`. Resume from the first unchecked item.
 
 ## Batches
 - [x] B0  Repo init, Vite+React+TS scaffold in `app/`
-- [ ] B1  Research notes (`docs/research-notes.md`) — background agent
-- [~] B2  Design docs: research summary, curriculum, prereq graph, module structure, lesson list, exercises, quiz plan, simulation plan, capstones, references (`docs/`)
+- [x] B1  Research notes (`docs/research-notes.md`) — background agent
+- [x] B2  Design docs: research summary, curriculum, prereq graph, module structure, lesson list, exercises, quiz plan, simulation plan, capstones, references (`docs/`)
 - [ ] B3  App architecture: content types, registry, router, layout, theming
 - [ ] B4  Reusable components: Lesson renderer, Quiz, Exercise, SkillTracker, References, ScenarioEngine, Simulation host
 - [ ] B5  Progress store + dashboard + spaced review
@@ -19,3 +19,4 @@ Source brief: `plan.md`. Resume from the first unchecked item.
 
 ## Notes
 - B2: course-design.md, lesson-list.md, prerequisite-graph.md done (generated via scripts/gen-docs.ts). research-summary.md + references.md pending research agent output (docs/research-notes.md).
+- B1/B2 done: research-notes, research-summary, course-design, lesson-list, prerequisite-graph, references (docs regenerate with: node scripts/gen-docs.ts).

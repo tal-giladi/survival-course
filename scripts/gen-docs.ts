@@ -41,3 +41,22 @@ for (const id of ids) g += `  ${id.replace(/-/g, '_')}["${id}: ${title.get(id)}"
 g += edges + '```\n\n## Example thread (from the brief)\n\n```mermaid\nflowchart LR\n  a["s1-l7 Heat budget"] --> b["s8-l1 Thermoregulation"] --> c["s8-l2 Heat-loss mechanisms"] --> d["s1-l8 Clothing"] --> e["s5-l1 Shelter design"] --> f["s3-l7 Heating fires"] --> g["cap-3 Cold-weather capstone"]\n```\n\nWithin each stage, per-lesson prerequisites are listed in [lesson-list.md](lesson-list.md).\n'
 writeFileSync('docs/prerequisite-graph.md', g)
 console.log('lessons', total)
+
+// ---------- references.md ----------
+const { references, subjects } = await import('../app/src/content/references.ts')
+const { lawPortals } = await import('../app/src/content/lawPortals.ts')
+let r = '# Course references\n\n_Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same list is browsable in the app._\n\n'
+for (const [key, label] of Object.entries(subjects as Record<string, string>)) {
+  const items = references.filter((x: { subjects: string[] }) => x.subjects.includes(key))
+  if (!items.length) continue
+  r += `## ${label}\n\n`
+  for (const x of items) {
+    const who = [x.author, x.org, x.year].filter(Boolean).join(', ')
+    r += `- ${x.url ? `[${x.title}](${x.url})` : `*${x.title}*`}${who ? ` — ${who}` : ''} _(${x.kind})_${x.note ? `. ${x.note}` : ''}\n`
+  }
+  r += '\n'
+}
+r += '## Law varies by jurisdiction\n\nCheck the agency that manages the specific land, on the day of the trip.\n\n| Region | Topic | Portal | Note |\n|---|---|---|---|\n'
+for (const p of lawPortals) r += `| ${p.region} | ${p.topic} | ${p.url ? `[${p.name}](${p.url})` : p.name} | ${p.note ?? ''} |\n`
+writeFileSync('docs/references.md', r)
+console.log('references', references.length)
