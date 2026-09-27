@@ -40,7 +40,7 @@ export const stages: Stage[] = [
     level: 'beginner',
     summary: 'From reading a map to navigating without instruments, and recovering when navigation fails.',
     requires: [1],
-    status: 'planned',
+    status: 'available',
     environments: ['forest', 'mountain', 'desert', 'arctic'],
     simulations: ['nav-map', 'celestial', 'nav-relocation'],
     outline: [
