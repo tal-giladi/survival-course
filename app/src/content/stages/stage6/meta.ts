@@ -1,0 +1,65 @@
+import type { Reference, Skill } from '../../types'
+
+// New references for Stage 6. URLs checked on 2026-09-27 (some US federal sites block automated clients;
+// those were confirmed by search-engine listing of the exact URL).
+export const stage6References: Reference[] = [
+  { id: 'mifflin-1990', kind: 'paper', title: 'A new predictive equation for resting energy expenditure in healthy individuals', author: 'Mifflin MD, St Jeor ST, Hill LA, Scott BJ, Daugherty SA, Koh YO', year: '1990', subjects: ['food', 'physiology'], url: 'https://pubmed.ncbi.nlm.nih.gov/2305711/', note: 'Am J Clin Nutr 51(2):241–247. The Mifflin–St Jeor equation; derived from 498 adults, R² ≈ 0.71.' },
+  { id: 'nasem-energy-2023', kind: 'guideline', title: 'Dietary Reference Intakes for Energy', org: 'National Academies of Sciences, Engineering, and Medicine', year: '2023', subjects: ['food', 'physiology'], url: 'https://nap.nationalacademies.org/catalog/26818/dietary-reference-intakes-for-energy', note: 'Current energy-requirement equations built on doubly labelled water data.' },
+  { id: 'keys-starvation', kind: 'book', title: 'The Biology of Human Starvation', author: 'Ancel Keys et al.', year: '1950', subjects: ['food', 'physiology', 'long-duration'], note: 'The Minnesota semi-starvation experiment: physical, cognitive and emotional effects of prolonged energy deficit.' },
+  { id: 'foodsafety-temps', kind: 'government', title: 'Cook to a Safe Minimum Internal Temperature', org: 'FoodSafety.gov (USDA/FDA/CDC)', subjects: ['food'], url: 'https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures' },
+  { id: 'fsis-danger-zone', kind: 'government', title: '“Danger Zone” (40 °F – 140 °F)', org: 'USDA Food Safety and Inspection Service', subjects: ['food'], url: 'https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/danger-zone-40f-140f', note: 'Bacteria can double in as little as 20 minutes; the 2-hour / 1-hour rules.' },
+  { id: 'foodsafety-outage', kind: 'government', title: 'Food Safety During Power Outage', org: 'FoodSafety.gov (USDA/FDA/CDC)', subjects: ['food', 'urban'], url: 'https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage', note: 'Fridge ~4 h; full freezer ~48 h (24 h half full); never taste to decide.' },
+  { id: 'cdc-botulism-canning', kind: 'government', title: 'Home-Canned Foods (botulism prevention)', org: 'US Centers for Disease Control and Prevention', subjects: ['food'], url: 'https://www.cdc.gov/botulism/prevention/home-canned-foods.html', note: 'Pressure canning is the only safe home method for low-acid foods.' },
+  { id: 'nchfp', kind: 'organization', title: 'National Center for Home Food Preservation', org: 'University of Georgia / USDA NIFA', subjects: ['food', 'long-duration'], url: 'https://nchfp.uga.edu/', note: 'Tested procedures for canning, drying, freezing, pickling and fermenting.' },
+  { id: 'cdc-trichinellosis', kind: 'government', title: 'How to Prevent Trichinellosis', org: 'US Centers for Disease Control and Prevention', subjects: ['food'], url: 'https://www.cdc.gov/trichinellosis/prevention/index.html', note: 'Cook wild game to ≥ 74 °C (165 °F); freezing may not kill Arctic Trichinella species.' },
+  { id: 'who-five-keys', kind: 'guideline', title: 'Five Keys to Safer Food Manual', org: 'World Health Organization', year: '2006', subjects: ['food'], url: 'https://www.who.int/publications/i/item/9789241594639', note: 'Keep clean; separate raw and cooked; cook thoroughly; keep food at safe temperatures; use safe water and raw materials.' },
+  { id: 'who-food-safety', kind: 'guideline', title: 'Food safety — fact sheet', org: 'World Health Organization', subjects: ['food'], url: 'https://www.who.int/news-room/fact-sheets/detail/food-safety' },
+  { id: 'fda-safe-handling', kind: 'government', title: 'Safe Food Handling', org: 'US Food and Drug Administration', subjects: ['food'], url: 'https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling' },
+  { id: 'mmwr-amanita-2016', kind: 'paper', title: 'Amanita phalloides Mushroom Poisonings — Northern California, December 2016', year: '2017', org: 'CDC MMWR', subjects: ['food'], url: 'https://www.cdc.gov/mmwr/volumes/66/wr/mm6621a1.htm', note: '14 poisonings from foraged mushrooms; three liver transplants.' },
+  { id: 'mmwr-mushroom-2021', kind: 'paper', title: 'Health Care Utilization and Outcomes Associated with Accidental Poisonous Mushroom Ingestions — United States, 2016–2018', year: '2021', org: 'CDC MMWR', subjects: ['food'], url: 'https://www.cdc.gov/mmwr/volumes/70/wr/mm7010a1.htm' },
+  { id: 'nama', kind: 'organization', title: 'North American Mycological Association', subjects: ['food'], url: 'https://namyco.org/', note: 'Links to local mycological clubs, identification forays and a poisoning case registry.' },
+  { id: 'poison-help', kind: 'government', title: 'Poison Help (1-800-222-1222, US)', org: 'US Health Resources and Services Administration', subjects: ['food', 'first-aid'], url: 'https://poisonhelp.hrsa.gov/', note: 'Connects to the local poison centre in the US. Outside the US, find your national poison centre before a trip.' },
+  { id: 'fao-edible-insects-2013', kind: 'guideline', title: 'Edible insects: future prospects for food and feed security', author: 'van Huis A, Van Itterbeeck J, Klunder H, et al.', year: '2013', org: 'FAO (Forestry Paper 171)', subjects: ['food'], url: 'https://www.fao.org/4/i3253e/i3253e.pdf', note: 'Insects are part of traditional diets of at least 2 billion people; more than 1,900 species recorded as food.' },
+  { id: 'fao-insects-safety-2021', kind: 'guideline', title: 'Looking at edible insects from a food safety perspective', year: '2021', org: 'FAO', subjects: ['food'], url: 'https://www.fao.org/3/cb4094en/cb4094en.pdf', note: 'Hazards: microbes, parasites, allergens (including crustacean cross-reactivity), heavy metals, pesticides.' },
+  { id: 'efsa-novel-food', kind: 'government', title: 'Novel food', org: 'European Food Safety Authority', subjects: ['food', 'law'], url: 'https://www.efsa.europa.eu/en/topics/topic/novel-food', note: 'Insects sold as food in the EU need novel-food authorisation.' },
+  { id: 'noaa-fisheries', kind: 'government', title: 'NOAA Fisheries', org: 'US National Oceanic and Atmospheric Administration', subjects: ['food', 'law'], url: 'https://www.fisheries.noaa.gov/', note: 'Federal marine fishing rules; states regulate near-shore and fresh water.' },
+  { id: 'uk-rod-rules', kind: 'regulation', title: 'Freshwater rod fishing rules', org: 'UK Government (Environment Agency)', subjects: ['food', 'law'], url: 'https://www.gov.uk/freshwater-rod-fishing-rules', note: 'Close seasons, size limits, permitted baits and methods (England).' },
+  { id: 'ihea', kind: 'training', title: 'International Hunter Education Association', subjects: ['food', 'law'], url: 'https://www.ihea-usa.org/', note: 'Hunter education courses — required for a licence in many jurisdictions.' },
+  { id: 'peterson-edible', kind: 'book', title: 'A Field Guide to Edible Wild Plants: Eastern and Central North America (Peterson Field Guides)', author: 'Lee Allen Peterson', subjects: ['food'], note: 'Regional only — use as one input alongside a botanical key and an in-person expert, never alone.' },
+]
+
+export const stage6Concepts: Record<string, string> = {
+  'energy-needs': 'Energy requirements (BMR × activity × environment)',
+  bmr: 'Basal metabolic rate (Mifflin–St Jeor)',
+  macronutrients: 'Macronutrients and energy density',
+  'water-before-food': 'Water before food',
+  'energy-stores': 'Glycogen, fat and lean-tissue stores',
+  rationing: 'Food rationing',
+  'food-storage': 'Food storage and rotation',
+  'food-preservation': 'Food preservation hurdles',
+  spoilage: 'Spoilage and the danger zone',
+  'food-safety-temps': 'Safe food temperatures',
+  'food-poisoning': 'Food poisoning and toxins',
+  parasites: 'Parasites in wild food',
+  'primitive-food-prep': 'Primitive food preparation',
+  'plant-id-discipline': 'Plant identification discipline',
+  'toxic-lookalikes': 'Toxic plants and deadly look-alikes',
+  'edibility-test-myth': 'Why the “universal edibility test” is unreliable',
+  'fungi-safety': 'Fungi safety',
+  amatoxins: 'Amatoxins and delayed poisoning',
+  'edible-insects': 'Insects as food',
+  'foraging-law': 'Foraging law and protected species',
+  'fishing-law': 'Fishing regulations',
+  'fishing-energy': 'Fishing gear and energy return',
+  'hunting-trapping-law': 'Hunting and trapping law and ethics',
+  'energy-return': 'Energy return on food-getting',
+  'long-term-food': 'Long-term food acquisition realities',
+}
+
+export const stage6Skills: Skill[] = [
+  { id: 'energy-planning', name: 'Energy and ration planning', stage: 6, physical: false, safety: 'home', description: 'Estimate daily energy needs from BMR, activity and environment, and plan a multi-day ration with a reserve.' },
+  { id: 'food-storage', name: 'Emergency food storage and rotation', stage: 6, physical: true, safety: 'home', description: 'Keep a dated, rotated emergency food store that matches your household’s energy needs and can be prepared without power.' },
+  { id: 'food-safety', name: 'Safe food handling and cooking', stage: 6, physical: true, safety: 'home', description: 'Use a calibrated thermometer, respect the danger zone, and prevent cross-contamination in camp and at home.' },
+  { id: 'legal-fishing', name: 'Legal, basic fishing', stage: 6, physical: true, safety: 'outdoor', description: 'Check regulations, hold the right licence, tie reliable knots and fish simple gear legally and ethically.' },
+  { id: 'hunter-education', name: 'Hunter education (formal course)', stage: 6, physical: true, safety: 'formal-training', description: 'Complete an accredited hunter-education course covering law, ethics, safety and game care before any hunting or trapping.' },
+]
