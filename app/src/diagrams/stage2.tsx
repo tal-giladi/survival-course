@@ -61,8 +61,8 @@ export function MapScale() {
         {[...Array(41)].map((_, i) => <line key={i} x1={i * 10} x2={i * 10} y1={0} y2={i % 10 === 0 ? 16 : i % 5 === 0 ? 11 : 7} stroke={TXT} strokeWidth="0.8" />)}
         {[0, 1, 2, 3, 4].map((c) => <T key={c} x={c * 100 + 3} y={28} size={10}>{c} cm</T>)}
       </g>
-      <T x={440} y={200} size={11} muted>Ruler shown at 1 cm = 100 px:</T>
-      <T x={440} y={216} size={11} muted>at 1:25,000, 4 cm = 1 km.</T>
+      <T x={460} y={200} size={11} muted>Ruler shown at 1 cm = 100 px:</T>
+      <T x={460} y={216} size={11} muted>at 1:25,000, 4 cm = 1 km.</T>
     </Svg>
   )
 }
@@ -269,7 +269,7 @@ export function ThreeNorths() {
       <T x={ox + 30} y={oy - 110} size={11} fill={INFO}>convergence (true → grid)</T>
       <path d={arc(-14, 6, 80)} fill="none" stroke={A2} strokeWidth="2" />
       <T x={ox + 18} y={oy - 58} size={11} fill={A2}>grid–magnetic angle</T>
-      <T x={10} y={322} size={10} muted>Angles exaggerated. Declination varies with place and year (WMM); convergence depends on position in the grid zone.</T>
+      <T x={10} y={322} size={10} muted>Angles exaggerated. Declination varies with place and year (WMM).</T>
     </Svg>
   )
 }
@@ -381,7 +381,7 @@ export function OneInSixty() {
   return (
     <Svg w={640} h={300} label="Lateral error from a heading error of 1, 5 and 10 degrees over 1 to 3 kilometres">
       <line x1={ox} y1={oy} x2={ox + 3 * kx + 20} y2={oy} stroke={TXT} strokeWidth="2" />
-      <T x={ox + 3 * kx + 24} y={oy + 4} size={11}>intended line</T>
+      <T x={ox + 3 * kx + 24} y={oy + 4} size={11}>intended</T>
       {[1, 2, 3].map((k) => (
         <g key={k}>
           <line x1={ox + k * kx} x2={ox + k * kx} y1={oy + 5} y2={30} stroke={LINE} strokeDasharray="3 4" />
@@ -502,7 +502,7 @@ export function AimingOff() {
         <line x1={x + 10} x2={x + 310} y1={ry} y2={ry} stroke={INFO} strokeWidth="5" />
         <line x1={jx} x2={jx + 20} y1={ry} y2={40} stroke={INFO} strokeWidth="3" />
         <circle cx={jx} cy={ry} r="8" fill="none" stroke={A2} strokeWidth="3" />
-        <T x={jx + 12} y={ry + 22} size={11} fill={A2}>junction</T>
+        <T x={jx + 26} y={ry - 10} size={11} fill={A2}>junction</T>
         <path d={`M${sx},${sy} L${aimX - 35},${ry + 2} L${aimX + 35},${ry + 2} Z`} fill={off ? OK : BAD} opacity="0.15" />
         <line x1={sx} y1={sy} x2={aimX} y2={ry + 4} stroke={TXT} strokeWidth="2" strokeDasharray="6 4" />
         <circle cx={sx} cy={sy} r="6" fill={TXT} />
@@ -719,11 +719,11 @@ export function WatchMethod() {
     )
   }
   return (
-    <Svg w={640} h={330} label="Watch method for northern and southern hemispheres at 16:00 solar time">
+    <Svg w={640} h={344} label="Watch method for northern and southern hemispheres at 16:00 solar time">
       <defs><Arrow id="wm" color={A2} /></defs>
       {face(160, true)}
       {face(480, false)}
-      <T x={320} y={20} anchor="middle" size={11} muted>Use SOLAR time (remove daylight saving). Errors of 20–30°+ are common; useless in the tropics.</T>
+      <T x={320} y={336} anchor="middle" size={11} muted>Use SOLAR time (remove daylight saving). Errors of 20–30°+ are common; useless in the tropics.</T>
     </Svg>
   )
 }

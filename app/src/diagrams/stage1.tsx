@@ -374,7 +374,7 @@ export function GroundToAir() {
     { s: 'X', t: 'Require medical assistance' },
     { s: 'N', t: 'No / negative' },
     { s: 'Y', t: 'Yes / affirmative' },
-    { s: '→', t: 'Proceeding in this direction' },
+    { s: '→', t: 'Proceeding this way' },
   ]
   return (
     <svg className="diagram" viewBox="0 0 700 200" role="img" aria-label="Ground-to-air emergency code symbols">

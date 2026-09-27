@@ -158,7 +158,7 @@ export function BendKnotEfficiency() {
   const pts = Array.from({ length: 51 }, (_, i) => Math.pow(2, i / 10)).map((r) => `${X(r)},${Y(bendEfficiency(r, 1))}`).join(' ')
   const knots: [string, number][] = [['Straight cord', 1], ['Lashing wraps', 0.85], ['Figure-eight loop', 0.75], ['Round turn + 2 half hitches', 0.75], ['Bowline', 0.65], ['Clove hitch', 0.6], ['Overhand loop', 0.5], ['Reef knot (as a bend)', 0.45]]
   return (
-    <svg className="diagram" viewBox="0 0 660 260" role="img" aria-label="Strength kept when cord bends around a pin of diameter D, and typical knot efficiencies">
+    <svg className="diagram" viewBox="0 0 680 260" role="img" aria-label="Strength kept when cord bends around a pin of diameter D, and typical knot efficiencies">
       <Axes x0={x0} y0={y0} w={w} h={h} xLabel="bend ratio D/d (pin ÷ cord diameter)" yLabel="strength kept" />
       {[1, 2, 4, 8, 16, 32].map((r) => <text key={r} x={X(r)} y={y0 + 14} textAnchor="middle" fontSize="10" className="muted-fill">{r}</text>)}
       {[0.5, 0.75, 1].map((e) => <text key={e} x={x0 - 6} y={Y(e) + 4} textAnchor="end" fontSize="10" className="muted-fill">{e * 100}%</text>)}
@@ -268,7 +268,7 @@ export function StoneBoiling() {
       <path d="M40,200 Q70,120 100,200 Q120,140 150,200 Z" fill={A2} opacity="0.8" />
       {[60, 90, 120].map((x) => <circle key={x} cx={x} cy="190" r="14" fill={MUT} stroke={LINE} />)}
       <text x="95" y="228" textAnchor="middle" fontSize="11">stones heated ~30 min</text>
-      <text x="95" y="244" textAnchor="middle" fontSize="11" className="muted-fill">dry, non-layered rock (not from a river bed)</text>
+      <text x="112" y="244" textAnchor="middle" fontSize="11" className="muted-fill">dry, non-layered rock (not from a river bed)</text>
       <path d="M170,170 Q230,110 290,160" fill="none" stroke={BAD} strokeWidth="2.5" markerEnd="url(#s7sb)" />
       <text x="230" y="112" textAnchor="middle" fontSize="11">tongs, shake off ash</text>
       {/* container */}
@@ -296,7 +296,7 @@ export function StoneBoiling() {
 
 export function BloodCircle() {
   return (
-    <svg className="diagram" viewBox="0 0 640 270" role="img" aria-label="The blood circle: anyone within arm's length plus blade length of a knife user is in danger; the femoral artery zone on the inner thigh must never be in the blade's path">
+    <svg className="diagram" viewBox="0 0 680 270" role="img" aria-label="The blood circle: anyone within arm's length plus blade length of a knife user is in danger; the femoral artery zone on the inner thigh must never be in the blade's path">
       <circle cx="170" cy="140" r="115" fill={BAD} opacity="0.08" stroke={BAD} strokeWidth="2" strokeDasharray="8 5" />
       <circle cx="170" cy="140" r="26" fill={P2} stroke={LINE} />
       <text x="170" y="145" textAnchor="middle" fontSize="11">you</text>
@@ -317,14 +317,14 @@ export function BloodCircle() {
       <line x1="560" y1="118" x2="610" y2="100" stroke={A} strokeWidth="3" />
       <text x="560" y="92" fontSize="10">work outside the knee,</text>
       <text x="560" y="104" fontSize="10">cut away from the body</text>
-      <text x="490" y="250" textAnchor="middle" fontSize="11" className="muted-fill">elbows on knees · blade stroke ends in air, never at a body part</text>
+      <text x="480" y="250" textAnchor="middle" fontSize="11" className="muted-fill">elbows on knees · blade stroke ends in air, never at a body part</text>
     </svg>
   )
 }
 
 export function Batoning() {
   return (
-    <svg className="diagram" viewBox="0 0 640 250" role="img" aria-label="Batoning: the knife acts as a wedge driven by a wooden baton; the tip must protrude beyond the log so the baton strikes it, and the wedge force splits along the grain">
+    <svg className="diagram" viewBox="0 0 680 250" role="img" aria-label="Batoning: the knife acts as a wedge driven by a wooden baton; the tip must protrude beyond the log so the baton strikes it, and the wedge force splits along the grain">
       <defs><Arrow id="s7bt" color={BAD} /><Arrow id="s7bt2" color={INFO} /></defs>
       <rect x="120" y="120" width="200" height="100" rx="8" fill={GROUND} opacity="0.5" stroke={LINE} />
       <ellipse cx="220" cy="120" rx="100" ry="18" fill={A2} opacity="0.4" stroke={LINE} />
@@ -351,7 +351,7 @@ export function Batoning() {
 
 export function Conchoidal() {
   return (
-    <svg className="diagram" viewBox="0 0 640 260" role="img" aria-label="Conchoidal fracture: a blow near the edge of a platform at less than 90 degrees starts a Hertzian cone; the crack turns and runs parallel to the face, detaching a flake with a bulb of percussion and ripples">
+    <svg className="diagram" viewBox="0 0 640 282" role="img" aria-label="Conchoidal fracture: a blow near the edge of a platform at less than 90 degrees starts a Hertzian cone; the crack turns and runs parallel to the face, detaching a flake with a bulb of percussion and ripples">
       <defs><Arrow id="s7cf" color={BAD} /></defs>
       <path d="M60,200 L60,70 L300,70 L340,200 Z" fill={MUT} opacity="0.4" stroke={LINE} strokeWidth="2" />
       <text x="70" y="62" fontSize="11">striking platform</text>
@@ -370,8 +370,8 @@ export function Conchoidal() {
       <text x="540" y="92" fontSize="11">bulb of percussion</text>
       {[0, 1, 2, 3].map((k) => <path key={k} d={`M${430 + k * 4},${120 + k * 22} Q${470},${112 + k * 22} ${515 - k * 4},${128 + k * 22}`} fill="none" stroke={TXT} strokeWidth="1" opacity="0.6" />)}
       <text x="540" y="160" fontSize="11">ripples (like glass)</text>
-      <text x="470" y="240" textAnchor="middle" fontSize="11" className="muted-fill">edges thinner than a razor — and the same physics throws sharp spalls</text>
-      <text x="200" y="240" textAnchor="middle" fontSize="11" className="muted-fill">works only in fine, uniform, glassy stone (flint, chert, obsidian)</text>
+      <text x="320" y="274" textAnchor="middle" fontSize="11" className="muted-fill">edges thinner than a razor — and the same physics throws sharp spalls</text>
+      <text x="320" y="256" textAnchor="middle" fontSize="11" className="muted-fill">works only in fine, uniform, glassy stone (flint, chert, obsidian)</text>
     </svg>
   )
 }
@@ -426,14 +426,15 @@ export function PitchGlue() {
 export function CharcoalRetort() {
   const stages: [string, string, string][] = [['< 200 °C', 'drying', 'steam'], ['200–280 °C', 'torrefaction', 'acids, CO₂'], ['280–400 °C', 'pyrolysis (exothermic)', 'tar, CO, CH₄ — flammable'], ['400–600 °C', 'carbonisation', 'charcoal ≈ 75–90 % C']]
   return (
-    <svg className="diagram" viewBox="0 0 660 260" role="img" aria-label="Charcoal retort: wood sealed in a tin with a small vent is heated in a fire; without oxygen it pyrolyses, and the escaping wood gas burns at the vent; stages from drying to carbonisation">
+    <svg className="diagram" viewBox="0 0 660 288" role="img" aria-label="Charcoal retort: wood sealed in a tin with a small vent is heated in a fire; without oxygen it pyrolyses, and the escaping wood gas burns at the vent; stages from drying to carbonisation">
       <path d="M40,230 Q80,120 120,230 Q150,140 190,230 Q220,150 250,230 Z" fill={A2} opacity="0.75" />
       <rect x="80" y="130" width="130" height="80" rx="6" fill={MUT} stroke={LINE} strokeWidth="2" />
       {[0, 1, 2].map((k) => <rect key={k} x={92 + k * 38} y="146" width="30" height="50" rx="3" fill={GROUND} />)}
       <circle cx="145" cy="130" r="4" fill={TXT} />
       <path d="M145,126 Q135,100 150,80 Q160,100 145,126" fill={A2} />
       <text x="170" y="92" fontSize="11">wood gas burns at the vent</text>
-      <text x="170" y="106" fontSize="11" className="muted-fill">stop when the jet dies; seal the vent; cool</text>
+      <text x="170" y="106" fontSize="11" className="muted-fill">stop when the jet dies;</text>
+      <text x="170" y="120" fontSize="11" className="muted-fill">seal the vent; cool</text>
       <text x="145" y="250" textAnchor="middle" fontSize="11">sealed tin, one small hole: no air in</text>
       <text x="300" y="22" fontSize="13" fontWeight="700">Stages as the wood heats</text>
       {stages.map(([t, n, out], i) => (
@@ -444,7 +445,7 @@ export function CharcoalRetort() {
           <text x="412" y={67 + i * 50} fontSize="11" className="muted-fill">gives off: {out}</text>
         </g>
       ))}
-      <text x="300" y="248" fontSize="11">Yield: ~25–30 % of dry wood mass as charcoal, but ~50–60 % of its energy is lost as gas and heat.</text>
+      <text x="20" y="278" fontSize="11">Yield: ~25–30 % of dry wood mass as charcoal, but ~50–60 % of its energy is lost as gas and heat.</text>
     </svg>
   )
 }

@@ -219,7 +219,7 @@ export function HypothermiaStages() {
   ]
   const y = (t: number) => 30 + (37 - t) * 22
   return (
-    <svg className="diagram" viewBox="0 0 660 330" role="img" aria-label="Hypothermia stages by core temperature following the WMS 2019 guideline: cold stressed, mild, moderate, severe">
+    <svg className="diagram" viewBox="0 0 660 346" role="img" aria-label="Hypothermia stages by core temperature following the WMS 2019 guideline: cold stressed, mild, moderate, severe">
       <rect x={60} y={y(37)} width={30} height={y(24) - y(37)} rx={15} fill={P2} stroke={LINE} />
       {stages.map((s) => (
         <g key={s.name}>
@@ -230,7 +230,7 @@ export function HypothermiaStages() {
         </g>
       ))}
       {[37, 35, 32, 28, 24].map((t) => <text key={t} x={54} y={y(t) + 4} fontSize="11" textAnchor="end">{t} °C</text>)}
-      <text x={330} y={322} textAnchor="middle" fontSize="10" className="muted-fill">In the field you rarely have a core thermometer: classify by mental status and shivering, and treat the worst case you cannot rule out.</text>
+      <text x={330} y={340} textAnchor="middle" fontSize="10" className="muted-fill">In the field you rarely have a core thermometer: classify by mental status and shivering, and treat the worst case you cannot rule out.</text>
     </svg>
   )
 }
@@ -266,7 +266,7 @@ export function HypothermiaWrap() {
     { t: 'Heat packs / warm bottles on chest, armpits, back — not on bare skin', c: BAD },
   ]
   return (
-    <svg className="diagram" viewBox="0 0 660 260" role="img" aria-label="Hypothermia wrap from outside in: waterproof outer, insulation including underneath, vapour barrier, heat sources on the trunk">
+    <svg className="diagram" viewBox="0 0 740 260" role="img" aria-label="Hypothermia wrap from outside in: waterproof outer, insulation including underneath, vapour barrier, heat sources on the trunk">
       {layers.map((l, i) => (
         <g key={l.t}>
           <rect x={30 + i * 18} y={40 + i * 18} width={300 - i * 36} height={140 - i * 36} rx={60 - i * 10} fill={l.c} opacity={0.15 + i * 0.1} stroke={l.c} />
@@ -497,8 +497,8 @@ export function EnergyBudget() {
       {rows.map((r, i) => (
         <g key={r.t}>
           <text x={220} y={44 + i * 44} textAnchor="end" fontSize="12">{r.t}</text>
-          <rect x={230} y={28 + i * 44} width={(r.k / 6500) * 380} height={24} rx={5} fill={[OK, INFO, A2, BAD][i]} opacity="0.85" />
-          <text x={236 + (r.k / 6500) * 380} y={45 + i * 44} fontSize="11.5" fontWeight="700">≈ {r.k.toLocaleString('en-US')} kcal</text>
+          <rect x={230} y={28 + i * 44} width={(r.k / 6500) * 320} height={24} rx={5} fill={[OK, INFO, A2, BAD][i]} opacity="0.85" />
+          <text x={236 + (r.k / 6500) * 320} y={45 + i * 44} fontSize="11.5" fontWeight="700">≈ {r.k.toLocaleString('en-US')} kcal</text>
         </g>
       ))}
       <text x={320} y={216} textAnchor="middle" fontSize="10" className="muted-fill">Approximate values for a 70 kg adult. Cold adds cost through heavy clothing, snow travel and shivering.</text>

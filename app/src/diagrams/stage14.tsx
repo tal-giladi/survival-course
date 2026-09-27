@@ -54,7 +54,7 @@ export function MirrorAim() {
       <text x="20" y="236" fontSize="13" fontWeight="700">V-finger method</text>
       <text x="20" y="256" fontSize="11">1 · Extend one arm; frame the target in a V between two fingers.</text>
       <text x="20" y="272" fontSize="11">2 · Hold the mirror under your eye; tilt until the sun spot lands on the V.</text>
-      <text x="20" y="288" fontSize="11">3 · Rock the mirror slightly so the spot flicks on and off the fingers — the target gets repeated flashes.</text>
+      <text x="20" y="288" fontSize="11">3 · Rock the mirror slightly so the spot flicks across the target.</text>
       <text x="470" y="236" fontSize="13" fontWeight="700">Sighting mirror</text>
       <text x="470" y="256" fontSize="11">Look through the hole at the target;</text>
       <text x="470" y="272" fontSize="11">move the mirror until the aim spot</text>
@@ -74,7 +74,7 @@ function Puff({ x, y, fill }: { x: number; y: number; fill: string }) {
 
 export function SmokeContrast() {
   return (
-    <svg className="diagram" viewBox="0 0 700 250" role="img" aria-label="Smoke must contrast with its background: pale smoke from green or damp fuel shows against dark forest; dark smoke from rubber or oil shows against snow or a pale sky. Wind flattens a smoke column so it hugs the ground; smoke signals work best in calm air in the morning.">
+    <svg className="diagram" viewBox="0 0 700 258" role="img" aria-label="Smoke must contrast with its background: pale smoke from green or damp fuel shows against dark forest; dark smoke from rubber or oil shows against snow or a pale sky. Wind flattens a smoke column so it hugs the ground; smoke signals work best in calm air in the morning.">
       <rect x="10" y="20" width="210" height="190" rx="10" fill={GROUND} opacity="0.7" />
       <Puff x={100} y={170} fill="var(--panel)" />
       <text x="115" y="232" textAnchor="middle" fontSize="12" fontWeight="700">Pale smoke vs dark forest ✓</text>
@@ -190,10 +190,10 @@ export function CospasSarsat() {
       <Box x={590} y={228} w={100} h={44} title="RCC" sub="rescue coordination" fill={OK} />
       <line x1="460" y1="250" x2="473" y2="250" stroke={TXT} markerEnd="url(#cs-b)" />
       <line x1="575" y1="250" x2="588" y2="250" stroke={TXT} markerEnd="url(#cs-b)" />
-      <text x="640" y="200" textAnchor="middle" fontSize="11">registration → calls</text>
-      <text x="640" y="214" textAnchor="middle" fontSize="11">your contacts; tasks SAR</text>
+      <text x="628" y="200" textAnchor="middle" fontSize="11">registration → calls</text>
+      <text x="628" y="214" textAnchor="middle" fontSize="11">your contacts; tasks SAR</text>
       <path d="M95 262 q40 -30 80 0" stroke={INFO} strokeWidth="2" fill="none" strokeDasharray="4 3" />
-      <text x="190" y="270" fontSize="11">121.5 MHz homing signal for the final approach</text>
+      <text x="110" y="294" fontSize="11">121.5 MHz homing signal for the final approach</text>
     </svg>
   )
 }
@@ -208,7 +208,7 @@ export function RadioHorizon() {
       <line x1="420" y1="208" x2="120" y2="160" stroke={BAD} strokeDasharray="5 4" />
       <text x="275" y="170" fontSize="10.5" fill={BAD} style={{ fill: 'var(--bad)' }}>blocked</text>
       <circle cx="260" cy="84" r="7" fill={OK} />
-      <text x="260" y="70" textAnchor="middle" fontSize="11" fontWeight="700">ridge top</text>
+      <text x="245" y="80" textAnchor="end" fontSize="11" fontWeight="700">ridge top</text>
       <line x1="260" y1="84" x2="660" y2="160" stroke={OK} strokeWidth="2" />
       <line x1="260" y1="84" x2="20" y2="170" stroke={OK} strokeWidth="2" />
       <rect x="640" y="130" width="12" height="30" fill={INFO} />

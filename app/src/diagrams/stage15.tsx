@@ -50,7 +50,7 @@ export function ThreatCircuit() {
       <text x={566} y={176} fontSize="10" fill={BAD}>weakens PFC</text>
       <text x={255} y={120} textAnchor="middle" fontSize="11" fill={BAD} fontWeight="700">fast route · before you know it</text>
       <text x={255} y={210} textAnchor="middle" fontSize="11" fill={INFO} fontWeight="700">slow route · deliberate, slower</text>
-      <text x={320} y={318} textAnchor="middle" fontSize="11" className="muted-fill">Simplified: real circuits overlap. The point: the body reacts before you have thought, and strong stress favours habits over new plans.</text>
+      <text x={320} y={318} textAnchor="middle" fontSize="11" className="muted-fill">Simplified: real circuits overlap. The body reacts before you think; strong stress favours habits.</text>
     </svg>
   )
 }

@@ -48,7 +48,7 @@ function Car({ x, y, scale = 1, hoodUp = false }: { x: number; y: number; scale?
 /** What goes in a vehicle kit, by function, with climate add-ons. */
 export function VehicleKit() {
   const groups: [string, string[]][] = [
-    ['Water & food', ['4+ L water per person per day of expected wait', 'non-perishable snacks']],
+    ['Water & food', ['4+ L water / person / day of wait', 'non-perishable snacks']],
     ['Warmth & shelter', ['blankets / sleeping bag', 'hat, gloves, spare dry layers', 'tarp or sheet + cord (shade)']],
     ['Be seen & call', ['charged phone + cable + power bank', 'PLB / satellite messenger (remote)', 'torch, whistle, signal mirror', 'hi-vis vest, warning triangle']],
     ['Car & recovery', ['jumper cables / jump pack', 'spare tyre, jack, tyre inflator', 'shovel; traction boards (sand/snow)', 'tow strap, fuel and coolant checked']],
@@ -124,7 +124,8 @@ export function HotCar() {
         <path d="M432,120 L612,120" stroke={A2} strokeWidth="2" strokeDasharray="4 3" />
         <rect x={400} y={194} width={230} height={10} fill={GROUND} opacity="0.7" />
         <text x={520} y={100} textAnchor="middle" fontSize="11" fontWeight="700" fill={OK}>Wait in raised double shade, not inside</text>
-        <text x={520} y={244} textAnchor="middle" fontSize="10" className="muted-fill">Doors open for airflow; sit on a seat or cushion, off the hot ground</text>
+        <text x={520} y={226} textAnchor="middle" fontSize="10" className="muted-fill">Doors open for airflow; sit on a seat</text>
+        <text x={520} y={240} textAnchor="middle" fontSize="10" className="muted-fill">or cushion, off the hot ground</text>
       </g>
     </svg>
   )
@@ -146,12 +147,14 @@ export function StayOrWalk() {
       <text x={185} y={150} fontSize="10" className="muted-fill">yes</text>
       <line x1={410} y1={136} x2={500} y2={172} stroke={MUTED} markerEnd="url(#sw-a)" />
       <text x={470} y={150} fontSize="10" className="muted-fill">no</text>
-      <Box x={20} y={174} w={260} h={96} title="STAY with the vehicle" sub="" fill={P2} stroke={OK} />
+      <rect x={20} y={174} width={260} height={96} rx="8" fill={P2} stroke={OK} strokeWidth="2" />
+      <text x={150} y={194} textAnchor="middle" fontSize="12" fontWeight="700" fill={TXT}>STAY with the vehicle</text>
       <text x={34} y={214} fontSize="10.5" fill={TXT}>• shelter, supplies and the biggest signal</text>
       <text x={34} y={230} fontSize="10.5" fill={TXT}>• searchers follow your route</text>
       <text x={34} y={246} fontSize="10.5" fill={TXT}>• rest in the heat, insulate in the cold</text>
       <text x={34} y={262} fontSize="10.5" fill={TXT}>• signals ready; engine only if exhaust clear</text>
-      <Box x={330} y={174} w={310} h={96} title="Walking is worth considering only if ALL:" sub="" fill={P2} stroke={A2} />
+      <rect x={330} y={174} width={310} height={96} rx="8" fill={P2} stroke={A2} strokeWidth="2" />
+      <text x={485} y={194} textAnchor="middle" fontSize="12" fontWeight="700" fill={TXT}>Walking is worth considering only if ALL:</text>
       <text x={344} y={214} fontSize="10.5" fill={TXT}>• help is close, certain and on a known route</text>
       <text x={344} y={230} fontSize="10.5" fill={TXT}>• you can travel in the cool / after the storm</text>
       <text x={344} y={246} fontSize="10.5" fill={TXT}>• water, clothing and fitness for the whole way</text>
@@ -207,7 +210,7 @@ export function FuelBudget() {
     <svg className="diagram" viewBox="0 0 640 210" role="img" aria-label="Fuel budget for 25 litres: continuous idling at about 1 litre per hour lasts about 25 hours; running 10 minutes each hour at about 0.2 litres per hour lasts about 125 hours">
       <text x={20} y={24} fontSize="14" fontWeight="700" fill={TXT}>How long does 25 L (half a tank) keep you warm?</text>
       {rows.map(([label, h, color], i) => {
-        const w = (h / max) * 420
+        const w = (h / max) * 380
         const y = 50 + i * 60
         return (
           <g key={label}>
@@ -270,9 +273,9 @@ export function RoadsideBreakdown() {
       <text x={310} y={176} textAnchor="middle" fontSize="10" fill={BAD}>warning triangle</text>
       <line x1={330} y1={200} x2={466} y2={200} stroke={MUTED} markerEnd="url(#rb-a)" markerStart="url(#rb-a)" />
       <text x={400} y={216} textAnchor="middle" fontSize="9.5" className="muted-fill">distance set by local law; farther on fast roads</text>
-      <circle cx="420" cy="244" r="7" fill={OK} />
-      <text x={434} y={248} fontSize="10.5" fontWeight="700" fill={OK}>wait here: behind the barrier, upstream of the car</text>
-      <text x={20} y={24} fontSize="12" fontWeight="700" fill={TXT}>Hazards on · hi-vis on before you get out · exit away from traffic · never stand between cars or in front of your car</text>
+      <circle cx="330" cy="244" r="7" fill={OK} />
+      <text x={344} y={248} fontSize="10.5" fontWeight="700" fill={OK}>wait here: behind the barrier, upstream of the car</text>
+      <text x={20} y={24} fontSize="11" fontWeight="700" fill={TXT}>Hazards on · hi-vis on before you get out · exit away from traffic · never stand between cars or in front of your car</text>
       <text x={20} y={42} fontSize="11" className="muted-fill">If you cannot get off a fast road safely: stay belted in with hazards on and call for help.</text>
     </svg>
   )
@@ -288,18 +291,19 @@ export function VehicleSignals() {
       <path d="M200,80 l24,6 l-24,8 z" fill={A2} />
       <text x={230} y={80} fontSize="10.5" fill={A2}>bright cloth</text>
       <text x={120} y={110} fontSize="10.5" textAnchor="middle" fill={TXT}>hood up = “need help”</text>
-      <g transform="translate(330,200)">
+      <g transform="translate(330,176)">
         <path d="M0,0 L40,60 L80,0" fill="none" stroke={A} strokeWidth="8" strokeLinecap="round" />
         <text x={40} y={82} textAnchor="middle" fontSize="10.5" fill={TXT}>V = “require assistance”</text>
       </g>
-      <text x={490} y={210} fontSize="10.5" fill={TXT}>Ground signals: large (several m),</text>
-      <text x={490} y={226} fontSize="10.5" fill={TXT}>contrasting, on open ground,</text>
-      <text x={490} y={242} fontSize="10.5" fill={TXT}>straight lines — nature rarely makes them</text>
+      <text x={470} y={210} fontSize="10.5" fill={TXT}>Ground signals: large (several m),</text>
+      <text x={470} y={226} fontSize="10.5" fill={TXT}>contrasting, on open ground,</text>
+      <text x={470} y={242} fontSize="10.5" fill={TXT}>straight lines — rare in nature</text>
       <circle cx="560" cy="60" r="10" fill={A2} />
       <path d="M260,160 L548,66" stroke={A2} strokeWidth="1.5" strokeDasharray="6 4" />
       <text x={440} y={96} fontSize="10.5" fill={A2}>mirror flash — visible for kilometres in sun</text>
       <path d="M520,52 l40,-8 l6,10 l-40,8 z" fill={MUTED} />
-      <text x={20} y={24} fontSize="12" fontWeight="700" fill={TXT}>By day: hood up, cloth, ground signal, mirror · By night: lights and whistle in threes · Always: PLB / satellite SOS if you carry one</text>
+      <text x={20} y={24} fontSize="12" fontWeight="700" fill={TXT}>By day: hood up, cloth, ground signal, mirror · By night: lights and whistle in threes</text>
+      <text x={20} y={42} fontSize="12" fontWeight="700" fill={TXT}>Always: PLB / satellite SOS if you carry one</text>
       <text x={20} y={272} fontSize="10" className="muted-fill">Signals only work when someone is looking — which is why the trip plan comes first.</text>
     </svg>
   )

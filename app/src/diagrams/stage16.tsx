@@ -66,7 +66,7 @@ export function WaterFoodStack() {
     <svg className="diagram" viewBox="0 0 640 300" role="img" aria-label="Water for a family of four at 4 litres per person per day: 48 litres for 3 days, 112 litres for 7 days, 224 litres for 14 days; food at about 7,000 kcal per day">
       <text x={20} y={24} fontSize="14" fontWeight="700">Family of 4 · 4 L per person per day (≈ 1 US gal)</text>
       {days.map((d, i) => {
-        const w = (litres[i] / maxL) * 400
+        const w = (litres[i] / maxL) * 340
         const y = 50 + i * 60
         return (
           <g key={d}>

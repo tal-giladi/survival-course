@@ -85,7 +85,7 @@ export function TaskValue() {
     ['Rest / nap', 0, 'repays sleep debt, saves water', true],
   ]
   return (
-    <svg className="diagram" viewBox="0 0 640 330" role="img" aria-label="Energy cost of a half-day work block versus what it returns. Water, firewood and shelter cost about 350 kcal and return essentials; signals and repair cost about 150 kcal; food-getting costs about 350 kcal and returns 0 to 250 kcal on average, so it usually loses energy in a short wait; rest costs nothing.">
+    <svg className="diagram" viewBox="0 0 740 330" role="img" aria-label="Energy cost of a half-day work block versus what it returns. Water, firewood and shelter cost about 350 kcal and return essentials; signals and repair cost about 150 kcal; food-getting costs about 350 kcal and returns 0 to 250 kcal on average, so it usually loses energy in a short wait; rest costs nothing.">
       <text x={20} y={24} fontSize="14" fontWeight="700">What a work block costs — and what it buys (illustrative)</text>
       <text x={20} y={44} fontSize="11" className="muted-fill">Cost in extra kcal above camp life, for about 2–3 hours of work</text>
       {tasks.map(([name, cost, ret, worth], i) => {
@@ -228,7 +228,7 @@ export function MaintenanceRound() {
 /** Sleep and morale feedback loops. */
 export function MoraleLoops() {
   const vicious: [string, number, number][] = [['Poor sleep', 90, 70], ['Irritable, slow', 210, 140], ['Mistakes, extra work', 90, 210], ['Cold, hungry, late to bed', -30, 140]]
-  const virtuous: [string, number, number][] = [['Routine + small goals', 480, 70], ['Visible progress', 600, 140], ['Morale, energy to work', 480, 210], ['Warm bed, early night', 360, 140]]
+  const virtuous: [string, number, number][] = [['Routine + small goals', 520, 70], ['Visible progress', 640, 140], ['Morale, energy to work', 520, 210], ['Warm bed, early night', 400, 140]]
   const loop = (nodes: [string, number, number][], color: string, id: string) => (
     <g>
       {nodes.map(([t, x, y], i) => {
@@ -239,18 +239,18 @@ export function MoraleLoops() {
           </g>
         )
       })}
-      {nodes.map(([t, x, y]) => <Box key={t} x={x} y={y} w={120} h={36} title={t} />)}
+      {nodes.map(([t, x, y]) => <Box key={t} x={x - 25} y={y} w={170} h={36} title={t} />)}
     </g>
   )
   return (
-    <svg className="diagram" viewBox="0 0 780 300" role="img" aria-label="Two feedback loops. Vicious loop: poor sleep leads to irritability and slow thinking, which causes mistakes and extra work, which leaves you cold, hungry and late to bed, which means poor sleep again. Virtuous loop: routine and small goals give visible progress, which lifts morale and energy to work, which gets you a warm bed and an early night, which supports the routine.">
+    <svg className="diagram" viewBox="0 0 850 300" role="img" aria-label="Two feedback loops. Vicious loop: poor sleep leads to irritability and slow thinking, which causes mistakes and extra work, which leaves you cold, hungry and late to bed, which means poor sleep again. Virtuous loop: routine and small goals give visible progress, which lifts morale and energy to work, which gets you a warm bed and an early night, which supports the routine.">
       <defs><Arrow id="ml-bad" color={BAD} /><Arrow id="ml-ok" color={OK} /></defs>
-      <g transform="translate(40,0)">
+      <g transform="translate(60,0)">
         {loop(vicious, BAD, 'ml-bad')}
         {loop(virtuous, OK, 'ml-ok')}
       </g>
-      <text x={190} y={40} fontSize="13" fontWeight="700" textAnchor="middle" style={{ fill: BAD }}>Downward spiral</text>
-      <text x={580} y={40} fontSize="13" fontWeight="700" textAnchor="middle" style={{ fill: OK }}>Upward spiral</text>
+      <text x={210} y={40} fontSize="13" fontWeight="700" textAnchor="middle" style={{ fill: BAD }}>Downward spiral</text>
+      <text x={640} y={40} fontSize="13" fontWeight="700" textAnchor="middle" style={{ fill: OK }}>Upward spiral</text>
       <text x={20} y={285} fontSize="11" className="muted-fill">Both loops feed themselves. The cheapest place to break the bad one is usually the evening: eat, prepare the bed, plan tomorrow, sleep.</text>
     </svg>
   )

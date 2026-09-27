@@ -327,7 +327,7 @@ export function MASystems() {
       <text x={20} y={190} fontSize="10" className="muted-fill">load gets 2F · 2 m pulled = 1 m moved</text>
 
       {/* 3:1 */}
-      <text x={20} y={222} fontSize="12" fontWeight="700">3:1 “Z” — anchor pulley A + travelling pulley B on the load line</text>
+      <text x={20} y={214} fontSize="12" fontWeight="700">3:1 “Z” — anchor pulley A + travelling pulley B on the load line</text>
       <rect x={82} y={238} width={12} height={32} fill={TXT} />
       <circle cx={110} cy={240 + R} r={R} fill={P2} stroke={TXT} strokeWidth="2" /><text x={110} y={244 + R} textAnchor="middle" fontSize="10" fontWeight="700">A</text>
       <line x1={110} y1={240} x2={560} y2={240} stroke={A} strokeWidth="3" />

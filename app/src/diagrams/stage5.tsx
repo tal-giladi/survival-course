@@ -82,7 +82,7 @@ export function BedRValues() {
     { t: '20 cm conifer boughs (→ 7 cm)', r: 1.17, note: 'k ≈ 0.06' },
     { t: '30 cm settled snow', r: 2.5, note: 'k ≈ 0.12 — but it is at ≤ 0 °C' },
   ]
-  const max = 2.6
+  const max = 3.6
   return (
     <svg className="diagram" viewBox="0 0 720 330" role="img" aria-label="Bar chart of thermal resistance of common ground insulation layers">
       <text x="10" y="20" fontSize="14" fontWeight="700">Thermal resistance R = d / k of what you lie on (m²·K/W)</text>
@@ -153,7 +153,7 @@ export function SiteHazards() {
       <text x="120" y="150" fontSize="12" fontWeight="700" style={{ fill: 'var(--bad)' }}>rockfall runout: fresh chips, no lichen</text>
       <path d="M430,262 Q470,272 520,264" fill="none" stroke={INFO} strokeWidth="6" />
       <path d="M380,248 L600,248" stroke={INFO} strokeDasharray="5 4" />
-      <text x="400" y="284" fontSize="11" fontWeight="700" style={{ fill: 'var(--info)' }}>high-water line: debris in branches, silt</text>
+      <text x="460" y="284" fontSize="11" fontWeight="700" style={{ fill: 'var(--info)' }}>high-water line: debris in branches, silt</text>
       <line x1="660" y1="215" x2="666" y2="120" stroke={TXT} strokeWidth="5" />
       <line x1="664" y1="150" x2="690" y2="130" stroke={TXT} strokeWidth="3" />
       <text x="712" y="110" fontSize="12" fontWeight="700" textAnchor="end" style={{ fill: 'var(--bad)' }}>widowmaker: dead tree/limbs</text>

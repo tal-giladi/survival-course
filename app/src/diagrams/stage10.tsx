@@ -58,7 +58,7 @@ export function MethodCycle() {
       <text x={cx} y={cy + 12} textAnchor="middle" fontSize="15" fontWeight="800">over form</text>
       <path d={`M ${cx - 62} ${cy + 12} Q ${cx} ${cy + 60} ${cx + 62} ${cy + 12}`} fill="none" stroke={BAD} strokeWidth="1.8" strokeDasharray="5 4" markerEnd="url(#mc-b)" />
       <text x={cx} y={cy + 58} textAnchor="middle" fontSize="10" style={{ fill: BAD }}>test fails → try the next candidate</text>
-      <text x={20} y={340} fontSize="11" className="muted-fill">Arrows run clockwise. Most failures come from skipping step 1 (solving the wrong problem) or step 5 (trusting an untested build).</text>
+      <text x={20} y={340} fontSize="11" className="muted-fill">Arrows run clockwise. Most failures: skipping step 1 (wrong problem) or step 5 (untested build).</text>
     </svg>
   )
 }
@@ -152,7 +152,7 @@ export function TripodForces() {
       <text x={130} y={86} fontSize="12">θ</text>
       <line x1={230} y1={250} x2={270} y2={250} stroke={BAD} strokeWidth="2.5" markerEnd="url(#tf-a)" />
       <text x={236} y={272} fontSize="11" style={{ fill: BAD }}>foot thrust</text>
-      <text x={40} y={290} fontSize="11" className="muted-fill">Tie or stake the feet (or dig them in) when the legs splay wide.</text>
+      <text x={40} y={290} fontSize="11" className="muted-fill">Stake or dig in the feet when legs splay wide.</text>
       <text x={320} y={40} fontSize="13" fontWeight="700">20 kg load (W ≈ 196 N)</text>
       <text x={320} y={62} fontSize="12">Leg force = W / (3 cos θ) · Foot thrust = W tan θ / 3</text>
       <text x={330} y={92} fontSize="11" fontWeight="700">θ</text>
