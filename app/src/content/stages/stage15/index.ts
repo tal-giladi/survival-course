@@ -1,3 +1,69 @@
 import type { StageContent } from '../../types'
+import { l01 } from './l01-fear'
+import { l02 } from './l02-bias'
+import { l03 } from './l03-isolation-fatigue'
+import { l04 } from './l04-leadership'
+import { stage15Review } from './review'
 
-export const stage15: StageContent = { n: 15, lessons: [], review: [] }
+export const stage15: StageContent = {
+  n: 15,
+  lessons: [l01, l02, l03, l04],
+  review: stage15Review,
+  concepts: {
+    'fear-response': 'Fear and threat-response neurobiology',
+    'defence-cascade': 'Defence cascade (freeze, flight, fight, immobility)',
+    panic: 'Panic — and the mass-panic myth',
+    'plan-continuation': 'Plan-continuation bias',
+    'sunk-cost': 'Sunk-cost trap',
+    'normalization-of-deviance': 'Normalization of deviance',
+    'tunnel-vision': 'Tunnel vision and attentional narrowing',
+    'risk-perception': 'Risk perception',
+    debiasing: 'Debiasing: pre-commitments, checklists and pre-mortems',
+    'isolation-uncertainty': 'Isolation and uncertainty',
+    'decision-fatigue': 'Decision fatigue and the ego-depletion debate',
+    'emotion-regulation': 'Emotion regulation',
+    'give-up-itis': 'Giving up (“give-up-itis”)',
+    'emergency-leadership': 'Leadership in emergencies',
+    'group-roles': 'Roles in a survival group',
+    'group-conflict': 'Conflict in groups',
+    'group-morale': 'Group morale',
+    groupthink: 'Groupthink',
+    'psychological-first-aid': 'Psychological first aid',
+    'after-action-review': 'After-action reviews',
+  },
+  skills: [
+    { id: 'psy-after-action-review', name: 'Pre-mortem and after-action review', stage: 15, physical: false, safety: 'home', description: 'Run a structured pre-mortem before a trip and a blame-free after-action review afterwards (planned, happened, why, next time), and log near-misses as if they were accidents.' },
+  ],
+  references: [
+    { id: 'kahneman-tfs', kind: 'book', title: 'Thinking, Fast and Slow', author: 'Daniel Kahneman', year: '2011', subjects: ['psychology'], note: 'Accessible synthesis of research on heuristics and biases. “System 1 / System 2” are the author’s own metaphors, not brain regions; some priming studies it cites have not replicated.' },
+    { id: 'tversky-kahneman-1974', kind: 'paper', title: 'Judgment under Uncertainty: Heuristics and Biases', author: 'Tversky A, Kahneman D', year: '1974', url: 'https://doi.org/10.1126/science.185.4157.1124', subjects: ['psychology'], note: 'Science 185(4157):1124–1131. Availability, representativeness, anchoring.' },
+    { id: 'kahneman-klein-2009', kind: 'paper', title: 'Conditions for intuitive expertise: a failure to disagree', author: 'Kahneman D, Klein G', year: '2009', subjects: ['psychology'], note: 'American Psychologist 64(6):515–526. Intuition is trustworthy only in environments with regular patterns and fast, clear feedback.' },
+    { id: 'klein-sources-of-power', kind: 'book', title: 'Sources of Power: How People Make Decisions', author: 'Gary Klein', year: '1998', subjects: ['psychology'], note: 'Naturalistic decision making and recognition-primed decisions by firefighters, nurses and commanders.' },
+    { id: 'klein-premortem-2007', kind: 'paper', title: 'Performing a project premortem', author: 'Gary Klein', year: '2007', subjects: ['psychology'], note: 'Harvard Business Review 85(9). Imagine the plan has failed, then list why.' },
+    { id: 'orasanu-2001', kind: 'paper', title: 'Cognitive and contextual factors in aviation accidents: decision errors', author: 'Orasanu J, Martin L, Davison J', year: '2001', subjects: ['psychology'], note: 'In Salas E, Klein G (eds.), Linking Expertise and Naturalistic Decision Making. Describes “plan continuation errors”: continuing with the original plan despite cues that it should change.' },
+    { id: 'arkes-blumer-1985', kind: 'paper', title: 'The psychology of sunk cost', author: 'Arkes HR, Blumer C', year: '1985', subjects: ['psychology'], note: 'Organizational Behavior and Human Decision Processes 35(1):124–140. Includes the theatre season-ticket field experiment.' },
+    { id: 'vaughan-challenger', kind: 'book', title: 'The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA', author: 'Diane Vaughan', year: '1996', subjects: ['psychology'], note: 'Origin of the term “normalization of deviance”.' },
+    { id: 'rasmussen-1997', kind: 'paper', title: 'Risk management in a dynamic society: a modelling problem', author: 'Rasmussen J', year: '1997', subjects: ['psychology', 'hazards'], note: 'Safety Science 27(2–3):183–213. Systems drift towards the boundary of safe performance under pressure for efficiency and least effort.' },
+    { id: 'easterbrook-1959', kind: 'paper', title: 'The effect of emotion on cue utilization and the organization of behavior', author: 'Easterbrook JA', year: '1959', subjects: ['psychology'], note: 'Psychological Review 66(3):183–201. Rising arousal narrows the range of cues a person uses.' },
+    { id: 'slovic-1987', kind: 'paper', title: 'Perception of risk', author: 'Slovic P', year: '1987', subjects: ['psychology', 'hazards'], note: 'Science 236(4799):280–285. “Dread” and “unknown” risks feel larger than familiar, voluntary ones.' },
+    { id: 'janis-groupthink', kind: 'book', title: 'Groupthink: Psychological Studies of Policy Decisions and Fiascoes', author: 'Irving L. Janis', year: '2nd ed., 1982', subjects: ['psychology'], note: 'Built from historical case studies; later experimental support for the full model is mixed.' },
+    { id: 'nemeth-2001', kind: 'paper', title: 'Devil’s advocate versus authentic dissent: stimulating quantity and quality', author: 'Nemeth C, Brown K, Rogers J', year: '2001', subjects: ['psychology'], note: 'European Journal of Social Psychology 31(6):707–720. Genuine dissent stimulated better thinking than a role-played devil’s advocate.' },
+    { id: 'helmreich-crm-1999', kind: 'paper', title: 'The evolution of Crew Resource Management training in commercial aviation', author: 'Helmreich RL, Merritt AC, Wilhelm JA', year: '1999', subjects: ['psychology'], note: 'International Journal of Aviation Psychology 9(1):19–32.' },
+    { id: 'weick-1993', kind: 'paper', title: 'The collapse of sensemaking in organizations: the Mann Gulch disaster', author: 'Weick KE', year: '1993', subjects: ['psychology', 'fire'], note: 'Administrative Science Quarterly 38(4):628–652.' },
+    { id: 'tuckman-1965', kind: 'paper', title: 'Developmental sequence in small groups', author: 'Tuckman BW', year: '1965', subjects: ['psychology'], note: 'Psychological Bulletin 63(6):384–399. Forming, storming, norming, performing — a descriptive model.' },
+    { id: 'arnsten-2009', kind: 'paper', title: 'Stress signalling pathways that impair prefrontal cortex structure and function', author: 'Arnsten AFT', year: '2009', subjects: ['psychology', 'physiology'], note: 'Nature Reviews Neuroscience 10:410–422.' },
+    { id: 'roelofs-2017', kind: 'paper', title: 'Freeze for action: neurobiological mechanisms in animal and human freezing', author: 'Roelofs K', year: '2017', subjects: ['psychology', 'physiology'], note: 'Philosophical Transactions of the Royal Society B 372:20160206.' },
+    { id: 'kozlowska-2015', kind: 'paper', title: 'Fear and the defense cascade: clinical implications and management', author: 'Kozlowska K, Walker P, McLean L, Carrive P', year: '2015', subjects: ['psychology', 'physiology'], note: 'Harvard Review of Psychiatry 23(4):263–287.' },
+    { id: 'clarke-panic-2002', kind: 'paper', title: 'Panic: myth or reality?', author: 'Lee Clarke', year: '2002', subjects: ['psychology'], note: 'Contexts 1(3):21–26. Disaster research finds mass panic rare.' },
+    { id: 'drury-2009', kind: 'paper', title: 'Everyone for themselves? A comparative study of crowd solidarity among emergency survivors', author: 'Drury J, Cocking C, Reicher S', year: '2009', subjects: ['psychology'], note: 'British Journal of Social Psychology 48(3):487–506.' },
+    { id: 'leach-giveupitis-2018', kind: 'paper', title: '“Give-up-itis” revisited: neuropathology of extremis', author: 'Leach J', year: '2018', subjects: ['psychology'], note: 'Medical Hypotheses 120:14–21. A hypothesis paper built on case reports, proposing five stages from withdrawal to psychogenic death.' },
+    { id: 'hagger-2016', kind: 'paper', title: 'A multilab preregistered replication of the ego-depletion effect', author: 'Hagger MS, Chatzisarantis NLD, et al.', year: '2016', subjects: ['psychology'], note: 'Perspectives on Psychological Science 11(4):546–573. Found an effect close to zero.' },
+    { id: 'van-dongen-2003', kind: 'paper', title: 'The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation', author: 'Van Dongen HPA, Maislin G, Mullington JM, Dinges DF', year: '2003', subjects: ['psychology', 'physiology'], note: 'Sleep 26(2):117–126. Deficits accumulate night after night while self-rated sleepiness levels off.' },
+    { id: 'gross-2015', kind: 'paper', title: 'Emotion regulation: current status and future prospects', author: 'Gross JJ', year: '2015', subjects: ['psychology'], note: 'Psychological Inquiry 26(1):1–26. The process model of emotion regulation.' },
+    { id: 'lieberman-2007', kind: 'paper', title: 'Putting feelings into words: affect labeling disrupts amygdala activity in response to affective stimuli', author: 'Lieberman MD, Eisenberger NI, Crockett MJ, Tom SM, Pfeifer JH, Way BM', year: '2007', subjects: ['psychology'], note: 'Psychological Science 18(5):421–428.' },
+    { id: 'grupe-nitschke-2013', kind: 'paper', title: 'Uncertainty and anticipation in anxiety: an integrated neurobiological and psychological perspective', author: 'Grupe DW, Nitschke JB', year: '2013', subjects: ['psychology'], note: 'Nature Reviews Neuroscience 14:488–501.' },
+    { id: 'palinkas-suedfeld-2008', kind: 'paper', title: 'Psychological effects of polar expeditions', author: 'Palinkas LA, Suedfeld P', year: '2008', subjects: ['psychology', 'long-duration'], note: 'The Lancet 371(9607):153–163.' },
+    { id: 'hobfoll-2007', kind: 'paper', title: 'Five essential elements of immediate and mid-term mass trauma intervention: empirical evidence', author: 'Hobfoll SE, Watson P, Bell CC, et al.', year: '2007', subjects: ['psychology'], note: 'Psychiatry 70(4):283–315. Safety, calming, self- and community efficacy, connectedness, hope.' },
+    { id: 'who-pfa-2011', kind: 'guideline', title: 'Psychological First Aid: Guide for Field Workers', org: 'World Health Organization, War Trauma Foundation and World Vision International', year: '2011', subjects: ['psychology', 'first-aid'], note: 'Look, listen, link. PFA does not involve pressing people to recount the event. Free from who.int.' },
+  ],
+}
