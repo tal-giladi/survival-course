@@ -294,6 +294,6 @@ If rescue is expected in $d$ days but could slip, plan resources for about $1.5\
     'Re-ask **stay or move** each morning, with food and facts — not at 02:00.',
     'Plan reserves for **1.5–2×** the expected wait.',
   ],
-  furtherReading: ['leach-survival-psych', 's18-leach-giveupitis-2018', 'deep-survival', 'williamson-feyer-2000'],
-  references: ['leach-survival-psych', 's18-leach-giveupitis-2018', 'deep-survival', 'williamson-feyer-2000', 'keys-starvation', 'afh-10-644', 'army-atp-3-50-21', 'nols-leadership', 'usariem-cold', 'lnt-principles', 'usfs-fire'],
+  furtherReading: ['leach-survival-psych', 'leach-giveupitis-2018', 'deep-survival', 'williamson-feyer-2000'],
+  references: ['leach-survival-psych', 'leach-giveupitis-2018', 'deep-survival', 'williamson-feyer-2000', 'keys-starvation', 'afh-10-644', 'army-atp-3-50-21', 'nols-leadership', 'usariem-cold', 'lnt-principles', 'usfs-fire'],
 }

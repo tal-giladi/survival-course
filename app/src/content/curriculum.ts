@@ -352,7 +352,7 @@ export const stages: Stage[] = [
     level: 'advanced',
     summary: 'Sustaining yourself for days: budgets for energy, water and food, camp systems, maintenance and morale.',
     requires: [3, 4, 5, 6, 8],
-    status: 'planned',
+    status: 'available',
     environments: ['forest', 'tropical', 'arctic', 'coastal'],
     simulations: ['multi-day'],
     outline: [

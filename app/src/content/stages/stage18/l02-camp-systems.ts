@@ -8,7 +8,7 @@ export const l02: Lesson = {
   level: 'advanced',
   minutes: 50,
   prerequisites: ['s10-l5'],
-  concepts: ['s18-camp-zones', 's18-faecal-oral', 's18-clean-dirty', 's18-camp-routine', 'emergency-sanitation', 'leave-no-trace', 'water-treatment', 'food-poisoning', 'carbon-monoxide', 'site-hazards'],
+  concepts: ['s18-camp-zones', 'fecal-oral-route', 's18-clean-dirty', 's18-camp-routine', 'emergency-sanitation', 'leave-no-trace', 'water-treatment', 'food-poisoning', 'carbon-monoxide', 'site-hazards'],
   objectives: [
     'Lay out a multi-day camp in **zones** — sleep, fire and kitchen, fuel, water, washing, latrine, food storage, tools, signals — using wind, drainage and distance.',
     'Explain the **faecal–oral routes** (the F-diagram) and place a barrier on each: latrine siting, water treatment, hand washing, covering and food hygiene.',
@@ -235,7 +235,7 @@ Even biodegradable soap harms aquatic life in streams and lakes. Wash **away** f
         { id: 'd', text: 'Eating too little food', why: 'Hunger does not cause infectious diarrhoea.' },
       ],
       answer: 'b',
-      concepts: ['s18-faecal-oral', 's18-clean-dirty'],
+      concepts: ['fecal-oral-route', 's18-clean-dirty'],
       explanation: 'Look along the F-diagram: fingers, surfaces and food are routes that bypass water treatment. Fix hand washing, the clean/dirty system and who handles food.',
     },
     {
@@ -253,7 +253,7 @@ Even biodegradable soap harms aquatic life in streams and lakes. Wash **away** f
       kind: 'truefalse',
       prompt: 'Alcohol hand sanitiser is an adequate replacement for soap and water after using the latrine, even when your hands are visibly dirty.',
       answer: false,
-      concepts: ['s18-faecal-oral'],
+      concepts: ['fecal-oral-route'],
       explanation: 'False. Sanitiser is a backup when soap and water are not available; it works poorly on visibly dirty or greasy hands and does not kill every germ.',
     },
     {
@@ -298,7 +298,7 @@ Even biodegradable soap harms aquatic life in streams and lakes. Wash **away** f
     ],
     best: 'b',
     debrief: 'This joins Stage 10’s field sanitation, Stage 4’s contamination routes and Stage 15’s group roles. With one case already, the F-diagram tells you where the next cases will come from: hands, shared utensils, and a latrine too close to camp and water. Rubbing hands with clean sand or wood ash and rinsing is a better-than-nothing substitute when there is no soap. Give someone the job of running the washing station — a role also helps morale.',
-    concepts: ['s18-faecal-oral', 's18-camp-zones', 'emergency-sanitation', 'fire-safety'],
+    concepts: ['fecal-oral-route', 's18-camp-zones', 'emergency-sanitation', 'fire-safety'],
   },
   summary: [
     'A multi-day camp is a **system of zones** placed by wind, drainage and distance from water.',
@@ -309,6 +309,6 @@ Even biodegradable soap harms aquatic life in streams and lakes. Wash **away** f
     'Diarrhoea: fluids and salts first; the sick person stops handling food and water; know the evacuation red flags — and take a WFA course.',
     'Camping, fire, waste and food-storage **rules** differ by place: check them.',
   ],
-  furtherReading: ['lnt-principles', 's18-who-sanitation-2018', 'who-five-keys', 's18-cdc-handwashing'],
-  references: ['lnt-principles', 's18-wagner-lanoix-1958', 's18-who-sanitation-2018', 's18-cdc-handwashing', 'who-five-keys', 'cdc-emergency-water', 'who-ors-2006', 'cdc-co', 'nps-camping', 'scottish-access-code', 'sphere-handbook', 'nols-wm-book'],
+  furtherReading: ['lnt-principles', 's18-who-sanitation-2018', 'who-five-keys', 's10-cdc-handwashing'],
+  references: ['lnt-principles', 's10-wagner-lanoix-1958', 's18-who-sanitation-2018', 's10-cdc-handwashing', 'who-five-keys', 'cdc-emergency-water', 'who-ors-2006', 'cdc-co', 'nps-camping', 'scottish-access-code', 'sphere-handbook', 'nols-wm-book'],
 }

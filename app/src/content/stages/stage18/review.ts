@@ -54,7 +54,7 @@ export const stage18Review: Question[] = [
       { id: 'd', text: 'Add sanitiser to the water', why: 'Hand sanitiser is not a water treatment.' },
     ],
     answer: 'b',
-    concepts: ['s18-faecal-oral', 's18-camp-zones', 'water-treatment'],
+    concepts: ['fecal-oral-route', 's18-camp-zones', 'water-treatment'],
     explanation: 'Rain carries faecal contamination downhill into water. Distance and position are the first barrier; treatment is the second.',
   },
   {
@@ -130,7 +130,7 @@ export const stage18Review: Question[] = [
       { id: 'e', text: '“In a short wait, food-getting usually costs more energy than it returns.”', why: 'Not a myth — Stage 6’s energy return.' },
     ],
     answer: ['a', 'b', 'c'],
-    concepts: ['water-budget', 's18-foot-care', 's18-faecal-oral', 's18-morale', 'energy-return'],
+    concepts: ['water-budget', 's18-foot-care', 'fecal-oral-route', 's18-morale', 'energy-return'],
     explanation: 'Three common myths; two sound principles.',
   },
 ]
