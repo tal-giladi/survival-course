@@ -125,7 +125,7 @@ export const stages: Stage[] = [
     level: 'intermediate',
     summary: 'Energy budgets, emergency food management, and safe, legal approaches to foraging, fishing, trapping and hunting concepts.',
     requires: [1, 4],
-    status: 'planned',
+    status: 'available',
     environments: ['forest', 'coastal', 'tropical', 'arctic', 'urban'],
     simulations: ['energy-budget', 'plant-id'],
     outline: [
