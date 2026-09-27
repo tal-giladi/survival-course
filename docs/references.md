@@ -28,6 +28,7 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - *ISO 9920: Estimation of thermal insulation and water vapour resistance of a clothing ensemble* — ISO _(guideline)_
 - [Build a Kit](https://www.ready.gov/kit) — Ready.gov (FEMA) _(government)_
 - [Car safety and vehicle emergency kit](https://www.ready.gov/car) — Ready.gov (FEMA) _(government)_
+- *MIL-C-5040: Cord, Fibrous, Nylon (parachute cord)* — US Department of Defense _(regulation)_. Type III (“550 cord”) has a minimum breaking strength of 550 lbf. Not a life-safety rope standard.
 
 ## Navigation
 
@@ -56,6 +57,7 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [AdventureSmart — trip planning and “if lost” guidance](https://www.adventuresmart.ca/) — Canada’s national SAR prevention program _(government)_
 - [Walking straight into circles](https://doi.org/10.1016/j.cub.2009.07.053) — Souman JL, Frissen I, Sreenivasa MN, Ernst MO, 2009 _(paper)_. Current Biology 19(18):1538–1542. GPS-tracked walkers without sun or landmarks repeatedly walked in circles.
 - [Groundwater: What Is Groundwater?](https://www.usgs.gov/special-topics/water-science-school/science/groundwater-what-groundwater) — US Geological Survey, Water Science School _(government)_
+- *Death Valley National Park: Safety (desert heat, travel and GPS warnings)* — US National Park Service _(government)_. Warns that GPS navigation can direct drivers onto closed or impassable roads; advises carrying ample water and staying with a disabled vehicle. Find it on nps.gov/deva.
 
 ## Fire
 
@@ -81,6 +83,7 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [IOL Bushcraft Competency Certificate (includes a bow-drill unit)](https://www.outdoor-learning.org/standards/iol-awards-and-accreditation/bushcraft/bushcraft-competency-certificate.html) — Institute for Outdoor Learning (UK) _(training)_
 - [Simple technologies for charcoal making (FAO Forestry Paper 41)](https://www.fao.org/4/x5328e/x5328e00.htm) — Food and Agriculture Organization of the United Nations, 1987 _(guideline)_. Carbonisation stages, kiln types and yields.
 - *Incident Response Pocket Guide (PMS 461)* — National Wildfire Coordinating Group _(guideline)_. LCES, watch-out situations, safety-zone guidelines (separation ≥ 4 × flame height). Available from nwcg.gov publications.
+- *The collapse of sensemaking in organizations: the Mann Gulch disaster* — Weick KE, 1993 _(paper)_. Administrative Science Quarterly 38(4):628–652.
 - [Home Fires](https://www.ready.gov/home-fires) — Ready.gov (FEMA) _(government)_. Two ways out of every room; crawl low under smoke; feel doors before opening; practise twice a year.
 - *Preparing Homes for Wildfire (Firewise USA, the home ignition zone)* — National Fire Protection Association (NFPA) _(organization)_. Immediate (0–5 ft), intermediate (5–30 ft) and extended (30–100 ft) zones. Find it on nfpa.org.
 - *Ready, Set, Go! wildland fire action program* — International Association of Fire Chiefs _(organization)_. Prepare early, stay aware, leave early.
@@ -112,7 +115,11 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - *Ultraviolet Disinfection Guidance Manual for the Final Long Term 2 Enhanced Surface Water Treatment Rule* — US Environmental Protection Agency, 2006 _(government)_. UV dose requirements (mJ/cm²) for Cryptosporidium, Giardia and viruses.
 - [WMS Clinical Practice Guidelines for the Management of Exercise-Associated Hyponatremia: 2019 Update](https://journals.sagepub.com/doi/10.1016/j.wem.2019.11.003) — Bennett BL, Hew-Butler T, Rosner MH, Myers T, Lipman GS, Wilderness Medical Society, 2020 _(guideline)_. Drink to thirst; EAH mimics heat illness.
 - *Oral Rehydration Salts: Production of the New ORS* — World Health Organization / UNICEF, 2006 _(guideline)_. WHO/FCH/CAH/06.1. Reduced-osmolarity ORS: 75 mmol/L sodium, 75 mmol/L glucose, 245 mOsm/L.
+- *Excreta Disposal for Rural Areas and Small Communities* — E. G. Wagner, J. N. Lanoix, World Health Organization, 1958 _(book)_. WHO Monograph Series No. 39. Source of the faecal–oral transmission diagram later known as the F-diagram.
+- *Risk of giardiasis from consumption of wilderness water in North America: a systematic review of epidemiologic data* — Timothy P. Welch, 2000 _(paper)_. International Journal of Infectious Diseases. Argues that hand-to-mouth transmission deserves more attention than it gets relative to untreated water.
+- *Clean Hands: handwashing and hand sanitizer guidance* — US Centers for Disease Control and Prevention _(government)_. Wet, lather, scrub at least 20 seconds, rinse, dry; sanitiser with at least 60 % alcohol when soap and water are unavailable; sanitiser works less well on visibly dirty or greasy hands and against some germs such as norovirus and Cryptosporidium. Find it on cdc.gov.
 - *The Sphere Handbook: Humanitarian Charter and Minimum Standards in Humanitarian Response* — Sphere Association, 2018 _(guideline)_. WASH chapter: average of at least 15 L of water per person per day for drinking, cooking and personal hygiene in emergencies; toilet and hand-washing standards.
+- *Guidelines on Sanitation and Health* — World Health Organization, 2018 _(guideline)_. Evidence-based recommendations on safe sanitation systems, safe handling of excreta and hand hygiene.
 
 ## Shelter
 
@@ -219,6 +226,13 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - *Essentials of Sea Survival* — Frank Golden, Michael Tipton, 2002 _(book)_. Human Kinetics. The four stages of immersion and the physiology behind sea-survival advice.
 - *TB MED 505: Altitude Acclimatization and Illness Management* — US Army _(government)_. Military doctrine on staged ascent, acclimatisation and altitude illness.
 - [Heat Forecast Tools (Heat Index)](https://www.weather.gov/safety/heat-index) — US National Weather Service _(government)_. Heat index is for shade and light wind; full sun can add up to 15 °F.
+- *Stress signalling pathways that impair prefrontal cortex structure and function* — Arnsten AFT, 2009 _(paper)_. Nature Reviews Neuroscience 10:410–422.
+- *Freeze for action: neurobiological mechanisms in animal and human freezing* — Roelofs K, 2017 _(paper)_. Philosophical Transactions of the Royal Society B 372:20160206.
+- *Fear and the defense cascade: clinical implications and management* — Kozlowska K, Walker P, McLean L, Carrive P, 2015 _(paper)_. Harvard Review of Psychiatry 23(4):263–287.
+- *The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation* — Van Dongen HPA, Maislin G, Mullington JM, Dinges DF, 2003 _(paper)_. Sleep 26(2):117–126. Deficits accumulate night after night while self-rated sleepiness levels off.
+- *Heatstroke: children in hot cars* — US National Highway Traffic Safety Administration (NHTSA) _(government)_. Never leave a child in a parked car; vehicles heat up quickly even on mild days. Find it on nhtsa.gov.
+- *Heat stress from enclosed vehicles: moderate ambient temperatures cause significant temperature rise in enclosed vehicles* — McLaren C, Null J, Quinn J, 2005 _(paper)_. Pediatrics 116(1):e109–e112. Cabin temperature rose on average about 22 °C (40 °F) within an hour, most of it in the first 30 minutes; cracking the windows made little difference.
+- *Death Valley National Park: Safety (desert heat, travel and GPS warnings)* — US National Park Service _(government)_. Warns that GPS navigation can direct drivers onto closed or impassable roads; advises carrying ample water and staying with a disabled vehicle. Find it on nps.gov/deva.
 
 ## Wilderness first aid
 
@@ -253,18 +267,38 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Guideline 9.4.8 — Envenomation: Pressure Immobilisation Technique](https://www.anzcor.org/home/first-aid/guideline-9-4-8-envenomation-pressure-immobilisation-technique) — Australian and New Zealand Committee on Resuscitation (ANZCOR) _(guideline)_. Pressure immobilisation for all Australian snakes, funnel-web spiders, blue-ringed octopus and cone shells — not for other bites and stings.
 - [Stop the Bleed](https://www.stopthebleed.org/) — American College of Surgeons _(training)_. Short hands-on bleeding-control course: pressure, packing, tourniquets.
 - *Advanced Trauma Life Support (ATLS) Student Course Manual* — American College of Surgeons, 10th ed., 2018 _(book)_. Source of the haemorrhage classes (I–IV by % blood volume lost) used in teaching.
+- *Excreta Disposal for Rural Areas and Small Communities* — E. G. Wagner, J. N. Lanoix, World Health Organization, 1958 _(book)_. WHO Monograph Series No. 39. Source of the faecal–oral transmission diagram later known as the F-diagram.
+- *Risk of giardiasis from consumption of wilderness water in North America: a systematic review of epidemiologic data* — Timothy P. Welch, 2000 _(paper)_. International Journal of Infectious Diseases. Argues that hand-to-mouth transmission deserves more attention than it gets relative to untreated water.
+- *Clean Hands: handwashing and hand sanitizer guidance* — US Centers for Disease Control and Prevention _(government)_. Wet, lather, scrub at least 20 seconds, rinse, dry; sanitiser with at least 60 % alcohol when soap and water are unavailable; sanitiser works less well on visibly dirty or greasy hands and against some germs such as norovirus and Cryptosporidium. Find it on cdc.gov.
+- *Hantavirus: prevention and cleaning up after rodents* — US Centers for Disease Control and Prevention _(government)_. Do not sweep or vacuum rodent droppings; ventilate, wear gloves, wet with disinfectant, then wipe up. Find it on cdc.gov.
+- *Baylisascaris (raccoon roundworm)* — US Centers for Disease Control and Prevention _(government)_. Eggs in raccoon feces and latrines; avoid contact and wash hands. Find it on cdc.gov.
+- *Echinococcosis* — US Centers for Disease Control and Prevention _(government)_. Tapeworm infection acquired from eggs in the feces of infected dogs, foxes and other canids. Find it on cdc.gov.
 - *Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Lightning Injuries: 2014 Update* — Davis C, Engeln A, Johnson EL, et al., 2014 _(guideline)_. Wilderness & Environmental Medicine 25(4 Suppl):S86–S95. Check for a newer revision.
+- *Psychological First Aid: Guide for Field Workers* — World Health Organization, War Trauma Foundation and World Vision International, 2011 _(guideline)_. Look, listen, link. PFA does not involve pressing people to recount the event. Free from who.int.
 - [Community Emergency Response Team (CERT)](https://fema.gov/cert) — FEMA _(training)_. Volunteer training in disaster preparedness, fire safety, light search and rescue, team organisation and disaster medical operations.
 
 ## Improvisation
 
 - [ATP 3-50.21 Survival (supersedes FM 3-05.70 / FM 21-76)](https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1005316) — US Army, 2018 _(government)_. Current public US survival doctrine. Written for military contexts — use with judgment.
 - [AFH 10-644 SERE Operations](https://archive.org/details/afh-10-644-survival-evasion-resistance-escape-operations-2017) — US Air Force, 2017 _(government)_. The most comprehensive public survival reference (650+ pages).
+- *On problem-solving* — Karl Duncker, 1945 _(paper)_. Psychological Monographs 58(5). Origin of the “candle problem” and the idea of functional fixedness.
+- *Stresses in a plate due to the presence of cracks and sharp corners* — C. E. Inglis, 1913 _(paper)_. Transactions of the Institution of Naval Architects 55. The classic stress-concentration result for an elliptical hole, 1 + 2a/b.
 
 ## Tracking
 
 - [CyberTracker tracker evaluation standard](https://www.cybertracker.org/) _(organization)_
 - [Wilderness Awareness School](https://wildernessawareness.org/) _(training)_
+- *Mammal Tracks & Sign: A Guide to North American Species (2nd ed.)* — Mark Elbroch and Casey McFarland, Stackpole Books, 2019 _(book)_. The standard detailed reference for mammal tracks, gaits, feeding sign and scat, with measurements and photographs.
+- *The Art of Tracking: The Origin of Science* — Louis Liebenberg, David Philip Publishers, 1990 _(book)_. Tracking as hypothesis-testing, drawn from San trackers of the Kalahari; by the founder of CyberTracker.
+- [CyberTracker Tracker Certification (2018)](https://www.cybertracker.org/downloads/tracking/CyberTracker-Tracker-Certification-2018.pdf) — CyberTracker Conservation, 2018 _(guideline)_. The international track-and-sign and trailing evaluation standard (Levels 1–3, Professional, Specialist).
+- [Track and Sign Certifications](https://trackercertification.com/track-and-sign-certifications/) — Tracker Certification North America _(training)_. Runs CyberTracker field evaluations in North America.
+- *What the Robin Knows: How Birds Reveal the Secrets of the Natural World* — Jon Young, 2012 _(book)_. Bird language: baseline behaviour and alarm, and the sit-spot routine.
+- *Estimates of speeds of dinosaurs* — R. McNeill Alexander, 1976 _(paper)_. Nature 261:129–130. Empirical formula relating speed to stride length and hip height.
+- *Fundamentals of Mantracking: The Step-by-Step Method* — Albert “Ab” Taylor and Donald C. Cooper, National Association for Search and Rescue (NASAR) _(book)_. The classic SAR text on step-by-step human tracking, prime prints and the tracking stick.
+- *Hantavirus: prevention and cleaning up after rodents* — US Centers for Disease Control and Prevention _(government)_. Do not sweep or vacuum rodent droppings; ventilate, wear gloves, wet with disinfectant, then wipe up. Find it on cdc.gov.
+- *Baylisascaris (raccoon roundworm)* — US Centers for Disease Control and Prevention _(government)_. Eggs in raccoon feces and latrines; avoid contact and wash hands. Find it on cdc.gov.
+- *Echinococcosis* — US Centers for Disease Control and Prevention _(government)_. Tapeworm infection acquired from eggs in the feces of infected dogs, foxes and other canids. Find it on cdc.gov.
+- *Wildlife viewing safety and distances* — US National Park Service _(government)_. Several parks (e.g. Yellowstone) require staying at least 100 yards (91 m) from bears and wolves and 25 yards (23 m) from other wildlife. Check the rules of the park you visit on nps.gov.
 
 ## Weather
 
@@ -304,12 +338,15 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - *Staying Alive in Avalanche Terrain* — Bruce Tremper, 3rd ed., 2018 _(book)_. The standard recreational avalanche text. No substitute for a course.
 - *The Avalanche Handbook* — David McClung and Peter Schaerer, 3rd ed., 2006 _(book)_. Technical reference on snowpack and avalanche mechanics.
 - [Landslide Hazards Program](https://www.usgs.gov/programs/landslide-hazards) — US Geological Survey _(government)_. Landslide basics, post-fire debris-flow hazards.
+- *Risk management in a dynamic society: a modelling problem* — Rasmussen J, 1997 _(paper)_. Safety Science 27(2–3):183–213. Systems drift towards the boundary of safe performance under pressure for efficiency and least effort.
+- *Perception of risk* — Slovic P, 1987 _(paper)_. Science 236(4799):280–285. “Dread” and “unknown” risks feel larger than familiar, voluntary ones.
 - [Earthquakes](https://www.ready.gov/earthquakes) — Ready.gov (FEMA) _(government)_. Drop, Cover, Hold On; in bed, face down with a pillow over head and neck; if trapped, text or bang on a pipe.
 - [Floods](https://www.ready.gov/floods) — Ready.gov (FEMA) _(government)_. 6 in of moving water can knock you down; 1 ft can sweep a vehicle away.
 - [Tsunamis](https://www.ready.gov/tsunamis) — Ready.gov (FEMA) _(government)_. Natural warnings: a coastal earthquake, an ocean roar, the sea suddenly rising or draining — evacuate without waiting for an official warning.
 - [Drop, Cover, and Hold On](https://www.shakeout.org/dropcoverholdon/) — Great ShakeOut / Earthquake Country Alliance _(organization)_. Explains why doorways, running outside and the “triangle of life” are not recommended.
 - *Aftershock forecasts and aftershock basics* — US Geological Survey Earthquake Hazards Program _(government)_. Aftershock rates decay roughly as 1/time (Omori); the largest aftershock is often about one magnitude unit smaller than the main shock. Find it on usgs.gov.
 - *Get Ready (national preparedness guidance)* — New Zealand National Emergency Management Agency _(government)_. Includes the coastal rule “Long or strong, get gone” and emergency toilet guidance. Find it via getready.govt.nz.
+- [Winter Driving Tips](https://www.nhtsa.gov/winter-driving-tips) — US National Highway Traffic Safety Administration (NHTSA) _(government)_. Prepare the car and a winter kit; if stranded, stay with the vehicle, keep the exhaust pipe clear of snow, and run the engine only sparingly to stay warm.
 
 ## Rope and knots
 
@@ -321,6 +358,13 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Cordage Institute (rope and cordage standards)](https://www.ropecord.com/) _(organization)_. Industry standards for rope testing, safety factors and D/d bend ratios.
 - *The Ashley Book of Knots* — Clifford W. Ashley, 1944 _(book)_. The standard encyclopedia of knots, bends, hitches and lashings.
 - *Engineering Mechanics: Statics* — R. C. Hibbeler _(book)_. Standard textbook treatment of belt (capstan) friction, wedges and cables.
+- *EN 892: Mountaineering equipment — Dynamic mountaineering ropes — Safety requirements and test methods* — European Committee for Standardization (CEN) _(guideline)_. Drop tests with an 80 kg mass for single ropes; limits on peak impact force and elongation. The UIAA 101 standard sets equivalent requirements.
+- *EN 1891: Personal protective equipment for the prevention of falls from a height — Low stretch kernmantel ropes* — European Committee for Standardization (CEN) _(guideline)_. Requirements for low-stretch kernmantle ropes used in rope access, work positioning and rescue.
+- *MIL-C-5040: Cord, Fibrous, Nylon (parachute cord)* — US Department of Defense _(regulation)_. Type III (“550 cord”) has a minimum breaking strength of 550 lbf. Not a life-safety rope standard.
+- *NFPA 1006: Standard for Technical Rescue Personnel Professional Qualifications* — National Fire Protection Association _(guideline)_. Defines job performance requirements for rope rescue and other technical rescue disciplines at progressive levels.
+- *CMC Rope Rescue Manual* — CMC Rescue _(book)_. A widely used rope-rescue training text: rope, hardware, anchors, mechanical advantage, raising and lowering systems.
+- *On Rope: North American Vertical Rope Techniques* — Bruce Smith and Allen Padgett, National Speleological Society _(book)_. Rope materials, care, knots, anchors and rigging from the caving community.
+- *Climbing Anchors* — John Long and Bob Gaines, FalconGuides _(book)_. Anchor principles, load distribution and the forces that angles create. No substitute for instruction.
 
 ## Signaling and rescue
 
@@ -336,6 +380,17 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - *Annex 12 to the Chicago Convention — Search and Rescue (ground–air visual signal code)* — ICAO _(guideline)_
 - [GPS.gov — official US government information about GPS](https://www.gps.gov/) _(government)_
 - [AdventureSmart — trip planning and “if lost” guidance](https://www.adventuresmart.ca/) — Canada’s national SAR prevention program _(government)_
+- *Fundamentals of Mantracking: The Step-by-Step Method* — Albert “Ab” Taylor and Donald C. Cooper, National Association for Search and Rescue (NASAR) _(book)_. The classic SAR text on step-by-step human tracking, prime prints and the tracking stick.
+- *NFPA 1006: Standard for Technical Rescue Personnel Professional Qualifications* — National Fire Protection Association _(guideline)_. Defines job performance requirements for rope rescue and other technical rescue disciplines at progressive levels.
+- *IAMSAR Manual — International Aeronautical and Maritime Search and Rescue Manual (Volumes I–III)* — International Maritime Organization (IMO) and International Civil Aviation Organization (ICAO) _(guideline)_. The international SAR manual. Volume II (mission co-ordination) covers search planning: POA, POD, POS, sweep width and search patterns; Volume III covers distress signals and procedures for mobile facilities. Updated regularly; available from IMO and ICAO.
+- *Search and Screening: General Principles with Historical Applications* — Bernard O. Koopman, Pergamon Press, 1980 _(book)_. Foundational search theory, including the exponential (random-search) detection function POD = 1 − e^(−C).
+- *Theory of Optimal Search* — Lawrence D. Stone, Academic Press, 1975 _(book)_. Mathematical theory of allocating search effort, including Bayesian updating and optimal allocation for exponential detection.
+- *Compatibility of Land SAR Procedures with Search Theory* — Donald C. Cooper, J. R. Frost, R. Quincy Robe, US Department of Homeland Security / US Coast Guard, 2003 _(paper)_. Report reconciling land SAR practice (POA, POD, segments, consensus) with search theory; introduced effective sweep width and detection experiments to land search planning.
+- *Fundamentals of Search and Rescue* — National Association for Search and Rescue (NASAR), 2005 _(book)_. Textbook for NASAR’s FUNSAR course and SARTECH II: SAR system, search tactics, clue awareness, lost-person behaviour.
+- *47 CFR Part 97 — Amateur Radio Service* — US Federal Communications Commission _(regulation)_. US amateur radio rules: licences by examination; includes provisions on communications in emergencies involving the immediate safety of human life. Find it on ecfr.gov. Other countries have their own amateur licensing (e.g., Ofcom in the UK).
+- *47 CFR Part 95 — Personal Radio Services (FRS, GMRS, CB, PLBs)* — US Federal Communications Commission _(regulation)_. Licence-free FRS and CB, licensed GMRS, and rules for 406 MHz personal locator beacons in the US. Find it on ecfr.gov.
+- *UK Beacon Registry (406 MHz EPIRB, PLB and ELT registration)* — Maritime and Coastguard Agency (UK) _(government)_. Free registration of UK-coded beacons. Find it via gov.uk.
+- [Mountain Rescue England and Wales](https://www.mountainrescue.org.uk/) _(organization)_. Volunteer mountain and lowland search and rescue teams; advice on calling for help and on joining a team.
 - [Emergency Alerts](https://www.ready.gov/alerts) — Ready.gov (FEMA) _(government)_. Wireless Emergency Alerts, EAS, NOAA Weather Radio, IPAWS.
 - *European Electronic Communications Code (Directive (EU) 2018/1972), Article 110: public warning systems* — European Union, 2018 _(regulation)_. Requires member states to deliver public warnings to mobile phones in the affected area (e.g., cell broadcast, “EU-Alert”).
 
@@ -349,6 +404,37 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - *Deep Survival: Who Lives, Who Dies, and Why* — Laurence Gonzales, 2003 _(book)_. Narrative synthesis of case studies and neuroscience. Journalism, not research — but widely used by trainers.
 - [Walking straight into circles](https://doi.org/10.1016/j.cub.2009.07.053) — Souman JL, Frissen I, Sreenivasa MN, Ernst MO, 2009 _(paper)_. Current Biology 19(18):1538–1542. GPS-tracked walkers without sun or landmarks repeatedly walked in circles.
 - [Moderate sleep deprivation produces impairments in cognitive and motor performance equivalent to legally prescribed levels of alcohol intoxication](https://pubmed.ncbi.nlm.nih.gov/10984335/) — Williamson AM, Feyer AM, 2000 _(paper)_. Occupational and Environmental Medicine 57(10):649–655.
+- *On problem-solving* — Karl Duncker, 1945 _(paper)_. Psychological Monographs 58(5). Origin of the “candle problem” and the idea of functional fixedness.
+- *Thinking, Fast and Slow* — Daniel Kahneman, 2011 _(book)_. Accessible synthesis of research on heuristics and biases. “System 1 / System 2” are the author’s own metaphors, not brain regions; some priming studies it cites have not replicated.
+- [Judgment under Uncertainty: Heuristics and Biases](https://doi.org/10.1126/science.185.4157.1124) — Tversky A, Kahneman D, 1974 _(paper)_. Science 185(4157):1124–1131. Availability, representativeness, anchoring.
+- *Conditions for intuitive expertise: a failure to disagree* — Kahneman D, Klein G, 2009 _(paper)_. American Psychologist 64(6):515–526. Intuition is trustworthy only in environments with regular patterns and fast, clear feedback.
+- *Sources of Power: How People Make Decisions* — Gary Klein, 1998 _(book)_. Naturalistic decision making and recognition-primed decisions by firefighters, nurses and commanders.
+- *Performing a project premortem* — Gary Klein, 2007 _(paper)_. Harvard Business Review 85(9). Imagine the plan has failed, then list why.
+- *Cognitive and contextual factors in aviation accidents: decision errors* — Orasanu J, Martin L, Davison J, 2001 _(paper)_. In Salas E, Klein G (eds.), Linking Expertise and Naturalistic Decision Making. Describes “plan continuation errors”: continuing with the original plan despite cues that it should change.
+- *The psychology of sunk cost* — Arkes HR, Blumer C, 1985 _(paper)_. Organizational Behavior and Human Decision Processes 35(1):124–140. Includes the theatre season-ticket field experiment.
+- *The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA* — Diane Vaughan, 1996 _(book)_. Origin of the term “normalization of deviance”.
+- *Risk management in a dynamic society: a modelling problem* — Rasmussen J, 1997 _(paper)_. Safety Science 27(2–3):183–213. Systems drift towards the boundary of safe performance under pressure for efficiency and least effort.
+- *The effect of emotion on cue utilization and the organization of behavior* — Easterbrook JA, 1959 _(paper)_. Psychological Review 66(3):183–201. Rising arousal narrows the range of cues a person uses.
+- *Perception of risk* — Slovic P, 1987 _(paper)_. Science 236(4799):280–285. “Dread” and “unknown” risks feel larger than familiar, voluntary ones.
+- *Groupthink: Psychological Studies of Policy Decisions and Fiascoes* — Irving L. Janis, 2nd ed., 1982 _(book)_. Built from historical case studies; later experimental support for the full model is mixed.
+- *Devil’s advocate versus authentic dissent: stimulating quantity and quality* — Nemeth C, Brown K, Rogers J, 2001 _(paper)_. European Journal of Social Psychology 31(6):707–720. Genuine dissent stimulated better thinking than a role-played devil’s advocate.
+- *The evolution of Crew Resource Management training in commercial aviation* — Helmreich RL, Merritt AC, Wilhelm JA, 1999 _(paper)_. International Journal of Aviation Psychology 9(1):19–32.
+- *The collapse of sensemaking in organizations: the Mann Gulch disaster* — Weick KE, 1993 _(paper)_. Administrative Science Quarterly 38(4):628–652.
+- *Developmental sequence in small groups* — Tuckman BW, 1965 _(paper)_. Psychological Bulletin 63(6):384–399. Forming, storming, norming, performing — a descriptive model.
+- *Stress signalling pathways that impair prefrontal cortex structure and function* — Arnsten AFT, 2009 _(paper)_. Nature Reviews Neuroscience 10:410–422.
+- *Freeze for action: neurobiological mechanisms in animal and human freezing* — Roelofs K, 2017 _(paper)_. Philosophical Transactions of the Royal Society B 372:20160206.
+- *Fear and the defense cascade: clinical implications and management* — Kozlowska K, Walker P, McLean L, Carrive P, 2015 _(paper)_. Harvard Review of Psychiatry 23(4):263–287.
+- *Panic: myth or reality?* — Lee Clarke, 2002 _(paper)_. Contexts 1(3):21–26. Disaster research finds mass panic rare.
+- *Everyone for themselves? A comparative study of crowd solidarity among emergency survivors* — Drury J, Cocking C, Reicher S, 2009 _(paper)_. British Journal of Social Psychology 48(3):487–506.
+- *“Give-up-itis” revisited: neuropathology of extremis* — Leach J, 2018 _(paper)_. Medical Hypotheses 120:14–21. A hypothesis paper built on case reports, proposing five stages from withdrawal to psychogenic death.
+- *A multilab preregistered replication of the ego-depletion effect* — Hagger MS, Chatzisarantis NLD, et al., 2016 _(paper)_. Perspectives on Psychological Science 11(4):546–573. Found an effect close to zero.
+- *The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation* — Van Dongen HPA, Maislin G, Mullington JM, Dinges DF, 2003 _(paper)_. Sleep 26(2):117–126. Deficits accumulate night after night while self-rated sleepiness levels off.
+- *Emotion regulation: current status and future prospects* — Gross JJ, 2015 _(paper)_. Psychological Inquiry 26(1):1–26. The process model of emotion regulation.
+- *Putting feelings into words: affect labeling disrupts amygdala activity in response to affective stimuli* — Lieberman MD, Eisenberger NI, Crockett MJ, Tom SM, Pfeifer JH, Way BM, 2007 _(paper)_. Psychological Science 18(5):421–428.
+- *Uncertainty and anticipation in anxiety: an integrated neurobiological and psychological perspective* — Grupe DW, Nitschke JB, 2013 _(paper)_. Nature Reviews Neuroscience 14:488–501.
+- *Psychological effects of polar expeditions* — Palinkas LA, Suedfeld P, 2008 _(paper)_. The Lancet 371(9607):153–163.
+- *Five essential elements of immediate and mid-term mass trauma intervention: empirical evidence* — Hobfoll SE, Watson P, Bell CC, et al., 2007 _(paper)_. Psychiatry 70(4):283–315. Safety, calming, self- and community efficacy, connectedness, hope.
+- *Psychological First Aid: Guide for Field Workers* — World Health Organization, War Trauma Foundation and World Vision International, 2011 _(guideline)_. Look, listen, link. PFA does not involve pressing people to recount the event. Free from who.int.
 
 ## Urban and disaster preparedness
 
@@ -385,6 +471,11 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 ## Vehicle and travel
 
 - [Car safety and vehicle emergency kit](https://www.ready.gov/car) — Ready.gov (FEMA) _(government)_
+- [Winter Driving Tips](https://www.nhtsa.gov/winter-driving-tips) — US National Highway Traffic Safety Administration (NHTSA) _(government)_. Prepare the car and a winter kit; if stranded, stay with the vehicle, keep the exhaust pipe clear of snow, and run the engine only sparingly to stay warm.
+- *Heatstroke: children in hot cars* — US National Highway Traffic Safety Administration (NHTSA) _(government)_. Never leave a child in a parked car; vehicles heat up quickly even on mild days. Find it on nhtsa.gov.
+- *Heat stress from enclosed vehicles: moderate ambient temperatures cause significant temperature rise in enclosed vehicles* — McLaren C, Null J, Quinn J, 2005 _(paper)_. Pediatrics 116(1):e109–e112. Cabin temperature rose on average about 22 °C (40 °F) within an hour, most of it in the first 30 minutes; cracking the windows made little difference.
+- [The Highway Code (Rules 274–278: breakdowns and incidents)](https://www.gov.uk/guidance/the-highway-code) — UK Department for Transport _(regulation)_. Hazard lights; a warning triangle at least 45 m behind a broken-down vehicle on ordinary roads, not on motorways; leave the vehicle by the side away from traffic and wait away from it.
+- *Death Valley National Park: Safety (desert heat, travel and GPS warnings)* — US National Park Service _(government)_. Warns that GPS navigation can direct drivers onto closed or impassable roads; advises carrying ample water and staying with a disabled vehicle. Find it on nps.gov/deva.
 
 ## Long-duration survival
 
@@ -393,6 +484,8 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Society of Primitive Technology](https://www.primitive.org/) _(organization)_
 - [National Center for Home Food Preservation](https://nchfp.uga.edu/) — University of Georgia / USDA NIFA _(organization)_. Tested procedures for canning, drying, freezing, pickling and fermenting.
 - *The Biology of Human Starvation* — Keys A, Brožek J, Henschel A, Mickelsen O, Taylor HL, 1950 _(book)_. The Minnesota Starvation Experiment: physical and psychological effects of prolonged semi-starvation.
+- *Psychological effects of polar expeditions* — Palinkas LA, Suedfeld P, 2008 _(paper)_. The Lancet 371(9607):153–163.
+- *Guidelines on Sanitation and Health* — World Health Organization, 2018 _(guideline)_. Evidence-based recommendations on safe sanitation systems, safe handling of excreta and hand hygiene.
 
 ## Law and ethics
 
@@ -411,6 +504,9 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - *36 CFR §2.1 — Preservation of natural, cultural and archeological resources* — US National Park Service (Code of Federal Regulations) _(regulation)_. Prohibits removing or disturbing plants, rocks, minerals and cultural resources in US national parks, except as permitted.
 - *Wildlife and Countryside Act 1981, section 13 (protection of wild plants)* — UK Parliament _(regulation)_. Uprooting any wild plant without the landowner’s authorisation is an offence; listed species are fully protected.
 - *Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa–mm)* — US Congress _(regulation)_. Prohibits excavating or removing archaeological resources from US federal and tribal lands without a permit.
+- *Wildlife viewing safety and distances* — US National Park Service _(government)_. Several parks (e.g. Yellowstone) require staying at least 100 yards (91 m) from bears and wolves and 25 yards (23 m) from other wildlife. Check the rules of the park you visit on nps.gov.
+- *47 CFR Part 97 — Amateur Radio Service* — US Federal Communications Commission _(regulation)_. US amateur radio rules: licences by examination; includes provisions on communications in emergencies involving the immediate safety of human life. Find it on ecfr.gov. Other countries have their own amateur licensing (e.g., Ofcom in the UK).
+- *47 CFR Part 95 — Personal Radio Services (FRS, GMRS, CB, PLBs)* — US Federal Communications Commission _(regulation)_. Licence-free FRS and CB, licensed GMRS, and rules for 406 MHz personal locator beacons in the US. Find it on ecfr.gov.
 
 ## Law varies by jurisdiction
 

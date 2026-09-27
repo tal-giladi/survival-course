@@ -225,7 +225,7 @@ Sun and warm air erode print walls (melt and sublimation), rounding and enlargin
         { id: 'd', text: 'Nothing until they agree', why: 'Delaying a possible clue in a search wastes time; report the range.' },
       ],
       answer: 'c',
-      concepts: ['track-aging', 'age-bracketing', 'trk-clue-awareness'],
+      concepts: ['track-aging', 'age-bracketing', 'clue-awareness'],
       explanation: 'Report ranges, reasons and records. The search manager combines them with other clues and lost-person behaviour.',
     },
   ],
@@ -241,7 +241,7 @@ Sun and warm air erode print walls (melt and sublimation), rounding and enlargin
     ],
     best: 'b',
     debrief: 'The storm is a dated layer under the prints: they were made after 10:30, so they are at most 2.5 hours old at 13:00. That fits the missing child (who left at 08:00) and is a high-value clue with a direction. The report gives what, where, which way, how old and why — and the team protects the sign so trained trackers can work it. Staying in the search structure (Stage 1: don’t create a second casualty; Lesson 6) matters more than speed on your own.',
-    concepts: ['age-bracketing', 'trk-clue-awareness', 'trk-scene-protection'],
+    concepts: ['age-bracketing', 'clue-awareness', 'trk-scene-protection'],
   },
   summary: [
     '**What lies on top is younger.** Print cut into a layer → after it; layer on top of the print → before it.',

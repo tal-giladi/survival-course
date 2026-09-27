@@ -8,7 +8,7 @@ export const l06: Lesson = {
   level: 'advanced',
   minutes: 60,
   prerequisites: ['s11-l3'],
-  concepts: ['trk-lkp', 'trk-sign-cutting', 'trk-step-by-step', 'trk-scene-protection', 'trk-clue-awareness', 'trk-search-area', 'lost-person-behavior'],
+  concepts: ['trk-lkp', 'trk-sign-cutting', 'trk-step-by-step', 'trk-scene-protection', 'clue-awareness', 'trk-search-area', 'lost-person-behavior'],
   objectives: [
     'Explain the role of the **point last seen / last known point** (the initial planning point) in a search, and why it must be **protected**.',
     'Describe **sign cutting** (searching along track traps for a subject’s sign) and **step-by-step tracking**, and what untrained helpers must and must not do.',
@@ -205,7 +205,7 @@ Adult walking step length is fairly regular for a given person, load and terrain
         { id: 'report', text: 'Report by radio and follow instructions' },
       ],
       answer: ['stop', 'mark', 'record', 'report'],
-      concepts: ['trk-clue-awareness', 'trk-scene-protection'],
+      concepts: ['clue-awareness', 'trk-scene-protection'],
       explanation: 'Preserve, record, report. The search manager decides what happens next.',
     },
     {
@@ -260,7 +260,7 @@ Adult walking step length is fairly regular for a given person, load and terrain
     ],
     best: 'b',
     debrief: 'This is the whole stage in one decision: identification (small trainer, matching description), aging (on top of this morning’s rain), direction (into the gully), and the discipline of reporting within the search structure. Calling and listening costs nothing and may get an answer. The search manager can send trained trackers, dogs or a hasty team — and your daylight budget (Stage 1) and the terrain make a solo descent the wrong move.',
-    concepts: ['trk-clue-awareness', 'trk-scene-protection', 'age-bracketing', 'daylight', 'immediate-danger'],
+    concepts: ['clue-awareness', 'trk-scene-protection', 'age-bracketing', 'daylight', 'immediate-danger'],
   },
   summary: [
     'Searches start from the **IPP** (point last seen or last known point) — **protect it**; the subject’s first prints are there.',

@@ -35,7 +35,6 @@ export const stage11: StageContent = {
     'trk-sign-cutting': 'Sign cutting along track traps',
     'trk-step-by-step': 'Step-by-step tracking and the tracking stick',
     'trk-scene-protection': 'Protecting the IPP and clues',
-    'trk-clue-awareness': 'Clue awareness and reporting',
     'trk-search-area': 'Search area growth with time',
   },
   skills: [

@@ -23,8 +23,7 @@ exercises, simulations and branching scenarios to build judgment rather than a m
 
 ## Status
 
-- **Published:** Stages 1–9, 12 and 16, all 12 capstone scenarios and the final assessment — each lesson with objectives, explanation, science, diagrams, examples, common mistakes, safety-classified exercises, quiz, scenario question, summary and references; each stage with its simulations and an interleaved review.
-- **Still to write:** Stages 10, 11, 13, 14, 15, 17, 18 (mapped as outlines; see [PROGRESS.md](PROGRESS.md) and [docs/AUTHORING.md](docs/AUTHORING.md)).
+- **Published:** all 18 stages (135 lessons), all 12 capstone scenarios and the final assessment — each lesson with objectives, explanation, science, diagrams, examples, common mistakes, safety-classified exercises, quiz, scenario question, summary and references; each stage with its simulations and an interleaved review.
 - **Progress tracking:** dashboard, concept mastery and weak areas, five-state skill tracker (never auto-awards competence), Leitner spaced review, export/import.
 
 ## Run it

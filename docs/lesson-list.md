@@ -162,7 +162,7 @@ Requires stages: 1, 8 · Environments: all · Simulations: patient-assessment, e
 | s9-l8 | Head, spine, chest and abdomen | Advanced | s9-l3 Shock | TBI signs; Spinal assessment; Chest injuries |
 | s9-l9 | Monitoring and evacuation decisions | Advanced | s9-l8 Head, spine, chest and abdomen | Vital sign trends; Evacuation urgency; Improvised stretchers |
 
-## Stage 10 — Field Improvisation (Intermediate) 🗺️ planned
+## Stage 10 — Field Improvisation (Intermediate) ✅ built
 
 A problem-solving method for turning ordinary objects into what you need.
 
@@ -176,7 +176,7 @@ Requires stages: 1, 7 · Environments: all · Simulations: improvise-challenge
 | s10-l4 | Repair systems | Intermediate | s10-l1 The improvisation method | Tape, cord, wire; Footwear and clothing repair |
 | s10-l5 | Field sanitation and hygiene | Intermediate | s4-l4 Contamination | Catholes; Hand hygiene; Camp layout |
 
-## Stage 11 — Tracking and Environmental Interpretation (Intermediate) 🗺️ planned
+## Stage 11 — Tracking and Environmental Interpretation (Intermediate) ✅ built
 
 Reading tracks and sign to understand ecology, find resources and support navigation.
 
@@ -206,7 +206,7 @@ Requires stages: 1, 2 · Environments: mountain, desert, arctic, forest, coastal
 | s12-l5 | Wildfire | Intermediate | s12-l1 Clouds and weather patterns | Fire behavior triangle; Escape routes; Safety zones |
 | s12-l6 | Avalanches, rockfall and landslides | Advanced | s12-l4 Heat, cold, wind, snow and ice; s2-l2 Reading topography | Slope angle; Avalanche problems; Training required |
 
-## Stage 13 — Rope and Terrain (Advanced) 🗺️ planned
+## Stage 13 — Rope and Terrain (Advanced) ✅ built
 
 Knots, hitches, lashings, anchors and mechanical advantage — principles, not unsupervised climbing.
 
@@ -220,7 +220,7 @@ Requires stages: 7 · Environments: mountain, forest · Simulations: mechanical-
 | s13-l4 | Hauling systems | Advanced | s13-l3 Load principles and anchors | Mechanical advantage; Friction losses |
 | s13-l5 | Improvised rescue systems and their limits | Expert | s13-l4 Hauling systems | What requires training; Virtual-only demos |
 
-## Stage 14 — Emergency Signaling and Rescue (Intermediate) 🗺️ planned
+## Stage 14 — Emergency Signaling and Rescue (Intermediate) ✅ built
 
 How search and rescue actually works, and how to make yourself findable.
 
@@ -233,7 +233,7 @@ Requires stages: 1, 2 · Environments: all · Simulations: search-sim, signal-mi
 | s14-l3 | How searches work | Advanced | s14-l2 Radio, satellite and beacons; s2-l12 When navigation fails | Probability of area and detection; Search tactics |
 | s14-l4 | Stay or move | Advanced | s14-l3 How searches work | Decision model; Leaving signs for rescuers |
 
-## Stage 15 — Survival Psychology (Advanced) 🗺️ planned
+## Stage 15 — Survival Psychology (Advanced) ✅ built
 
 Fear, bias, fatigue, leadership and group dynamics — decision making with incomplete information.
 
@@ -260,7 +260,7 @@ Requires stages: 1 · Environments: urban, rural · Simulations: home-kit, outag
 | s16-l4 | Flood, wildfire and extreme weather at home | Intermediate | s16-l1 Household emergency planning; s12-l3 Flash floods and water crossings | Evacuation triggers; Shelter in place |
 | s16-l5 | Utility and communication failure | Intermediate | s16-l2 Home kits: water, food, light, power | Water outage; Sanitation; Carbon monoxide |
 
-## Stage 17 — Vehicle and Travel Survival (Intermediate) 🗺️ planned
+## Stage 17 — Vehicle and Travel Survival (Intermediate) ✅ built
 
 Breakdowns and strandings in heat, cold and remote country — and whether to stay with the vehicle.
 
@@ -273,7 +273,7 @@ Requires stages: 1, 2 · Environments: desert, arctic, rural, mountain · Simula
 | s17-l3 | Stranded in cold and snow | Intermediate | s17-l1 Vehicle kits and trip planning; s8-l3 Hypothermia | Exhaust and CO; Insulation |
 | s17-l4 | Roadside emergencies and remote roads | Intermediate | s17-l1 Vehicle kits and trip planning | Visibility; Signaling; Navigation failure |
 
-## Stage 18 — Long-Duration Survival (Advanced) 🗺️ planned
+## Stage 18 — Long-Duration Survival (Advanced) ✅ built
 
 Sustaining yourself for days: budgets for energy, water and food, camp systems, maintenance and morale.
 

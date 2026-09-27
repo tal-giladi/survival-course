@@ -227,7 +227,7 @@ export const stages: Stage[] = [
     level: 'intermediate',
     summary: 'Reading tracks and sign to understand ecology, find resources and support navigation.',
     requires: [1, 2],
-    status: 'planned',
+    status: 'available',
     environments: ['forest', 'desert', 'arctic', 'coastal'],
     simulations: ['tracking-scene'],
     outline: [
