@@ -146,7 +146,7 @@ export const stages: Stage[] = [
     level: 'intermediate',
     summary: 'The engineering behind cordage, lashings, containers, tools, adhesives and charcoal.',
     requires: [1, 3],
-    status: 'planned',
+    status: 'available',
     environments: ['forest', 'tropical', 'desert'],
     simulations: ['cordage-strength'],
     outline: [
