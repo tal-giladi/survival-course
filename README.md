@@ -23,18 +23,9 @@ exercises, simulations and branching scenarios to build judgment rather than a m
 
 ## Status
 
-- **Stage 1 — Survival Foundations: complete.** 14 lessons, each with objectives, explanation,
-  science, diagrams, examples, common mistakes, safety-classified exercises, a quiz with per-option
-  explanations, a scenario question with debrief, summary, further reading and references; plus an
-  interleaved stage review.
-- **8 simulations:** Priority Triage, Heat Balance Lab, Kit Builder, Shelter Site Simulator,
-  Fire Builder, Water Safety Simulator, Be Seen/Be Heard, and the branching scenario
-  *Day 1, 14:00 — You realise you are lost*.
-- **Progress tracking:** dashboard, lesson/exercise/quiz/simulation/scenario records, concept
-  mastery and weak areas, five-state real-world skill tracker (never auto-awards competence),
-  Leitner spaced review, export/import.
-- **Stages 2–18 and 12 capstones:** fully mapped (lessons, levels, prerequisites, topics,
-  simulations) and browsable as outlines; content to be written.
+- **Published:** Stages 1–9, 12 and 16, all 12 capstone scenarios and the final assessment — each lesson with objectives, explanation, science, diagrams, examples, common mistakes, safety-classified exercises, quiz, scenario question, summary and references; each stage with its simulations and an interleaved review.
+- **Still to write:** Stages 10, 11, 13, 14, 15, 17, 18 (mapped as outlines; see [PROGRESS.md](PROGRESS.md) and [docs/AUTHORING.md](docs/AUTHORING.md)).
+- **Progress tracking:** dashboard, concept mastery and weak areas, five-state skill tracker (never auto-awards competence), Leitner spaced review, export/import.
 
 ## Run it
 

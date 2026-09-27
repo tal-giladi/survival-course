@@ -35,3 +35,6 @@ Stages written in parallel git worktrees by agents, merged to main, then status 
 - [x] Stage 19: 12 capstone scenarios + final assessment page
 - [ ] Regenerate docs, deploy
 - Also done: stages 6, 9, 12 (batch B partial). Remaining: 7, 10, 11, 13, 14, 15, 16, 17, 18. Merge with scripts/merge-stage.sh <branch> <n> <title>.
+- Done 2026-09-27: stages 1-9, 12, 16, 19 published. REMAINING: 10, 11, 13, 14, 15, 17, 18.
+  To resume: one agent per stage in a worktree using the prompt pattern in docs/AUTHORING.md (reuse existing reference ids),
+  then `scripts/merge-stage.sh <branch> <n> "<title>"`, then `cd app && npm run gen-docs`.

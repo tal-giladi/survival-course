@@ -79,7 +79,11 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Carbon Monoxide Information Center](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center) — US Consumer Product Safety Commission _(government)_. Generators, CO alarms and symptoms.
 - [Burn Wise](https://www.epa.gov/burnwise) — US Environmental Protection Agency _(government)_. Wood smoke, health, and burning dry wood cleanly.
 - [IOL Bushcraft Competency Certificate (includes a bow-drill unit)](https://www.outdoor-learning.org/standards/iol-awards-and-accreditation/bushcraft/bushcraft-competency-certificate.html) — Institute for Outdoor Learning (UK) _(training)_
+- [Simple technologies for charcoal making (FAO Forestry Paper 41)](https://www.fao.org/4/x5328e/x5328e00.htm) — Food and Agriculture Organization of the United Nations, 1987 _(guideline)_. Carbonisation stages, kiln types and yields.
 - *Incident Response Pocket Guide (PMS 461)* — National Wildfire Coordinating Group _(guideline)_. LCES, watch-out situations, safety-zone guidelines (separation ≥ 4 × flame height). Available from nwcg.gov publications.
+- [Home Fires](https://www.ready.gov/home-fires) — Ready.gov (FEMA) _(government)_. Two ways out of every room; crawl low under smoke; feel doors before opening; practise twice a year.
+- *Preparing Homes for Wildfire (Firewise USA, the home ignition zone)* — National Fire Protection Association (NFPA) _(organization)_. Immediate (0–5 ft), intermediate (5–30 ft) and extended (30–100 ft) zones. Find it on nfpa.org.
+- *Ready, Set, Go! wildland fire action program* — International Association of Fire Chiefs _(organization)_. Prepare early, stay aware, leave early.
 
 ## Water
 
@@ -108,6 +112,7 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - *Ultraviolet Disinfection Guidance Manual for the Final Long Term 2 Enhanced Surface Water Treatment Rule* — US Environmental Protection Agency, 2006 _(government)_. UV dose requirements (mJ/cm²) for Cryptosporidium, Giardia and viruses.
 - [WMS Clinical Practice Guidelines for the Management of Exercise-Associated Hyponatremia: 2019 Update](https://journals.sagepub.com/doi/10.1016/j.wem.2019.11.003) — Bennett BL, Hew-Butler T, Rosner MH, Myers T, Lipman GS, Wilderness Medical Society, 2020 _(guideline)_. Drink to thirst; EAH mimics heat illness.
 - *Oral Rehydration Salts: Production of the New ORS* — World Health Organization / UNICEF, 2006 _(guideline)_. WHO/FCH/CAH/06.1. Reduced-osmolarity ORS: 75 mmol/L sodium, 75 mmol/L glucose, 245 mOsm/L.
+- *The Sphere Handbook: Humanitarian Charter and Minimum Standards in Humanitarian Response* — Sphere Association, 2018 _(guideline)_. WASH chapter: average of at least 15 L of water per person per day for drinking, cooking and personal hygiene in emergencies; toilet and hand-washing standards.
 
 ## Shelter
 
@@ -146,6 +151,7 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Freshwater rod fishing rules](https://www.gov.uk/freshwater-rod-fishing-rules) — UK Government (Environment Agency) _(regulation)_. Close seasons, size limits, permitted baits and methods (England).
 - [International Hunter Education Association](https://www.ihea-usa.org/) _(training)_. Hunter education courses — required for a licence in many jurisdictions.
 - *A Field Guide to Edible Wild Plants: Eastern and Central North America (Peterson Field Guides)* — Lee Allen Peterson _(book)_. Regional only — use as one input alongside a botanical key and an in-person expert, never alone.
+- *Wildlife and Countryside Act 1981, section 13 (protection of wild plants)* — UK Parliament _(regulation)_. Uprooting any wild plant without the landowner’s authorisation is an offence; listed species are fully protected.
 - *The Biology of Human Starvation* — Keys A, Brožek J, Henschel A, Mickelsen O, Taylor HL, 1950 _(book)_. The Minnesota Starvation Experiment: physical and psychological effects of prolonged semi-starvation.
 
 ## Bushcraft and primitive skills
@@ -158,6 +164,19 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Society of Primitive Technology](https://www.primitive.org/) _(organization)_
 - [Wood Handbook: Wood as an Engineering Material (FPL-GTR-282)](https://research.fs.usda.gov/treesearch/62200) — Robert J. Ross (ed.), USDA Forest Service, Forest Products Laboratory, 2021 _(government)_. Moisture content definitions, density, thermal properties and fire performance of wood.
 - [IOL Bushcraft Competency Certificate (includes a bow-drill unit)](https://www.outdoor-learning.org/standards/iol-awards-and-accreditation/bushcraft/bushcraft-competency-certificate.html) — Institute for Outdoor Learning (UK) _(training)_
+- *Primitive Technology: A Book of Earth Skills* — David Wescott (ed.), Society of Primitive Technology / Gibbs Smith, 1999 _(book)_. Practitioner articles on cordage, containers, knapping, adhesives, pigments and fire, from the Bulletin of Primitive Technology.
+- *Structural Mechanics of Fibers, Yarns, and Fabrics* — J. W. S. Hearle, P. Grosberg, S. Backer, 1969 _(book)_. The classic analysis of twist, helix angle, fiber migration and yarn strength.
+- *Handbook of Fibre Rope Technology* — H. A. McKenna, J. W. S. Hearle, N. O’Hear, Woodhead Publishing, 2004 _(book)_. Rope structures, natural and synthetic fibers, knot and bend efficiency.
+- *The Ashley Book of Knots* — Clifford W. Ashley, 1944 _(book)_. The standard encyclopedia of knots, bends, hitches and lashings.
+- *Engineering Mechanics: Statics* — R. C. Hibbeler _(book)_. Standard textbook treatment of belt (capstan) friction, wedges and cables.
+- *Flintknapping: Making and Understanding Stone Tools* — John C. Whittaker, University of Texas Press, 1994 _(book)_. Fracture mechanics, techniques and safety, by an archaeologist-knapper.
+- [Silica, Crystalline](https://www.osha.gov/silica-crystalline) — US Occupational Safety and Health Administration _(government)_. Health effects of respirable crystalline silica (silicosis) and dust controls.
+- [Silica and Worker Health](https://www.cdc.gov/niosh/silica/about/index.html) — US NIOSH / CDC _(government)_
+- [Experimental methods for the Palaeolithic dry distillation of birch bark: implications for the origin and development of Neandertal adhesive technology](https://doi.org/10.1038/s41598-017-08106-7) — Kozowyk PRB, Soressi M, Pomstra D, Langejans GHJ, 2017 _(paper)_. Scientific Reports 7:8033.
+- [Implications for complex cognition from the hafting of tools with compound adhesives in the Middle Stone Age, South Africa](https://doi.org/10.1073/pnas.0900957106) — Wadley L, Hodgskiss T, Grant M, 2009 _(paper)_. PNAS 106(24):9590–9594. Plant gum + ochre compound adhesives.
+- [Simple technologies for charcoal making (FAO Forestry Paper 41)](https://www.fao.org/4/x5328e/x5328e00.htm) — Food and Agriculture Organization of the United Nations, 1987 _(guideline)_. Carbonisation stages, kiln types and yields.
+- [When a felling licence is needed](https://www.gov.uk/guidance/tree-felling-licence-when-you-need-to-apply) — Forestry Commission (GOV.UK) _(regulation)_. Example of tree-felling control: in England a licence is generally needed above 5 m³ per calendar quarter.
+- [Selling, buying and carrying knives and weapons](https://www.gov.uk/buying-carrying-knives) — GOV.UK _(regulation)_. Example of knife-carry law: non-locking folders with blades up to 3 inches.
 
 ## Physiology
 
@@ -217,6 +236,8 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Carbon Monoxide Poisoning Basics](https://www.cdc.gov/carbon-monoxide/about/index.html) — US Centers for Disease Control and Prevention _(government)_. Sources, symptoms and prevention, including camp stoves and generators.
 - [Preventing Mosquito Bites](https://www.cdc.gov/mosquitoes/prevention/index.html) — US Centers for Disease Control and Prevention _(government)_. EPA-registered repellents (DEET, picaridin, OLE), permethrin-treated clothing, nets and screens.
 - [Poison Help (1-800-222-1222, US)](https://poisonhelp.hrsa.gov/) — US Health Resources and Services Administration _(government)_. Connects to the local poison centre in the US. Outside the US, find your national poison centre before a trip.
+- [Silica, Crystalline](https://www.osha.gov/silica-crystalline) — US Occupational Safety and Health Administration _(government)_. Health effects of respirable crystalline silica (silicosis) and dust controls.
+- [Silica and Worker Health](https://www.cdc.gov/niosh/silica/about/index.html) — US NIOSH / CDC _(government)_
 - [WMS Clinical Practice Guidelines for the Prevention, Diagnosis, and Treatment of Acute Altitude Illness: 2024 Update](https://journals.sagepub.com/doi/10.1016/j.wem.2023.05.013) — Luks AM, Beidleman BA, Freer L, et al., Wilderness Medical Society, 2024 _(guideline)_. Wilderness & Environmental Medicine 35(1S):2S–19S. Ascent rates, AMS/HACE/HAPE prevention and treatment.
 - [WMS Clinical Practice Guidelines for the Management of Exercise-Associated Hyponatremia: 2019 Update](https://journals.sagepub.com/doi/10.1016/j.wem.2019.11.003) — Bennett BL, Hew-Butler T, Rosner MH, Myers T, Lipman GS, Wilderness Medical Society, 2020 _(guideline)_. Drink to thirst; EAH mimics heat illness.
 - [WMS Clinical Practice Guidelines for the Treatment and Prevention of Drowning: 2024 Update](https://journals.sagepub.com/doi/10.1177/10806032241227460) — Davis CA, Schmidt AC, Sempsrott JR, et al., Wilderness Medical Society, 2024 _(guideline)_
@@ -233,6 +254,7 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Stop the Bleed](https://www.stopthebleed.org/) — American College of Surgeons _(training)_. Short hands-on bleeding-control course: pressure, packing, tourniquets.
 - *Advanced Trauma Life Support (ATLS) Student Course Manual* — American College of Surgeons, 10th ed., 2018 _(book)_. Source of the haemorrhage classes (I–IV by % blood volume lost) used in teaching.
 - *Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Lightning Injuries: 2014 Update* — Davis C, Engeln A, Johnson EL, et al., 2014 _(guideline)_. Wilderness & Environmental Medicine 25(4 Suppl):S86–S95. Check for a newer revision.
+- [Community Emergency Response Team (CERT)](https://fema.gov/cert) — FEMA _(training)_. Volunteer training in disaster preparedness, fire safety, light search and rescue, team organisation and disaster medical operations.
 
 ## Improvisation
 
@@ -282,12 +304,23 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - *Staying Alive in Avalanche Terrain* — Bruce Tremper, 3rd ed., 2018 _(book)_. The standard recreational avalanche text. No substitute for a course.
 - *The Avalanche Handbook* — David McClung and Peter Schaerer, 3rd ed., 2006 _(book)_. Technical reference on snowpack and avalanche mechanics.
 - [Landslide Hazards Program](https://www.usgs.gov/programs/landslide-hazards) — US Geological Survey _(government)_. Landslide basics, post-fire debris-flow hazards.
+- [Earthquakes](https://www.ready.gov/earthquakes) — Ready.gov (FEMA) _(government)_. Drop, Cover, Hold On; in bed, face down with a pillow over head and neck; if trapped, text or bang on a pipe.
+- [Floods](https://www.ready.gov/floods) — Ready.gov (FEMA) _(government)_. 6 in of moving water can knock you down; 1 ft can sweep a vehicle away.
+- [Tsunamis](https://www.ready.gov/tsunamis) — Ready.gov (FEMA) _(government)_. Natural warnings: a coastal earthquake, an ocean roar, the sea suddenly rising or draining — evacuate without waiting for an official warning.
+- [Drop, Cover, and Hold On](https://www.shakeout.org/dropcoverholdon/) — Great ShakeOut / Earthquake Country Alliance _(organization)_. Explains why doorways, running outside and the “triangle of life” are not recommended.
+- *Aftershock forecasts and aftershock basics* — US Geological Survey Earthquake Hazards Program _(government)_. Aftershock rates decay roughly as 1/time (Omori); the largest aftershock is often about one magnitude unit smaller than the main shock. Find it on usgs.gov.
+- *Get Ready (national preparedness guidance)* — New Zealand National Emergency Management Agency _(government)_. Includes the coastal rule “Long or strong, get gone” and emergency toilet guidance. Find it via getready.govt.nz.
 
 ## Rope and knots
 
 - [Mountaineering: The Freedom of the Hills (10th ed.)](https://www.mountaineers.org/books/books/mountaineering-the-freedom-of-the-hills-10th-edition) — The Mountaineers _(book)_. The standard mountaineering text since 1960, revised by committee.
 - [Animated Knots](https://www.animatedknots.com/) _(tool)_
 - [UIAA — International Climbing and Mountaineering Federation](https://www.theuiaa.org/) _(organization)_
+- *Structural Mechanics of Fibers, Yarns, and Fabrics* — J. W. S. Hearle, P. Grosberg, S. Backer, 1969 _(book)_. The classic analysis of twist, helix angle, fiber migration and yarn strength.
+- *Handbook of Fibre Rope Technology* — H. A. McKenna, J. W. S. Hearle, N. O’Hear, Woodhead Publishing, 2004 _(book)_. Rope structures, natural and synthetic fibers, knot and bend efficiency.
+- [Cordage Institute (rope and cordage standards)](https://www.ropecord.com/) _(organization)_. Industry standards for rope testing, safety factors and D/d bend ratios.
+- *The Ashley Book of Knots* — Clifford W. Ashley, 1944 _(book)_. The standard encyclopedia of knots, bends, hitches and lashings.
+- *Engineering Mechanics: Statics* — R. C. Hibbeler _(book)_. Standard textbook treatment of belt (capstan) friction, wedges and cables.
 
 ## Signaling and rescue
 
@@ -303,6 +336,8 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - *Annex 12 to the Chicago Convention — Search and Rescue (ground–air visual signal code)* — ICAO _(guideline)_
 - [GPS.gov — official US government information about GPS](https://www.gps.gov/) _(government)_
 - [AdventureSmart — trip planning and “if lost” guidance](https://www.adventuresmart.ca/) — Canada’s national SAR prevention program _(government)_
+- [Emergency Alerts](https://www.ready.gov/alerts) — Ready.gov (FEMA) _(government)_. Wireless Emergency Alerts, EAS, NOAA Weather Radio, IPAWS.
+- *European Electronic Communications Code (Directive (EU) 2018/1972), Article 110: public warning systems* — European Union, 2018 _(regulation)_. Requires member states to deliver public warnings to mobile phones in the affected area (e.g., cell broadcast, “EU-Alert”).
 
 ## Survival psychology
 
@@ -330,6 +365,22 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Extreme Heat](https://www.ready.gov/heat) — Ready.gov (FEMA) _(government)_
 - [Winter Weather](https://www.ready.gov/winter-weather) — Ready.gov (FEMA) _(government)_. Includes carbon-monoxide and generator safety.
 - [Food Safety During Power Outage](https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage) — FoodSafety.gov (USDA/FDA/CDC) _(government)_. Fridge ~4 h; full freezer ~48 h (24 h half full); never taste to decide.
+- [Power Outages](https://www.ready.gov/power-outages) — Ready.gov (FEMA) _(government)_. Generators outdoors ≥ 20 ft from windows and doors; fridge ~4 h, full freezer ~48 h; medical devices; unplug appliances.
+- [Earthquakes](https://www.ready.gov/earthquakes) — Ready.gov (FEMA) _(government)_. Drop, Cover, Hold On; in bed, face down with a pillow over head and neck; if trapped, text or bang on a pipe.
+- [Floods](https://www.ready.gov/floods) — Ready.gov (FEMA) _(government)_. 6 in of moving water can knock you down; 1 ft can sweep a vehicle away.
+- [Shelter (mass care and sheltering in place)](https://www.ready.gov/shelter) — Ready.gov (FEMA) _(government)_
+- [Home Fires](https://www.ready.gov/home-fires) — Ready.gov (FEMA) _(government)_. Two ways out of every room; crawl low under smoke; feel doors before opening; practise twice a year.
+- [Emergency Alerts](https://www.ready.gov/alerts) — Ready.gov (FEMA) _(government)_. Wireless Emergency Alerts, EAS, NOAA Weather Radio, IPAWS.
+- [Prepare Your Pets for Disasters](https://www.ready.gov/pets) — Ready.gov (FEMA) _(government)_
+- [Older Adults](https://www.ready.gov/older-adults) — Ready.gov (FEMA) _(government)_
+- [Tsunamis](https://www.ready.gov/tsunamis) — Ready.gov (FEMA) _(government)_. Natural warnings: a coastal earthquake, an ocean roar, the sea suddenly rising or draining — evacuate without waiting for an official warning.
+- [Community Emergency Response Team (CERT)](https://fema.gov/cert) — FEMA _(training)_. Volunteer training in disaster preparedness, fire safety, light search and rescue, team organisation and disaster medical operations.
+- [Drop, Cover, and Hold On](https://www.shakeout.org/dropcoverholdon/) — Great ShakeOut / Earthquake Country Alliance _(organization)_. Explains why doorways, running outside and the “triangle of life” are not recommended.
+- *Preparing Homes for Wildfire (Firewise USA, the home ignition zone)* — National Fire Protection Association (NFPA) _(organization)_. Immediate (0–5 ft), intermediate (5–30 ft) and extended (30–100 ft) zones. Find it on nfpa.org.
+- *Ready, Set, Go! wildland fire action program* — International Association of Fire Chiefs _(organization)_. Prepare early, stay aware, leave early.
+- *The Sphere Handbook: Humanitarian Charter and Minimum Standards in Humanitarian Response* — Sphere Association, 2018 _(guideline)_. WASH chapter: average of at least 15 L of water per person per day for drinking, cooking and personal hygiene in emergencies; toilet and hand-washing standards.
+- *European Electronic Communications Code (Directive (EU) 2018/1972), Article 110: public warning systems* — European Union, 2018 _(regulation)_. Requires member states to deliver public warnings to mobile phones in the affected area (e.g., cell broadcast, “EU-Alert”).
+- *Get Ready (national preparedness guidance)* — New Zealand National Emergency Management Agency _(government)_. Includes the coastal rule “Long or strong, get gone” and emergency toilet guidance. Find it via getready.govt.nz.
 
 ## Vehicle and travel
 
@@ -355,6 +406,11 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [NOAA Fisheries](https://www.fisheries.noaa.gov/) — US National Oceanic and Atmospheric Administration _(government)_. Federal marine fishing rules; states regulate near-shore and fresh water.
 - [Freshwater rod fishing rules](https://www.gov.uk/freshwater-rod-fishing-rules) — UK Government (Environment Agency) _(regulation)_. Close seasons, size limits, permitted baits and methods (England).
 - [International Hunter Education Association](https://www.ihea-usa.org/) _(training)_. Hunter education courses — required for a licence in many jurisdictions.
+- [When a felling licence is needed](https://www.gov.uk/guidance/tree-felling-licence-when-you-need-to-apply) — Forestry Commission (GOV.UK) _(regulation)_. Example of tree-felling control: in England a licence is generally needed above 5 m³ per calendar quarter.
+- [Selling, buying and carrying knives and weapons](https://www.gov.uk/buying-carrying-knives) — GOV.UK _(regulation)_. Example of knife-carry law: non-locking folders with blades up to 3 inches.
+- *36 CFR §2.1 — Preservation of natural, cultural and archeological resources* — US National Park Service (Code of Federal Regulations) _(regulation)_. Prohibits removing or disturbing plants, rocks, minerals and cultural resources in US national parks, except as permitted.
+- *Wildlife and Countryside Act 1981, section 13 (protection of wild plants)* — UK Parliament _(regulation)_. Uprooting any wild plant without the landowner’s authorisation is an offence; listed species are fully protected.
+- *Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa–mm)* — US Congress _(regulation)_. Prohibits excavating or removing archaeological resources from US federal and tribal lands without a permit.
 
 ## Law varies by jurisdiction
 

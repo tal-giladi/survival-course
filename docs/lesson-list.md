@@ -111,7 +111,7 @@ Requires stages: 1, 4 · Environments: forest, coastal, tropical, arctic, urban 
 | s6-l7 | Fishing | Intermediate | s6-l3 Food safety and cooking | Regulations; Simple gear; Energy return |
 | s6-l8 | Trapping and hunting concepts | Advanced | s6-l7 Fishing | Law and ethics; Energy economics; Supervised instruction only |
 
-## Stage 7 — Primitive Skills and Bushcraft (Intermediate) 🗺️ planned
+## Stage 7 — Primitive Skills and Bushcraft (Intermediate) ✅ built
 
 The engineering behind cordage, lashings, containers, tools, adhesives and charcoal.
 
@@ -246,7 +246,7 @@ Requires stages: 1 · Environments: all · Simulations: priority-dilemmas
 | s15-l3 | Isolation, uncertainty and fatigue | Advanced | s8-l7 Sleep, fatigue and cognition | Decision fatigue; Emotional regulation |
 | s15-l4 | Leadership and group survival | Advanced | s15-l2 Cognitive bias in the field | Roles; Conflict; Morale |
 
-## Stage 16 — Urban and Disaster Survival (Intermediate) 🗺️ planned
+## Stage 16 — Urban and Disaster Survival (Intermediate) ✅ built
 
 Earthquakes, floods, fires, outages and infrastructure failure — at home and in the city.
 
