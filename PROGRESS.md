@@ -29,8 +29,9 @@ Source brief: `plan.md`. Resume from the first unchecked item.
 ## Phase 2 — remaining stages (started 2026-09-27)
 Per-stage modules: content/stages/stageN, diagrams/stageN.tsx, sims/stageN (see docs/AUTHORING.md).
 Stages written in parallel git worktrees by agents, merged to main, then status flipped in curriculum.ts.
-- [ ] Batch A: stages 2, 3, 4, 5, 8
+- [x] Batch A: stages 2, 3, 4, 5, 8
 - [ ] Batch B: stages 6, 7, 9, 10, 11, 12
 - [ ] Batch C: stages 13, 14, 15, 16, 17, 18
 - [x] Stage 19: 12 capstone scenarios + final assessment page
 - [ ] Regenerate docs, deploy
+- Also done: stages 6, 9, 12 (batch B partial). Remaining: 7, 10, 11, 13, 14, 15, 16, 17, 18. Merge with scripts/merge-stage.sh <branch> <n> <title>.

@@ -25,7 +25,7 @@ Requires stages: — · Environments: forest, desert, mountain, urban, coastal �
 | s1-l13 | Emergency signaling | Beginner | s1-l3 Situation assessment: STOP | Phones and emergency numbers; Whistle, mirror, light; Groups of three; Being visible |
 | s1-l14 | Putting it together: the first hour | Beginner | s1-l6 Emergency decision making; s1-l10 Basic shelter; s1-l11 Basic fire; s1-l12 Basic water; s1-l13 Emergency signaling | Integrated scenario; Stage review |
 
-## Stage 2 — Navigation and Terrain (Beginner) 🗺️ planned
+## Stage 2 — Navigation and Terrain (Beginner) ✅ built
 
 From reading a map to navigating without instruments, and recovering when navigation fails.
 
@@ -46,7 +46,7 @@ Requires stages: 1 · Environments: forest, mountain, desert, arctic · Simulati
 | s2-l11 | GPS and digital maps | Beginner | s2-l1 Maps and scale | How GNSS works; Coordinate formats; Battery strategy; Offline maps |
 | s2-l12 | When navigation fails | Advanced | s2-l7 Triangulation and relocation; s2-l10 Natural navigation; s2-l11 GPS and digital maps | Recognising you are lost; Lost-person behavior; Navigating without equipment |
 
-## Stage 3 — Fire and Heat (Intermediate) 🗺️ planned
+## Stage 3 — Fire and Heat (Intermediate) ✅ built
 
 Combustion science, fire lays for different jobs, wet-weather and primitive ignition, and fire management.
 
@@ -63,7 +63,7 @@ Requires stages: 1 · Environments: forest, desert, arctic, tropical · Simulati
 | s3-l7 | Heating and reflecting | Intermediate | s3-l3 Fire lays and their purposes; s1-l7 Your body’s heat budget | Radiant heat geometry; Reflectors; Long-duration fires |
 | s3-l8 | Fire safety, law and impact | Beginner | s1-l11 Basic fire | Fire bans; Wildfire risk; Extinguishing; Leave No Trace |
 
-## Stage 4 — Water (Intermediate) 🗺️ planned
+## Stage 4 — Water (Intermediate) ✅ built
 
 Requirements and dehydration physiology, finding and collecting water in every biome, and the science of treatment.
 
@@ -78,7 +78,7 @@ Requires stages: 1 · Environments: desert, coastal, forest, arctic, urban · Si
 | s4-l5 | Treatment science | Advanced | s4-l4 Contamination | Log reductions; CT values; Filtration pore sizes; UV dose |
 | s4-l6 | Improvised treatment and storage | Intermediate | s4-l5 Treatment science | Sediment filters; SODIS; Safe storage |
 
-## Stage 5 — Shelter (Intermediate) 🗺️ planned
+## Stage 5 — Shelter (Intermediate) ✅ built
 
 Designing shelters from heat-transfer principles for rain, wind, snow, cold, heat and tropics.
 
@@ -94,7 +94,7 @@ Requires stages: 1 · Environments: forest, arctic, desert, tropical, mountain �
 | s5-l6 | Hot-climate and tropical shelters | Advanced | s5-l1 Shelter design principles | Shade and double roofs; Raised beds; Insects |
 | s5-l7 | Shelter failure analysis | Advanced | s5-l3 Tarp configurations; s5-l4 Natural shelters | Case studies; Optimisation |
 
-## Stage 6 — Food and Nutrition (Intermediate) 🗺️ planned
+## Stage 6 — Food and Nutrition (Intermediate) ✅ built
 
 Energy budgets, emergency food management, and safe, legal approaches to foraging, fishing, trapping and hunting concepts.
 
@@ -126,7 +126,7 @@ Requires stages: 1, 3 · Environments: forest, tropical, desert · Simulations: 
 | s7-l5 | Stone, bone and antler | Advanced | s7-l4 Knife and wood tools | Conchoidal fracture; Flintknapping safety; Bone tools |
 | s7-l6 | Adhesives, charcoal, pigments and smoke | Advanced | s3-l1 Combustion science | Pine pitch glue; Charcoal making; Pigments; Smoke production |
 
-## Stage 8 — Physiology of Survival (Intermediate) 🗺️ planned
+## Stage 8 — Physiology of Survival (Intermediate) ✅ built
 
 Thermoregulation, hydration, energy metabolism, sleep, altitude and immersion — quantitatively.
 
@@ -144,7 +144,7 @@ Requires stages: 1 · Environments: arctic, desert, mountain, coastal · Simulat
 | s8-l8 | Altitude | Advanced | s8-l1 Thermoregulation and core temperature | Hypoxia; AMS, HAPE, HACE; Ascent rates |
 | s8-l9 | Cold water and immersion | Advanced | s8-l3 Hypothermia | Cold shock; 1-10-1; Swim failure; HELP posture |
 
-## Stage 9 — Wilderness First Aid (Intermediate) 🗺️ planned
+## Stage 9 — Wilderness First Aid (Intermediate) ✅ built
 
 Patient assessment and remote-setting care. A knowledge primer that points to hands-on certification.
 
@@ -191,7 +191,7 @@ Requires stages: 1, 2 · Environments: forest, desert, arctic, coastal · Simula
 | s11-l5 | Reading the landscape for resources | Intermediate | s11-l4 Sign: trails, feeding, beds, scat; s4-l2 Finding water | Water-related sign; Game trails as handrails |
 | s11-l6 | Human tracks and search support | Advanced | s11-l3 Aging sign | Sign cutting for SAR; Last known point |
 
-## Stage 12 — Weather and Environmental Hazards (Intermediate) 🗺️ planned
+## Stage 12 — Weather and Environmental Hazards (Intermediate) ✅ built
 
 Recognising hazards before they become emergencies: storms, lightning, floods, fire, avalanches and terrain.
 
@@ -200,7 +200,7 @@ Requires stages: 1, 2 · Environments: mountain, desert, arctic, forest, coastal
 | ID | Lesson | Level | Prerequisites | Topics |
 |---|---|---|---|---|
 | s12-l1 | Clouds and weather patterns | Intermediate | s1-l4 Risk management | Cloud types; Fronts; Pressure trends |
-| s12-l2 | Thunderstorms and lightning | Intermediate | s12-l1 Clouds and weather patterns | Storm development; Lightning physics; 30-second rule |
+| s12-l2 | Thunderstorms and lightning | Intermediate | s12-l1 Clouds and weather patterns | Storm development; Lightning physics; Move at first thunder, 30-minute wait |
 | s12-l3 | Flash floods and water crossings | Advanced | s12-l2 Thunderstorms and lightning; s2-l2 Reading topography | Catchments; Force of moving water; When not to cross |
 | s12-l4 | Heat, cold, wind, snow and ice | Intermediate | s8-l2 Heat-loss mechanisms quantified | Forecast interpretation; Ice hazards |
 | s12-l5 | Wildfire | Intermediate | s12-l1 Clouds and weather patterns | Fire behavior triangle; Escape routes; Safety zones |
@@ -286,7 +286,7 @@ Requires stages: 3, 4, 5, 6, 8 · Environments: forest, tropical, arctic, coasta
 | s18-l3 | Maintenance and repair | Advanced | s10-l4 Repair systems | Tools; Clothing; Repeated fire and water |
 | s18-l4 | Sleep, morale and planning ahead | Advanced | s15-l3 Isolation, uncertainty and fatigue | Several-day planning; Morale |
 
-## Stage 19 — Capstone Scenarios (Expert) 🗺️ planned
+## Stage 19 — Capstone Scenarios (Expert) ✅ built
 
 Twelve integrated scenarios combining every stage, followed by the final assessment.
 
