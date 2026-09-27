@@ -105,7 +105,7 @@ export const stages: Stage[] = [
     level: 'intermediate',
     summary: 'Designing shelters from heat-transfer principles for rain, wind, snow, cold, heat and tropics.',
     requires: [1],
-    status: 'planned',
+    status: 'available',
     environments: ['forest', 'arctic', 'desert', 'tropical', 'mountain'],
     simulations: ['shelter-builder'],
     outline: [

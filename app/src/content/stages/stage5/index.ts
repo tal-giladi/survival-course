@@ -11,11 +11,9 @@ import { stage5Review } from './review'
 export const stage5Lessons: Lesson[] = [l01, l02, l03, l04, l05, l06, l07]
 
 const references: Reference[] = [
-  { id: 'cdc-co', kind: 'government', title: 'Carbon Monoxide Poisoning Basics', org: 'US Centers for Disease Control and Prevention', subjects: ['shelter', 'physiology', 'urban'], url: 'https://www.cdc.gov/carbon-monoxide/about/index.html', note: 'Symptoms (headache, dizziness, weakness, nausea, confusion) and prevention.' },
   { id: 'cdc-mosquito', kind: 'government', title: 'Preventing Mosquito Bites', org: 'US Centers for Disease Control and Prevention', subjects: ['shelter', 'first-aid'], url: 'https://www.cdc.gov/mosquitoes/prevention/index.html', note: 'EPA-registered repellents (DEET, picaridin, OLE), permethrin-treated clothing, nets and screens.' },
   { id: 'ready-heat', kind: 'government', title: 'Extreme Heat', org: 'Ready.gov (FEMA)', subjects: ['urban', 'physiology'], url: 'https://www.ready.gov/heat' },
   { id: 'ready-winter', kind: 'government', title: 'Winter Weather', org: 'Ready.gov (FEMA)', subjects: ['urban', 'physiology'], url: 'https://www.ready.gov/winter-weather', note: 'Includes carbon-monoxide and generator safety.' },
-  { id: 'avalanche-canada', kind: 'organization', title: 'Avalanche Canada', url: 'https://www.avalanche.ca/', subjects: ['hazards'], note: 'National avalanche forecasts and training information.' },
   { id: 'nps-camping', kind: 'government', title: 'Camping', org: 'US National Park Service', subjects: ['shelter', 'law'], url: 'https://www.nps.gov/subjects/camping/index.htm', note: 'Backcountry permits and park-specific camping rules.' },
   { id: 'sturm-snow-1997', kind: 'paper', title: 'The thermal conductivity of seasonal snow', author: 'Sturm M, Holmgren J, König M, Morris K', year: '1997', subjects: ['shelter', 'physiology'], note: 'Journal of Glaciology 43(143):26–41. Field measurements and the density–conductivity regression used in Lesson 5.' },
 ]
