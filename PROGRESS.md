@@ -38,3 +38,6 @@ Stages written in parallel git worktrees by agents, merged to main, then status 
 - Done 2026-09-27: stages 1-9, 12, 16, 19 published. REMAINING: 10, 11, 13, 14, 15, 17, 18.
   To resume: one agent per stage in a worktree using the prompt pattern in docs/AUTHORING.md (reuse existing reference ids),
   then `scripts/merge-stage.sh <branch> <n> "<title>"`, then `cd app && npm run gen-docs`.
+- Session 2026-09-27 (cont.): agents launched in worktrees for stages 10, 11, 13, 14, 15, 17, 18. Work lands on branch
+  claude/intelligent-clarke-5qjryr (merge-stage.sh pushes the current branch). Tick each stage here after merge:
+  - [ ] 10  - [ ] 11  - [ ] 13  - [ ] 14  - [ ] 15  - [ ] 17  - [ ] 18
