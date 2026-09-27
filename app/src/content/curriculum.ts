@@ -317,7 +317,7 @@ export const stages: Stage[] = [
     level: 'intermediate',
     summary: 'Earthquakes, floods, fires, outages and infrastructure failure — at home and in the city.',
     requires: [1],
-    status: 'planned',
+    status: 'available',
     environments: ['urban', 'rural'],
     simulations: ['home-kit', 'outage-72h'],
     outline: [
