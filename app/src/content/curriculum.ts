@@ -209,7 +209,7 @@ export const stages: Stage[] = [
     level: 'intermediate',
     summary: 'A problem-solving method for turning ordinary objects into what you need.',
     requires: [1, 7],
-    status: 'planned',
+    status: 'available',
     environments: ['all'],
     simulations: ['improvise-challenge'],
     outline: [
