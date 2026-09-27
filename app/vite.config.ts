@@ -1,7 +1,8 @@
 import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'
 
-// https://vite.dev/config/
+// Relative base so the static build works on GitHub Pages under any repo path.
 export default defineConfig({
+  base: './',
   plugins: [react()],
 })

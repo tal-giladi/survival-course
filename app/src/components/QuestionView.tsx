@@ -67,7 +67,7 @@ export function QuestionView({
     setOrder(next)
   }
 
-  const optionClass = (id: string, chosen: boolean, correct: boolean) =>
+  const optionClass = (chosen: boolean, correct: boolean) =>
     'option' + (chosen ? ' chosen' : '') + (done !== null ? (correct ? ' right' : chosen ? ' wrong' : '') : '')
 
   return (
@@ -82,7 +82,7 @@ export function QuestionView({
       {q.kind === 'single' && (
         <div className="options">
           {q.choices.map((c) => (
-            <button key={c.id} disabled={done !== null} className={optionClass(c.id, single === c.id, c.id === q.answer)} onClick={() => setSingle(c.id)}>
+            <button key={c.id} disabled={done !== null} className={optionClass(single === c.id, c.id === q.answer)} onClick={() => setSingle(c.id)}>
               <Markdown md={c.text} inline />
               {done !== null && <div className="why"><Markdown md={c.why} inline /></div>}
             </button>
@@ -95,7 +95,7 @@ export function QuestionView({
           {q.choices.map((c) => {
             const on = multi.includes(c.id)
             return (
-              <button key={c.id} disabled={done !== null} className={optionClass(c.id, on, q.answer.includes(c.id))} onClick={() => setMulti(on ? multi.filter((x) => x !== c.id) : [...multi, c.id])}>
+              <button key={c.id} disabled={done !== null} className={optionClass(on, q.answer.includes(c.id))} onClick={() => setMulti(on ? multi.filter((x) => x !== c.id) : [...multi, c.id])}>
                 <span className="check">{on ? '☑' : '☐'}</span> <Markdown md={c.text} inline />
                 {done !== null && <div className="why"><Markdown md={c.why} inline /></div>}
               </button>
@@ -107,7 +107,7 @@ export function QuestionView({
       {q.kind === 'truefalse' && (
         <div className="options row">
           {[true, false].map((v) => (
-            <button key={String(v)} disabled={done !== null} className={optionClass(String(v), single === v, v === q.answer)} onClick={() => setSingle(v)}>
+            <button key={String(v)} disabled={done !== null} className={optionClass(single === v, v === q.answer)} onClick={() => setSingle(v)}>
               {v ? 'True' : 'False'}
             </button>
           ))}
