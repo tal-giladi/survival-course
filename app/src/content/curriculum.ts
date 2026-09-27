@@ -165,7 +165,7 @@ export const stages: Stage[] = [
     level: 'intermediate',
     summary: 'Thermoregulation, hydration, energy metabolism, sleep, altitude and immersion — quantitatively.',
     requires: [1],
-    status: 'planned',
+    status: 'available',
     environments: ['arctic', 'desert', 'mountain', 'coastal'],
     simulations: ['heat-balance-advanced', 'cold-water'],
     outline: [
