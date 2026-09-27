@@ -16,6 +16,8 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - *Deep Survival: Who Lives, Who Dies, and Why* — Laurence Gonzales, 2003 _(book)_. Narrative synthesis of case studies and neuroscience. Journalism, not research — but widely used by trainers.
 - *98.6 Degrees: The Art of Keeping Your Ass Alive* — Cody Lundin, 2003 _(book)_. Readable and correctly centred on core temperature; pair with USARIEM and WMS for evidence.
 - [Make a Plan](https://www.ready.gov/plan) — Ready.gov (FEMA) _(government)_
+- *Mountaincraft and Leadership* — Eric Langmuir, Mountain Training, 4th ed., 2013 _(book)_. The UK leader-training text; source of the common Naismith/Langmuir timing corrections.
+- [AdventureSmart — trip planning and “if lost” guidance](https://www.adventuresmart.ca/) — Canada’s national SAR prevention program _(government)_
 
 ## Clothing and equipment
 
@@ -38,6 +40,22 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [MapZone map-reading resources](https://www.ordnancesurvey.co.uk/mapzone) — Ordnance Survey _(government)_
 - [International Orienteering Federation](https://orienteering.sport/) _(organization)_
 - *Be Expert with Map and Compass* — Björn Kjellström _(book)_. The classic civilian compass text.
+- [World Magnetic Model (WMM2025)](https://www.ncei.noaa.gov/products/world-magnetic-model) — NOAA NCEI / British Geological Survey, 2025 _(government)_. The standard model of Earth’s magnetic field behind declination values on maps, phones and GPS units; valid to late 2029.
+- [Topographic Maps (US Topo, historical topos, topoBuilder)](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps) — USGS National Geospatial Program _(government)_
+- [Orienteering USA — find a club and practice courses](https://orienteeringusa.org/) _(organization)_
+- [British Orienteering — clubs, permanent courses and coaching](https://www.britishorienteering.org.uk/) _(organization)_
+- *TC 3-25.26 Map Reading and Land Navigation* — US Army, 2013 _(government)_. Military land-navigation manual: grid references, declination diagrams, resection, dead reckoning. Use with judgment for civilian contexts.
+- *Mountaincraft and Leadership* — Eric Langmuir, Mountain Training, 4th ed., 2013 _(book)_. The UK leader-training text; source of the common Naismith/Langmuir timing corrections.
+- *Cruach Ardran, Stobinian, and Ben More* — William W. Naismith, 1892 _(paper)_. Scottish Mountaineering Club Journal 2(3):136. A one-paragraph note that became “Naismith’s rule”.
+- [The Natural Navigator](https://www.naturalnavigator.com/) — Tristan Gooley _(organization)_. Popular (not peer-reviewed) but careful modern writing on sun, star, plant and weather clues, including their limits.
+- [NOAA Solar Calculator](https://gml.noaa.gov/grad/solcalc/) — NOAA Global Monitoring Laboratory _(tool)_. Sunrise, sunset, solar noon and solar azimuth/elevation for any place and date. No longer actively maintained, but still accurate for learning.
+- [General Solar Position Calculations](https://gml.noaa.gov/grad/solcalc/solareqns.PDF) — NOAA Global Monitoring Laboratory _(government)_. Two-page summary of the declination, equation-of-time and hour-angle formulas used in this stage’s celestial simulator.
+- *Astronomical Algorithms (2nd ed.)* — Jean Meeus, 1998 _(book)_. The standard reference for computing Sun, Moon and star positions.
+- [Moon Phases](https://science.nasa.gov/moon/moon-phases/) — NASA Science _(government)_
+- [GPS.gov — official US government information about GPS](https://www.gps.gov/) _(government)_
+- [AdventureSmart — trip planning and “if lost” guidance](https://www.adventuresmart.ca/) — Canada’s national SAR prevention program _(government)_
+- [Walking straight into circles](https://doi.org/10.1016/j.cub.2009.07.053) — Souman JL, Frissen I, Sreenivasa MN, Ernst MO, 2009 _(paper)_. Current Biology 19(18):1538–1542. GPS-tracked walkers without sun or landmarks repeatedly walked in circles.
+- [Groundwater: What Is Groundwater?](https://www.usgs.gov/special-topics/water-science-school/science/groundwater-what-groundwater) — US Geological Survey, Water Science School _(government)_
 
 ## Fire
 
@@ -49,6 +67,19 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Know Before You Go: Fire](https://www.fs.usda.gov/visit/know-before-you-go/fire) — USDA Forest Service _(government)_
 - [National Interagency Fire Center](https://www.nifc.gov/) _(government)_
 - [National Wildfire Coordinating Group — fire behavior standards](https://www.nwcg.gov/) _(government)_
+- *An Introduction to Fire Dynamics (3rd ed.)* — Dougal Drysdale, 2011 _(book)_. Standard fire-science text: pyrolysis, ignition, flame spread, heat transfer.
+- *Ignition Handbook* — Vytenis Babrauskas, Fire Science Publishers / SFPE, 2003 _(book)_. Reference for ignition temperatures of wood and other materials, and why they vary with heating time.
+- [Wood Handbook: Wood as an Engineering Material (FPL-GTR-282)](https://research.fs.usda.gov/treesearch/62200) — Robert J. Ross (ed.), USDA Forest Service, Forest Products Laboratory, 2021 _(government)_. Moisture content definitions, density, thermal properties and fire performance of wood.
+- [Fire](https://www.nps.gov/subjects/fire/index.htm) — US National Park Service _(government)_. Each park’s Superintendent’s Compendium lists local fire rules.
+- [Wildfires](https://www.ready.gov/wildfires) — Ready.gov (FEMA) _(government)_
+- [Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home) — Natural Resources Canada _(government)_. National fire-danger and fire-weather maps.
+- [European Forest Fire Information System (EFFIS)](https://forest-fire.emergency.copernicus.eu/) — Copernicus Emergency Management Service / European Commission JRC _(government)_. Fire-danger forecasts and current fires across Europe, the Middle East and North Africa.
+- [Scottish Outdoor Access Code](https://www.outdooraccess-scotland.scot/) — NatureScot _(regulation)_. Statutory guidance on responsible access, wild camping and fires in Scotland.
+- [Carbon Monoxide Poisoning Basics](https://www.cdc.gov/carbon-monoxide/about/index.html) — US Centers for Disease Control and Prevention _(government)_. Sources, symptoms and prevention, including camp stoves and generators.
+- [Carbon Monoxide Information Center](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center) — US Consumer Product Safety Commission _(government)_. Generators, CO alarms and symptoms.
+- [Burn Wise](https://www.epa.gov/burnwise) — US Environmental Protection Agency _(government)_. Wood smoke, health, and burning dry wood cleanly.
+- [IOL Bushcraft Competency Certificate (includes a bow-drill unit)](https://www.outdoor-learning.org/standards/iol-awards-and-accreditation/bushcraft/bushcraft-competency-certificate.html) — Institute for Outdoor Learning (UK) _(training)_
+- *Incident Response Pocket Guide (PMS 461)* — National Wildfire Coordinating Group _(guideline)_. LCES, watch-out situations, safety-zone guidelines (separation ≥ 4 × flame height). Available from nwcg.gov publications.
 
 ## Water
 
@@ -60,6 +91,23 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Emergency Disinfection of Drinking Water](https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water) — US Environmental Protection Agency _(government)_
 - [Guidelines for Drinking-water Quality (4th ed. with addenda)](https://www.who.int/publications/i/item/9789241548151) — World Health Organization _(guideline)_
 - *WMS Clinical Practice Guidelines for Water Disinfection for Wilderness, International Travel, and Austere Situations* — Backer HD, Derlet RW, Hill VR, Wilderness Medical Society, 2019 _(guideline)_. Wilderness & Environmental Medicine 30(4S):S100–S120.
+- [Water Disinfection for Travelers (CDC Yellow Book)](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/water-disinfection-for-travelers.html) — Backer HD, Hill VR, US Centers for Disease Control and Prevention _(government)_. Organism sizes vs filter pores, heat (60 °C × 30 min; seconds at 100 °C), chemical and UV methods, EPA purifier benchmark (6/4/3 log), SODIS conditions, alum clarification.
+- [Creating and Storing an Emergency Water Supply](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) — US Centers for Disease Control and Prevention _(government)_. 1 gallon per person per day for at least 3 days, 2 weeks if possible; container sanitising; replace every 6 months.
+- [Household Water Treatment (Global WASH)](https://www.cdc.gov/global-water-sanitation-hygiene/about/about-household-water-treatment.html) — US Centers for Disease Control and Prevention _(government)_. SODIS: 6–8 h of strong sun, or 2 days if cloudy; safe storage; none of these methods remove chemicals.
+- [Harmful Algal Blooms and Your Health](https://www.cdc.gov/harmful-algal-blooms/about/index.html) — US Centers for Disease Control and Prevention _(government)_
+- [Harmful Algal Blooms (HABs) in Water Bodies](https://www.epa.gov/cyanohabs) — US Environmental Protection Agency _(government)_
+- [Toxic Cyanobacteria in Water (2nd ed.)](https://www.who.int/publications/m/item/toxic-cyanobacteria-in-water---second-edition) — Chorus I, Welker M (eds.), World Health Organization, 2021 _(guideline)_
+- [Results of Round I of the WHO International Scheme to Evaluate Household Water Treatment Technologies](https://www.who.int/publications/i/item/9789241509947) — World Health Organization, 2016 _(guideline)_. Independent laboratory testing of filters, chlorine, UV and solar methods against WHO performance targets.
+- [Groundwater: What Is Groundwater?](https://www.usgs.gov/special-topics/water-science-school/science/groundwater-what-groundwater) — US Geological Survey, Water Science School _(government)_
+- [SODIS — Solar Water Disinfection (method, manual and training materials)](https://www.sodis.ch) — Eawag, Swiss Federal Institute of Aquatic Science and Technology _(organization)_
+- [Dehydration: Physiology, Assessment, and Performance Effects](https://onlinelibrary.wiley.com/doi/10.1002/cphy.c130017) — Cheuvront SN, Kenefick RW, 2014 _(paper)_. Comprehensive Physiology 4(1). Review of body-water physiology and the performance effects of dehydration.
+- *Physiology of Man in the Desert* — Adolph EF and associates, 1947 _(book)_. Classic field studies of desert sweat rates, "voluntary dehydration" and survival without water.
+- [Solar Distillation of Water from Soil and Plant Materials: A Simple Desert Survival Technique](https://pubmed.ncbi.nlm.nih.gov/5826532/) — Jackson RD, van Bavel CHM, 1965 _(paper)_. Science 149:1377–1379. The original pit still; ~1.5 L/day best case.
+- [Reduction of Cholera in Bangladeshi Villages by Simple Filtration](https://pubmed.ncbi.nlm.nih.gov/12529505/) — Colwell RR, Huq A, Islam MS, et al., 2003 _(paper)_. PNAS 100(3):1051–1055. Folded sari cloth (~20 µm) cut cholera by ~48 %.
+- *Guidance Manual for Compliance with the Filtration and Disinfection Requirements for Public Water Systems Using Surface Water Sources (Surface Water Treatment Rule), CT tables* — US Environmental Protection Agency, 1991 _(government)_. Source of the CT values for Giardia and viruses by disinfectant, temperature and pH.
+- *Ultraviolet Disinfection Guidance Manual for the Final Long Term 2 Enhanced Surface Water Treatment Rule* — US Environmental Protection Agency, 2006 _(government)_. UV dose requirements (mJ/cm²) for Cryptosporidium, Giardia and viruses.
+- [WMS Clinical Practice Guidelines for the Management of Exercise-Associated Hyponatremia: 2019 Update](https://journals.sagepub.com/doi/10.1016/j.wem.2019.11.003) — Bennett BL, Hew-Butler T, Rosner MH, Myers T, Lipman GS, Wilderness Medical Society, 2020 _(guideline)_. Drink to thirst; EAH mimics heat illness.
+- *Oral Rehydration Salts: Production of the New ORS* — World Health Organization / UNICEF, 2006 _(guideline)_. WHO/FCH/CAH/06.1. Reduced-osmolarity ORS: 75 mmol/L sodium, 75 mmol/L glucose, 245 mOsm/L.
 
 ## Shelter
 
@@ -69,10 +117,36 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - *Bushcraft: Outdoor Skills and Wilderness Survival* — Mors Kochanski _(book)_. Northern-forest classic, strongest on shelter and fire for warmth.
 - [Karamat Wilderness Ways (Kochanski syllabus)](https://karamat.com/) _(training)_
 - [IOL Bushcraft Competency Award / Certificate / Diploma](https://www.outdoor-learning.org/standards/iol-awards-and-accreditation/bushcraft.html) — Institute for Outdoor Learning (UK) _(training)_
+- [Preventing Mosquito Bites](https://www.cdc.gov/mosquitoes/prevention/index.html) — US Centers for Disease Control and Prevention _(government)_. EPA-registered repellents (DEET, picaridin, OLE), permethrin-treated clothing, nets and screens.
+- [Camping](https://www.nps.gov/subjects/camping/index.htm) — US National Park Service _(government)_. Backcountry permits and park-specific camping rules.
+- *The thermal conductivity of seasonal snow* — Sturm M, Holmgren J, König M, Morris K, 1997 _(paper)_. Journal of Glaciology 43(143):26–41. Field measurements and the density–conductivity regression used in Lesson 5.
 
 ## Food and foraging
 
 - [ATP 3-50.21 Survival (supersedes FM 3-05.70 / FM 21-76)](https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1005316) — US Army, 2018 _(government)_. Current public US survival doctrine. Written for military contexts — use with judgment.
+- [A new predictive equation for resting energy expenditure in healthy individuals](https://pubmed.ncbi.nlm.nih.gov/2305711/) — Mifflin MD, St Jeor ST, Hill LA, Scott BJ, Daugherty SA, Koh YO, 1990 _(paper)_. Am J Clin Nutr 51(2):241–247. The Mifflin–St Jeor equation; derived from 498 adults, R² ≈ 0.71.
+- [Dietary Reference Intakes for Energy](https://nap.nationalacademies.org/catalog/26818/dietary-reference-intakes-for-energy) — National Academies of Sciences, Engineering, and Medicine, 2023 _(guideline)_. Current energy-requirement equations built on doubly labelled water data.
+- [Cook to a Safe Minimum Internal Temperature](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures) — FoodSafety.gov (USDA/FDA/CDC) _(government)_
+- [“Danger Zone” (40 °F – 140 °F)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/danger-zone-40f-140f) — USDA Food Safety and Inspection Service _(government)_. Bacteria can double in as little as 20 minutes; the 2-hour / 1-hour rules.
+- [Food Safety During Power Outage](https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage) — FoodSafety.gov (USDA/FDA/CDC) _(government)_. Fridge ~4 h; full freezer ~48 h (24 h half full); never taste to decide.
+- [Home-Canned Foods (botulism prevention)](https://www.cdc.gov/botulism/prevention/home-canned-foods.html) — US Centers for Disease Control and Prevention _(government)_. Pressure canning is the only safe home method for low-acid foods.
+- [National Center for Home Food Preservation](https://nchfp.uga.edu/) — University of Georgia / USDA NIFA _(organization)_. Tested procedures for canning, drying, freezing, pickling and fermenting.
+- [How to Prevent Trichinellosis](https://www.cdc.gov/trichinellosis/prevention/index.html) — US Centers for Disease Control and Prevention _(government)_. Cook wild game to ≥ 74 °C (165 °F); freezing may not kill Arctic Trichinella species.
+- [Five Keys to Safer Food Manual](https://www.who.int/publications/i/item/9789241594639) — World Health Organization, 2006 _(guideline)_. Keep clean; separate raw and cooked; cook thoroughly; keep food at safe temperatures; use safe water and raw materials.
+- [Food safety — fact sheet](https://www.who.int/news-room/fact-sheets/detail/food-safety) — World Health Organization _(guideline)_
+- [Safe Food Handling](https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling) — US Food and Drug Administration _(government)_
+- [Amanita phalloides Mushroom Poisonings — Northern California, December 2016](https://www.cdc.gov/mmwr/volumes/66/wr/mm6621a1.htm) — CDC MMWR, 2017 _(paper)_. 14 poisonings from foraged mushrooms; three liver transplants.
+- [Health Care Utilization and Outcomes Associated with Accidental Poisonous Mushroom Ingestions — United States, 2016–2018](https://www.cdc.gov/mmwr/volumes/70/wr/mm7010a1.htm) — CDC MMWR, 2021 _(paper)_
+- [North American Mycological Association](https://namyco.org/) _(organization)_. Links to local mycological clubs, identification forays and a poisoning case registry.
+- [Poison Help (1-800-222-1222, US)](https://poisonhelp.hrsa.gov/) — US Health Resources and Services Administration _(government)_. Connects to the local poison centre in the US. Outside the US, find your national poison centre before a trip.
+- [Edible insects: future prospects for food and feed security](https://www.fao.org/4/i3253e/i3253e.pdf) — van Huis A, Van Itterbeeck J, Klunder H, et al., FAO (Forestry Paper 171), 2013 _(guideline)_. Insects are part of traditional diets of at least 2 billion people; more than 1,900 species recorded as food.
+- [Looking at edible insects from a food safety perspective](https://www.fao.org/3/cb4094en/cb4094en.pdf) — FAO, 2021 _(guideline)_. Hazards: microbes, parasites, allergens (including crustacean cross-reactivity), heavy metals, pesticides.
+- [Novel food](https://www.efsa.europa.eu/en/topics/topic/novel-food) — European Food Safety Authority _(government)_. Insects sold as food in the EU need novel-food authorisation.
+- [NOAA Fisheries](https://www.fisheries.noaa.gov/) — US National Oceanic and Atmospheric Administration _(government)_. Federal marine fishing rules; states regulate near-shore and fresh water.
+- [Freshwater rod fishing rules](https://www.gov.uk/freshwater-rod-fishing-rules) — UK Government (Environment Agency) _(regulation)_. Close seasons, size limits, permitted baits and methods (England).
+- [International Hunter Education Association](https://www.ihea-usa.org/) _(training)_. Hunter education courses — required for a licence in many jurisdictions.
+- *A Field Guide to Edible Wild Plants: Eastern and Central North America (Peterson Field Guides)* — Lee Allen Peterson _(book)_. Regional only — use as one input alongside a botanical key and an in-person expert, never alone.
+- *The Biology of Human Starvation* — Keys A, Brožek J, Henschel A, Mickelsen O, Taylor HL, 1950 _(book)_. The Minnesota Starvation Experiment: physical and psychological effects of prolonged semi-starvation.
 
 ## Bushcraft and primitive skills
 
@@ -82,6 +156,8 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Woodlore — Ray Mears bushcraft courses](https://www.raymears.com/) _(training)_
 - [Boulder Outdoor Survival School](https://www.boss-inc.com/) _(training)_
 - [Society of Primitive Technology](https://www.primitive.org/) _(organization)_
+- [Wood Handbook: Wood as an Engineering Material (FPL-GTR-282)](https://research.fs.usda.gov/treesearch/62200) — Robert J. Ross (ed.), USDA Forest Service, Forest Products Laboratory, 2021 _(government)_. Moisture content definitions, density, thermal properties and fire performance of wood.
+- [IOL Bushcraft Competency Certificate (includes a bow-drill unit)](https://www.outdoor-learning.org/standards/iol-awards-and-accreditation/bushcraft/bushcraft-competency-certificate.html) — Institute for Outdoor Learning (UK) _(training)_
 
 ## Physiology
 
@@ -102,6 +178,28 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - *ISO 9920: Estimation of thermal insulation and water vapour resistance of a clothing ensemble* — ISO _(guideline)_
 - *Auerbach’s Wilderness Medicine* — Paul Auerbach et al. _(book)_. Physician-level reference — the authority to check against.
 - [Wilderness Medical Society — Clinical Practice Guidelines](https://wms.org/) — Wilderness Medical Society _(organization)_
+- [Dehydration: Physiology, Assessment, and Performance Effects](https://onlinelibrary.wiley.com/doi/10.1002/cphy.c130017) — Cheuvront SN, Kenefick RW, 2014 _(paper)_. Comprehensive Physiology 4(1). Review of body-water physiology and the performance effects of dehydration.
+- *Physiology of Man in the Desert* — Adolph EF and associates, 1947 _(book)_. Classic field studies of desert sweat rates, "voluntary dehydration" and survival without water.
+- [Extreme Heat](https://www.ready.gov/heat) — Ready.gov (FEMA) _(government)_
+- [Winter Weather](https://www.ready.gov/winter-weather) — Ready.gov (FEMA) _(government)_. Includes carbon-monoxide and generator safety.
+- *The thermal conductivity of seasonal snow* — Sturm M, Holmgren J, König M, Morris K, 1997 _(paper)_. Journal of Glaciology 43(143):26–41. Field measurements and the density–conductivity regression used in Lesson 5.
+- [A new predictive equation for resting energy expenditure in healthy individuals](https://pubmed.ncbi.nlm.nih.gov/2305711/) — Mifflin MD, St Jeor ST, Hill LA, Scott BJ, Daugherty SA, Koh YO, 1990 _(paper)_. Am J Clin Nutr 51(2):241–247. The Mifflin–St Jeor equation; derived from 498 adults, R² ≈ 0.71.
+- [Dietary Reference Intakes for Energy](https://nap.nationalacademies.org/catalog/26818/dietary-reference-intakes-for-energy) — National Academies of Sciences, Engineering, and Medicine, 2023 _(guideline)_. Current energy-requirement equations built on doubly labelled water data.
+- [WMS Clinical Practice Guidelines for the Prevention, Diagnosis, and Treatment of Acute Altitude Illness: 2024 Update](https://journals.sagepub.com/doi/10.1016/j.wem.2023.05.013) — Luks AM, Beidleman BA, Freer L, et al., Wilderness Medical Society, 2024 _(guideline)_. Wilderness & Environmental Medicine 35(1S):2S–19S. Ascent rates, AMS/HACE/HAPE prevention and treatment.
+- [WMS Clinical Practice Guidelines for the Management of Exercise-Associated Hyponatremia: 2019 Update](https://journals.sagepub.com/doi/10.1016/j.wem.2019.11.003) — Bennett BL, Hew-Butler T, Rosner MH, Myers T, Lipman GS, Wilderness Medical Society, 2020 _(guideline)_. Drink to thirst; EAH mimics heat illness.
+- [WMS Clinical Practice Guidelines for the Treatment and Prevention of Drowning: 2024 Update](https://journals.sagepub.com/doi/10.1177/10806032241227460) — Davis CA, Schmidt AC, Sempsrott JR, et al., Wilderness Medical Society, 2024 _(guideline)_
+- [High-Altitude Travel and Altitude Illness (CDC Yellow Book)](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html) — US Centers for Disease Control and Prevention _(government)_. Above 3,000 m: ≤ 500 m/night sleeping-altitude gain; extra night per 1,000 m.
+- [Cold water immersion: kill or cure?](https://pubmed.ncbi.nlm.nih.gov/28833689/) — Tipton MJ, Collier N, Massey H, Corbett J, Harper M, 2017 _(paper)_. Experimental Physiology 102(11):1335–1355. Review of cold shock, swim failure and immersion hypothermia.
+- [Float to Live — what to do if you fall in water](https://rnli.org/water-safety/float) — RNLI (Royal National Lifeboat Institution) _(organization)_
+- [Moderate sleep deprivation produces impairments in cognitive and motor performance equivalent to legally prescribed levels of alcohol intoxication](https://pubmed.ncbi.nlm.nih.gov/10984335/) — Williamson AM, Feyer AM, 2000 _(paper)_. Occupational and Environmental Medicine 57(10):649–655.
+- [Light and Dark Adaptation (Webvision: The Organization of the Retina and Visual System)](https://www.ncbi.nlm.nih.gov/books/NBK11525/) — Kalloniatis M, Luu C _(book)_
+- [Heat Stress and Workers](https://www.cdc.gov/niosh/heat-stress/about/index.html) — US NIOSH / CDC _(government)_
+- *Oral Rehydration Salts: Production of the New ORS* — World Health Organization / UNICEF, 2006 _(guideline)_. WHO/FCH/CAH/06.1. Reduced-osmolarity ORS: 75 mmol/L sodium, 75 mmol/L glucose, 245 mOsm/L.
+- *The Biology of Human Starvation* — Keys A, Brožek J, Henschel A, Mickelsen O, Taylor HL, 1950 _(book)_. The Minnesota Starvation Experiment: physical and psychological effects of prolonged semi-starvation.
+- *Thermal balance and survival time prediction of man in cold water* — Hayward JS, Eckerson JD, Collis ML, 1975 _(paper)_. Canadian Journal of Physiology and Pharmacology 53(1):21–32. Origin of the HELP and huddle recommendations.
+- *Essentials of Sea Survival* — Frank Golden, Michael Tipton, 2002 _(book)_. Human Kinetics. The four stages of immersion and the physiology behind sea-survival advice.
+- *TB MED 505: Altitude Acclimatization and Illness Management* — US Army _(government)_. Military doctrine on staged ascent, acclimatisation and altitude illness.
+- [Heat Forecast Tools (Heat Index)](https://www.weather.gov/safety/heat-index) — US National Weather Service _(government)_. Heat index is for shade and light wind; full sun can add up to 15 °F.
 
 ## Wilderness first aid
 
@@ -116,6 +214,25 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [SOLO Wilderness Medicine](https://www.soloschools.com/courses/wfr) — SOLO Schools _(training)_
 - [Wilderness and Remote First Aid](https://www.redcross.org/take-a-class/classes/wilderness-and-remote-first-aid/LP-00083300.html) — American Red Cross _(training)_
 - [International Commission for Alpine Rescue (ICAR)](https://www.alpine-rescue.org/) _(organization)_
+- [Carbon Monoxide Poisoning Basics](https://www.cdc.gov/carbon-monoxide/about/index.html) — US Centers for Disease Control and Prevention _(government)_. Sources, symptoms and prevention, including camp stoves and generators.
+- [Preventing Mosquito Bites](https://www.cdc.gov/mosquitoes/prevention/index.html) — US Centers for Disease Control and Prevention _(government)_. EPA-registered repellents (DEET, picaridin, OLE), permethrin-treated clothing, nets and screens.
+- [Poison Help (1-800-222-1222, US)](https://poisonhelp.hrsa.gov/) — US Health Resources and Services Administration _(government)_. Connects to the local poison centre in the US. Outside the US, find your national poison centre before a trip.
+- [WMS Clinical Practice Guidelines for the Prevention, Diagnosis, and Treatment of Acute Altitude Illness: 2024 Update](https://journals.sagepub.com/doi/10.1016/j.wem.2023.05.013) — Luks AM, Beidleman BA, Freer L, et al., Wilderness Medical Society, 2024 _(guideline)_. Wilderness & Environmental Medicine 35(1S):2S–19S. Ascent rates, AMS/HACE/HAPE prevention and treatment.
+- [WMS Clinical Practice Guidelines for the Management of Exercise-Associated Hyponatremia: 2019 Update](https://journals.sagepub.com/doi/10.1016/j.wem.2019.11.003) — Bennett BL, Hew-Butler T, Rosner MH, Myers T, Lipman GS, Wilderness Medical Society, 2020 _(guideline)_. Drink to thirst; EAH mimics heat illness.
+- [WMS Clinical Practice Guidelines for the Treatment and Prevention of Drowning: 2024 Update](https://journals.sagepub.com/doi/10.1177/10806032241227460) — Davis CA, Schmidt AC, Sempsrott JR, et al., Wilderness Medical Society, 2024 _(guideline)_
+- *Oral Rehydration Salts: Production of the New ORS* — World Health Organization / UNICEF, 2006 _(guideline)_. WHO/FCH/CAH/06.1. Reduced-osmolarity ORS: 75 mmol/L sodium, 75 mmol/L glucose, 245 mOsm/L.
+- [2024 American Heart Association and American Red Cross Guidelines for First Aid](https://doi.org/10.1161/CIR.0000000000001281) — American Heart Association & American Red Cross, 2024 _(guideline)_. Circulation 2024. Built on ILCOR evidence reviews; covers bleeding control, open chest wounds, spinal motion restriction, hypothermia, frostbite, anaphylaxis and snakebite.
+- [International Liaison Committee on Resuscitation (ILCOR) — Consensus on Science with Treatment Recommendations](https://www.ilcor.org/) — ILCOR _(organization)_. The international body whose systematic reviews underpin national first-aid and resuscitation guidelines.
+- [Wilderness Medical Society Clinical Practice Guidelines for Spinal Cord Protection: 2024 Update](https://journals.sagepub.com/doi/10.1177/10806032241227232) — Hawkins SC, Williams J, Bennett BL, Islas A, Quinn R, Wilderness Medical Society, 2024 _(guideline)_. Spinal motion restriction rather than rigid immobilisation; selective, criteria-based decisions.
+- [Wilderness Medical Society Practice Guidelines for Basic Wound Management in the Austere Environment: 2014 Update](https://pubmed.ncbi.nlm.nih.gov/25498257/) — Quinn RH, Wedmore I, Johnson EL, et al., Wilderness Medical Society, 2014 _(guideline)_. Early irrigation with potable water; clean (not sterile) technique; leave grossly contaminated wounds open.
+- [Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Lightning Injuries: 2014 Update](https://pubmed.ncbi.nlm.nih.gov/25498265/) — Davis C, Engeln A, Johnson EL, et al., Wilderness Medical Society, 2014 _(guideline)_. A 2023 update has been published in Wilderness & Environmental Medicine; check it for the latest recommendations.
+- [Rabies — fact sheet](https://www.who.int/news-room/fact-sheets/detail/rabies) — World Health Organization _(guideline)_. Wash bite and scratch wounds with soap and water for at least 15 minutes, then seek post-exposure prophylaxis.
+- [Rabies](https://www.cdc.gov/rabies/) — US Centers for Disease Control and Prevention _(government)_
+- [Snakebite envenoming — fact sheet](https://www.who.int/news-room/fact-sheets/detail/snakebite-envenoming) — World Health Organization _(guideline)_. Global burden; antivenom is the definitive treatment.
+- [Guideline 9.4.8 — Envenomation: Pressure Immobilisation Technique](https://www.anzcor.org/home/first-aid/guideline-9-4-8-envenomation-pressure-immobilisation-technique) — Australian and New Zealand Committee on Resuscitation (ANZCOR) _(guideline)_. Pressure immobilisation for all Australian snakes, funnel-web spiders, blue-ringed octopus and cone shells — not for other bites and stings.
+- [Stop the Bleed](https://www.stopthebleed.org/) — American College of Surgeons _(training)_. Short hands-on bleeding-control course: pressure, packing, tourniquets.
+- *Advanced Trauma Life Support (ATLS) Student Course Manual* — American College of Surgeons, 10th ed., 2018 _(book)_. Source of the haemorrhage classes (I–IV by % blood volume lost) used in teaching.
+- *Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Lightning Injuries: 2014 Update* — Davis C, Engeln A, Johnson EL, et al., 2014 _(guideline)_. Wilderness & Environmental Medicine 25(4 Suppl):S86–S95. Check for a newer revision.
 
 ## Improvisation
 
@@ -135,6 +252,11 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Lightning Safety](https://www.weather.gov/safety/lightning) — US National Weather Service _(government)_
 - [Flood Safety — Turn Around, Don’t Drown](https://www.weather.gov/safety/flood) — US National Weather Service _(government)_
 - [Cloud types](https://www.metoffice.gov.uk/weather/learn-about/weather/types-of-weather/clouds) — UK Met Office _(government)_
+- [Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Lightning Injuries: 2014 Update](https://pubmed.ncbi.nlm.nih.gov/25498265/) — Davis C, Engeln A, Johnson EL, et al., Wilderness Medical Society, 2014 _(guideline)_. A 2023 update has been published in Wilderness & Environmental Medicine; check it for the latest recommendations.
+- [International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors (WMO-No. 407)](https://cloudatlas.wmo.int/en/home.html) — World Meteorological Organization _(guideline)_. The international standard for the ten cloud genera, with photographs.
+- [Understanding Lightning Science](https://www.weather.gov/safety/lightning-science-overview) — US National Weather Service _(government)_. Lightning can strike ~10 miles from a storm; channel temperature ~50,000 °F.
+- [Turn Around Don’t Drown](https://www.weather.gov/safety/flood-turn-around-dont-drown) — US National Weather Service _(government)_. 6 in of fast water can knock over an adult; 12 in can carry away most cars; 2 ft SUVs and trucks.
+- [Heat Forecast Tools (Heat Index)](https://www.weather.gov/safety/heat-index) — US National Weather Service _(government)_. Heat index is for shade and light wind; full sun can add up to 15 °F.
 
 ## Environmental hazards
 
@@ -144,6 +266,22 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Lightning Safety](https://www.weather.gov/safety/lightning) — US National Weather Service _(government)_
 - [Flood Safety — Turn Around, Don’t Drown](https://www.weather.gov/safety/flood) — US National Weather Service _(government)_
 - [Avalanche.org (US avalanche centers)](https://avalanche.org/) _(organization)_
+- [Wildfires](https://www.ready.gov/wildfires) — Ready.gov (FEMA) _(government)_
+- [Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home) — Natural Resources Canada _(government)_. National fire-danger and fire-weather maps.
+- [European Forest Fire Information System (EFFIS)](https://forest-fire.emergency.copernicus.eu/) — Copernicus Emergency Management Service / European Commission JRC _(government)_. Fire-danger forecasts and current fires across Europe, the Middle East and North Africa.
+- [Understanding Lightning Science](https://www.weather.gov/safety/lightning-science-overview) — US National Weather Service _(government)_. Lightning can strike ~10 miles from a storm; channel temperature ~50,000 °F.
+- *Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Lightning Injuries: 2014 Update* — Davis C, Engeln A, Johnson EL, et al., 2014 _(guideline)_. Wilderness & Environmental Medicine 25(4 Suppl):S86–S95. Check for a newer revision.
+- [Turn Around Don’t Drown](https://www.weather.gov/safety/flood-turn-around-dont-drown) — US National Weather Service _(government)_. 6 in of fast water can knock over an adult; 12 in can carry away most cars; 2 ft SUVs and trucks.
+- *Incident Response Pocket Guide (PMS 461)* — National Wildfire Coordinating Group _(guideline)_. LCES, watch-out situations, safety-zone guidelines (separation ≥ 4 × flame height). Available from nwcg.gov publications.
+- [North American Public Avalanche Danger Scale](https://avalanche.org/avalanche-encyclopedia/human/resources/north-american-public-avalanche-danger-scale/) — Avalanche.org _(guideline)_
+- [Avalanche Problems](https://avalanche.org/avalanche-encyclopedia/avalanche/avalanche-problems/) — Avalanche.org _(guideline)_. Problem type, distribution, likelihood and size.
+- [European Avalanche Danger Scale](https://www.avalanches.org/standards/avalanche-danger-scale/) — European Avalanche Warning Services (EAWS) _(guideline)_. About half of avalanche fatalities occur at level 3 (Considerable).
+- [Avalanche Canada](https://www.avalanche.ca/) _(organization)_. Forecasts and the AST training courses.
+- [Scottish Avalanche Information Service](https://www.sais.gov.uk/) _(government)_
+- [WSL Institute for Snow and Avalanche Research SLF](https://www.slf.ch/en/) _(government)_. Swiss national avalanche forecasting and research.
+- *Staying Alive in Avalanche Terrain* — Bruce Tremper, 3rd ed., 2018 _(book)_. The standard recreational avalanche text. No substitute for a course.
+- *The Avalanche Handbook* — David McClung and Peter Schaerer, 3rd ed., 2006 _(book)_. Technical reference on snowpack and avalanche mechanics.
+- [Landslide Hazards Program](https://www.usgs.gov/programs/landslide-hazards) — US Geological Survey _(government)_. Landslide basics, post-fire debris-flow hazards.
 
 ## Rope and knots
 
@@ -163,6 +301,8 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Mountain Rescue Association](https://mra.org/) _(organization)_
 - [National Association for Search and Rescue (SARTECH)](https://www.nasar.org/) _(organization)_
 - *Annex 12 to the Chicago Convention — Search and Rescue (ground–air visual signal code)* — ICAO _(guideline)_
+- [GPS.gov — official US government information about GPS](https://www.gps.gov/) _(government)_
+- [AdventureSmart — trip planning and “if lost” guidance](https://www.adventuresmart.ca/) — Canada’s national SAR prevention program _(government)_
 
 ## Survival psychology
 
@@ -172,6 +312,8 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [Why people “freeze” in an emergency: temporal and cognitive constraints on survival responses](https://eprints.lancs.ac.uk/id/eprint/18753/) — John Leach, 2004 _(paper)_. Aviation, Space, and Environmental Medicine 75(6):539–542.
 - *Survival Psychology* — John Leach, 1994 _(book)_. Academic foundation for disaster-behavior patterns, by a former RAF survival instructor.
 - *Deep Survival: Who Lives, Who Dies, and Why* — Laurence Gonzales, 2003 _(book)_. Narrative synthesis of case studies and neuroscience. Journalism, not research — but widely used by trainers.
+- [Walking straight into circles](https://doi.org/10.1016/j.cub.2009.07.053) — Souman JL, Frissen I, Sreenivasa MN, Ernst MO, 2009 _(paper)_. Current Biology 19(18):1538–1542. GPS-tracked walkers without sun or landmarks repeatedly walked in circles.
+- [Moderate sleep deprivation produces impairments in cognitive and motor performance equivalent to legally prescribed levels of alcohol intoxication](https://pubmed.ncbi.nlm.nih.gov/10984335/) — Williamson AM, Feyer AM, 2000 _(paper)_. Occupational and Environmental Medicine 57(10):649–655.
 
 ## Urban and disaster preparedness
 
@@ -181,6 +323,13 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [IS-100.c Introduction to the Incident Command System](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c) — FEMA Emergency Management Institute _(training)_
 - [How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) — US Centers for Disease Control and Prevention _(government)_. Rolling boil 1 min (3 min above 6,500 ft / ~2,000 m); bleach dosing and 30-min contact.
 - [Emergency Disinfection of Drinking Water](https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water) — US Environmental Protection Agency _(government)_
+- [Wildfires](https://www.ready.gov/wildfires) — Ready.gov (FEMA) _(government)_
+- [Carbon Monoxide Poisoning Basics](https://www.cdc.gov/carbon-monoxide/about/index.html) — US Centers for Disease Control and Prevention _(government)_. Sources, symptoms and prevention, including camp stoves and generators.
+- [Carbon Monoxide Information Center](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center) — US Consumer Product Safety Commission _(government)_. Generators, CO alarms and symptoms.
+- [Creating and Storing an Emergency Water Supply](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) — US Centers for Disease Control and Prevention _(government)_. 1 gallon per person per day for at least 3 days, 2 weeks if possible; container sanitising; replace every 6 months.
+- [Extreme Heat](https://www.ready.gov/heat) — Ready.gov (FEMA) _(government)_
+- [Winter Weather](https://www.ready.gov/winter-weather) — Ready.gov (FEMA) _(government)_. Includes carbon-monoxide and generator safety.
+- [Food Safety During Power Outage](https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage) — FoodSafety.gov (USDA/FDA/CDC) _(government)_. Fridge ~4 h; full freezer ~48 h (24 h half full); never taste to decide.
 
 ## Vehicle and travel
 
@@ -191,12 +340,21 @@ _Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same li
 - [AFH 10-644 SERE Operations](https://archive.org/details/afh-10-644-survival-evasion-resistance-escape-operations-2017) — US Air Force, 2017 _(government)_. The most comprehensive public survival reference (650+ pages).
 - [Boulder Outdoor Survival School](https://www.boss-inc.com/) _(training)_
 - [Society of Primitive Technology](https://www.primitive.org/) _(organization)_
+- [National Center for Home Food Preservation](https://nchfp.uga.edu/) — University of Georgia / USDA NIFA _(organization)_. Tested procedures for canning, drying, freezing, pickling and fermenting.
+- *The Biology of Human Starvation* — Keys A, Brožek J, Henschel A, Mickelsen O, Taylor HL, 1950 _(book)_. The Minnesota Starvation Experiment: physical and psychological effects of prolonged semi-starvation.
 
 ## Law and ethics
 
 - [The Seven Principles of Leave No Trace](https://lnt.org/why/7-principles/) — Leave No Trace Center for Outdoor Ethics _(organization)_
 - [Campfire Safety](https://smokeybear.com/en/prevention-how-tos/campfire-safety) — USDA Forest Service / Smokey Bear _(government)_
 - [Know Before You Go: Fire](https://www.fs.usda.gov/visit/know-before-you-go/fire) — USDA Forest Service _(government)_
+- [Fire](https://www.nps.gov/subjects/fire/index.htm) — US National Park Service _(government)_. Each park’s Superintendent’s Compendium lists local fire rules.
+- [Scottish Outdoor Access Code](https://www.outdooraccess-scotland.scot/) — NatureScot _(regulation)_. Statutory guidance on responsible access, wild camping and fires in Scotland.
+- [Camping](https://www.nps.gov/subjects/camping/index.htm) — US National Park Service _(government)_. Backcountry permits and park-specific camping rules.
+- [Novel food](https://www.efsa.europa.eu/en/topics/topic/novel-food) — European Food Safety Authority _(government)_. Insects sold as food in the EU need novel-food authorisation.
+- [NOAA Fisheries](https://www.fisheries.noaa.gov/) — US National Oceanic and Atmospheric Administration _(government)_. Federal marine fishing rules; states regulate near-shore and fresh water.
+- [Freshwater rod fishing rules](https://www.gov.uk/freshwater-rod-fishing-rules) — UK Government (Environment Agency) _(regulation)_. Close seasons, size limits, permitted baits and methods (England).
+- [International Hunter Education Association](https://www.ihea-usa.org/) _(training)_. Hunter education courses — required for a licence in many jurisdictions.
 
 ## Law varies by jurisdiction
 

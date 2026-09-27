@@ -5,6 +5,8 @@ import { fileURLToPath } from 'node:url'
 
 process.chdir(fileURLToPath(new URL('..', import.meta.url)))
 import { stages } from '../app/src/content/curriculum.ts'
+import { references, subjects } from '../app/src/content/references.ts'
+import { lawPortals } from '../app/src/content/lawPortals.ts'
 
 const lvl = (l: string) => l[0].toUpperCase() + l.slice(1)
 const title = new Map<string, string>()
@@ -46,8 +48,8 @@ writeFileSync('docs/prerequisite-graph.md', g)
 console.log('lessons', total)
 
 // ---------- references.md ----------
-const { references, subjects } = await import('../app/src/content/references.ts')
-const { lawPortals } = await import('../app/src/content/lawPortals.ts')
+//
+//
 let r = '# Course references\n\n_Generated from `app/src/content/references.ts` and `lawPortals.ts`. The same list is browsable in the app._\n\n'
 for (const [key, label] of Object.entries(subjects as Record<string, string>)) {
   const items = references.filter((x: { subjects: string[] }) => x.subjects.includes(key))
