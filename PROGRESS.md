@@ -9,7 +9,7 @@ Source brief: `plan.md`. Resume from the first unchecked item.
 - [x] B3  App architecture: content types, registry, router, layout, theming
 - [x] B4  Reusable components: Lesson renderer, Quiz, Exercise, SkillTracker, References, ScenarioEngine, Simulation host
 - [x] B5  Progress store + dashboard + spaced review
-- [ ] B6  Stage 1 lessons 1–4
+- [x] B6  Stage 1 lessons 1–4
 - [ ] B7  Stage 1 lessons 5–9
 - [ ] B8  Stage 1 lessons 10–13 + module quiz + capstone-lite scenario
 - [ ] B9  Stage 1 simulations (priorities, kit builder, heat-loss, fire, shelter, water, signaling, lost-scenario game)
