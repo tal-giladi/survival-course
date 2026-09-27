@@ -15,9 +15,13 @@ Source brief: `plan.md`. Resume from the first unchecked item.
 - [x] B9  Stage 1 simulations (priorities, kit builder, heat-loss, fire, shelter, water, signaling, lost-scenario game)
 - [x] B10 Stages 2–18 + capstones as roadmap stubs in registry (metadata, lessons, prereqs)
 - [x] B11 Build, lint, test in browser, GitHub Pages workflow, README
-- [ ] B12 Push to GitHub (tal-giladi/survival-course, public)
+- [x] B12 Push to GitHub (tal-giladi/survival-course, public)
 
 ## Notes
 - B2: course-design.md, lesson-list.md, prerequisite-graph.md done (generated via scripts/gen-docs.ts). research-summary.md + references.md pending research agent output (docs/research-notes.md).
 - B1/B2 done: research-notes, research-summary, course-design, lesson-list, prerequisite-graph, references (docs regenerate with: node scripts/gen-docs.ts).
 - B3-B5 written (not yet compiled): components, pages, store, analytics, CSS. Missing before build: diagrams/registry.tsx, sims/*.tsx (7), content/scenarios.ts, content/stages/stage1/{index,review}.ts.
+- B11/B12 done: tests (22) pass, build OK, deployed to https://tal-giladi.github.io/survival-course/ via GitHub Actions.
+
+## Next (not started)
+- Write Stage 2 (Navigation) lessons + nav-map and celestial simulations; then follow the recommended path in docs/course-design.md.
