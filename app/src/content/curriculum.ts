@@ -283,7 +283,7 @@ export const stages: Stage[] = [
     level: 'intermediate',
     summary: 'How search and rescue actually works, and how to make yourself findable.',
     requires: [1, 2],
-    status: 'planned',
+    status: 'available',
     environments: ['all'],
     simulations: ['search-sim', 'signal-mirror'],
     outline: [
