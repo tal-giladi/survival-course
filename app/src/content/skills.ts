@@ -1,9 +1,10 @@
 import type { Skill } from './types'
+import { stageContents } from './stageContents'
 
 // Real-world skills the learner self-assesses. A lesson can mark a skill "studied";
 // only the learner can mark it practiced or competent.
 
-export const skills: Skill[] = [
+const baseSkills: Skill[] = [
   // Stage 1
   { id: 'decision-loop', name: 'Run the Observe–Assess–Prioritize–Plan–Act–Reassess loop', stage: 1, physical: false, safety: 'home', description: 'Work any situation through the 12 questions and name the next highest-value action.' },
   { id: 'stop-drill', name: 'STOP drill in the field', stage: 1, physical: true, safety: 'outdoor', description: 'Stop, think, observe and plan at an unplanned moment on a real walk, within 5 minutes.' },
@@ -45,5 +46,7 @@ export const skills: Skill[] = [
   { id: 'vehicle-kit', name: 'Vehicle emergency readiness', stage: 17, physical: true, safety: 'home', description: 'Maintain a vehicle kit and know the stay-with-vehicle rules.' },
   { id: 'multi-day', name: 'Multi-day resource management', stage: 18, physical: true, safety: 'supervised', description: 'Plan and run budgets for water, energy and food over several days.' },
 ]
+
+export const skills: Skill[] = [...baseSkills, ...stageContents.flatMap((s) => s.skills ?? []).filter((s) => !baseSkills.some((b) => b.id === s.id))]
 
 export const skillById = (id: string) => skills.find((s) => s.id === id)

@@ -1,10 +1,10 @@
 import type { Lesson } from './types'
 import { stages } from './curriculum'
-import { stage1Lessons } from './stages/stage1'
+import { stageContents } from './stageContents'
 
-// Registry of fully written lessons. To add a stage: write ./stages/stageN/index.ts exporting an
-// array of lessons, spread it in here, and set that stage's status to 'available' in curriculum.ts.
-export const lessons: Lesson[] = [...stage1Lessons]
+// Registry of fully written lessons, merged from every stage folder (./stages/stageN/index.ts).
+// To publish a stage, fill its folder and set its status to 'available' in curriculum.ts.
+export const lessons: Lesson[] = stageContents.flatMap((s) => s.lessons)
 
 const byId = new Map(lessons.map((l) => [l.id, l]))
 

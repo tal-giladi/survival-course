@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import type { SimProps } from './registry'
+import type { SimProps } from './types'
 
 // Kit Builder: pack items under a weight budget; score = weighted coverage of the environment’s
 // needs + diverse redundancy for critical functions − overweight penalty.

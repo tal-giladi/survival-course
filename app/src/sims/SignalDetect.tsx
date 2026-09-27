@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import type { SimProps } from './registry'
+import type { SimProps } from './types'
 
 // Be Seen, Be Heard: choose up to three signals for a situation. Each signal has a detection
 // probability that depends on light, searcher type, distance and your position (canopy vs open).

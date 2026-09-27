@@ -1,4 +1,5 @@
 import type { Level, SkillState } from './types'
+import { stageContents } from './stageContents'
 
 export const levelLabel: Record<Level, string> = {
   beginner: 'Beginner',
@@ -16,7 +17,7 @@ export const skillStateLabel: Record<SkillState, string> = {
 }
 
 /** Human-readable names for concept tags used by quizzes and weak-area detection. */
-export const conceptLabel: Record<string, string> = {
+const baseConcepts: Record<string, string> = {
   'decision-loop': 'The decision loop',
   'twelve-questions': 'The 12 questions',
   priorities: 'Survival priorities',
@@ -55,3 +56,5 @@ export const conceptLabel: Record<string, string> = {
   visibility: 'Being visible to searchers',
   integration: 'Integrated decision making',
 }
+
+export const conceptLabel: Record<string, string> = Object.assign({}, baseConcepts, ...stageContents.map((s) => s.concepts ?? {}))

@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import type { SimProps } from './registry'
+import type { SimProps } from './types'
 import { ACT, model } from './heatModel'
 import type { Fibre, HBInput, Shelter, Sky, Wet } from './heatModel'
 

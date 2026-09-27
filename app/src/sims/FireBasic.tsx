@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import type { SimProps } from './registry'
+import type { SimProps } from './types'
 
 // Fire Builder: three-stage ignition model — tinder catches → kindling takes over → fuel sustains.
 // Each stage has a probability built from material dryness, fineness, lay, weather and preparation.

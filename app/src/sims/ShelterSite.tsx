@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import type { SimProps } from './registry'
+import type { SimProps } from './types'
 
 // Shelter Site Simulator: pick a site on a terrain cross-section, a shelter, orientation and bedding,
 // then "live through" the night under one of several weather patterns.

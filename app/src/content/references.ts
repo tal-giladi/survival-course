@@ -1,4 +1,5 @@
 import type { Reference } from './types'
+import { stageContents } from './stageContents'
 
 // Course-wide reference database. Lessons cite by id. Subjects drive grouping on the References page.
 // URLs were checked on 2026-09-27 (see docs/research-notes.md). When a source goes out of date,
@@ -28,7 +29,7 @@ export const subjects: Record<string, string> = {
   law: 'Law and ethics',
 }
 
-export const references: Reference[] = [
+const coreReferences: Reference[] = [
   // ---------- Foundations, decision making, risk ----------
   { id: 'army-atp-3-50-21', kind: 'government', title: 'ATP 3-50.21 Survival (supersedes FM 3-05.70 / FM 21-76)', org: 'US Army', year: '2018', subjects: ['foundations', 'fire', 'water', 'shelter', 'food', 'navigation', 'signaling', 'improvisation'], url: 'https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1005316', note: 'Current public US survival doctrine. Written for military contexts — use with judgment.' },
   { id: 'afh-10-644', kind: 'government', title: 'AFH 10-644 SERE Operations', org: 'US Air Force', year: '2017', subjects: ['foundations', 'signaling', 'shelter', 'water', 'improvisation', 'long-duration'], url: 'https://archive.org/details/afh-10-644-survival-evasion-resistance-escape-operations-2017', note: 'The most comprehensive public survival reference (650+ pages).' },
@@ -125,5 +126,7 @@ export const references: Reference[] = [
   { id: 'nasar', kind: 'organization', title: 'National Association for Search and Rescue (SARTECH)', url: 'https://www.nasar.org/', subjects: ['signaling'] },
   { id: 'icao-annex12', kind: 'guideline', title: 'Annex 12 to the Chicago Convention — Search and Rescue (ground–air visual signal code)', org: 'ICAO', subjects: ['signaling'] },
 ]
+
+export const references: Reference[] = [...coreReferences, ...stageContents.flatMap((s) => s.references ?? [])]
 
 export const refById = (id: string) => references.find((r) => r.id === id)

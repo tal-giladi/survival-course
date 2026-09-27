@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import type { SimProps } from './registry'
+import type { SimProps } from './types'
 
 // Priority Triage: rounds of short situations; pick the next highest-value action.
 // Each action carries a value score (0-3) and a reason, revealed after choosing.

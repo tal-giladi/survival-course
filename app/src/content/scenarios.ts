@@ -1,4 +1,5 @@
 import type { Scenario } from './types'
+import { stageContents } from './stageContents'
 
 // Branching scenarios for the generic ScenarioPlayer. Capstones (Stage 19) will be added here.
 
@@ -209,5 +210,5 @@ It’s 14:00. The path you’re on has faded out and nothing matches the map. Ev
   ],
 }
 
-export const scenarios: Scenario[] = [lost1400]
+export const scenarios: Scenario[] = [lost1400, ...stageContents.flatMap((s) => s.scenarios ?? [])]
 export const scenarioById = (id: string) => scenarios.find((s) => s.id === id)

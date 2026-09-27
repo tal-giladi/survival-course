@@ -198,3 +198,16 @@ export interface Scenario {
   nodes: ScenarioNode[]
   concepts: string[]
 }
+
+/** Everything one stage contributes. Each stage folder exports one of these; registries merge them. */
+export interface StageContent {
+  n: number
+  lessons: Lesson[]
+  review: Question[]
+  references?: Reference[]
+  concepts?: Record<string, string>
+  skills?: Skill[]
+  scenarios?: Scenario[]
+  /** Final-assessment questions (capstone stage only). */
+  finalAssessment?: Question[]
+}

@@ -1,0 +1,23 @@
+import type { StageContent } from './types'
+import { stage1 } from './stages/stage1'
+import { stage2 } from './stages/stage2'
+import { stage3 } from './stages/stage3'
+import { stage4 } from './stages/stage4'
+import { stage5 } from './stages/stage5'
+import { stage6 } from './stages/stage6'
+import { stage7 } from './stages/stage7'
+import { stage8 } from './stages/stage8'
+import { stage9 } from './stages/stage9'
+import { stage10 } from './stages/stage10'
+import { stage11 } from './stages/stage11'
+import { stage12 } from './stages/stage12'
+import { stage13 } from './stages/stage13'
+import { stage14 } from './stages/stage14'
+import { stage15 } from './stages/stage15'
+import { stage16 } from './stages/stage16'
+import { stage17 } from './stages/stage17'
+import { stage18 } from './stages/stage18'
+import { stage19 } from './stages/stage19'
+
+// Every stage's content, in order. Registries (lessons, references, concepts, skills, scenarios) merge from here.
+export const stageContents: StageContent[] = [stage1, stage2, stage3, stage4, stage5, stage6, stage7, stage8, stage9, stage10, stage11, stage12, stage13, stage14, stage15, stage16, stage17, stage18, stage19]

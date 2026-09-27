@@ -7,10 +7,13 @@ import { scenarios } from '../content/scenarios'
 import { stageReviews } from '../content/reviews'
 import { conceptLabel } from '../content/labels'
 import { model } from '../sims/heatModel'
+import { diagramIds } from '../diagrams/registry'
+import { sims } from '../sims/registry'
+import { finalAssessment } from '../content/reviews'
 
 // Content integrity: every id a lesson points at must exist, so broken links are caught at build time.
-const DIAGRAMS = ['decision-loop', 'stage-graph', 'rule-of-threes', 'risk-matrix', 'stress-curve', 'heat-loss', 'layering', 'kit-tiers', 'shelter-sites', 'tarp-configs', 'fire-triangle', 'fire-ladder', 'water-methods', 'ground-to-air', 'first-hour']
-const SIMS = ['priority-triage', 'heat-balance', 'kit-builder', 'shelter-site', 'fire-basic', 'water-treatment', 'signal-detect', 'scenario-lost-1400']
+const DIAGRAMS = diagramIds
+const SIMS = sims.map((s) => s.id)
 const refIds = new Set(references.map((r) => r.id))
 const outlineIds = new Set(stages.flatMap((s) => s.outline.map((o) => o.id)))
 
@@ -20,6 +23,10 @@ describe('curriculum', () => {
     const all = stages.flatMap((s) => s.outline.map((o) => o.id))
     expect(new Set(all).size).toBe(all.length)
     for (const s of stages) for (const o of s.outline) for (const p of o.prerequisites) expect(outlineIds, `${o.id} → ${p}`).toContain(p)
+  })
+  it('sim ids are unique and every stage sim is registered or planned', () => {
+    const ids = sims.map((s) => s.id)
+    expect(new Set(ids).size).toBe(ids.length)
   })
   it('every written lesson is in the outline of its stage', () => {
     for (const l of lessons) expect(stages.find((s) => s.n === l.stage)!.outline.map((o) => o.id)).toContain(l.id)
@@ -62,8 +69,16 @@ describe('lessons', () => {
       for (const c of l.scenario.concepts) expect(conceptLabel).toHaveProperty(c)
     })
   }
-  it('stage reviews reference known concepts', () => {
-    for (const qs of Object.values(stageReviews)) for (const q of qs) for (const c of q.concepts) expect(conceptLabel).toHaveProperty(c)
+  it('stage reviews and final assessment are well-formed', () => {
+    for (const q of [...Object.values(stageReviews).flat(), ...finalAssessment]) {
+      expect(qids.has(q.id), `duplicate ${q.id}`).toBe(false)
+      qids.add(q.id)
+      for (const c of q.concepts) expect(conceptLabel, `concept ${c}`).toHaveProperty(c)
+      if (q.diagram) expect(DIAGRAMS).toContain(q.diagram)
+      if (q.kind === 'single') expect(q.choices.map((c) => c.id)).toContain(q.answer)
+      if (q.kind === 'multi') for (const a of q.answer) expect(q.choices.map((c) => c.id)).toContain(a)
+      if (q.kind === 'order') expect([...q.answer].sort()).toEqual(q.items.map((i) => i.id).sort())
+    }
   })
 })
 

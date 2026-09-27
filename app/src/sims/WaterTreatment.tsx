@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import type { SimProps } from './registry'
+import type { SimProps } from './types'
 
 // Water Safety Simulator. Each source starts with a hazard load per class in rough "log units"
 // (1 unit ≈ a 10× reduction needed). Each treatment removes some log units per class, and turbidity
