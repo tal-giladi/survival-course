@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useState } from 'react'
 import type { SimProps } from './registry'
 
 // Be Seen, Be Heard: choose up to three signals for a situation. Each signal has a detection
@@ -65,7 +65,7 @@ export function pDetect(sig: string, s: Situation): { p: number; note?: string }
 
 export function SignalDetect({ onScore }: SimProps) {
   const [hasPlb, setHasPlb] = useState(false)
-  const order = useMemo(() => [...SITUATIONS].sort(() => Math.random() - 0.5), [])
+  const [order] = useState(() => [...SITUATIONS].sort(() => Math.random() - 0.5))
   const [i, setI] = useState(0)
   const [chosen, setChosen] = useState<string[]>([])
   const [shown, setShown] = useState(false)

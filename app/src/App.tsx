@@ -1,5 +1,5 @@
-import { useEffect, useState } from 'react'
-import { HashRouter, NavLink, Route, Routes, useLocation } from 'react-router-dom'
+import { useState } from 'react'
+import { HashRouter, NavLink, Route, Routes } from 'react-router-dom'
 import { Dashboard } from './pages/Dashboard'
 import { CourseMap } from './pages/CourseMap'
 import { StagePage } from './pages/StagePage'
@@ -49,8 +49,6 @@ function Sidebar({ onNavigate }: { onNavigate: () => void }) {
 
 function Shell() {
   const [open, setOpen] = useState(false)
-  const loc = useLocation()
-  useEffect(() => setOpen(false), [loc.pathname])
   return (
     <div className={`shell ${open ? 'nav-open' : ''}`}>
       <header className="topbar">

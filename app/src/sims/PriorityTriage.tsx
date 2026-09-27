@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useState } from 'react'
 import type { SimProps } from './registry'
 
 // Priority Triage: rounds of short situations; pick the next highest-value action.
@@ -103,8 +103,8 @@ function shuffle<T>(a: T[]): T[] {
 }
 
 export function PriorityTriage({ onScore }: SimProps) {
-  const [seed, setSeed] = useState(0)
-  const rounds = useMemo(() => shuffle(ROUNDS).slice(0, 6).map((r) => ({ ...r, actions: shuffle(r.actions) })), [seed])
+  const deal = () => shuffle(ROUNDS).slice(0, 6).map((r) => ({ ...r, actions: shuffle(r.actions) }))
+  const [rounds, setRounds] = useState(deal)
   const [i, setI] = useState(0)
   const [picked, setPicked] = useState<number | null>(null)
   const [points, setPoints] = useState(0)
@@ -127,7 +127,7 @@ export function PriorityTriage({ onScore }: SimProps) {
     }
   }
   const restart = () => {
-    setSeed(seed + 1)
+    setRounds(deal())
     setI(0)
     setPicked(null)
     setPoints(0)

@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import type { SimProps } from './registry'
 import { ACT, model } from './heatModel'
 import type { Fibre, HBInput, Shelter, Sky, Wet } from './heatModel'
@@ -45,15 +45,17 @@ export function HeatBalance({ onScore }: SimProps) {
   const [solved, setSolved] = useState<boolean[]>([false, false, false])
   const r = model(inp)
   const locked = typeof mode === 'number' ? CHALLENGES[mode].lock : []
-  const set = <K extends keyof HBInput>(k: K, v: HBInput[K]) => setInp({ ...inp, [k]: v })
-
-  useEffect(() => {
-    if (typeof mode === 'number' && !solved[mode] && CHALLENGES[mode].check(r, inp)) {
-      const next = solved.map((s, i) => (i === mode ? true : s))
-      setSolved(next)
-      onScore((next.filter(Boolean).length / CHALLENGES.length) * 100)
+  const update = (next: HBInput, m = mode) => {
+    setInp(next)
+    if (typeof m === 'number' && !solved[m] && CHALLENGES[m].check(model(next), next)) {
+      const done = solved.map((s, i) => (i === m ? true : s))
+      setSolved(done)
+      onScore((done.filter(Boolean).length / CHALLENGES.length) * 100)
     }
-  }, [inp, mode]) // eslint-disable-line react-hooks/exhaustive-deps
+  }
+  const set = <K extends keyof HBInput>(k: K, v: HBInput[K]) => update({ ...inp, [k]: v })
+
+
 
   const losses = [
     { k: 'conv', label: 'Convection', v: Math.max(0, r.conv) },
@@ -72,7 +74,7 @@ export function HeatBalance({ onScore }: SimProps) {
       <div className="chip-group">
         <button className={`chip ${mode === 'free' ? 'on' : ''}`} onClick={() => setMode('free')}>Free play</button>
         {CHALLENGES.map((c, i) => (
-          <button key={i} className={`chip ${mode === i ? 'on' : ''}`} onClick={() => { setMode(i); setInp(c.start) }}>
+          <button key={i} className={`chip ${mode === i ? 'on' : ''}`} onClick={() => { setMode(i); update(c.start, i) }}>
             {solved[i] ? '✓ ' : ''}Challenge {i + 1}
           </button>
         ))}
