@@ -1,6 +1,9 @@
 // Generates docs/lesson-list.md and docs/prerequisite-graph.md from the app's curriculum data,
 // so the course map has a single source of truth. Run: node scripts/gen-docs.ts
 import { writeFileSync } from 'node:fs'
+import { fileURLToPath } from 'node:url'
+
+process.chdir(fileURLToPath(new URL('..', import.meta.url)))
 import { stages } from '../app/src/content/curriculum.ts'
 
 const lvl = (l: string) => l[0].toUpperCase() + l.slice(1)

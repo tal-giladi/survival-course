@@ -78,7 +78,7 @@ export function SafetyPage() {
       <p className="muted">
         Content is educational and follows published guidelines (e.g., Wilderness Medical Society, CDC) as of 2026. It is not
         medical advice. In an emergency, call your local emergency number (112 in the EU and many countries, 911 in North America,
-        999 in the UK, 000 in Australia, 101 / 100 in Israel).
+        999 in the UK, 000 in Australia, 101 for ambulance in Israel).
       </p>
     </div>
   )

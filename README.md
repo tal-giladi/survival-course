@@ -1,0 +1,68 @@
+# Survivor’s Mind — an interactive survival field course
+
+A self-study course in **wilderness survival, bushcraft, primitive skills, wilderness first aid and
+emergency preparedness**, built as a web app. It teaches one decision system —
+**Observe → Assess → Prioritize → Plan → Act → Reassess** — and uses lessons, quizzes, practical
+exercises, simulations and branching scenarios to build judgment rather than a memory of tricks.
+
+**Live site:** https://tal-giladi.github.io/survival-course/
+
+## What is in the repository
+
+| Path | What it is |
+|---|---|
+| [`plan.md`](plan.md) | The original brief |
+| [`docs/research-summary.md`](docs/research-summary.md) | How 16 professional programs structure training, and what that means for this course |
+| [`docs/research-notes.md`](docs/research-notes.md) | Full research notes with checked URLs |
+| [`docs/course-design.md`](docs/course-design.md) | Curriculum architecture, module structure, exercise list, quiz plan, simulation plan, capstones, progress tracking |
+| [`docs/lesson-list.md`](docs/lesson-list.md) | All 135 lessons/scenarios (generated) |
+| [`docs/prerequisite-graph.md`](docs/prerequisite-graph.md) | Stage and cross-stage prerequisite graphs (generated, Mermaid) |
+| [`docs/references.md`](docs/references.md) | Course-wide references and law portals (generated) |
+| [`app/`](app) | The web application (Vite + React + TypeScript) |
+| [`PROGRESS.md`](PROGRESS.md) | Build log |
+
+## Status
+
+- **Stage 1 — Survival Foundations: complete.** 14 lessons, each with objectives, explanation,
+  science, diagrams, examples, common mistakes, safety-classified exercises, a quiz with per-option
+  explanations, a scenario question with debrief, summary, further reading and references; plus an
+  interleaved stage review.
+- **8 simulations:** Priority Triage, Heat Balance Lab, Kit Builder, Shelter Site Simulator,
+  Fire Builder, Water Safety Simulator, Be Seen/Be Heard, and the branching scenario
+  *Day 1, 14:00 — You realise you are lost*.
+- **Progress tracking:** dashboard, lesson/exercise/quiz/simulation/scenario records, concept
+  mastery and weak areas, five-state real-world skill tracker (never auto-awards competence),
+  Leitner spaced review, export/import.
+- **Stages 2–18 and 12 capstones:** fully mapped (lessons, levels, prerequisites, topics,
+  simulations) and browsable as outlines; content to be written.
+
+## Run it
+
+```bash
+cd app
+npm install
+npm run dev
+```
+
+Other scripts: `npm run build`, `npm test` (content-integrity and model tests), `npm run lint`,
+`npm run gen-docs` (regenerates the lesson list, prerequisite graph and references in `docs/`).
+
+## Adding a stage
+
+1. Write lessons as `Lesson` objects (see `app/src/content/types.ts`) in `app/src/content/stages/stageN/`.
+2. Export them and add them to `app/src/content/lessons.ts`.
+3. Add any new diagrams to `app/src/diagrams/registry.tsx`, simulations to `app/src/sims/registry.tsx`,
+   scenarios to `app/src/content/scenarios.ts`, skills to `skills.ts`, references to `references.ts`.
+4. Set the stage’s `status` to `'available'` in `curriculum.ts`.
+5. `npm test` checks that every reference, diagram, simulation, skill, concept and prerequisite id resolves.
+
+Content lives in `app/src/content/` and never contains UI code; UI components never contain course content.
+
+## Safety
+
+This course teaches frameworks, science and decision making, and structures practice. It does not
+replace hands-on training: take a wilderness first aid course (WFA/WAFA), a navigation course and a
+bushcraft course from reputable providers. Every exercise is labelled Home / Outdoor / Supervised /
+Formal training / Special equipment / Virtual only. High-risk activities are taught by explanation and
+simulation only. Laws on fires, foraging, fishing, hunting, trapping and camping vary by jurisdiction —
+check the land manager’s current rules.

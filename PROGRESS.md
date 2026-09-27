@@ -14,7 +14,7 @@ Source brief: `plan.md`. Resume from the first unchecked item.
 - [x] B8  Stage 1 lessons 10–13 + module quiz + capstone-lite scenario
 - [x] B9  Stage 1 simulations (priorities, kit builder, heat-loss, fire, shelter, water, signaling, lost-scenario game)
 - [x] B10 Stages 2–18 + capstones as roadmap stubs in registry (metadata, lessons, prereqs)
-- [ ] B11 Build, lint, test in browser, GitHub Pages workflow, README
+- [x] B11 Build, lint, test in browser, GitHub Pages workflow, README
 - [ ] B12 Push to GitHub (tal-giladi/survival-course, public)
 
 ## Notes
