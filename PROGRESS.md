@@ -32,5 +32,5 @@ Stages written in parallel git worktrees by agents, merged to main, then status 
 - [ ] Batch A: stages 2, 3, 4, 5, 8
 - [ ] Batch B: stages 6, 7, 9, 10, 11, 12
 - [ ] Batch C: stages 13, 14, 15, 16, 17, 18
-- [ ] Stage 19: 12 capstone scenarios + final assessment page
+- [x] Stage 19: 12 capstone scenarios + final assessment page
 - [ ] Regenerate docs, deploy
