@@ -335,7 +335,7 @@ export const stages: Stage[] = [
     level: 'intermediate',
     summary: 'Breakdowns and strandings in heat, cold and remote country — and whether to stay with the vehicle.',
     requires: [1, 2],
-    status: 'planned',
+    status: 'available',
     environments: ['desert', 'arctic', 'rural', 'mountain'],
     simulations: ['stranded-vehicle'],
     outline: [
