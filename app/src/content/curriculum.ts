@@ -187,7 +187,7 @@ export const stages: Stage[] = [
     level: 'intermediate',
     summary: 'Patient assessment and remote-setting care. A knowledge primer that points to hands-on certification.',
     requires: [1, 8],
-    status: 'planned',
+    status: 'available',
     environments: ['all'],
     simulations: ['patient-assessment', 'evac-decision'],
     outline: [
