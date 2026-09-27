@@ -65,7 +65,7 @@ export const stages: Stage[] = [
     level: 'intermediate',
     summary: 'Combustion science, fire lays for different jobs, wet-weather and primitive ignition, and fire management.',
     requires: [1],
-    status: 'planned',
+    status: 'available',
     environments: ['forest', 'desert', 'arctic', 'tropical'],
     simulations: ['fire-advanced', 'friction-fire'],
     outline: [
