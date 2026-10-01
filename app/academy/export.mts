@@ -288,7 +288,7 @@ const DARK = '--bg:#141a17;--panel:#1c2420;--panel-2:#232d28;--text:#e6ebe7;--mu
 const STYLE = `<style>svg{${LIGHT};background:var(--panel);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}@media (prefers-color-scheme:dark){svg{${DARK}}}text{fill:var(--text)}.muted-fill{fill:var(--muted)}</style>`
 for (const id of usedDiagrams) {
   // Coordinates rounded to 2 decimals: Math.exp/pow differ in the last digits between platforms (CI freshness check).
-  let svg = renderToStaticMarkup(createElement(Diagram, { id })).replace(/-?d+.d{3,}/g, (n) => String(Math.round(Number(n) * 100) / 100))
+  let svg = renderToStaticMarkup(createElement(Diagram, { id })).replace(/-?\d+\.\d{3,}/g, (n) => String(Math.round(Number(n) * 100) / 100))
   const vb = /viewBox="([\d.\s-]+)"/.exec(svg)?.[1].trim().split(/\s+/).map(Number)
   const size = vb && !/^<svg[^>]*\swidth=/.test(svg) ? ` width="${vb[2]}" height="${vb[3]}"` : ''
   svg = svg.replace(/^<svg/, `<svg xmlns="http://www.w3.org/2000/svg"${size}`).replace(/^(<svg[^>]*>)/, `$1${STYLE}`)
