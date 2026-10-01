@@ -1,0 +1,79 @@
+- id: s4-l3-q6
+  question: |-
+    Where does a solar still add the **most** value?
+  options:
+    - |-
+      Temperate forest beside a stream
+    - |-
+      Dry gravel desert, built at noon, leaving tomorrow
+    - |-
+      Snowfield
+    - |-
+      A dry coast where you can pour seawater into it for several days
+  correct: 3
+  explanation: |-
+    Distillation separates water from salts, metals and microbes — its unique advantage.
+
+- id: s4-l3-q4
+  question: |-
+    Why does a solar still often **lose** water for the builder?
+  options:
+    - |-
+      It yields about a litre a day at best, while digging in heat costs 1–2 L of sweat
+    - |-
+      The plastic sheet absorbs much of the condensed water before it drips
+    - |-
+      Distilled water lacks salts, so the body cannot absorb it properly
+    - |-
+      Stills only collect water at night, after the heat of the day has gone
+  correct: 0
+  explanation: |-
+    Yield is capped by sunlight and soil moisture: energy ceiling ≈ 0.15 × H × A / 2.4 L/day, supply often lower. Build only when the maths is positive over your stay.
+
+- id: s4-l3-q7
+  question: |-
+    You want your tarp to catch as much rain as possible. How should you pitch it?
+  options:
+    - |-
+      Steeply tilted, so it drains faster and so catches more rain
+    - |-
+      Nearly flat, with just enough slope to drain to one corner
+    - |-
+      Any angle works, because catch depends only on the fabric area
+    - |-
+      Hung vertically like a wall, so the rain runs straight down it
+  correct: 1
+  explanation: |-
+    Rain falls roughly vertically; catch depends on the **horizontal** footprint, which shrinks as you tilt. Use just enough slope to drain.
+
+- id: s4-l3-q1
+  question: |-
+    A tilted tarp has a horizontal footprint of 2.5 m × 2 m. A shower drops 12 mm. With 75 % capture, how much water do you collect?
+  options:
+    - |-
+      60 L
+    - |-
+      80 L
+    - |-
+      45 L
+    - |-
+      0.045 L
+  correct: 2
+  explanation: |-
+    V (L) = A (m²) × R (mm) × η: 5 m² × 12 mm × 0.75 = **45 L**.
+
+- id: s4-l3-q2
+  question: |-
+    Melting snow at −10 °C into 5 °C water needs about 376 kJ per litre. A canister stove delivers about 23 kJ per gram of gas. How much gas to make 3 L (no boiling)?
+  options:
+    - |-
+      16 g
+    - |-
+      25 g
+    - |-
+      98 g
+    - |-
+      49 g
+  correct: 3
+  explanation: |-
+    3 × 376 = 1,128 kJ; 1,128 / 23 ≈ **49 g**. Boiling it too roughly doubles that.

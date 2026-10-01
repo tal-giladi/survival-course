@@ -1,0 +1,79 @@
+- id: s14-l3-q5
+  question: |-
+    After two unsuccessful periods concentrated on the trail corridor, what happens to the POA of the trail corridor and of the rest of world (ROW)?
+  options:
+    - |-
+      The trail corridor falls; ROW rises
+    - |-
+      Both stay the same — probabilities are fixed at the start
+    - |-
+      The trail corridor rises because searchers are there
+    - |-
+      ROW falls because more has been searched
+  correct: 0
+  explanation: |-
+    A growing ROW tells planners their segments may not contain the subject — time to re-examine clues, the LKP and the lost-person profile.
+
+- id: s14-l3-q2
+  question: |-
+    Before a search: segment A has POA 50 %, B 30 %, C 10 %, ROW 10 %. A is searched with POD 60 % and nothing is found. What is B’s new POA?
+  options:
+    - |-
+      About 30 %
+    - |-
+      About 43 %
+    - |-
+      About 60 %
+    - |-
+      About 75 %
+  correct: 1
+  explanation: |-
+    POS = 0.5 × 0.6 = 0.30; failure probability 0.70. B′ = 0.30 / 0.70 ≈ **43 %**. (A′ = 0.5 × 0.4 / 0.7 ≈ 29 %, C′ ≈ 14 %, ROW′ ≈ 14 %.)
+
+- id: s14-l3-q4
+  question: |-
+    You are lost and want searchers to detect you from further away. Which action does NOT increase the effective sweep width they have for **you**?
+  options:
+    - |-
+      Moving from dense brush to an open clearing nearby
+    - |-
+      Laying out a bright tarp and wearing a bright jacket
+    - |-
+      Walking toward where you think the road is
+    - |-
+      Answering calls and whistling back to searchers
+  correct: 2
+  explanation: |-
+    Sweep width depends on size, contrast, responsiveness and terrain around the subject — all things you can change without walking away.
+
+- id: s14-l3-q3
+  question: |-
+    The same segment is searched twice, each time with a POD of 50 %. What is the cumulative POD?
+  options:
+    - |-
+      100 %
+    - |-
+      50 %
+    - |-
+      25 %
+    - |-
+      75 %
+  correct: 3
+  explanation: |-
+    Cumulative POD = $1 - (1 - 0.5)(1 - 0.5) = 75\%$. Each pass finds a fraction of what is still unfound.
+
+- id: s14-l3-q6
+  question: |-
+    An adult hiker is reported overdue. In a typical initial response, what happens first?
+  options:
+    - |-
+      Assess urgency: age, health, weather and equipment
+    - |-
+      Establish the LKP from the car, phone data or witnesses
+    - |-
+      Send hasty teams out and set confinement points
+    - |-
+      Segment the area and assign POAs by consensus
+  correct: 0
+  explanation: |-
+    Urgency, LKP, hasty teams and confinement, then segments and POAs, then efficient and thorough searches to maximise POS. Fast reflex tasks happen early while planners build the probability map.

@@ -1,0 +1,79 @@
+- id: s15-l1-q3
+  question: |-
+    A friend freezes on a narrow path as rockfall starts above. What is the best way to get them moving?
+  options:
+    - |-
+      Shout “Don’t panic!” as loudly as you can so they snap out of it
+    - |-
+      Explain quickly how rockfall bounces and why they must get off the path
+    - |-
+      Run back onto the path to them and wait there until they are ready
+    - |-
+      From a safe spot, shout their name and “Run to the boulder! Now!” while pointing at it
+  correct: 3
+  explanation: |-
+    Frozen people respond to simple, specific, positive commands, a clear target and a model to follow — delivered from a position that keeps you safe.
+
+- id: s15-l1-q6
+  question: |-
+    Your tent-mate wakes to find the stream rising around the tent in the dark and is hyperventilating. What do you do first?
+  options:
+    - |-
+      Get both of you out and up to higher ground immediately
+    - |-
+      Sit them down and speak slowly, using their name
+    - |-
+      Breathe with them: in… and a long, slow out
+    - |-
+      Give them one small task, like holding the torch
+  correct: 0
+  explanation: |-
+    Immediate danger first (Stage 1) — calming someone in a flooding tent is the wrong order. Once on high ground: sit them down, use their name, breathe with them, then give them a small task to restore agency.
+
+- id: s15-l1-q1
+  question: |-
+    Why does strong acute stress make it hard to build a *new* plan while habits still run?
+  options:
+    - |-
+      Adrenaline shuts the amygdala down so threats go unnoticed
+    - |-
+      Stress chemistry weakens the prefrontal cortex and favours habits
+    - |-
+      Low blood sugar from the stress response starves the brain
+    - |-
+      Fear drains the muscles so that the body cannot act
+  correct: 1
+  explanation: |-
+    High noradrenaline and dopamine impair the PFC and strengthen habit and reflex systems. That is why training and rehearsed if–then plans matter: they are what the stressed brain can still use.
+
+- id: s15-l1-q4
+  question: |-
+    How should the “10–80–10” split of disaster behaviour be used?
+  options:
+    - |-
+      As a precise statistic for planning evacuation capacity
+    - |-
+      As proof that about 10 % of people in any crowd always panic
+    - |-
+      As a heuristic: many people wait for a lead, so give clear instructions
+    - |-
+      Not at all — the numbers are unreliable, so ignore the idea
+  correct: 2
+  explanation: |-
+    Treat Leach’s split as a teaching picture. The robust point: most people are slowed down, not wild, and respond to a calm lead.
+
+- id: s15-l1-q2
+  question: |-
+    What does disaster research show about how crowds usually respond to emergencies?
+  options:
+    - |-
+      Mass panic and blind trampling are the most common response
+    - |-
+      Deadly crushes are mostly caused by a few people who panic first
+    - |-
+      Most people abandon others and look after themselves only
+    - |-
+      Most people act reasonably; delay and under-reaction are the bigger problems
+  correct: 3
+  explanation: |-
+    Mass panic is rare. People usually act reasonably and often help each other. Delay and under-reaction are much more common problems; deadly crushes are mostly driven by density and exits.

@@ -1,0 +1,79 @@
+- id: cap-4-q5
+  question: |-
+    Spaced review (Stage 14 stay or move): when is following drainage to a river the right choice?
+  options:
+    - |-
+      Straight after getting separated, before the group moves too far away.
+    - |-
+      Never — in a rainforest you should always stay put and wait for rescue.
+    - |-
+      When nobody knows where you are or the search has clearly failed, and you can travel safely.
+    - |-
+      As soon as you hear a boat engine somewhere in the distance.
+  correct: 2
+  explanation: |-
+    Stay while the search is likely to be near; move — methodically, beside the water, leaving a trail — when that is no longer true.
+
+- id: cap-4-q3
+  question: |-
+    Which of these is a mistake when choosing a rainforest shelter site?
+  options:
+    - |-
+      Checking for dead branches or loose fruit overhead
+    - |-
+      Staying off drainage lines, dips and stream banks
+    - |-
+      Avoiding ant or termite nests and animal paths
+    - |-
+      Camping as close to the stream as possible for water
+  correct: 3
+  explanation: |-
+    Look up, look down, look upstream. In the tropics the site does more for you than anything you build.
+
+- id: cap-4-q1
+  question: |-
+    You treat cloudy stream water with a chlorine-dioxide tablet. Which statement is correct?
+  options:
+    - |-
+      Pre-filter, then wait the full contact time — up to 4 hours for Cryptosporidium.
+    - |-
+      It is safe to drink as soon as the tablet has fully dissolved.
+    - |-
+      Chlorine dioxide has no effect at all on protozoa such as Cryptosporidium.
+    - |-
+      Cloudiness does not matter, because the chemical reaches every microbe.
+  correct: 0
+  explanation: |-
+    Read the label: times vary by product, temperature and turbidity. Boiling is the fallback that works on everything biological.
+
+- id: cap-4-q4
+  question: |-
+    A leech is attached to your ankle. Which statement is correct?
+  options:
+    - |-
+      Burning it off with a lighter is the safest way to remove it.
+    - |-
+      Slide a fingernail under the sucker to break the seal.
+    - |-
+      Covering it with salt is the safest way to make it let go.
+    - |-
+      The leech itself is the main risk, so remove it at any cost.
+  correct: 1
+  explanation: |-
+    Burning or salting can make the leech regurgitate into the bite. Slide a fingernail under the sucker to break the seal, then clean the bite. The wound, not the leech, is the real risk.
+
+- id: cap-4-q6
+  question: |-
+    Spaced review (Stage 12): where is the safest place to cross a rainforest stream on foot?
+  options:
+    - |-
+      The narrowest point, where you can almost jump it.
+    - |-
+      Just above a log-jam, where the water slows down.
+    - |-
+      A wide, shallow riffle, below knee depth, facing upstream with a pole.
+    - |-
+      Anywhere, if you unbuckle your pack.
+  correct: 2
+  explanation: |-
+    Choose the crossing, not just the technique: wide, shallow, slow, with a safe run-out below.

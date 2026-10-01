@@ -1,0 +1,159 @@
+- id: s1-rev-1
+  question: |-
+    Subarctic, −15 °C, calm, 15:00, sunset 15:40. Your snowmobile has failed 12 km from the cabin. You have a stove, insulated clothing, a bivy bag, a satellite messenger and food. Which action has the highest value right now?
+  options:
+    - |-
+      Start walking now so you reach the cabin tonight, before it gets colder.
+    - |-
+      Message your position, then add insulation and set up a spot by the machine.
+    - |-
+      Spend the next hour trying to repair the engine while you still have light.
+    - |-
+      Eat snow as you work to stay hydrated, and save the stove fuel for later.
+  correct: 1
+  explanation: |-
+    Communication and protection first; the vehicle is shelter material and a search target.
+
+- id: s1-rev-2
+  question: |-
+    In cold, windy conditions, which choice **increases** evaporative heat loss?
+  options:
+    - |-
+      Slowing your pace to avoid sweating
+    - |-
+      Putting a shell over damp layers
+    - |-
+      Drying a wet shirt by wearing it in the wind
+    - |-
+      Breathing through a scarf or buff
+  correct: 2
+  explanation: |-
+    Evaporation removes ~2.4 MJ per litre. Prevent sweat and shield damp layers from wind.
+
+- id: s1-rev-3
+  question: |-
+    You find an unconscious hiker in a gully with thunder upstream. Which order of first actions is correct?
+  options:
+    - |-
+      Airway and bleeding → remove danger → call for help → insulate
+    - |-
+      Remove danger → call for help → airway and bleeding → insulate
+    - |-
+      Call for help → remove danger → airway and bleeding → insulate
+    - |-
+      Remove danger → airway and bleeding → call for help → insulate
+  correct: 3
+  explanation: |-
+    Scene safety before patient care; airway and bleeding before everything else; then call and protect. (Stage 9 teaches this properly — take a hands-on course.)
+
+- id: s1-rev-4
+  question: |-
+    Sunset 18:05; twilight gives 20 min more. Camp setup needs 1 h and you want a 15-minute safety margin. Each relocation attempt takes 30 min. It is now 16:25. How many **full** relocation attempts fit before you must start setting up?
+  options:
+    - |-
+      1 attempt
+    - |-
+      2 attempts
+    - |-
+      0 attempts
+    - |-
+      3 attempts
+  correct: 0
+  explanation: |-
+    Latest setup start = 18:05 + 0:20 − 1:00 − 0:15 = 17:10. From 16:25 that is 45 min → **1** full attempt.
+
+- id: s1-rev-5
+  question: |-
+    Which water plan is safest for a stream below a village, using a 0.2 µm filter and chlorine tablets?
+  options:
+    - |-
+      Chlorine only
+    - |-
+      Settle/pre-filter, filter, then chlorine
+    - |-
+      Filter only
+    - |-
+      Neither — fast water is safe
+  correct: 1
+  explanation: |-
+    Combine methods whose gaps don’t overlap.
+
+- id: s1-rev-6
+  question: |-
+    "Everyone else is carrying on up — let’s not be the ones who turn back." Which human-factor trap is this?
+  options:
+    - |-
+      Familiarity
+    - |-
+      Scarcity
+    - |-
+      Social facilitation / acceptance
+    - |-
+      None; it is sound reasoning
+  correct: 2
+  explanation: |-
+    Name the trap out loud; then decide on the evidence.
+
+- id: s1-rev-7
+  question: |-
+    At dusk in the rain, with 30 minutes of light left, which shelter plan is usually worth the most?
+  options:
+    - |-
+      A well-built debris hut, even if it is unfinished at dark.
+    - |-
+      A big fire first; the shelter can be built by its light.
+    - |-
+      Keep moving to find a natural shelter such as an overhang.
+    - |-
+      A quick, low tarp and a thick leaf bed, finished before dark.
+  correct: 3
+  explanation: |-
+    Simple, finished protection beats ambitious, unfinished structures.
+
+- id: s1-rev-8
+  question: |-
+    You need to signal a helicopter on a sunny afternoon. What is the most detectable signal you are likely to have?
+  options:
+    - |-
+      A mirror flash from open ground
+    - |-
+      Whistle
+    - |-
+      Shouting
+    - |-
+      A headlamp
+  correct: 0
+  explanation: |-
+    Brightness beats size at long range, and open ground beats canopy.
+
+- id: s1-rev-9
+  question: |-
+    Which kit change does **NOT** improve **diverse redundancy**?
+  options:
+    - |-
+      Adding a ferro rod to a kit that has a lighter
+    - |-
+      Adding a second identical phone
+    - |-
+      Adding a paper map + compass to phone navigation
+    - |-
+      Adding a PLB to a phone-only kit for remote trips
+  correct: 1
+  explanation: |-
+    Redundancy should fail differently.
+
+- id: s1-rev-10
+  question: |-
+    Your partner becomes withdrawn and stops helping after dark on an unplanned bivouac. What do you do?
+  options:
+    - |-
+      Leave them to rest and quietly do every job yourself tonight.
+    - |-
+      Tell them firmly to snap out of it and start pulling their weight.
+    - |-
+      Give them a small task and a choice, like which wood to burn first.
+    - |-
+      Decide to walk out right away, in the dark, to lift their spirits.
+  correct: 2
+  explanation: |-
+    Small tasks and choices — "Can you keep the fire going, birch or pine first?" — counter withdrawal and passivity.

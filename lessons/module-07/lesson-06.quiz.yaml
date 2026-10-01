@@ -1,0 +1,79 @@
+- id: s7-l6-q6
+  question: |-
+    It is −15 °C and your group has a bag of charcoal and a small grill. Where should you use it?
+  options:
+    - |-
+      Inside the tent vestibule with the door half open
+    - |-
+      In the open air, well away from the shelter entrance
+    - |-
+      Inside a snow cave with a vent hole dug in the roof
+    - |-
+      In the car with a window cracked open for air
+  correct: 1
+  explanation: |-
+    Glowing charcoal is almost smokeless and produces a lot of CO. Open air only.
+
+- id: s7-l6-q5
+  question: |-
+    Which statement about smoke is correct?
+  options:
+    - |-
+      Thick smoke is a sign that the fire is burning efficiently
+    - |-
+      A smouldering fire in a closed shelter is a safe insect deterrent
+    - |-
+      Pick smoke colour for contrast: white against forest, black against snow
+    - |-
+      White smoke from green leaves shows best against snow or bright sand
+  correct: 2
+  explanation: |-
+    Choose smoke colour for contrast with the background; use black smoke sparingly and stay upwind. Keep all smouldering fires in the open.
+
+- id: s7-l6-q3
+  question: |-
+    Your pine pitch glue shatters like glass when a cold hafted blade is knocked. What is the best adjustment?
+  options:
+    - |-
+      Cook it longer to drive off more turpentine
+    - |-
+      Add more powdered charcoal and nothing else
+    - |-
+      Stir in a little water to make it more flexible
+    - |-
+      Add a little temper (fat, beeswax or fibrous material)
+  correct: 3
+  explanation: |-
+    Resin = adhesive, charcoal = filler/stiffener, temper = toughener. Adjust the one that fixes the failure you see.
+
+- id: s7-l6-q2
+  question: |-
+    1 kg of dry wood (18.5 MJ/kg) yields 0.30 kg of charcoal at 30 MJ/kg. What **percentage** of the wood’s energy is kept in the charcoal?
+  options:
+    - |-
+      49 %
+    - |-
+      30 %
+    - |-
+      51 %
+    - |-
+      162 %
+  correct: 0
+  explanation: |-
+    0.30 × 30 = 9 MJ; 9/18.5 ≈ **49 %**. Half the energy goes into making charcoal; you are paying for a hotter, cleaner, lighter fuel.
+
+- id: s7-l6-q1
+  question: |-
+    Which sequence matches what happens as wood is heated in a charcoal retort?
+  options:
+    - |-
+      Acids and CO₂ → steam → wood-gas jet → jet dies
+    - |-
+      Steam → acids and CO₂ → wood-gas jet → jet dies
+    - |-
+      Steam → wood-gas jet → acids and CO₂ → jet dies
+    - |-
+      Wood-gas jet → steam → acids and CO₂ → jet dies
+  correct: 1
+  explanation: |-
+    Water boils off, hemicellulose breaks down (acids, CO₂), exothermic pyrolysis jets flammable wood gas from the vent, and the jet dies as carbonisation completes. These are the Stage 3 combustion stages, with the oxygen shut out so the char is kept instead of burned.

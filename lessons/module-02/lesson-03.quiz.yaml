@@ -1,0 +1,79 @@
+- id: s2-l3-q3
+  question: |-
+    A friend trained in the UK says “grid to mag, add — always”. You are navigating where declination is **15° E**. What happens if you follow the rule?
+  options:
+    - |-
+      Nothing — the rule is universal.
+    - |-
+      You end up about 30° off course.
+    - |-
+      You end up 15° off course.
+    - |-
+      You end up 180° off course.
+  correct: 1
+  explanation: |-
+    Applying the correction with the wrong sign doubles it: 2 × 15° = 30°. At 1 km that is roughly 500–580 m off line (1-in-60 estimate vs exact).
+
+- id: s2-l3-q5
+  question: |-
+    Which of these will **not** deflect a compass needle enough to matter?
+  options:
+    - |-
+      A phone in the same hand or chest pocket
+    - |-
+      Standing right next to a parked vehicle
+    - |-
+      Rain running over the compass capsule
+    - |-
+      A steel fence or rebar in concrete nearby
+  correct: 2
+  explanation: |-
+    Deviation comes from magnetic fields and ferrous metal close to the compass — phones, vehicles, fences, even iron-rich volcanic rock. Test your kit at home and hold the compass clear of it.
+
+- id: s2-l3-q6
+  question: |-
+    Your compass is **adjusted for local declination**. How do you turn a bearing measured on the map into one you can walk?
+  options:
+    - |-
+      Add or subtract the declination by hand, as with any compass
+    - |-
+      Correct by hand only when the declination is several degrees or more
+    - |-
+      Apply the declination by hand with the opposite sign to undo it
+    - |-
+      Use it as measured; the adjusted compass applies the correction
+  correct: 3
+  explanation: |-
+    An adjusted compass already applies the correction; doing it again doubles the error. Use one method — and label which one on the compass.
+
+- id: s2-l3-q2
+  question: |-
+    Declination is **8° W**. Your compass (not adjusted for declination) gives a **magnetic** bearing of **004°** to a summit. What is the **grid** bearing to plot on the map?
+  options:
+    - |-
+      356°
+    - |-
+      012°
+    - |-
+      004°
+    - |-
+      176°
+  correct: 0
+  explanation: |-
+    West declination: magnetic is bigger than grid, so magnetic → grid subtracts. 4 − 8 = −4 → **356°**.
+
+- id: s2-l3-q4
+  question: |-
+    A map printed in 2005 says “Declination 8° W, decreasing 0.2° annually”. Estimate the declination in **2026**.
+  options:
+    - |-
+      4.2° W
+    - |-
+      3.8° W
+    - |-
+      12.2° W
+    - |-
+      4.0° W
+  correct: 1
+  explanation: |-
+    21 years × 0.2° = 4.2°. 8 − 4.2 = **3.8° W**. Cross-check with the NOAA calculator — the rate itself drifts.

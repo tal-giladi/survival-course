@@ -1,0 +1,79 @@
+- id: s6-l4-q2
+  question: |-
+    You are keying a plant with feathery leaves and white umbrella-shaped flowers. Which statement is correct?
+  options:
+    - |-
+      The umbrella-shaped flowers identify it; nothing more is needed.
+    - |-
+      A carrot smell from a crushed leaf is enough to confirm it.
+    - |-
+      Stem, crushed-leaf smell, root and habitat must all be checked.
+    - |-
+      Leaves and flowers decide it; root and habitat do not matter.
+  correct: 2
+  explanation: |-
+    In the carrot family, the obvious features are shared; the separating ones are stem (hairs, markings, hollow or solid), smell, root and habitat — and beginners avoid the family entirely.
+
+- id: s6-l4-q1
+  question: |-
+    Why is the “universal edibility test” unreliable?
+  options:
+    - |-
+      It takes too long to complete, though its results are accurate.
+    - |-
+      It only fails for plants with milky sap or a bitter taste.
+    - |-
+      It works well for fungi, but not for flowering plants.
+    - |-
+      Tiny doses can kill, toxins may act days later, taste reveals nothing.
+  correct: 3
+  explanation: |-
+    The test can “pass” a plant that kills later or poison you during the test itself. Use it for nothing; ration and get rescued.
+
+- id: s6-l4-q4
+  question: |-
+    In the identification funnel, you have checked every key feature on a mature specimen and positively excluded every regional look-alike. What is the next gate?
+  options:
+    - |-
+      Confirm it in person with a local expert
+    - |-
+      Eat a small amount and wait to see how you react
+    - |-
+      Check that it is legal to pick here
+    - |-
+      Pick the right part, stage and preparation
+  correct: 0
+  explanation: |-
+    Legal → every key feature → every look-alike excluded → expert confirmation in person → right part, stage and preparation, small amount. Each gate must pass; failing any exits to “do not eat”.
+
+- id: s6-l4-q3
+  question: |-
+    You watch deer and birds eating berries from a shrub. What does that tell you about the berries’ safety for you?
+  options:
+    - |-
+      They are safe for humans as long as you eat only a few at a time.
+    - |-
+      Nothing — animals tolerate many compounds that are toxic to people.
+    - |-
+      They are safe because birds and deer both eat them, not just one.
+    - |-
+      They are safe once they have been cooked thoroughly over a fire.
+  correct: 1
+  explanation: |-
+    A myth. Animals tolerate many compounds that are toxic to people.
+
+- id: s6-l4-q6
+  question: |-
+    In a 72-hour emergency, why is foraging for wild greens usually a poor use of effort, even if identification were certain?
+  options:
+    - |-
+      Greens contain no useful nutrients, only water and fibre.
+    - |-
+      Greens are always illegal to pick in forests and parks.
+    - |-
+      At ~20–50 kcal per 100 g, gathering costs more than it returns.
+    - |-
+      Greens must be cooked for hours before they are digestible.
+  correct: 2
+  explanation: |-
+    Short emergencies are won by rationing and being found; foraging is a long-term, expert activity.

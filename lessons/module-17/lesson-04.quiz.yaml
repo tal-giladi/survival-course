@@ -1,0 +1,79 @@
+- id: s17-l4-q4
+  question: |-
+    Your navigation app tells you to turn onto an unsigned dirt road to save 60 km. The road soon becomes sandy and rutted, your fuel is at 40 % and it is 16:30. What do you do?
+  options:
+    - |-
+      Turn back to the paved road now while the car, fuel and daylight allow it
+    - |-
+      Keep going — the app says it is a road
+    - |-
+      Speed up to get through the sandy part quickly
+    - |-
+      Stop and wait for another car
+  correct: 0
+  explanation: |-
+    Turning back on the known road is the cheapest, most reversible decision (Stage 1 reversibility; Stage 2 backtracking).
+
+- id: s17-l4-q6
+  question: |-
+    You activated your PLB three hours ago beside your broken-down car in remote hills. Nobody has arrived. What should you do?
+  options:
+    - |-
+      Switch it off to save the battery and walk to high ground to look for help
+    - |-
+      Leave it on with a clear view of the sky, stay with the car, prepare visual signals, and wait
+    - |-
+      Switch it off and on every hour
+    - |-
+      Leave it in the car and walk for help
+  correct: 1
+  explanation: |-
+    A beacon alerts rescuers, but they still have to travel. Stay put with it on, and be ready to show yourself when they come.
+
+- id: s17-l4-q1
+  question: |-
+    A tyre blows on a busy dual carriageway at night. You have steered onto the shoulder as far from traffic as possible and switched on the hazard lights. What comes next?
+  options:
+    - |-
+      Call for help with your location from your seat
+    - |-
+      Step out on the traffic side to look at the tyre
+    - |-
+      Put on hi-vis vests while still inside the car
+    - |-
+      Get everyone out, then look for the hi-vis vests
+  correct: 2
+  explanation: |-
+    The order is: pull over, hazards on, hi-vis on inside the car, everyone out on the side away from traffic to behind the barrier upstream of the car, then call for help with your location.
+
+- id: s17-l4-q3
+  question: |-
+    An aircraft is searching for your stranded car by day. Which of these does NOT make you more visible?
+  options:
+    - |-
+      A large “V” laid out in contrasting material on open ground
+    - |-
+      Signal-mirror flashes aimed toward the aircraft
+    - |-
+      Bright cloth laid out and the hood left open
+    - |-
+      Parking the car under trees to keep it in shade
+  correct: 3
+  explanation: |-
+    Enlarge, contrast, flash — and let an activated PLB with a clear view of the sky give your position directly.
+
+- id: s17-l4-q2
+  question: |-
+    Fast-moving water about 40 cm deep is running across a flooded road. You are driving a large 4×4. What is right?
+  options:
+    - |-
+      Turn around — about 30 cm of moving water can sweep a car away
+    - |-
+      Drive through slowly — a large 4×4 sits high enough for 40 cm
+    - |-
+      Drive through fast so the water has less time to push the car
+    - |-
+      Cross only if you can still see the road surface below the water
+  correct: 0
+  explanation: |-
+    Around 30 cm of moving water can sweep a vehicle away (Ready.gov), and you cannot see if the road beneath is intact. Turn around.

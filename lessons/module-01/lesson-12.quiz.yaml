@@ -1,0 +1,79 @@
+- id: s1-l12-q5
+  question: |-
+    You have limited water in desert heat. What is the best way to make it go furthest?
+  options:
+    - |-
+      Drink what you need and cut sweat: shade, rest, cool-hour travel.
+    - |-
+      Sip as little as possible so that your supply lasts longer.
+    - |-
+      Drink it all now, then walk out fast before the heat peaks.
+    - |-
+      Strip off your outer clothing to stay cool and sweat less.
+  correct: 0
+  explanation: |-
+    "Ration sweat, not water." Drink what you need and cut losses: shade, rest in the heat, move in the cool hours.
+
+- id: s1-l12-q6
+  question: |-
+    A hollow-fibre filter rated 0.1 µm is used on stream water. Which hazard class remains the main concern?
+  options:
+    - |-
+      Bacteria
+    - |-
+      Viruses (and chemicals)
+    - |-
+      Protozoa
+    - |-
+      Sediment
+  correct: 1
+  explanation: |-
+    Add chemical or UV treatment where viruses are a concern (e.g., downstream of people).
+
+- id: s1-l12-q2
+  question: |-
+    Which method is **ineffective** against *Cryptosporidium* at practical doses?
+  options:
+    - |-
+      Boiling
+    - |-
+      0.2 µm filter
+    - |-
+      Chlorine (bleach)
+    - |-
+      UV in clear water
+  correct: 2
+  explanation: |-
+    Chlorine dioxide with long contact, boiling, filters and UV handle Crypto; plain chlorine does not.
+
+- id: s1-l12-q1
+  question: |-
+    Baseline need 2.5 L/day. You will hike 5 hours at a sweat rate of 0.9 L/h. Estimate total drinking water for the day.
+  options:
+    - |-
+      4.5 L
+    - |-
+      3.4 L
+    - |-
+      17.0 L
+    - |-
+      7.0 L
+  correct: 3
+  explanation: |-
+    Total ≈ baseline + sweat rate × active hours: 2.5 + 0.9 × 5 = **7.0 L**.
+
+- id: s1-l12-q3
+  question: |-
+    How long should you boil water at 2,500 m altitude, per CDC guidance?
+  options:
+    - |-
+      Rolling boil for 3 minutes
+    - |-
+      Just until the first bubbles appear
+    - |-
+      Rolling boil for 1 minute
+    - |-
+      Rolling boil for 20 minutes
+  correct: 0
+  explanation: |-
+    Above ~2,000 m (6,500 ft), boil for 3 minutes.

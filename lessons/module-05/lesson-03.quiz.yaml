@@ -1,0 +1,79 @@
+- id: s5-l3-q4
+  question: |-
+    A storm with 60 km/h gusts from the west is forecast for 02:00. Which of these choices is **NOT** sound?
+  options:
+    - |-
+      Tension the ridgeline as hard as you can
+    - |-
+      A wedge with the low closed end facing west
+    - |-
+      Stake the west (windward) side first
+    - |-
+      Use adjustable hitches to re-tension in the night
+  correct: 0
+  explanation: |-
+    For a storm: pitch low, closed to the wind, windward edge first, with moderate tension and adjustable hitches. A drum-tight ridgeline (or a high pitch) is what fails in the gusts.
+
+- id: s5-l3-q3
+  question: |-
+    Cold, dry, calm boreal night; fires are permitted and you have plenty of dead wood. Which pitch makes best use of it?
+  options:
+    - |-
+      Wedge, closed end to the fire
+    - |-
+      Lean-to facing a long fire (with a reflector behind the fire)
+    - |-
+      Diamond with the low corner to the fire
+    - |-
+      A-frame with the fire at one end
+  correct: 1
+  explanation: |-
+    Lean-to + fire is a system: the fire provides the heat, the tarp and reflector direct it. Without the fire it is one of the coldest pitches.
+
+- id: s5-l3-q6
+  question: |-
+    Which is the right order of steps for pitching an A-frame in a rising wind?
+  options:
+    - |-
+      Low ridgeline → orient for the worst wind → windward edge → lee edge → drip lines
+    - |-
+      Orient for the worst wind → low ridgeline → lee edge → windward edge → drip lines
+    - |-
+      Orient for the worst wind → low ridgeline → windward edge → lee edge → drip lines
+    - |-
+      Orient for the worst wind → low ridgeline → drip lines → windward edge → lee edge
+  correct: 2
+  explanation: |-
+    Decide orientation first; rig the ridgeline low; stake windward before lee so the tarp never fills; add drip lines and check for flat spots last.
+
+- id: s5-l3-q2
+  question: |-
+    Gusts rise from 30 km/h to 60 km/h. By what factor does the wind force on your tarp increase?
+  options:
+    - |-
+      2 times
+    - |-
+      8 times
+    - |-
+      About 1.4 times
+    - |-
+      4 times
+  correct: 3
+  explanation: |-
+    Force scales with $v^2$: doubling speed gives $2^2 = 4$ times the force. That is why the strongest gust of the night decides whether the pitch survives.
+
+- id: s5-l3-q1
+  question: |-
+    A ridgeline spans $L = 5$ m. A load $P = 150$ N acts at the middle and the line sags $s = 0.25$ m. Estimate the tension $T \approx PL/(4s)$.
+  options:
+    - |-
+      750 N
+    - |-
+      3 000 N
+    - |-
+      187.5 N
+    - |-
+      7.5 N
+  correct: 0
+  explanation: |-
+    $150 \times 5 / (4 \times 0.25) = 750$ N. Pull it tighter to a 6 cm sag and the same load gives about 3 100 N.

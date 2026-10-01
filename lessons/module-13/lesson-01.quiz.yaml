@@ -1,0 +1,79 @@
+- id: s13-l1-q2
+  question: |-
+    You inspect a life-safety rope. Which finding, on its own, does NOT mean the rope must be retired?
+  options:
+    - |-
+      A soft, flat section you can pinch together
+    - |-
+      Light, even fuzz on the sheath after normal use
+    - |-
+      A month in a car boot next to a leaking battery
+    - |-
+      A shiny, hard, glazed patch on the sheath
+  correct: 1
+  explanation: |-
+    Core damage, chemicals, heat damage and unknown history (such as a rope found tied above a canyon drop) each retire a life-safety rope. Normal light wear is monitored, not ignored.
+
+- id: s13-l1-q5
+  question: |-
+    On the same rope, which fall produces the higher peak force: a 10 m fall on 20 m of rope, or a 2 m fall on 1 m of rope?
+  options:
+    - |-
+      The 10 m fall on 20 m of rope, because the fall is longer
+    - |-
+      Both are the same, because it is the same rope and climber
+    - |-
+      The 2 m fall on 1 m of rope, because its fall factor is 2
+    - |-
+      The 10 m fall, because the climber gains five times the energy
+  correct: 2
+  explanation: |-
+    The peak force depends on the fall factor $h/L$: 0.5 vs 2. The short fall on little rope is far more severe.
+
+- id: s13-l1-q1
+  question: |-
+    Which rope is designed to catch a climber’s fall?
+  options:
+    - |-
+      Low-stretch kernmantle (EN 1891)
+    - |-
+      Braided polyester utility line
+    - |-
+      HMPE (Dyneema) cord, because it is strongest for its size
+    - |-
+      Dynamic kernmantle (EN 892 / UIAA 101)
+  correct: 3
+  explanation: |-
+    Strength alone is not enough: energy absorption (stretch) is what keeps a fall survivable for the person and the anchor.
+
+- id: s13-l1-q6
+  question: |-
+    Why must a fast-moving nylon rope never run over a stationary nylon sling?
+  options:
+    - |-
+      Friction heat concentrates on the stationary sling and can melt it
+    - |-
+      The rubbing can work the sling’s knot loose until it unties
+    - |-
+      Nylon rubbing on nylon builds up static electricity
+    - |-
+      It is fine as long as the sling is thicker than the rope
+  correct: 0
+  explanation: |-
+    Friction is useful (Stage 7) — but its heat has to go somewhere. Nylon melts at roughly 220–260 °C, HMPE at about 150 °C.
+
+- id: s13-l1-q3
+  question: |-
+    A person falls 3 m before the rope starts to hold, with 2 m of rope between them and the anchor. What is the fall factor?
+  options:
+    - |-
+      0.67
+    - |-
+      1.5
+    - |-
+      0.6
+    - |-
+      1.0
+  correct: 1
+  explanation: |-
+    $f = h/L = 3/2 = 1.5$ — a severe fall. A 6 m fall on 12 m of rope ($f = 0.5$) would be much gentler.

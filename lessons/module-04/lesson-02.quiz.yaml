@@ -1,0 +1,79 @@
+- id: s4-l2-q5
+  question: |-
+    15:00, 39 °C. A promising green line is 2 km away (60 % chance of 5 L). The round trip takes 2 h. Your sweat rate is 1.4 L/h now and 0.6 L/h after 18:00. Sunset 19:40. What is the best plan?
+  options:
+    - |-
+      Go now: the sooner you find water, the better.
+    - |-
+      Go after dark when it is coolest.
+    - |-
+      Rest in shade, leave at ~17:30–18:00 and return by last light.
+    - |-
+      Never search — stay put and ration.
+  correct: 2
+  explanation: |-
+    Expected value = probability × volume − sweat cost. Timing changes the cost; daylight limits the window.
+
+- id: s4-l2-q6
+  question: |-
+    After an earthquake cuts mains water, which of these household sources must you **not** use for drinking, even after treatment?
+  options:
+    - |-
+      The water heater tank
+    - |-
+      The toilet cistern (tank), if no chemical cleaner is used
+    - |-
+      Water left in the pipes, drained from the lowest tap
+    - |-
+      The radiator of a car or a hot-water heating system
+  correct: 3
+  explanation: |-
+    The house is full of stored clean water. Chemical contamination (radiators, floodwater) cannot be treated away.
+
+- id: s4-l2-q1
+  question: |-
+    Crossing dry country, which plants most reliably indicate water within digging depth?
+  options:
+    - |-
+      A winding line of willows, cottonwoods or reeds
+    - |-
+      Scattered cacti
+    - |-
+      Deep-rooted creosote or acacia scrub
+    - |-
+      Lichens on rocks
+  correct: 0
+  explanation: |-
+    Look for phreatophytes and lines of brighter green; they betray shallow groundwater from a distance.
+
+- id: s4-l2-q2
+  question: |-
+    Which of these animal clues is the **weakest** indicator of nearby water?
+  options:
+    - |-
+      Pigeons and doves flying low and direct at dusk
+    - |-
+      A hawk circling overhead
+    - |-
+      Game trails converging downhill
+    - |-
+      Mosquitoes and calling frogs
+  correct: 1
+  explanation: |-
+    Prefer animals that must drink daily (grazers, seed-eating birds) and those that breed in water.
+
+- id: s4-l2-q4
+  question: |-
+    Your water is low in the desert and a companion suggests cutting open a barrel cactus to drink from it. What is the right response?
+  options:
+    - |-
+      Do it: the pulp is a reliable emergency source of drinking water
+    - |-
+      Do it, but squeeze the pulp through a cloth to filter the juice first
+    - |-
+      Skip it: the pulp is bitter and may cause vomiting or diarrhoea
+    - |-
+      Do it in the evening, when the sweat cost of cutting it open is low
+  correct: 2
+  explanation: |-
+    **Myth.** Barrel-cactus pulp is bitter, often irritating and may cause vomiting or diarrhoea. It costs effort and water.

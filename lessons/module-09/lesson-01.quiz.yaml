@@ -1,0 +1,79 @@
+- id: s9-l1-q2
+  question: |-
+    You arrive at a hiker lying at the bottom of a gully. Rocks are still trickling down from above and she is moaning in pain. What do you do first?
+  options:
+    - |-
+      Hurry straight to her and check her airway, since she may be struggling to breathe.
+    - |-
+      Leave her exactly where she lies, because moving a patient can injure the spine.
+    - |-
+      Stop at a safe spot, size up, then move her the minimum distance out of the fall line.
+    - |-
+      Take a full set of vitals where she lies before deciding whether to move her.
+  correct: 2
+  explanation: |-
+    Immediate danger first (lesson s1-l3): a minimal, careful move out of the fall line, then the primary survey. The rescuer’s safety is part of the patient’s safety.
+
+- id: s9-l1-q6
+  question: |-
+    Which set of findings is the most worrying?
+  options:
+    - |-
+      A single pulse of 104 in a hiker who has just scrambled up a steep slope.
+    - |-
+      A resting pulse of 58 in a fit, relaxed trail runner sitting beside the trail.
+    - |-
+      A breathing rate of 16 per minute, with skin that is pink, warm and dry.
+    - |-
+      Pulse 88 → 98 → 110 over 30 minutes of rest after a fall, skin turning pale and moist.
+  correct: 3
+  explanation: |-
+    Trends beat single readings. A steady climb at rest with pale, moist skin suggests compensating shock.
+
+- id: s9-l1-q5
+  question: |-
+    A patient answers your questions and knows who she is and where she is, but not the day or what happened. How do you record her mental status?
+  options:
+    - |-
+      A+Ox2 — alert, oriented to person and place only
+    - |-
+      A+Ox4 — she is alert and answering your questions
+    - |-
+      A+Ox3 — alert, oriented to person, place and time
+    - |-
+      V — she responds only when you speak to her
+  correct: 0
+  explanation: |-
+    Ox4 means oriented to person, place, time and event. Knowing only who and where is A+Ox2 — an important finding, especially after a head injury.
+
+- id: s9-l1-q1
+  question: |-
+    Which sequence is the correct order of the Patient Assessment System?
+  options:
+    - |-
+      Primary survey → scene size-up → secondary survey → SOAP note → monitor
+    - |-
+      Scene size-up → primary survey → secondary survey → SOAP note → monitor
+    - |-
+      Scene size-up → secondary survey → primary survey → SOAP note → monitor
+    - |-
+      Scene size-up → primary survey → SOAP note → secondary survey → monitor
+  correct: 1
+  explanation: |-
+    Safety → life threats → full picture (exam, vitals, SAMPLE) → written plan → monitor and reassess. Any deterioration takes you back to the primary survey.
+
+- id: s9-l1-q4
+  question: |-
+    You count 23 radial pulse beats in 15 seconds. What is the heart rate?
+  options:
+    - |-
+      138 beats/min
+    - |-
+      46 beats/min
+    - |-
+      92 beats/min
+    - |-
+      69 beats/min
+  correct: 2
+  explanation: |-
+    A 15-second count is multiplied by 4 (60 / 15): 23 × 4 = 92 beats/min — within the normal adult range of 60–100.

@@ -1,0 +1,79 @@
+- id: s18-l4-q5
+  question: |-
+    At 02:00 on night 3, cold and awake, you decide you will walk out at first light down an unfamiliar valley. What should you do?
+  options:
+    - |-
+      Pack everything now so that you can leave at first light
+    - |-
+      Note your reasons, rest, then review them after breakfast
+    - |-
+      Leave immediately, in the dark, while you still feel motivated
+    - |-
+      Dismiss the thought for good, because staying is always right
+  correct: 1
+  explanation: |-
+    Stage 8 and Stage 15: decisions at the circadian low, exhausted and cold, are unreliable. Review stay-or-move each morning, with food and facts.
+
+- id: s18-l4-q3
+  question: |-
+    On day 4, your companion stops helping, stays in the shelter, stops eating and answers “what’s the point?”. Which response does NOT fit this lesson?
+  options:
+    - |-
+      Check for physical causes: cold, dehydration, hunger, illness, head injury
+    - |-
+      Give them a specific, meaningful job and start it together with them
+    - |-
+      Leave them alone in the shelter to rest until they feel better
+    - |-
+      Offer food, a hot drink and warmth, and talk about the plan ahead
+  correct: 2
+  explanation: |-
+    Withdrawal and apathy respond to basic needs, company, a specific task and a sense of control; isolation and blame usually deepen it. Rule out physical causes, and if it keeps getting worse, prioritise evacuation.
+
+- id: s18-l4-q2
+  question: |-
+    It is −12 °C. You have a sleeping bag, a tarp, plenty of boughs and a small saw. Which night plan is likely to give the best result over several nights?
+  options:
+    - |-
+      Sit up beside a big fire all night, every night, to stay warm
+    - |-
+      Sleep directly on the snow inside the bag to save building effort
+    - |-
+      Stay awake and keep walking around through the night to stay warm
+    - |-
+      Small insulated shelter, thick bough bed, hot food, banked fire
+  correct: 3
+  explanation: |-
+    The ground and the evening routine matter most. With a sleeping bag, invest in the bed and bank the fire.
+
+- id: s18-l4-q6
+  question: |-
+    Rescue is expected in about 3 days. How much food and fuel should you plan for?
+  options:
+    - |-
+      Roughly 4.5–6 days, holding the extra as a reserve
+    - |-
+      Exactly 3 days, since a margin only adds weight
+    - |-
+      3 days, plus whatever you can forage on the way
+    - |-
+      Just 2 days, so that you are forced to ration well
+  correct: 0
+  explanation: |-
+    Rescues slip because of weather and logistics. Plan for roughly 1.5–2× the expected wait and hold the margin as a reserve.
+
+- id: s18-l4-q1
+  question: |-
+    You need about 7.5 h of sleep. For four nights you tend a fire and sleep 5 h a night. How many hours of sleep debt have you built up?
+  options:
+    - |-
+      2.5 h
+    - |-
+      10 h
+    - |-
+      20 h
+    - |-
+      30 h
+  correct: 1
+  explanation: |-
+    $4 \times (7.5 - 5) = 10$ h — more than a full night. Expect slower thinking, worse mood and poor risk judgment, and that you will underestimate it.

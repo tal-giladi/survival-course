@@ -1,0 +1,83 @@
+- id: s2-l9-q7
+  question: |-
+    You are lost in hilly woodland at 22:00, uninjured, with warm clothing and a trip plan left with a friend. The sky is clear and you have found Polaris. What is the best use of it?
+  options:
+    - |-
+      Walk north now toward a road you believe lies that way, using Polaris to hold direction.
+    - |-
+      Ignore it, since the stars are of little practical use once you are already lost.
+    - |-
+      Use it to measure your latitude so you can call in a precise position to rescuers.
+    - |-
+      Mark a north line, stay comfortable and findable overnight, and decide in daylight.
+  correct: 3
+  explanation: |-
+    The sky gives direction, not permission to travel. With a trip plan in place and a safe night possible, staying is reversible; walking in the dark is not.
+
+- id: s2-l9-q2
+  question: |-
+    You are in the Southern Hemisphere and want true south. Which procedure is correct?
+  options:
+    - |-
+      Extend Crux’s long axis ~4.5×, cross it with the Pointers’ bisector, drop a vertical.
+    - |-
+      Find the brightest star in the southern sky and drop a vertical from it to the horizon.
+    - |-
+      Use the False Cross instead, because it is larger and easier to pick out of the sky.
+    - |-
+      Find Polaris low in the northern sky and simply face the opposite direction from it.
+  correct: 0
+  explanation: |-
+    The south celestial pole is empty sky; you construct it from Crux’s long axis (extended about 4.5× its length) and the Pointers’ bisector, then drop to the horizon.
+
+- id: s2-l9-q6
+  question: |-
+    Using the stick-and-star method in the Northern Hemisphere, the star you aligned has moved clearly **to the right** after 20 minutes. Which way are you roughly facing?
+  options:
+    - |-
+      North
+    - |-
+      South
+    - |-
+      East
+    - |-
+      West
+  correct: 1
+  explanation: |-
+    Reason from the rule “stars drift west”: rising = east, sinking = west, moving right = facing south, moving left = facing north (for stars away from the pole).
+
+- id: s2-l9-q5
+  question: |-
+    Which statement about the Moon as a direction aid is **not** correct?
+
+    ![Crescent Moon: lit side faces the Sun; the line through the horns extended to the horizon gives rough south](../../assets/diagrams/moon-phase.svg)
+  options:
+    - |-
+      The lit side of the Moon faces the Sun, even after the Sun has set.
+    - |-
+      A full Moon is highest around local midnight, roughly due south at mid-northern latitudes.
+    - |-
+      The horn line extended to the horizon gives south to within a degree or two.
+    - |-
+      A first-quarter Moon is highest around sunset, about six hours after the Sun.
+  correct: 2
+  explanation: |-
+    The Moon’s geometry with the Sun gives useful but coarse direction; use it to confirm, not to navigate precisely.
+
+- id: s2-l9-q1
+  question: |-
+    In the Northern Hemisphere you measure Polaris at three and a half fist-widths above a flat horizon (about 10° per fist at arm’s length). What is your approximate **latitude**?
+
+    ![Polaris altitude above the horizon equals the observer’s latitude](../../assets/diagrams/polaris-latitude.svg)
+  options:
+    - |-
+      55° N
+    - |-
+      30° N
+    - |-
+      3.5° N
+    - |-
+      35° N
+  correct: 3
+  explanation: |-
+    3.5 × 10° = 35°. The altitude of Polaris is approximately your latitude, so you are near **35°N** (hand-measure accuracy ±2–3°).

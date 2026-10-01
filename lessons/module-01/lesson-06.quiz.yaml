@@ -1,0 +1,63 @@
+- id: s1-l6-q1
+  question: |-
+    Which action is the **most reversible**?
+  options:
+    - |-
+      Crossing a fast, thigh-deep stream to reach a trail you think is on the other side.
+    - |-
+      Descending a steep gully in fading light.
+    - |-
+      Drinking from a stagnant pool without treatment.
+    - |-
+      Pitching your tarp 50 m away in a more sheltered hollow.
+  correct: 3
+  explanation: |-
+    Reversible actions buy time and information. Keep irreversible ones for when the evidence is strong.
+
+- id: s1-l6-q2
+  question: |-
+    Which of these is **NOT** a good reason to **move** rather than stay put?
+  options:
+    - |-
+      You feel restless and bored after an hour of waiting.
+    - |-
+      Your location is in the path of a wildfire.
+    - |-
+      Nobody knows you are out, so no search will start soon.
+    - |-
+      Your own clear tracks lead back to the trail, with plenty of daylight.
+  correct: 0
+  explanation: |-
+    Move for immediate danger, no one knowing, a known safe route, an unsurvivable location, or an evacuation need. Not for restlessness.
+
+- id: s1-l6-q3
+  question: |-
+    Which is a well-formed **decision trigger**?
+  options:
+    - |-
+      "We’ll see how we feel later and decide then whether to stop for the night."
+    - |-
+      "If we haven’t reached the hut by 17:00, we pitch the shelter where we are."
+    - |-
+      "We should be careful and stop early if anything starts to feel wrong."
+    - |-
+      "Let’s keep going until it gets dark, then pitch the shelter wherever we are."
+  correct: 1
+  explanation: |-
+    A trigger has a measurable condition, a time and a pre-chosen action.
+
+- id: s1-l6-q4
+  question: |-
+    When should you stop gathering information and act?
+  options:
+    - |-
+      When you are certain that your chosen option is the right one.
+    - |-
+      When you have checked every option you can think of at least once.
+    - |-
+      When nothing you could still learn would change your decision.
+    - |-
+      When the information would take more than a few minutes to get.
+  correct: 2
+  explanation: |-
+    Information only has value if it could change what you do. If nothing you could learn would change your choice, stop deliberating and act.

@@ -1,0 +1,79 @@
+- id: s11-l3-q5
+  question: |-
+    Two searchers disagree: one says a print is “1 hour old”, the other “half a day”. What should the report to the search manager say?
+  options:
+    - |-
+      The average of the two, about 6 hours, as one best estimate
+    - |-
+      An age range with the evidence for each end, a scaled photo and location
+    - |-
+      The estimate of the more senior searcher, since experience counts
+    - |-
+      Nothing until the two searchers agree, to avoid a misleading report
+  correct: 1
+  explanation: |-
+    Report ranges, reasons and records — e.g. “after the rain stopped at 06:00, no event on top → 0–7 h; walls still moist”. The search manager combines them with other clues and lost-person behaviour.
+
+- id: s11-l3-q1
+  question: |-
+    Rain stopped at 18:00 yesterday. It is now 09:00. Boot prints on a path have raindrop pits inside them as well as around them. What can you say?
+  options:
+    - |-
+      They are less than 15 hours old
+    - |-
+      They are fresh because the edges look sharp
+    - |-
+      They are at least 15 hours old
+    - |-
+      Rain pits tell you nothing about their age
+  correct: 2
+  explanation: |-
+    Whatever lies on top is younger. Pits inside the print: print before the rain ended → age ≥ 09:00 − 18:00 = 15 h.
+
+- id: s11-l3-q3
+  question: |-
+    Which observation shows that a print was made **after** the event named, not before it?
+  options:
+    - |-
+      Drifted sand lying inside the print (windstorm)
+    - |-
+      A later tyre track crossing and deforming the print (vehicle)
+    - |-
+      Intact frost crystals lying inside the print (frost)
+    - |-
+      Last night’s wind-blown leaves pressed flat into the print floor
+  correct: 3
+  explanation: |-
+    Something lying on top of the print is younger than the print; something pressed underneath it is older.
+
+- id: s11-l3-q2
+  question: |-
+    It is 11:00. Hare prints are cut into snow that stopped falling at 23:00 last night, and frost crystals formed after 04:00 lie undisturbed inside them. What is the **maximum** age of the prints?
+  options:
+    - |-
+      12 hours
+    - |-
+      7 hours
+    - |-
+      5 hours
+    - |-
+      19 hours
+  correct: 0
+  explanation: |-
+    After the snowfall ended (23:00) → maximum age 11:00 − 23:00 = 12 h. Before the frost (04:00) → minimum 7 h. Window: 7–12 h.
+
+- id: s11-l3-q4
+  question: |-
+    Why do experienced trackers make a reference print beside an unknown one before estimating its age?
+  options:
+    - |-
+      To estimate the animal’s weight by comparing the two depths
+    - |-
+      To calibrate aging, since weathering rates vary so much locally
+    - |-
+      To confirm the species by matching the two print outlines
+    - |-
+      To mark the spot so other searchers can relocate the clue
+  correct: 1
+  explanation: |-
+    Sun, shade, humidity, wind and substrate all change the weathering rate. A reference print made in the same substrate and light beside the unknown one is the calibration.

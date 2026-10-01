@@ -1,0 +1,79 @@
+- id: s9-l4-q1
+  question: |-
+    Which finding best suggests an **unstable** ankle injury?
+  options:
+    - |-
+      Mild swelling on the outside of the ankle, can walk with a limp.
+    - |-
+      Cannot take four steps and is tender directly over the bony knob of the ankle.
+    - |-
+      Bruising appearing around the ankle on the morning after the injury.
+    - |-
+      Aching and pain in the ankle while it is being iced after the twist.
+  correct: 1
+  explanation: |-
+    Inability to bear weight and bony point tenderness suggest a fracture — splint and plan evacuation.
+
+- id: s9-l4-q3
+  question: |-
+    Which of these is **basic first aid** rather than a trained-provider skill?
+  options:
+    - |-
+      Reducing a dislocated shoulder back into its socket
+    - |-
+      Applying a traction splint to a femur fracture
+    - |-
+      Buddy-taping a sprained finger to its neighbour
+    - |-
+      Straightening an angulated leg fracture with traction
+  correct: 2
+  explanation: |-
+    Moving bones and joints into new positions is learned with an instructor. Splinting in position, buddy-taping and checking CSM are for everyone.
+
+- id: s9-l4-q4
+  question: |-
+    A patient can wiggle the fingers of an injured, painful arm. What does that tell you?
+  options:
+    - |-
+      The bone is intact, so the arm can be treated as a simple sprain.
+    - |-
+      Any fracture must be stable, so the arm does not need a splint.
+    - |-
+      The arm is probably dislocated rather than broken at the wrist.
+    - |-
+      Nerves and tendons beyond the injury work; the bone may still be broken.
+  correct: 3
+  explanation: |-
+    Movement beyond an injury says the nerves and tendons work — not that the bone is intact. Treat on mechanism, deformity, point tenderness and function.
+
+- id: s9-l4-q2
+  question: |-
+    Which sequence is correct for splinting a suspected forearm fracture?
+  options:
+    - |-
+      Check CSM → pad and position → rigid support → secure → re-check CSM, sling
+    - |-
+      Pad and position → rigid support → secure → check CSM → sling and swathe
+    - |-
+      Check CSM → rigid support → secure → pad and position → re-check CSM, sling
+    - |-
+      Pad and position → check CSM → rigid support → secure → re-check CSM, sling
+  correct: 0
+  explanation: |-
+    Check circulation, sensation and movement first; pad and position (hand in position of function); rigid support from above the wrist to above the elbow; secure away from the fracture; re-check CSM and add a sling and swathe.
+
+- id: s9-l4-q5
+  question: |-
+    A femur fracture hides about 1.2 L of blood in a 60 kg patient (70 mL/kg). What percentage of blood volume is that?
+  options:
+    - |-
+      71 %
+    - |-
+      29 %
+    - |-
+      20 %
+    - |-
+      2 %
+  correct: 1
+  explanation: |-
+    Blood volume = 60 × 70 = 4200 mL. 1200 / 4200 ≈ 29 % — upper class II, close to class III. A closed fracture can still cause shock.

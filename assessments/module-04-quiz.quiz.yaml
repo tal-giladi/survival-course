@@ -1,0 +1,159 @@
+- id: s4-rev-1
+  question: |-
+    Lost at 14:00 in 36 °C semi-desert with 1.5 L of water, a phone with 30 % battery and one bar of signal. What is the highest-value first action?
+  options:
+    - |-
+      Call or message your location, then shade up until evening
+    - |-
+      Hike to the nearest ridge to look for water and a signal
+    - |-
+      Drink only small sips to make the 1.5 L last until rescue
+    - |-
+      Dig a solar still at once, while you still have the energy
+  correct: 0
+  explanation: |-
+    Stage 1 priorities first (communication, protection), then a water plan built on cutting losses.
+
+- id: s4-rev-2
+  question: |-
+    You weighed 68.0 kg before a 2.5 h desert walk and 66.3 kg after, having drunk 0.8 L and not urinated. What was your sweat rate?
+  options:
+    - |-
+      0.68 L/h
+    - |-
+      1.00 L/h
+    - |-
+      2.50 L/h
+    - |-
+      0.36 L/h
+  correct: 1
+  explanation: |-
+    (68.0 − 66.3 + 0.8) / 2.5 = 2.5 / 2.5 = **1.00 L/h**. You also ended 2.5 % down.
+
+- id: s4-rev-3
+  question: |-
+    Evaporating water absorbs about 2.4 MJ per litre (Stage 1). Which statement does **not** follow from that one number?
+  options:
+    - |-
+      A solar still’s yield is capped near H × A / 2.4 litres per day
+    - |-
+      Wet clothing in wind chills you fast
+    - |-
+      Boiling water at altitude is ineffective
+    - |-
+      Sweat that drips off unevaporated removes water but little heat
+  correct: 2
+  explanation: |-
+    The latent heat of evaporation links heat balance, sweating and still yields — but has nothing to do with boiling as a treatment, which still works at altitude.
+
+- id: s4-rev-4
+  question: |-
+    A stream runs through a sheep pasture and past a mountain hut before reaching you. You have a 0.1 µm filter and chlorine tablets. The water is clear and 4 °C. Best chain?
+  options:
+    - |-
+      Filter only, since it removes protozoa and bacteria
+    - |-
+      Chlorine only, with the usual 30-minute contact time
+    - |-
+      Nothing, because clear 4 °C water is low-risk
+    - |-
+      Filter, then chlorine with a longer contact time
+  correct: 3
+  explanation: |-
+    Read upstream, then stack barriers whose gaps don’t overlap; adjust contact time for temperature.
+
+- id: s4-rev-5
+  question: |-
+    Your car is stranded in the desert; help is 24–48 h away. Which order of actions is right?
+  options:
+    - |-
+      Clear danger → send location → rig shade → water plan → dusk tasks
+    - |-
+      Send location → rig shade → clear danger → water plan → dusk tasks
+    - |-
+      Clear danger → water plan → send location → rig shade → dusk tasks
+    - |-
+      Clear danger → send location → water plan → dusk tasks → rig shade
+  correct: 0
+  explanation: |-
+    Immediate danger → communication → protection (shade off the hot ground, which is also water conservation) → water plan → cool-hours tasks such as signals and a low-cost water search.
+
+- id: s4-rev-6
+  question: |-
+    After a flood, a neighbour plans to boil floodwater from the street for drinking. What should you tell them?
+  options:
+    - |-
+      Fine: boiling kills every pathogen class, so it is then safe
+    - |-
+      Don’t: boiling leaves fuel and chemicals, even concentrating them
+    - |-
+      Fine, if they boil it for 10 minutes rather than just one
+    - |-
+      Fine, if they let it settle first and boil only the clear top
+  correct: 1
+  explanation: |-
+    Floodwater carries fuel, pesticides and industrial chemicals that boiling does not remove (and slightly concentrates). Use stored water or another source.
+
+- id: s4-rev-7
+  question: |-
+    Your winter trip: 2 people × 4 days × 3.5 L/day, all from snow at −10 °C, brought to a boil (~800 kJ per litre total). Your stove delivers ~23 kJ per gram of gas. How much gas do you need for water alone?
+  options:
+    - |-
+      ≈ 490 g
+    - |-
+      ≈ 240 g
+    - |-
+      ≈ 970 g
+    - |-
+      ≈ 460 g
+  correct: 2
+  explanation: |-
+    28 L × 800 kJ = 22,400 kJ; / 23 ≈ **970 g** — about four 230 g canisters. Finding open water, melting without boiling and treating chemically cuts this dramatically.
+
+- id: s4-rev-8
+  question: |-
+    Redundancy (Stage 1 kit design) applied to water treatment means…
+  options:
+    - |-
+      Carrying two identical filters in case one breaks
+    - |-
+      Carrying enough extra water that you never need treatment
+    - |-
+      Using only the strongest single method, done very carefully
+    - |-
+      Methods that fail differently: filter + tablets + a way to boil
+  correct: 3
+  explanation: |-
+    Critical functions need backups that fail differently — the Stage 1 kit rule, applied to water.
+
+- id: s4-rev-9
+  question: |-
+    Which of these does **not** make SODIS fail?
+  options:
+    - |-
+      Laying bottles flat on a sheet-metal roof
+    - |-
+      Water too cloudy to read print through the bottle
+    - |-
+      A 10 L clear container
+    - |-
+      Only 3 hours of sun on a cloudy day
+  correct: 0
+  explanation: |-
+    SODIS is a dose of UV-A and heat; clarity, depth and time control the dose.
+
+- id: s4-rev-10
+  question: |-
+    At 17:00 you spot a line of green reeds 3 km away across rough ground. Sunset is 18:30 and twilight adds 20 min. You have 0.5 L, a tarp, and a known spring 1 km behind you on the trail you came in on. What is the best choice?
+  options:
+    - |-
+      Head for the reeds now, since they promise more water
+    - |-
+      Go back to the known spring, treat water, camp nearby
+    - |-
+      Stay put under the tarp and wait for rain to collect
+    - |-
+      Dig a solar still right here before it gets dark
+  correct: 1
+  explanation: |-
+    A certain source within the daylight budget beats an uncertain one beyond it (Stage 1 daylight and reversibility).

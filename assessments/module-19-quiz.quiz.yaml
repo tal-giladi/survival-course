@@ -1,0 +1,159 @@
+- id: fa-scen-1
+  question: |-
+    It’s 16:20, sunset 17:40, 4 °C with rain forecast at 19:00. You’re lost but someone knows your route, you have an emergency bag and warm layers, and you just sent your coordinates by SMS. Best next action?
+  options:
+    - |-
+      Walk toward a road you think is 5 km away, using the last daylight.
+    - |-
+      Spend the remaining daylight foraging so you have calories for the night.
+    - |-
+      Pick a sheltered mid-slope site now, build a thick ground bed, ready fuel and signals.
+    - |-
+      Sit under a big tree and wait passively for rescuers until morning.
+  correct: 2
+  explanation: |-
+    Communication is done and someone knows your route, so staying is justified; the remaining daylight goes into protection from the cold rain before dark.
+
+- id: fa-phys-3
+  question: |-
+    A hiker in 35 °C heat becomes confused and stops sweating normally, with a very hot body. What is the key field priority?
+  options:
+    - |-
+      Give salt tablets and fluids, then continue slowly to the trailhead.
+    - |-
+      Let them rest where they are and reassess once they feel better.
+    - |-
+      Give large amounts of water and wait for sweating to return.
+    - |-
+      Cool aggressively right away (e.g., cold-water immersion), then evacuate.
+  correct: 3
+  explanation: |-
+    Altered mental status with high body temperature in heat means heat stroke until proven otherwise: rapid cooling is the treatment — cool first, transport second.
+
+- id: fa-aid-2
+  question: |-
+    A deep thigh wound is spurting blood and firm direct pressure is not controlling it. What does current guidance support?
+  options:
+    - |-
+      Apply a tourniquet high and tight above the wound and note the time.
+    - |-
+      Elevate the leg and keep the same pressure on while you wait.
+    - |-
+      Lift the dressing every few minutes to check whether it has stopped.
+    - |-
+      Clean the wound thoroughly first so the dressing can seal properly.
+  correct: 0
+  explanation: |-
+    Life-threatening extremity bleeding: direct pressure/packing, and a tourniquet when pressure fails or cannot be maintained — then get help.
+
+- id: fa-water-3
+  question: |-
+    Stranded in desert heat with 3 L of water. Which strategy is best?
+  options:
+    - |-
+      Sip tiny amounts to make it last, and keep walking by day.
+    - |-
+      Drink to need, rest in shade by day, move only in cool hours.
+    - |-
+      Drink all 3 L at once now, then walk out during the day.
+    - |-
+      Drink your own urine first to save the bottled water for later.
+  correct: 1
+  explanation: |-
+    Reduce losses: water is more useful inside you than in the bottle, and resting in shade by day cuts the sweat you lose.
+
+- id: fa-shelter-1
+  question: |-
+    Calm, clear night forecast at −3 °C. Where do you pitch?
+  options:
+    - |-
+      Valley floor by the stream, sheltered by the slopes
+    - |-
+      Open ridge top, well away from the damp valley air
+    - |-
+      Mid-slope bench under living canopy, clear of dead trees
+    - |-
+      In a dry gully, tucked down out of the wind
+  correct: 2
+  explanation: |-
+    Mid-slope avoids cold pools and wind; canopy reduces radiation to the sky.
+
+- id: fa-risk-3
+  question: |-
+    A river on your route is fast and above knee depth after rain. Best decision?
+  options:
+    - |-
+      Cross quickly at the narrowest point with your pack straps done up.
+    - |-
+      Cross holding hands with another hiker you meet at the bank.
+    - |-
+      Swim across where the current looks slowest.
+    - |-
+      Don’t cross; wait for it to drop or reroute, and update your contacts.
+  correct: 3
+  explanation: |-
+    Swift-water crossing is a leading cause of backcountry death; waiting is usually the reversible option.
+
+- id: fa-nav-3
+  question: |-
+    You need to reach a bridge on a river, but it is hidden in forest. What is the most reliable technique?
+  options:
+    - |-
+      Aim off to one side, hit the river, then follow it to the bridge.
+    - |-
+      Take an exact bearing to the bridge and trust it all the way.
+    - |-
+      Follow animal trails heading in the rough direction of the river.
+    - |-
+      Walk toward the sound of water and look for the bridge there.
+  correct: 0
+  explanation: |-
+    Aiming off converts a point target into a linear one with a known direction to turn.
+
+- id: fa-know-3
+  question: |-
+    Which kit change most improves the outcome of a solo remote trip with no phone coverage?
+  options:
+    - |-
+      A larger, stronger fixed-blade knife
+    - |-
+      A registered PLB or satellite messenger
+    - |-
+      A fishing kit for catching food
+    - |-
+      A second identical phone as backup
+  correct: 1
+  explanation: |-
+    Communication independent of cell coverage is the single largest lever for solo remote travel.
+
+- id: fa-psych-1
+  question: |-
+    You notice you keep saying “just 10 more minutes” past your turnaround time. What is happening?
+  options:
+    - |-
+      Healthy persistence toward the goal
+    - |-
+      Low blood sugar (hypoglycaemia) only
+    - |-
+      Plan continuation / commitment bias
+    - |-
+      Expert halo from deferring to others
+  correct: 2
+  explanation: |-
+    Name the trap; honour the turnaround trigger you set while calm.
+
+- id: fa-fire-2
+  question: |-
+    Which is the most dangerous way to use fire or stoves for warmth?
+  options:
+    - |-
+      A small fire in front of an open lean-to
+    - |-
+      Warm water bottles inside a sleeping bag
+    - |-
+      A small fire in an existing fire ring at camp
+    - |-
+      A stove running inside a closed snow shelter or tent
+  correct: 3
+  explanation: |-
+    Combustion in enclosed spaces is a recurring cause of death in winter camping and urban outages.

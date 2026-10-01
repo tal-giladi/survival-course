@@ -1,0 +1,79 @@
+- id: cap-12-q2
+  question: |-
+    After an earthquake you smell gas in your flat. What is the right course of action?
+  options:
+    - |-
+      Switch the lights on, then find and shut off the leaking appliance.
+    - |-
+      Open windows, get everyone out, then report it from outside.
+    - |-
+      Use a lighter to locate the leak, then tape over it until help comes.
+    - |-
+      Shut the main valve, then turn it back on once the smell has gone.
+  correct: 1
+  explanation: |-
+    No flames, no switches; ventilate, shut off at the main valve if you can, get out, report it to the utility or emergency services. Only the utility turns it back on.
+
+- id: cap-12-q5
+  question: |-
+    A family member has a deep cut on the foot that is bleeding steadily. What is the first action?
+  options:
+    - |-
+      Rinse it thoroughly with your stored drinking water first
+    - |-
+      Raise the leg and press on the groin pressure point
+    - |-
+      Firm, direct pressure on the wound with a dressing, then a pressure bandage
+    - |-
+      Apply a tourniquet immediately
+  correct: 2
+  explanation: |-
+    Direct pressure controls almost all bleeding. Escalate to a tourniquet for life-threatening limb bleeding not controlled by pressure.
+
+- id: cap-12-q6
+  question: |-
+    The water is off for days. What is the best use of your limited stored water?
+  options:
+    - |-
+      Flushing the toilet regularly so the flat stays hygienic
+    - |-
+      Drinking pool water so the bottled water lasts longer
+    - |-
+      Washing clothes so everyone stays clean and healthy
+    - |-
+      Drinking first, then food prep and hygiene; flush with pool water
+  correct: 3
+  explanation: |-
+    Drinking > food preparation > hand hygiene > everything else; use non-drinking water such as pool water for flushing. Improvise toilets with bags and disinfectant.
+
+- id: cap-12-q1
+  question: |-
+    An earthquake wakes you in bed. What should you do during the shaking?
+  options:
+    - |-
+      Stay in bed, face down, covering head and neck with a pillow.
+    - |-
+      Run outside as fast as possible before the building can collapse.
+    - |-
+      Get up and stand in the bedroom doorway until the shaking stops.
+    - |-
+      Run to the stairs to get out ahead of the crowd.
+  correct: 0
+  explanation: |-
+    Drop, Cover, Hold On — and if in bed, stay there and protect your head and neck.
+
+- id: cap-12-q4
+  question: |-
+    After a disaster the mobile network is congested. What is usually the most reliable way to tell family you are safe?
+  options:
+    - |-
+      Keep redialling until a voice call finally connects
+    - |-
+      Send a short text message
+    - |-
+      Wait for the network to clear, then make one long call
+    - |-
+      Call the emergency number and ask them to pass it on
+  correct: 1
+  explanation: |-
+    Text messages need only brief connections and are queued and retried; calls need a continuous channel. Texting also keeps lines free for emergencies.

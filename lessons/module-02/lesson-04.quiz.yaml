@@ -1,0 +1,81 @@
+- id: s2-l4-q5
+  question: |-
+    Your target is a footbridge **15 m** wide across a river, **2 km** away through forest. Your realistic heading accuracy is ±4°. What is the best plan?
+  options:
+    - |-
+      Walk the direct bearing carefully, since ±4° is accurate enough here.
+    - |-
+      Walk the bearing, and if the bridge isn’t there, search both ways along the bank.
+    - |-
+      Aim deliberately ~10° left of the bridge, so at the river you turn right.
+    - |-
+      Follow the back bearing instead, which cancels out your heading error.
+  correct: 2
+  explanation: |-
+    The 1-in-60 rule says ±4° over 2 km is about ±133 m. When the target is much smaller than the expected error, aim off to one side of a linear feature.
+
+- id: s2-l4-q6
+  question: |-
+    Which practice makes walking a bearing **less** accurate?
+  options:
+    - |-
+      Sighting intermediate objects and walking to each one
+    - |-
+      Checking the back bearing to your start or last object
+    - |-
+      Leapfrogging a partner ahead of you in thick fog
+    - |-
+      Reading the bearing on the move without stopping
+  correct: 3
+  explanation: |-
+    Accuracy comes from stopping to sight, steering by objects, and checking behind you — not from watching the needle as you walk (or comparing it next to a phone, which deflects it).
+
+- id: s2-l4-q1
+  question: |-
+    Taking a bearing from the map: you have laid the baseplate edge from start to target and turned the housing so the orienting lines are parallel to grid north. What do you do **next**?
+  options:
+    - |-
+      Adjust the housing for declination
+    - |-
+      Turn your body until the red needle sits in the orienting arrow
+    - |-
+      Sight an object along the direction-of-travel arrow and walk to it
+    - |-
+      Turn the housing on the map until the needle lines up with north
+  correct: 0
+  explanation: |-
+    Measure on the map (edge, lines to grid north), correct for declination, then put red in the shed and steer by objects.
+
+- id: s2-l4-q4
+  question: |-
+    Using the 1-in-60 rule, how far to the side will a **3°** heading error put you after **1.5 km**?
+
+    ![Lateral error from a heading error of 1, 5 and 10 degrees over 1 to 3 kilometres](../../assets/diagrams/one-in-sixty.svg)
+  options:
+    - |-
+      750 m
+    - |-
+      75 m
+    - |-
+      25 m
+    - |-
+      7.5 m
+  correct: 1
+  explanation: |-
+    1500 × 3 / 60 = **75 m** (exact: 1500 × tan 3° ≈ 79 m).
+
+- id: s2-l4-q3
+  question: |-
+    You walked on a magnetic bearing of **290°**. What bearing do you follow to **retrace** your route?
+  options:
+    - |-
+      070°
+    - |-
+      200°
+    - |-
+      110°
+    - |-
+      470°
+  correct: 2
+  explanation: |-
+    290 is more than 180, so subtract: 290 − 180 = **110°**.

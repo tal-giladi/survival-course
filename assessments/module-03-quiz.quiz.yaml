@@ -1,0 +1,159 @@
+- id: s3-rev-1
+  question: |-
+    Wet temperate forest, 5 °C, rain, 17:00, sunset 18:30. You are soaked and starting to shiver; you have a tarp, a knife, a lighter and carried tinder. Fires are legal. What is the highest-value first action?
+  options:
+    - |-
+      Start a fire right away with wood picked up from the ground.
+    - |-
+      Walk briskly to warm up for as long as the daylight lasts.
+    - |-
+      Eat all your food now so your body generates more heat.
+    - |-
+      Pitch the tarp, add dry layers and insulation, then process dry cores.
+  correct: 3
+  explanation: |-
+    Reduce heat loss first (shelter, dry, insulate), then add heat (fire). Wet-weather fire success depends on preparation, not speed.
+
+- id: s3-rev-6
+  question: |-
+    Your 10 kW fire radiates 30 % of its output. At 1.5 m, the point-source flux is about 106 W/m². Your net heat loss sitting on bare ground on a clear night is ~150 W. What is the best interpretation?
+  options:
+    - |-
+      It helps, but you must also cut conduction and back radiation.
+    - |-
+      The fire alone solves it, since 106 W/m² is close to your loss.
+    - |-
+      Move back to 3 m for safety, as the heat will be about the same.
+    - |-
+      Enclose the fire with the tarp so that none of its heat escapes.
+  correct: 0
+  explanation: |-
+    Radiant gain is real but modest; combine it with insulation (a bed against conduction) and shelter (against back radiation).
+
+- id: s3-rev-9
+  question: |-
+    It is 15:30, sunset 17:00, 0 °C forecast overnight. You plan a long-log fire burning 2 kg/h for 14 hours. Processing wood takes you about 10 minutes per 5 kg armful. What should you do?
+  options:
+    - |-
+      Gather wood after dinner by headlamp, once camp is set up.
+    - |-
+      Start now: 28 kg is about 6 armfuls, roughly an hour of work.
+    - |-
+      Gather two armfuls now; you can always fetch more in the night.
+    - |-
+      Skip the fire; a good jacket is enough for a night at 0 °C.
+  correct: 1
+  explanation: |-
+    2 × 14 = 28 kg ≈ six armfuls ≈ 60 minutes of work. Budget it before dark (daylight budgeting, Stage 1).
+
+- id: s3-rev-11
+  question: |-
+    Hot afternoon, 29 °C, humidity 25 %, gusty wind, dry grassland. A friend is lost and you want to light a signal fire to guide them back. Best choice?
+  options:
+    - |-
+      Light a large, smoky fire out in the grass so it is seen from afar.
+    - |-
+      Light a small fire and add green boughs for a thick smoke column.
+    - |-
+      No fire: whistle blasts in threes, a mirror, and call for help.
+    - |-
+      Dig a Dakota hole signal fire so sparks stay below ground level.
+  correct: 2
+  explanation: |-
+    Temperature above humidity, gusts and cured grass: no open fire. Signal by sound, light and phone (Stage 1).
+
+- id: s3-rev-3
+  question: |-
+    Which pairing of fire lay and purpose is **wrong**?
+  options:
+    - |-
+      Teepee → fast start and signal flame
+    - |-
+      Star → fuel-thrifty burn and cooking
+    - |-
+      Long log → overnight warmth for a sleeper
+    - |-
+      Dakota hole → warming a sleeper
+  correct: 3
+  explanation: |-
+    Choose the lay for where the heat must go and how often you can tend it. Teepee starts and signals, star and log cabin cook, long log warms overnight; the Dakota hole is a low-signature cooking fire.
+
+- id: s3-rev-10
+  question: |-
+    A friend’s bow-drill attempts keep failing. Which observation is matched to the **wrong** cause?
+  options:
+    - |-
+      Arm gives out after 40 s of short, fast strokes → spindle too thin
+    - |-
+      Steam, pale dust, temperature stalls → the wood is too damp
+    - |-
+      Squeaking, glossy surfaces → resin or too little pressure
+    - |-
+      Good smoke, but dust scatters → notch missing or too shallow
+  correct: 0
+  explanation: |-
+    Diagnose from symptoms: moisture, glazing, notch and form each leave a signature.
+
+- id: s3-rev-7
+  question: |-
+    Which sequence is correct for leaving a campsite fire safely?
+  options:
+    - |-
+      Drown → burn down → stir and drown → feel → restore site
+    - |-
+      Burn down → drown → stir and drown → feel → restore site
+    - |-
+      Burn down → drown → feel → stir and drown → restore site
+    - |-
+      Burn down → drown → stir and drown → restore site → feel
+  correct: 1
+  explanation: |-
+    Stop adding fuel early so it burns to ash, drown, stir and drown again, feel with the back of your hand, then pack out rubbish and restore the site.
+
+- id: s3-rev-8
+  question: |-
+    On a cold night, a friend suggests bringing a small charcoal grill into the tent for warmth. Which statement is correct?
+  options:
+    - |-
+      It is safe as long as the tent door is left partly open
+    - |-
+      It is safe once the coals stop flaming and look finished
+    - |-
+      Never inside: charcoal gives off CO even when it looks finished
+    - |-
+      It is safe in a large tent if someone stays awake to watch
+  correct: 2
+  explanation: |-
+    Charcoal produces large amounts of CO even when it looks “finished”. Never burn it in tents, vehicles or closed rooms.
+
+- id: s3-rev-2
+  question: |-
+    You gather 12 kg of wood at 40 % moisture (wet basis). Evaporating water costs about 2.44 MJ/kg. How much energy goes just into evaporating its water?
+  options:
+    - |-
+      ≈ 29.3 MJ
+    - |-
+      ≈ 17.6 MJ
+    - |-
+      ≈ 1.0 MJ
+    - |-
+      ≈ 11.7 MJ
+  correct: 3
+  explanation: |-
+    12 × 0.4 = 4.8 kg of water; 4.8 × 2.44 ≈ **11.7 MJ** — heat that never reaches you, plus the smoke and cooler flame that come with it.
+
+- id: s3-rev-4
+  question: |-
+    At −20 °C your lighter will not light. Which Stage 1 principle does carrying a ferro rod as well illustrate?
+  options:
+    - |-
+      Redundancy of critical functions
+    - |-
+      The rule of threes
+    - |-
+      Stay or move
+    - |-
+      Risk = likelihood × consequence
+  correct: 0
+  explanation: |-
+    Ignition is a critical function: carry at least two methods that fail in different ways (cold, wet, empty).

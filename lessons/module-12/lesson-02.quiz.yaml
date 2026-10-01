@@ -1,0 +1,79 @@
+- id: s12-l2-q6
+  question: |-
+    Lightning strikes near a group of four. Two are moving and moaning with burns; one is sitting up, dazed; one is not breathing. Whom do you help first?
+  options:
+    - |-
+      The people with burns: they are in pain.
+    - |-
+      The person who is not breathing: start CPR.
+    - |-
+      Nobody until the storm has passed.
+    - |-
+      The dazed person, to prevent them wandering.
+  correct: 1
+  explanation: |-
+    In lightning incidents, the apparently dead are treated first (WMS guidance). Learn CPR on a hands-on course.
+
+- id: s12-l2-q4
+  question: |-
+    You are on a rocky summit and hear the **first thunder** (flash-to-bang 25 s). Which sequence of actions is best?
+  options:
+    - |-
+      Crouch on the summit until the storm passes, then descend by the planned route once it is quiet
+    - |-
+      Leave the summit, shelter under the nearest tall tree, then go back up once the rain stops
+    - |-
+      Leave the summit, spread out lower down, reach forest or the car, wait 30 min after the last thunder
+    - |-
+      Stay close together, descend to the forest, and head back up as soon as the thunder stops
+  correct: 2
+  explanation: |-
+    Get off the most exposed terrain first, reduce multi-casualty risk, reach the least exposed refuge, and respect the back edge of the storm.
+
+- id: s12-l2-q3
+  question: |-
+    A storm is building and you are at a lakeside campground. Which of these gives **real** protection from lightning?
+  options:
+    - |-
+      Your tent, zipped shut, away from the water
+    - |-
+      The open-sided picnic shelter by the lake
+    - |-
+      A shallow rock overhang above the shore
+    - |-
+      A hard-topped car with the windows closed
+  correct: 3
+  explanation: |-
+    Only substantial buildings (with wiring and plumbing) and hard-topped metal vehicles are considered safe. Everything else only reduces exposure.
+
+- id: s12-l2-q5
+  question: |-
+    Which statement about the **lightning crouch** is correct?
+  options:
+    - |-
+      It only slightly reduces risk; use it when you cannot move.
+    - |-
+      It makes you safe enough to wait out a storm on a ridge.
+    - |-
+      It is the first thing to do at the first thunder you hear.
+    - |-
+      It gives full protection if you crouch on an insulating pad.
+  correct: 0
+  explanation: |-
+    The crouch only slightly reduces risk and wastes time you should spend descending. It is a last resort when you cannot move and a strike seems imminent.
+
+- id: s12-l2-q1
+  question: |-
+    You count **9 seconds** between a flash and its thunder. Using 343 m/s, how far away is the strike?
+  options:
+    - |-
+      1.8 km
+    - |-
+      3.1 km
+    - |-
+      0.3 km
+    - |-
+      30.9 km
+  correct: 1
+  explanation: |-
+    $9 \times 343 = 3087$ m ≈ **3.1 km**. You are well within striking distance.

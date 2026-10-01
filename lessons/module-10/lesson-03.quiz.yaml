@@ -1,0 +1,79 @@
+- id: s10-l3-q2
+  question: |-
+    Your tripod stands on smooth rock and the feet slowly slide apart under load. What is the best fix?
+  options:
+    - |-
+      Tie the feet together with cord and reduce the splay a little
+    - |-
+      Spread the legs wider for a more stable base
+    - |-
+      Add more frapping turns around the lashed head
+    - |-
+      Swap in thicker, stronger poles for the legs
+  correct: 0
+  explanation: |-
+    Foot thrust $H = W 	an	heta / 3$: reduce θ or give the feet something to push against.
+
+- id: s10-l3-q6
+  question: |-
+    Why does a square frame of four poles need a diagonal brace?
+  options:
+    - |-
+      The extra pole makes the frame heavier and steadier
+    - |-
+      Its corners can rotate, so it racks into a parallelogram
+    - |-
+      Square lashings are weak and slip under load
+    - |-
+      It does not need one if all four lashings are tight
+  correct: 1
+  explanation: |-
+    Triangles are rigid; rectangles are not.
+
+- id: s10-l3-q4
+  question: |-
+    You must carry an extra 12 kg of an injured partner’s gear. Which choice **increases** the strain on you?
+  options:
+    - |-
+      Tying heavy items high and close to your spine
+    - |-
+      Adding a hip strap so the weight goes to the hips
+    - |-
+      Hanging heavy items from the back of the pack on long cords
+    - |-
+      Sharing the load across the group
+  correct: 2
+  explanation: |-
+    $M = m g d$: keep $d$ small; transfer to hips; share.
+
+- id: s10-l3-q5
+  question: |-
+    You have built an improvised litter. How should you **first** test it?
+  options:
+    - |-
+      With the lightest person in the group, at ground level
+    - |-
+      With the patient, lifting only a few centimetres
+    - |-
+      No load test, if every lashing has been checked by hand
+    - |-
+      With a sandbag or heavy pack, at ground level
+  correct: 3
+  explanation: |-
+    Test at ground level with an inanimate load; a failed litter drops a patient.
+
+- id: s10-l3-q3
+  question: |-
+    Two dead poles look equally sound. One is 4 cm thick, the other 6 cm. Roughly how much stronger in bending is the thicker one?
+  options:
+    - |-
+      About 3.4 times
+    - |-
+      1.5 times
+    - |-
+      About 2.25 times
+    - |-
+      The same, if the wood is the same
+  correct: 0
+  explanation: |-
+    Section modulus $S = pi d^3/32$: a little more diameter buys a lot of bending strength.

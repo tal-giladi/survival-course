@@ -1,0 +1,79 @@
+- id: s13-l4-q5
+  question: |-
+    Which statement about choosing a higher mechanical advantage is correct?
+  options:
+    - |-
+      It brings more rope travel, friction and hidden force if the load snags
+    - |-
+      It is always safer, because the haulers need less force to pull
+    - |-
+      It always cuts friction, because the load is shared by more pulleys
+    - |-
+      It lowers the anchor force, because the haulers pull with less force
+  correct: 0
+  explanation: |-
+    Big ratios mean more rope travel and resets, more friction, and much more force delivered if the load snags — enough to damage anchors or hurt a patient without the haulers feeling it.
+
+- id: s13-l4-q6
+  question: |-
+    A 3:1 built with carabiners (each passing on ~53 %) has an actual MA of about 1.8. What is the best conclusion?
+  options:
+    - |-
+      It is still a 3:1 on paper, so plan the team size using 3
+    - |-
+      Friction ate most of the gain; a 2:1 on good pulleys would do about as well
+    - |-
+      Add another 3:1 of carabiners on top to make it a 9:1
+    - |-
+      Carabiners have no real effect on MA, so 1.8 must be an error
+  correct: 1
+  explanation: |-
+    Actual MA, not ideal, decides how many people you need.
+
+- id: s13-l4-q4
+  question: |-
+    Which change does NOT reduce the haul force needed for the same load?
+  options:
+    - |-
+      Replacing carabiners with good pulleys
+    - |-
+      Using an edge roller at the cliff edge
+    - |-
+      Adding a redirect so haulers pull downhill
+    - |-
+      Choosing a lowering route instead of a raise
+  correct: 2
+  explanation: |-
+    Reduce friction and prefer lowering. A redirect only changes direction — and costs one more pulley’s efficiency. Pulling faster does not reduce friction either.
+
+- id: s13-l4-q2
+  question: |-
+    A simple 3:1 uses pulleys that each pass on 90 % of the tension. What is its actual MA?
+  options:
+    - |-
+      3.00:1
+    - |-
+      2.44:1
+    - |-
+      1.90:1
+    - |-
+      2.71:1
+  correct: 3
+  explanation: |-
+    $1 + 0.9 + 0.9^2 = 2.71$. Friction has already cost about 10 % of the ideal.
+
+- id: s13-l4-q3
+  question: |-
+    Using a 3:1, how many metres of rope must the haulers pull to raise a load 10 m?
+  options:
+    - |-
+      30 m
+    - |-
+      10 m
+    - |-
+      3.3 m
+    - |-
+      13 m
+  correct: 0
+  explanation: |-
+    Work in = work out: 3 m of rope per metre of lift, so $3 \times 10 = 30$ m — plus extra for rope stretch and resets in a real system.

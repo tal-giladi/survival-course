@@ -1,0 +1,79 @@
+- id: s17-l1-q5
+  question: |-
+    You planned the sealed highway, but a sign offers a gravel “scenic shortcut” that saves 80 km. Your contact has your plan. What is best?
+  options:
+    - |-
+      Take the shortcut — less time on the road means less time exposed to risk
+    - |-
+      Keep to the plan, or message the new route first and check fuel and water
+    - |-
+      Take it, and text your contact about the change once you arrive
+    - |-
+      Take it but drive faster so you are off the gravel before dark
+  correct: 1
+  explanation: |-
+    The plan only helps if it is true. Update it before a route change — and check that the car, fuel and water suit the new road.
+
+- id: s17-l1-q1
+  question: |-
+    You are writing a trip plan for a remote road journey. Which item does NOT help searchers and can be left out?
+  options:
+    - |-
+      Your route and any alternative routes
+    - |-
+      Vehicle make, colour and number plate
+    - |-
+      Your car’s service and repair history
+    - |-
+      An alarm time and whom your contact will call
+  correct: 2
+  explanation: |-
+    A trip plan answers the searchers’ questions: where, in what, who, with what kit (water, warm gear, beacon), and when to start looking.
+
+- id: s17-l1-q6
+  question: |-
+    For surviving a two-day stranding in summer desert heat, which of these matters most?
+  options:
+    - |-
+      Plenty of water carried in several containers
+    - |-
+      A tarp or sheet and cord to rig shade
+    - |-
+      Enough snacks and food for both days
+    - |-
+      Someone holds your trip plan with an alarm time
+  correct: 3
+  explanation: |-
+    The order is trip plan, water, shade, snacks: being found ends the emergency; water and shade keep you alive until then; food matters least over two days (Stage 1 priorities).
+
+- id: s17-l1-q4
+  question: |-
+    Winter driving advice says to keep the fuel tank at least half full. Which reason connects this to a stranding?
+  options:
+    - |-
+      Fuel may be your source of heat if you are stranded
+    - |-
+      A heavier car grips better on snowy and icy roads
+    - |-
+      A fuller tank stops the engine from freezing overnight
+    - |-
+      Fuel stations are often closed in bad winter weather
+  correct: 0
+  explanation: |-
+    Short engine runs (with the exhaust clear) are a major source of heat in a stranded car — and an empty tank cannot provide them.
+
+- id: s17-l1-q2
+  question: |-
+    Your 70 L tank, keeping a 20 % reserve, on a sandy track where the car uses 14 L/100 km. What is the planning range?
+  options:
+    - |-
+      500 km
+    - |-
+      400 km
+    - |-
+      320 km
+    - |-
+      100 km
+  correct: 1
+  explanation: |-
+    $70 	imes 0.8 = 56$ L usable; $56 / 14 	imes 100 = 400$ km.

@@ -1,0 +1,79 @@
+- id: cap-6-q4
+  question: |-
+    You can’t bear weight and the bone behind your outer ankle is very tender. Which is the best field care?
+  options:
+    - |-
+      Pad and splint it as found; check circulation and feeling before and after.
+    - |-
+      Walk on it gently for a while so the joint does not stiffen.
+    - |-
+      Straighten it and pull on the foot to reset the bone before splinting.
+    - |-
+      Soak it in the cold stream for an hour to bring the swelling down.
+  correct: 0
+  explanation: |-
+    Inability to bear weight plus bony tenderness suggests a possible fracture. Splint, check CSM, keep warm, and don’t try to walk out.
+
+- id: cap-6-q2
+  question: |-
+    You have one emergency call on a 12 % battery. What should you leave OUT of it?
+  options:
+    - |-
+      What happened and what your injuries are
+    - |-
+      A full account of how the day went
+    - |-
+      Your best location, landmarks and coordinates
+    - |-
+      Your plan and a time for a callback
+  correct: 1
+  explanation: |-
+    What, where, who, plan, callback. Then airplane mode and keep the phone warm.
+
+- id: cap-6-q1
+  question: |-
+    After the fall you have checked for danger such as falling rock. What comes next?
+  options:
+    - |-
+      Assess and splint the ankle, checking the toes
+    - |-
+      Make a structured emergency call with location
+    - |-
+      Check breathing and find and control serious bleeding
+    - |-
+      Improve your position and protect from the cold
+  correct: 2
+  explanation: |-
+    Scene, life threats, then the injury, then help, then protection. The call can move earlier if signal is fleeting — but know what’s wrong before you describe it.
+
+- id: cap-6-q5
+  question: |-
+    You have 700 ml of water, rescue is expected within a day, and you are resting through a cold night. What should you do with the water?
+  options:
+    - |-
+      Save all of it for tomorrow in case the rescue is delayed.
+    - |-
+      Take only a small sip every hour to make it last longer.
+    - |-
+      Drink none tonight, since you need no water while resting.
+    - |-
+      Drink normally at rest; cold, not thirst, is tonight’s threat.
+  correct: 3
+  explanation: |-
+    At rest in cool weather your needs are modest, and mild dehydration impairs heat production and judgment. Cold is tonight’s threat, not thirst.
+
+- id: cap-6-q6
+  question: |-
+    Spaced review (Stage 1 signaling): you see torch beams on the slope above you at night. What’s the best signal with a flashlight?
+  options:
+    - |-
+      Flash it in groups of three, and shout at intervals.
+    - |-
+      Keep it on continuously, pointing at them.
+    - |-
+      Wait until they are very close to save the battery.
+    - |-
+      Crawl toward them with the light on.
+  correct: 0
+  explanation: |-
+    Groups of three, then listen. Stay put so the team can home in on you.

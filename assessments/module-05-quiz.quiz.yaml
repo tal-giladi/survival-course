@@ -1,0 +1,159 @@
+- id: s5-rev-1
+  question: |-
+    Upland forest, 3 °C, rain and 40 km/h wind from the north. You have just climbed hard and your base layer is soaked with sweat. You have a tarp and 45 minutes of light. What first?
+  options:
+    - |-
+      Keep working hard to build fast while you are still warm from the climb
+    - |-
+      Shell on, low wedge in the lee of a thicket, closed end north; then bed and dry layers
+    - |-
+      A high lean-to facing north so you can keep an eye on the weather coming in
+    - |-
+      Build a thick bed first, then pitch the tarp over it if there is time left
+  correct: 1
+  explanation: |-
+    Rank tonight’s heat-loss paths: evaporation and convection (wet + wind) dominate, so roof and wind protection come first, then conduction.
+
+- id: s5-rev-2
+  question: |-
+    You lie on a bed with total resistance $R = 1.6$ m²·K/W (leaves plus clothing and soil). Contact area 0.5 m², skin 33 °C, ground 3 °C. Using $Q = A\Delta T/R$, what is the conductive loss?
+  options:
+    - |-
+      18.8 W
+    - |-
+      24 W
+    - |-
+      9.4 W
+    - |-
+      10.3 W
+  correct: 2
+  explanation: |-
+    $0.5 \times 30 / 1.6 \approx 9.4$ W — compared with over 100 W on bare ground.
+
+- id: s5-rev-3
+  question: |-
+    Subarctic winter: sunset 16:30 plus 20 minutes of usable twilight. A quinzhee needs 190 minutes including the sintering wait, and you want a 20-minute margin. What is the latest time to start?
+  options:
+    - |-
+      13:00 (60 min after noon)
+    - |-
+      13:40 (100 min after noon)
+    - |-
+      14:00 (120 min after noon)
+    - |-
+      13:20 (80 min after noon)
+  correct: 3
+  explanation: |-
+    Usable light ends 16:50. 16:50 − 0:20 margin − 3:10 = **13:20**, i.e., 80 minutes after noon. If it is later than that, dig a trench instead.
+
+- id: s5-rev-4
+  question: |-
+    Clear, calm night, −6 °C. Which choice does **NOT** reduce **radiative** heat loss?
+  options:
+    - |-
+      A thicker leaf bed underneath you
+    - |-
+      Sleeping under dense living conifers
+    - |-
+      A low tarp pitched overhead
+    - |-
+      Enclosed snow walls around you
+  correct: 0
+  explanation: |-
+    Each control targets a path. On clear nights, anything between you and the sky helps — canopy, tarp, snow walls, even a hat and hood; the bed fights conduction.
+
+- id: s5-rev-5
+  question: |-
+    Stranded with your vehicle in a hot desert at 12:30, 43 °C. Which plan is best?
+  options:
+    - |-
+      Walk for help now while you are still fresh and cool
+    - |-
+      Rest in shade beside the vehicle, not in it; rig a double sheet later
+    - |-
+      Dig a deep dugout shelter right away before it gets hotter
+    - |-
+      Sit in the closed car, out of the direct sun, and wait
+  correct: 1
+  explanation: |-
+    Stay with the vehicle, rest in the shade beside it, build in the cooler part of the day and drink the water you need. Timing is part of the design in the heat; so is the stay-or-move decision.
+
+- id: s5-rev-6
+  question: |-
+    Which statement about a candle burning inside a well-built snow shelter is correct?
+  options:
+    - |-
+      It is safe as long as the candle keeps burning brightly all night.
+    - |-
+      It is safe once a vent has been poked through the roof.
+    - |-
+      A bright flame says nothing about CO, which is colourless and odourless.
+    - |-
+      It is safe if you blow it out before everyone falls asleep.
+  correct: 2
+  explanation: |-
+    A flame is not an air-quality indicator; CO is colourless and odourless. No flames for warmth, keep the vent and door clear, and get everyone out at the first headache, nausea or drowsiness.
+
+- id: s5-rev-7
+  question: |-
+    You are lost at 16:30 in a mountain forest, uninjured, with a tarp and a working phone; you decide to stay put. Which order of next actions is right?
+  options:
+    - |-
+      STOP → choose a site → build the shelter → call for help → prepare a signal spot
+    - |-
+      Call for help → STOP → choose a site → build the shelter → prepare a signal spot
+    - |-
+      STOP → call for help → prepare a signal spot → choose a site → build the shelter
+    - |-
+      STOP → call for help → choose a site → build the shelter → prepare a signal spot
+  correct: 3
+  explanation: |-
+    Control yourself, then the cheapest high-value action (communication), then site before construction (roof or bed first depending on weather), then prepare to be found.
+
+- id: s5-rev-8
+  question: |-
+    Your group has pushed on past its planned stop to "make the proper campsite"; it is now dusk, raining, and two people are shivering. Someone says, "We’ve come this far, it’s only another hour." Which trap is this, and what is the shelter decision?
+  options:
+    - |-
+      Sunk cost: stop now and pitch a storm shelter nearby
+    - |-
+      Familiarity: keep going, since you know the way well
+    - |-
+      Scarcity: push on before the campsite gets taken
+    - |-
+      No trap: one more hour is short, so keep walking
+  correct: 0
+  explanation: |-
+    This is commitment (sunk cost): stop now and pitch a storm shelter on the best nearby site. Many failed shelter nights begin with a decision to stop too late — set a decision time and keep it.
+
+- id: s5-rev-9
+  question: |-
+    Tropical rainforest, wet season. Which choice does **NOT** reliably make the night safer?
+  options:
+    - |-
+      A site on a rise well above the river
+    - |-
+      Sleeping under a giant tree for extra shelter from rain
+    - |-
+      A mosquito net tucked in all round
+    - |-
+      Keeping one dry set of clothes only for sleeping
+  correct: 1
+  explanation: |-
+    Site (flood, overhead hazards), roof (a steep roof pitched before the downpour), net (insects), dry set (skin and warmth).
+
+- id: s5-rev-10
+  question: |-
+    A lean-to tarp presenting 6 m² to the wind experiences about 830 N at 50 km/h. You re-pitch it low and edge-on so it presents only 2 m², and the gusts drop to 40 km/h near the ground. Using $F \propto A v^2$, estimate the new force.
+  options:
+    - |-
+      About 221 N
+    - |-
+      About 531 N
+    - |-
+      About 177 N
+    - |-
+      About 1 590 N
+  correct: 2
+  explanation: |-
+    $830 \times (2/6) \times (40/50)^2 = 830 \times 0.333 \times 0.64 \approx 177$ N — less than a quarter of the original load.

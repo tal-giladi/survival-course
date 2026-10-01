@@ -1,0 +1,79 @@
+- id: s6-l5-q1
+  question: |-
+    A friend ate wild mushrooms at dinner and, at 6 a.m. the next day (about 10 hours later), develops violent vomiting and watery diarrhoea. What is the right response?
+  options:
+    - |-
+      Ordinary stomach upset — give plenty of fluids and let them rest.
+    - |-
+      Wait it out: if they feel better tomorrow, they are fine.
+    - |-
+      Give activated charcoal and carry on with the trip as planned.
+    - |-
+      Treat as amatoxin poisoning: emergency care and poison centre now.
+  correct: 3
+  explanation: |-
+    Late onset plus a wild-mushroom meal = assume amatoxin. Early hospital care matters; bring any leftovers.
+
+- id: s6-l5-q5
+  question: |-
+    Which statement best describes the decision to eat unidentified wild mushrooms when lost?
+  options:
+    - |-
+      Trivial benefit against a rare but irreversible, delayed catastrophe.
+    - |-
+      Worth the gamble if you are hungry enough and far from help.
+    - |-
+      Safe enough as long as you eat only a small amount at first.
+    - |-
+      Safe if you first pass them through the universal edibility test.
+  correct: 0
+  explanation: |-
+    Irreversible downside, trivial upside: the reversibility principle from Stage 1 applies directly.
+
+- id: s6-l5-q2
+  question: |-
+    Which statement about amatoxins is correct?
+  options:
+    - |-
+      Thorough cooking destroys them, so cooked mushrooms are safe.
+    - |-
+      Cooking, drying and freezing all leave them intact.
+    - |-
+      Drying the mushrooms first breaks the toxins down.
+    - |-
+      Freezing for several days inactivates them.
+  correct: 1
+  explanation: |-
+    Amatoxins are heat-stable; cooking, drying and freezing do not help.
+
+- id: s6-l5-q3
+  question: |-
+    Which of these is **not** a reason a mushroom can’t be reliably identified from a photograph?
+  options:
+    - |-
+      The volva may be buried in the soil or broken off.
+    - |-
+      Spore colour, smell and microscopic features are not visible.
+    - |-
+      Photographs are always too blurry to show the detail.
+    - |-
+      Colour and shape change with age and weather.
+  correct: 2
+  explanation: |-
+    The diagnostic features are often hidden, transient or microscopic — no image quality fixes that.
+
+- id: s6-l5-q4
+  question: |-
+    Fresh mushrooms give about 30 kcal per 100 g. How much energy would 400 g provide?
+  options:
+    - |-
+      1,200 kcal
+    - |-
+      12 kcal
+    - |-
+      13 kcal
+    - |-
+      120 kcal
+  correct: 3
+  explanation: |-
+    4 × 30 = **120 kcal** — about half an energy bar, for a risk of fatal liver failure.

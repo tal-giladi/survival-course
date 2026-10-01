@@ -1,0 +1,81 @@
+- id: s14-l2-q6
+  question: |-
+    Late afternoon, you are on a trail with a twisted ankle. You can walk slowly; you will reach the car 2 hours after dark. You have a headlamp, warm layers and one bar of phone signal. You also carry a PLB. What do you do?
+  options:
+    - |-
+      Activate the PLB now, since you are injured and it will be dark
+    - |-
+      Say nothing and push on as fast as you can to beat the dark
+    - |-
+      Activate the PLB and switch it off when you reach the car
+    - |-
+      Text your trip contact your position, problem and new ETA; walk out slowly
+  correct: 3
+  explanation: |-
+    Beacons are for distress. The trip plan from Stage 1 works both ways: tell your contact when your plan changes.
+
+- id: s14-l2-q3
+  question: |-
+    You set off your registered PLB by accident. What should you do?
+  options:
+    - |-
+      Switch it off and immediately call the RCC or registry to cancel
+    - |-
+      Switch it off quietly — an alert that stops will be ignored
+    - |-
+      Leave it on until rescuers arrive so they can cancel it in person
+    - |-
+      Switch it off and text your trip contact that you are fine
+  correct: 0
+  explanation: |-
+    The alert may already have been received and a response started. **Switch it off and immediately call the RCC or national authority** to cancel. Promptly reported accidents are routine; unreported ones cause searches.
+
+- id: s14-l2-q1
+  question: |-
+    You activate a registered 406 MHz PLB. Who first acts on the alert to organise your rescue?
+
+    ![How a 406 megahertz distress beacon alert travels: the beacon transmits a digital message with its unique ID and GNSS position to Cospas-Sarsat satellites in low, medium and geostationary orbits; ground stations called LUTs receive the relay; a mission control centre checks it and passes it to the rescue coordination centre responsible for that area, which uses the registration details to call your contacts and launches searchers, who home in on the beacon’s 121.5 megahertz signal.](../../assets/diagrams/s14-cospas-sarsat.svg)
+  options:
+    - |-
+      The beacon manufacturer’s monitoring service
+    - |-
+      The rescue coordination centre (RCC) for your area
+    - |-
+      Your emergency contact, who must call the police
+    - |-
+      A commercial emergency call centre that bills you
+  correct: 1
+  explanation: |-
+    Beacon → satellites → LUT → MCC → RCC. The RCC uses your registration to call your contacts and tasks rescuers.
+
+- id: s14-l2-q5
+  question: |-
+    You make a distress call. After saying who is calling, what should come next?
+  options:
+    - |-
+      What happened and how serious it is
+    - |-
+      How many people there are and their condition
+    - |-
+      Where you are: coordinates with format, plus a description
+    - |-
+      What help you need and what you have with you
+  correct: 2
+  explanation: |-
+    Who, where, what happened, how many, what help. Location comes early: if the call drops after ten seconds, rescuers at least know where to go.
+
+- id: s14-l2-q4
+  question: |-
+    Using $d \approx 4.1(\sqrt{h_1} + \sqrt{h_2})$ km, what is the radio horizon between two hand-held radios each held 2 m above flat ground?
+  options:
+    - |-
+      About 5.8 km
+    - |-
+      About 8.2 km
+    - |-
+      About 16.4 km
+    - |-
+      About 11.6 km
+  correct: 3
+  explanation: |-
+    $\sqrt{2} \approx 1.41$; $4.1 \times 2.83 \approx 11.6$ km — the theoretical best. Terrain and vegetation usually reduce it a lot.

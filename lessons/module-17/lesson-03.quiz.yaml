@@ -1,0 +1,79 @@
+- id: s17-l3-q4
+  question: |-
+    You have a sleeping bag, a blanket and a quarter tank. It is −18 °C and the plough is expected in the morning. What is the best approach for the night?
+  options:
+    - |-
+      Idle the engine all night with the heater on so you can sleep comfortably
+    - |-
+      Walk back to the farmhouse you passed 6 km back before it gets any colder
+    - |-
+      Save fuel by never running the engine, relying on the sleeping bag alone
+    - |-
+      Insulate with the bag and blanket, then run the engine briefly each hour after clearing the tailpipe
+  correct: 3
+  explanation: |-
+    Hold heat with insulation (bag on, blanket under you, windows covered, eat and drink); add heat in short, safe bursts; stay where the plough will come.
+
+- id: s17-l3-q2
+  question: |-
+    You are in a snowbound car with the engine running. Which of these is NOT a reliable warning of carbon-monoxide poisoning?
+  options:
+    - |-
+      Noticing a clear smell of CO
+    - |-
+      Headache, nausea or dizziness
+    - |-
+      Unusual sleepiness or confusion
+    - |-
+      Several occupants feeling ill at once
+  correct: 0
+  explanation: |-
+    CO is odourless and its symptoms mimic cold, fatigue or flu. Engine off, fresh air, clear the tailpipe, seek care.
+
+- id: s17-l3-q6
+  question: |-
+    Your passenger’s fingertips are white, numb and waxy after clearing snow without gloves. You are stranded for the night. What do you do?
+  options:
+    - |-
+      Rub them hard with snow to bring the circulation back
+    - |-
+      Warm them gently on warm skin if they won’t refreeze, and seek care
+    - |-
+      Hold them against the hot heater vent to warm them fast
+    - |-
+      Leave them alone and deal with it in the morning
+  correct: 1
+  explanation: |-
+    Follow WMS frostbite guidance: warm gently (armpit or belly), keep them protected, no rubbing, no uncontrolled heat, avoid thaw–refreeze cycles, and get medical care. Learn it in a WFA course.
+
+- id: s17-l3-q1
+  question: |-
+    Snowbound at night, the cabin has become very cold. Which sequence makes a safe engine run?
+  options:
+    - |-
+      Crack a downwind window, run ~10 min, clear the tailpipe, switch off and recheck
+    - |-
+      Run ~10 min, clear the tailpipe, crack a downwind window, switch off and recheck
+    - |-
+      Clear the tailpipe, crack a downwind window, run ~10 min, switch off and recheck
+    - |-
+      Clear the tailpipe, run ~10 min, crack a downwind window, switch off and recheck
+  correct: 2
+  explanation: |-
+    Clear snow from the tailpipe first — a cracked window does not make a blocked tailpipe safe. Run the heater about 10 minutes with the dome light on, then lights off; short runs save fuel and battery.
+
+- id: s17-l3-q5
+  question: |-
+    Which statement about an electric car stranded in winter is correct?
+  options:
+    - |-
+      It has no exhaust, so heating the cabin has no effect on its range
+    - |-
+      Hybrids need no exhaust clearing, since their engine stays off when parked
+    - |-
+      It needs no insulation kit, since its heater can run for days
+    - |-
+      Its drivetrain gives no CO risk, but heating the cabin reduces range
+  correct: 3
+  explanation: |-
+    An electric car produces no exhaust, but heating the cabin cuts its range. Use seat and wheel heaters (efficient), plan charging, and keep insulation in the car; keep a hybrid’s exhaust clear.

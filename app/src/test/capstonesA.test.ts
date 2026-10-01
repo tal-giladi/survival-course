@@ -72,7 +72,7 @@ describe('capstones A (cap-1 … cap-6)', () => {
       expect(l.simulations).toEqual([`scenario-${l.id}`])
       expect(l.explanation.some((b) => b.type === 'sim' && b.id === `scenario-${l.id}`)).toBe(true)
       expect(l.scenario.id).toBe(`${l.id}-sc`)
-      l.quiz.forEach((q, k) => expect(q.id).toBe(`${l.id}-q${k + 1}`))
+      expect(l.quiz.map((q) => q.id).sort()).toEqual(l.quiz.map((_, k) => `${l.id}-q${k + 1}`).sort())
       l.exercises.forEach((e, k) => {
         expect(e.id).toBe(`${l.id}-e${k + 1}`)
         expect(e.level).toBe(4)

@@ -1,0 +1,79 @@
+- id: s9-l9-q1
+  question: |-
+    A patient with a closed lower-leg fracture has vitals: 14:00 pulse 84; 14:15 pulse 86; 14:30 pulse 85; alert and warm. What is the evacuation urgency?
+  options:
+    - |-
+      Emergent: request a helicopter now, since a fracture is a serious injury.
+    - |-
+      None needed: splint the leg well and continue the trip at an easier pace.
+    - |-
+      Urgent to non-urgent: organise an evacuation and keep monitoring vitals.
+    - |-
+      Observe for another hour before calling anyone, then decide on urgency.
+  correct: 2
+  explanation: |-
+    Urgency comes from the patient and the trend; this one is stable. The method comes from the situation — a non-walking patient needs help.
+
+- id: s9-l9-q5
+  question: |-
+    A patient you are monitoring suddenly becomes drowsy. Which sequence of actions is correct?
+  options:
+    - |-
+      Record the change → primary survey → protect airway → upgrade evacuation
+    - |-
+      Upgrade evacuation → primary survey → protect airway → record the change
+    - |-
+      Primary survey → record the change → upgrade evacuation → protect airway
+    - |-
+      Primary survey → protect airway → record the change → upgrade evacuation
+  correct: 3
+  explanation: |-
+    Any deterioration restarts the loop: return to the primary survey (airway, breathing, circulation), protect the airway, then record the change and time and upgrade the evacuation urgency.
+
+- id: s9-l9-q3
+  question: |-
+    Which of these does **not** belong in a rescue request?
+  options:
+    - |-
+      A detailed account of whose fault the accident was
+    - |-
+      Precise location (coordinates with format, or grid reference)
+    - |-
+      Patient condition, including the vital-sign trend
+    - |-
+      Weather and possible landing sites at your location
+  correct: 0
+  explanation: |-
+    Where, who and how bad (with trend), what you have and how long you can hold out, conditions, what you need.
+
+- id: s9-l9-q4
+  question: |-
+    Your partner can’t walk, the road is 5 km away over rough ground, and there are three fit adults. Which statement about carrying her out on a litter is correct?
+  options:
+    - |-
+      Three fit adults can usually beat a rescue team to the road over 5 km.
+    - |-
+      Three is far too few: a litter needs about six carriers at a time, plus relief.
+    - |-
+      Three is enough as long as they swap positions every few hundred metres.
+    - |-
+      Three can manage it on rough ground if they keep a steady, slow pace.
+  correct: 1
+  explanation: |-
+    Litter carries need about six carriers at a time plus relief; three people will be exhausted within minutes and risk dropping the patient.
+
+- id: s9-l9-q6
+  question: |-
+    Why are the evacuation-decision and Stage 1 stay-or-move decisions so similar?
+  options:
+    - |-
+      They are not really related; medical decisions follow their own separate rules.
+    - |-
+      Both always favour staying put, because moving adds risk to a bad situation.
+    - |-
+      Both weigh the risk of moving against staying, using daylight, weather and resources.
+    - |-
+      Both always favour moving, because better shelter and help lie elsewhere.
+  correct: 2
+  explanation: |-
+    The decision loop from Stage 1 applies to patients: observe (trend), assess, prioritise, plan, act, reassess.

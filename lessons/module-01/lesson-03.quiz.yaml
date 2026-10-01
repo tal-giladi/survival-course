@@ -1,0 +1,79 @@
+- id: s1-l3-q1
+  question: |-
+    Which sequence gives the letters of STOP in the correct order?
+  options:
+    - |-
+      Stop → Think → Observe → Plan
+    - |-
+      Stop → Observe → Think → Plan
+    - |-
+      Stop → Think → Plan → Observe
+    - |-
+      Observe → Stop → Think → Plan
+  correct: 0
+  explanation: |-
+    Stop the impulse, think about what you know, observe the facts, then plan.
+
+- id: s1-l3-q2
+  question: |-
+    Which of these is an **immediate danger** that you should move away from before running STOP?
+  options:
+    - |-
+      Being two hours from sunset without a shelter.
+    - |-
+      Standing in a dry gully while thunder rumbles upstream.
+    - |-
+      Having only 500 ml of water left.
+    - |-
+      Not knowing where you are on the map.
+  correct: 1
+  explanation: |-
+    Immediate dangers can hurt you within minutes. Move the minimum safe distance, then STOP.
+
+- id: s1-l3-q3
+  question: |-
+    Sunset is at 17:10. You estimate 25 minutes of usable twilight and need 75 minutes to prepare for the night. It is now 15:40. How many **minutes** do you have for anything else (e.g., trying to relocate) before you must start preparing?
+  options:
+    - |-
+      15 min
+    - |-
+      90 min
+    - |-
+      40 min
+    - |-
+      115 min
+  correct: 2
+  explanation: |-
+    Latest start = 17:10 + 25 − 75 = 16:20. From 15:40 to 16:20 is **40 minutes**.
+
+- id: s1-l3-q4
+  question: |-
+    Which statement about the five-heading inventory (Body, Gear, People, Environment, Time) is correct?
+  options:
+    - |-
+      Gear covers only dedicated survival items such as a knife or firesteel.
+    - |-
+      Medications go under Gear, since they are carried in your pack.
+    - |-
+      People covers only companions with you, not who knows your route.
+    - |-
+      Gear includes improvisable items such as plastic bags and spare laces.
+  correct: 3
+  explanation: |-
+    Body, Gear, People, Environment, Time. Improvisable items count as gear.
+
+- id: s1-l3-q5
+  question: |-
+    What is the **main** purpose of sitting down and eating a snack at the start of STOP?
+  options:
+    - |-
+      Calming the acute stress response so you can think clearly.
+    - |-
+      Replacing the calories you burned while you were moving.
+    - |-
+      Saving energy so you can move faster once you have a plan.
+    - |-
+      Keeping your blood sugar up so you stay warm through the night.
+  correct: 0
+  explanation: |-
+    It is mainly about physiology and attention: stillness and a routine action help calm the acute stress response so you can think clearly.

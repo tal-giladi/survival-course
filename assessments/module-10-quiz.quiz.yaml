@@ -1,0 +1,159 @@
+- id: s10-rev-8
+  question: |-
+    Your boot sole fails 10 km from the trailhead in the late afternoon. You have a repair kit and 2 hours of daylight; the trail is rough and there is a sheltered spot nearby. What is the best plan?
+  options:
+    - |-
+      Hurry on without repairing it to beat the dark
+    - |-
+      Repair it, test it briefly, then use a turnaround trigger
+    - |-
+      Call for rescue now, before daylight runs out
+    - |-
+      Walk out in your socks to save the boot from damage
+  correct: 1
+  explanation: |-
+    Repair, test, then decide with a clear trigger (Stage 1’s daylight logic) — reversible options first.
+
+- id: s10-rev-2
+  question: |-
+    It is 4 °C, raining and windy. A friend’s air pad has a leak you cannot find, and your tent has a small tear. You have one rain jacket each, a spare fleece, a foam sit-pad, tape and a bin bag. What do you use for the tent tear?
+  options:
+    - |-
+      A patch cut from your own rain jacket
+    - |-
+      The spare fleece, stuffed firmly into the tear
+    - |-
+      Tape on dry fabric, plus a split bin bag over it
+    - |-
+      The foam sit-pad, taped over the tear from outside
+  correct: 2
+  explanation: |-
+    Match properties to functions, and keep insulation and rain protection doing their own jobs.
+
+- id: s10-rev-10
+  question: |-
+    Where do you dig a cathole at a desert camp beside the only pool for 20 km?
+  options:
+    - |-
+      Next to the pool, where the soil is soft and damp
+    - |-
+      In the dry wash below camp, where it is easy to dig
+    - |-
+      Under a big rock near the edge of the pool
+    - |-
+      At least 60 m from pool, camp and trail, out of washes
+  correct: 3
+  explanation: |-
+    Protect scarce water; stay out of drainage lines; pack out where soil or rules demand.
+
+- id: s10-rev-5
+  question: |-
+    You splint a friend’s injured wrist with a folded foam pad. What should you use to secure it?
+  options:
+    - |-
+      Cloth or tape over padding, firm not tight; recheck CSM
+    - |-
+      Cable ties, pulled tight so it cannot move
+    - |-
+      Wire, because it will not stretch or slip
+    - |-
+      Nothing; hold it in place by hand on the walk out
+  correct: 0
+  explanation: |-
+    Improvised splints follow Stage 9’s principles: padding, joint above and below, adjustable securing, CSM before and after. Take a WFA course.
+
+- id: s10-rev-9
+  question: |-
+    After a flood, your family has no running water for several days. Which step would **raise** the risk of diarrhoea?
+  options:
+    - |-
+      A bucket toilet lined with bags, closed and stored away
+    - |-
+      Washing dishes in floodwater to save drinking water
+    - |-
+      A tippy tap and soap by the toilet and kitchen
+    - |-
+      Drinking only treated or bottled water
+  correct: 1
+  explanation: |-
+    The F-diagram works in a city too: contain waste, wash hands, treat water (Stage 16).
+
+- id: s10-rev-3
+  question: |-
+    You carry lake water in a clean dry bag and treat it into bottles. Which statement is **false**?
+  options:
+    - |-
+      The water in the dry bag is still untreated
+    - |-
+      The dry bag should be marked as the dirty container
+    - |-
+      A cloth filter over the bag makes the water safe
+    - |-
+      Treatment by boiling or chemicals still applies
+  correct: 2
+  explanation: |-
+    Containers move water; treatment makes it safe; storage keeps it safe.
+
+- id: s10-rev-7
+  question: |-
+    Rebuilding a tripod for a camp water bag, you need to join the three legs at the head. Which lashing, from Stage 7?
+  options:
+    - |-
+      A single overhand knot tied round all three
+    - |-
+      Several tight wraps of duct tape round the tops
+    - |-
+      Square lashing, tied tight around the three tops
+    - |-
+      Tripod lashing: loose figure-eight weaves, then frapping
+  correct: 3
+  explanation: |-
+    Stage 7’s tripod lashing (clove hitch, loose figure-eight weaves, frapping turns, clove hitch) is built for exactly this. Test it at ground level with twice the working load.
+
+- id: s10-rev-1
+  question: |-
+    Your only water bottle cracks on day 2 of a desert hike. Which sequence of improvisation steps is right?
+  options:
+    - |-
+      Functions → properties → candidates → build → test at the source
+    - |-
+      Candidates → functions → properties → build → test at the source
+    - |-
+      Functions → candidates → build → properties → test at the source
+    - |-
+      Functions → properties → candidates → build → test on the trail
+  correct: 0
+  explanation: |-
+    Functions (hold, stay food-safe, close, carry) → properties → candidates (zip-lock bags, liner, pot) → build (bags doubled inside the pack, neck tied) → fill and test at the source, where a leak costs nothing.
+
+- id: s10-rev-6
+  question: |-
+    For the same load, what happens to the outward push at a tripod’s feet as you splay the legs wider?
+  options:
+    - |-
+      It falls, because a wider base is more stable
+    - |-
+      It rises steeply with the splay angle
+    - |-
+      It stays the same; only the load matters
+    - |-
+      It rises only on smooth rock, not on soil
+  correct: 1
+  explanation: |-
+    $H = W \tan\theta / 3$ rises steeply with θ; anchor or tie the feet.
+
+- id: s10-rev-4
+  question: |-
+    Five people need 5 L each for tomorrow. You can carry 7 L per trip. How many trips?
+  options:
+    - |-
+      3 trips
+    - |-
+      5 trips
+    - |-
+      4 trips
+    - |-
+      1 trip
+  correct: 2
+  explanation: |-
+    $D = 25$ L; $\lceil 25/7 \rceil = 4$ trips.

@@ -1,0 +1,79 @@
+- id: s9-l8-q1
+  question: |-
+    Which finding after a head injury is the most worrying?
+  options:
+    - |-
+      A large, swelling bruise on the forehead where he hit the rock
+    - |-
+      Level of responsiveness declining from A+Ox4 to V over an hour
+    - |-
+      A scalp wound that bled heavily before pressure controlled it
+    - |-
+      A mild headache that has been slowly improving over the hour
+  correct: 1
+  explanation: |-
+    Deteriorating LOR is the most important head-injury red flag → emergent evacuation.
+
+- id: s9-l8-q4
+  question: |-
+    After a mountain-bike crash, which rider could a trained responder decide does **not** need spinal motion restriction (SMR)?
+  options:
+    - |-
+      Alert and sober, but with neck pain when moving the head
+    - |-
+      No neck pain, but confused and repeating the same questions
+    - |-
+      Alert and sober, no neck pain, normal strength and sensation
+    - |-
+      No neck pain, but tingling in both hands since the crash
+  correct: 2
+  explanation: |-
+    Reliability, spine pain/tenderness and neuro signs drive the decision; a painful distracting injury such as a broken wrist also counts against clearing. Clearing a spine is a course-taught skill.
+
+- id: s9-l8-q3
+  question: |-
+    An open chest wound bubbles with each breath. What is the currently recommended first aid?
+  options:
+    - |-
+      Seal it airtight on all four sides with plastic so no air can get in.
+    - |-
+      Pack the wound tightly with gauze and hold firm pressure, as for the groin.
+    - |-
+      Lay the patient on the injured side, then walk them out slowly to the road.
+    - |-
+      Leave it open or use a non-occlusive or vented dressing, and watch breathing.
+  correct: 3
+  explanation: |-
+    Avoid trapping air: leave it open or use a non-occlusive or vented dressing, and remove any seal if breathing worsens. Watch breathing; emergent evacuation.
+
+- id: s9-l8-q2
+  question: |-
+    Someone might have a neck injury. What do current first-aid guidelines say a lay first aider should do?
+  options:
+    - |-
+      Keep the person still and supported, without fitting a collar.
+    - |-
+      Fit a cervical collar to anyone who might have a neck injury.
+    - |-
+      Improvise a rigid collar from a foam pad if no real one is at hand.
+    - |-
+      Sit the person up and gently turn the neck to check for pain.
+  correct: 0
+  explanation: |-
+    Lay first aiders should not apply collars; keep the person still and supported. Spinal decisions are selective and criteria-based (WMS 2024; AHA/Red Cross 2024).
+
+- id: s9-l8-q6
+  question: |-
+    A trekker has gritty, streaming, very painful eyes at night after a day on a snowfield without sunglasses. Most likely?
+  options:
+    - |-
+      A penetrating eye injury that needs emergent evacuation tonight.
+    - |-
+      Snow blindness (UV keratitis): dark, cool compresses and eye protection.
+    - |-
+      An allergic reaction that should be treated with epinephrine.
+    - |-
+      Dehydration after a long day, treated with plenty of fluids.
+  correct: 1
+  explanation: |-
+    UV keratitis usually heals in a day or two; prevention is eyewear with side protection or improvised slit goggles.

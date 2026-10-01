@@ -1,0 +1,79 @@
+- id: s7-l2-q3
+  question: |-
+    Your ridgeline sags 20 cm and carries about 260 N. You winch it tight to 5 cm of sag. Roughly what tension does it carry now in the same wind?
+  options:
+    - |-
+      About 260 N: the wind has not changed
+    - |-
+      About 1,040 N
+    - |-
+      About 520 N
+    - |-
+      Less than before, because a tight line flaps less
+  correct: 1
+  explanation: |-
+    H = wL²/(8s). Tight lines look neat but multiply tension; gusts on top can snap cord or pull anchors.
+
+- id: s7-l2-q5
+  question: |-
+    Which choice does **not** reduce the load on the knot at the anchor tree of a ridgeline?
+  options:
+    - |-
+      Take two full turns round the trunk before tying off
+    - |-
+      Give the ridgeline a little more sag
+    - |-
+      Swap the round turn for a reef knot at the tree
+    - |-
+      Add guy lines to the tarp corners and edges
+  correct: 2
+  explanation: |-
+    Reduce the load (sag, guys), then move the load onto friction (turns) before it reaches the knot. A reef knot does neither.
+
+- id: s7-l2-q2
+  question: |-
+    A cord fails in a test. Where is it most likely to have broken?
+  options:
+    - |-
+      In the middle of a long, straight section
+    - |-
+      Right at the anchor tree, because the tree is hardest
+    - |-
+      Wherever the cord has soaked up the most water
+    - |-
+      At the sharpest bend: inside a knot or over a thin edge
+  correct: 3
+  explanation: |-
+    Bend radius sets knot efficiency. That is why the figure-eight (about 75 %) beats the overhand (about 50 %).
+
+- id: s7-l2-q1
+  question: |-
+    You hold a 400 N load with **1.5 turns** of cord round a tree, with μ = 0.3. Using $T_1 = T_2 / e^{\mu\theta}$, how many newtons must your hand hold?
+  options:
+    - |-
+      ≈ 23.7 N
+    - |-
+      ≈ 97.3 N
+    - |-
+      ≈ 255.1 N
+    - |-
+      ≈ 6,760 N
+  correct: 0
+  explanation: |-
+    θ = 1.5 × 2π = 9.42 rad; e^(0.3 × 9.42) = e^2.83 ≈ 16.9; 400/16.9 ≈ **23.7 N**, about 2.4 kg of pull.
+
+- id: s7-l2-q6
+  question: |-
+    A lashing with 8 strands holds a joint loaded to 300 N. Which statement about sizing its cord is correct?
+  options:
+    - |-
+      Each strand carries the full 300 N, so use the thickest cord you have
+    - |-
+      Thin cord is often enough; slipping and wear are the usual failures
+    - |-
+      Lashings fail by snapping, so cord diameter matters more than wraps
+    - |-
+      Extra wraps add friction but do not share the load between strands
+  correct: 1
+  explanation: |-
+    With 8 strands sharing 300 N, each carries about 40 N. The tightening pull and daily rubbing are what size the cord.

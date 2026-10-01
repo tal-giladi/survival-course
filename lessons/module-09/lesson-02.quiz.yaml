@@ -1,0 +1,79 @@
+- id: s9-l2-q1
+  question: |-
+    A partner’s lower leg is spurting bright red blood after a fall onto a sharp rock. Pressing hard with gauze is not stopping it. What next?
+  options:
+    - |-
+      Keep pressing and raise the leg, since a tourniquet is only a last resort for bleeding.
+    - |-
+      Press hard on the pressure point in the groin to slow the blood flowing into the leg.
+    - |-
+      Rinse and clean the wound first so you can see exactly where the bleeding comes from.
+    - |-
+      Apply a tourniquet 5–8 cm above the wound, not over the knee, and tighten until it stops.
+  correct: 3
+  explanation: |-
+    Direct pressure → if it fails (or you can’t maintain it) → tourniquet. Current guidelines treat the tourniquet as an early tool, not a last resort.
+
+- id: s9-l2-q5
+  question: |-
+    A deep wound in the groin is bleeding heavily. What is the best first-aid approach?
+  options:
+    - |-
+      Pack the wound tightly with gauze (haemostatic if available) and hold hard pressure.
+    - |-
+      Put a tourniquet as high around the upper thigh as it will go and tighten it hard.
+    - |-
+      Cover it with a light, clean dressing to keep dirt out, and start evacuating quickly.
+    - |-
+      Hold ice packs over the wound to constrict the vessels and slow the bleeding.
+  correct: 0
+  explanation: |-
+    Groin, armpit and neck: pack and press. Tourniquets are for limbs.
+
+- id: s9-l2-q4
+  question: |-
+    Which of these is **not** correct care for an unresponsive adult who is breathing normally?
+  options:
+    - |-
+      Place them in the recovery position if you must leave them or they may vomit.
+    - |-
+      Keep them flat on their back if a spinal injury is possible, even while vomiting.
+    - |-
+      Insulate them from the ground, because cold ground drains heat from a still body.
+    - |-
+      Keep checking their breathing, and start CPR if it stops being normal.
+  correct: 1
+  explanation: |-
+    Protect the airway, keep watching the breathing, and protect from the environment. A vomiting patient is log-rolled onto their side as a unit, even if a spinal injury is possible.
+
+- id: s9-l2-q6
+  question: |-
+    After a lightning strike in a group, one person is unresponsive and not breathing; two others are dazed but walking. Where should CPR effort go first?
+  options:
+    - |-
+      To the two dazed walkers first, because they are the most likely to survive.
+    - |-
+      To nobody, because CPR in the wilderness almost never brings anyone back.
+    - |-
+      To the person who is not breathing, as lightning arrest often responds to CPR.
+    - |-
+      First move all three into a tent for shelter, then start CPR on whoever needs it.
+  correct: 2
+  explanation: |-
+    Lightning often causes breathing and cardiac arrest in an otherwise intact body, so the apparently dead are treated first. Learn CPR on a certified course.
+
+- id: s9-l2-q3
+  question: |-
+    A tourniquet has been put on loosely, and the limb is swelling and bleeding more than before. Which statement is correct?
+  options:
+    - |-
+      A loose tourniquet is gentler on the limb, so leave it and add more gauze on top.
+    - |-
+      The tourniquet has failed, so take it off and go back to direct pressure alone.
+    - |-
+      Some extra bleeding is normal at first; wait ten minutes before adjusting it.
+    - |-
+      It squeezes veins shut while arteries still fill the limb; tighten until bleeding stops.
+  correct: 3
+  explanation: |-
+    A loose tourniquet squeezes the low-pressure veins shut while arterial blood still flows in, engorging the limb. Tighten until bleeding stops.

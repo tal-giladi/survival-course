@@ -1,0 +1,79 @@
+- id: s9-l7-q1
+  question: |-
+    Ten minutes after a bee sting, a hiker has hives across the chest, a hoarse voice and is wheezing. She carries two auto-injectors. What first?
+  options:
+    - |-
+      Epinephrine auto-injector into the outer thigh now, then call for help.
+    - |-
+      Give an antihistamine tablet now and watch her closely for 30 minutes.
+    - |-
+      Scrape the stinger out carefully first, then decide on the next step.
+    - |-
+      Walk her quickly to the trailhead so she can reach a doctor sooner.
+  correct: 0
+  explanation: |-
+    Epinephrine early saves lives; a second dose after 5–15 minutes if there is no improvement. Antihistamines are adjuncts.
+
+- id: s9-l7-q6
+  question: |-
+    A group cooking inside a closed snow shelter all develop headaches and nausea. What is the most likely cause and action?
+  options:
+    - |-
+      Altitude sickness: rest for the evening and continue the climb tomorrow.
+    - |-
+      Carbon monoxide: ventilate and get everyone into fresh air immediately.
+    - |-
+      Food poisoning from the shared meal: induce vomiting in everyone.
+    - |-
+      Dehydration: everyone should drink more water and rest in the shelter.
+  correct: 1
+  explanation: |-
+    Clusters of symptoms in enclosed spaces with combustion = CO until proven otherwise. The first action is the scene.
+
+- id: s9-l7-q2
+  question: |-
+    Which of these is correct snakebite first aid rather than a myth?
+  options:
+    - |-
+      Cutting across the fang marks to let venom out
+    - |-
+      Suction over the bite with the mouth or a pump
+    - |-
+      Removing rings and tight boots before swelling
+    - |-
+      A tight arterial tourniquet above the bite
+  correct: 2
+  explanation: |-
+    Calm, still, splint, remove constrictions, mark swelling, evacuate — plus pressure immobilisation where local guidance says so (e.g., Australia). Cutting, suction, ice and arterial tourniquets are myths.
+
+- id: s9-l7-q5
+  question: |-
+    You wake in a hut to find a bat flying around the room where you were sleeping. No one noticed a bite. What is the safest course?
+  options:
+    - |-
+      Nothing is needed, since nobody noticed a bite or felt anything.
+    - |-
+      Watch everyone closely and seek care if any symptoms appear later.
+    - |-
+      Catch the bat by hand so that it can be tested for rabies.
+    - |-
+      Seek medical advice promptly about rabies post-exposure prophylaxis.
+  correct: 3
+  explanation: |-
+    Rabies decisions are about exposure risk, and bats are a classic unnoticed exposure.
+
+- id: s9-l7-q3
+  question: |-
+    Which statement about pressure immobilisation bandaging for snakebite is correct?
+  options:
+    - |-
+      It is recommended for all Australian snakebites, but not for US pit-viper bites.
+    - |-
+      It is recommended for every venomous snakebite worldwide, including pit vipers.
+    - |-
+      It is recommended for US rattlesnake bites but no longer used in Australia.
+    - |-
+      It is no longer recommended anywhere, having been replaced by splinting alone.
+  correct: 0
+  explanation: |-
+    ANZCOR recommends it for all Australian snakes (and funnel-web spiders). US guidance advises against pressure bandaging for pit-viper bites — region matters.

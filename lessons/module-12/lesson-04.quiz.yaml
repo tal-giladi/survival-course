@@ -1,0 +1,79 @@
+- id: s12-l4-q6
+  question: |-
+    Forecast: summit gusts to 95 km/h, mean 55 km/h. Your route follows a narrow exposed ridge for 2 hours. What is the best decision?
+  options:
+    - |-
+      Go: the mean wind is only a near gale.
+    - |-
+      Go, and crawl in the gusts.
+    - |-
+      Go early before the wind picks up.
+    - |-
+      Choose a sheltered lower route or another day.
+  correct: 3
+  explanation: |-
+    Set wind limits by gust speed and exposure. Strong gales on narrow ridges are among the clearest no-go triggers.
+
+- id: s12-l4-q5
+  question: |-
+    Which is the best site for a **winter camp on a clear, calm night**?
+  options:
+    - |-
+      A bench 50 m above the valley floor, among sound trees
+    - |-
+      The lowest point of the valley, beside the frozen lake
+    - |-
+      A flat spot directly beneath a snow-loaded slope
+    - |-
+      The crest of a corniced ridge, for the view
+  correct: 0
+  explanation: |-
+    Cold air drains downhill on calm nights. Combine Stage 1 site selection with an awareness of overhead and slope hazards.
+
+- id: s12-l4-q3
+  question: |-
+    The forecast says "40 % chance of rain this afternoon". What does it mean?
+  options:
+    - |-
+      Rain will fall for about 40 % of the afternoon hours in the area.
+    - |-
+      A 40 % chance of measurable rain at any given point in the area.
+    - |-
+      Exactly 40 % of the forecast area is certain to get some rain.
+    - |-
+      Rain will be light, at about 40 % of normal shower intensity.
+  correct: 1
+  explanation: |-
+    PoP is a probability of getting wet at your point. Plan the gear for it and the route for the worst case.
+
+- id: s12-l4-q4
+  question: |-
+    Air temperature is +2 °C and the wind chill is −5 °C. What happens to a full water bottle left outside?
+  options:
+    - |-
+      It cools down to −5 °C and freezes solid overnight.
+    - |-
+      It freezes, but only if the wind blows all night.
+    - |-
+      It cools toward +2 °C faster, but does not freeze.
+    - |-
+      It cools to the wind chill value, then stops there.
+  correct: 2
+  explanation: |-
+    Wind speeds up cooling toward air temperature but cannot cool an object below it. The bottle will not freeze at +2 °C air (ignoring radiation to a clear sky, which can cause frost on surfaces).
+
+- id: s12-l4-q1
+  question: |-
+    Air −10 °C, wind 30 km/h. Using the 2001 formula ($V^{0.16} \approx 1.72$), what is the wind chill?
+  options:
+    - |-
+      −5.8 °C
+    - |-
+      −16.6 °C
+    - |-
+      −32.6 °C
+    - |-
+      −19.5 °C
+  correct: 3
+  explanation: |-
+    $13.12 + 0.6215(-10) - 11.37(1.72) + 0.3965(-10)(1.72) \approx -19.5$ °C.

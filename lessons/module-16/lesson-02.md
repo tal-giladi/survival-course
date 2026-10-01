@@ -1,0 +1,280 @@
+---
+id: "16.2"
+module: 16
+minutes: 45
+practice_minutes: 200
+prerequisites: ["16.1"]
+objectives:
+  - "Calculate water and food quantities for your household and number of days."
+  - "Store and rotate water and food so the kit is fresh when you need it."
+  - "Choose flameless lighting and size battery power in watt-hours."
+  - "Explain why generators and fuel-burning devices must never run indoors."
+  - "Distinguish the stay-at-home kit from the go-bag, and adapt both to infants, older adults, pets and climate."
+level: beginner
+volatility: concept
+sources:
+  - title: "Build a Kit"
+    url: https://www.ready.gov/kit
+  - title: "Creating and Storing an Emergency Water Supply"
+    url: https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html
+  - title: "How to Make Water Safe in an Emergency"
+    url: https://www.cdc.gov/water-emergency/about/index.html
+  - title: "Power Outages"
+    url: https://www.ready.gov/power-outages
+  - title: "Carbon Monoxide Poisoning Basics"
+    url: https://www.cdc.gov/carbon-monoxide/about/index.html
+  - title: "Carbon Monoxide Information Center"
+    url: https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center
+  - title: "Prepare Your Pets for Disasters"
+    url: https://www.ready.gov/pets
+  - title: "How to Prepare for Emergencies"
+    url: https://www.redcross.org/get-help/how-to-prepare-for-emergencies.html
+last_verified: "2026-09-27"
+---
+
+# 16.2 · Home kits: water, food, light, power
+
+Shops empty within hours of a warning, taps and pumps stop when the power stops, and relief takes days to reach everyone after a large disaster. A kit bought and rotated in calm times turns those days from a crisis into an inconvenience — and frees help for those who could not prepare.
+
+## Explanation
+
+A home kit lets a household live **without utilities and without shops** for a set time. Agencies used to say three days; many now recommend a week or more, and national advice ranges from about **3 days to 2 weeks** — follow yours. Start with 3 days and grow.
+
+### Two kits, not one
+
+| | **Stay-at-home kit** | **Go-bag** (one per person) |
+|---|---|---|
+| Purpose | Shelter in place for days without power, water or shops | Leave the house in 2 minutes |
+| Water | Days of water for everyone (litres below) | 1–2 L per person + a way to treat water |
+| Food | Days of shelf-stable food | 1–2 days of ready-to-eat food |
+| Other | Lights, radio, power, first aid, sanitation, warmth/cooling, tools | Documents, cash, medications, phone charger/power bank, torch, clothes, whistle, map, contacts on paper |
+
+The go-bag lives by the door; the home kit can be spread through cupboards, as long as everyone knows where.
+
+![Water for a family of four at 4 litres per person per day: 48 litres for 3 days, 112 litres for 7 days, 224 litres for 14 days; food at about 7,000 kcal per day](../../assets/diagrams/s16-water-food.svg)
+
+*Water and food for a family of four: the numbers grow quickly with days.*
+
+### Water: the non-negotiable
+
+The common planning figure is **about 4 L (1 US gallon) per person per day** for drinking and basic hygiene. Of that, roughly 2–3 L is for drinking (more in heat, for nursing mothers, the sick and the active) and about 1 L for food preparation and minimal washing. Add water for **pets** and plan **more in hot climates** (roughly half as much again).
+
+**Storage:**
+- Commercially bottled water: keep it sealed, in a cool dark place, until its date.
+- Self-filled: clean food-grade containers (not milk jugs, which degrade and leak); fill from a treated tap; seal; label with the date; **replace every 6 months**.
+- Split water between several containers and places (one leak, one crushed cupboard should not take it all).
+- Keep a way to **disinfect** extra water: unscented household bleach and a dropper, a filter, or a stove to boil (outdoors only).
+
+**Hidden water in a home:** the hot-water tank (turn off its power or gas first and let it cool), the toilet **cistern** (tank) if no cleaning chemicals are in it — not the bowl — ice cubes, and canned-food liquids. A bath filled at the start of an outage is excellent for flushing and washing (and can be disinfected for drinking if needed).
+
+### Food: store what you eat, eat what you store
+
+Aim for about **2,000 kcal per adult per day** (children less, cold weather and hard work more). Choose foods that:
+
+- need **no refrigeration**, **little or no cooking** and **little water**: canned beans, fish and meat, peanut butter, crackers, oats, dried fruit, nuts, cereal bars, long-life milk;
+- your household **already eats** — unfamiliar food goes uneaten, especially by children and the stressed;
+- cover **special diets**: infant formula (ready-to-feed needs no water), allergies, diabetes.
+
+Add a **manual can opener**, plates, cutlery and rubbish bags.
+
+**Rotation (first in, first out):** put new purchases at the back, use from the front, and check dates every six months (a fixed date, e.g., when clocks change). A pantry you cook from every week is a kit that never expires.
+
+### Light: flameless
+
+Use **LED torches, headlamps and lanterns**, with spare batteries (or rechargeable ones kept charged). A headlamp leaves both hands free for first aid, stairs and children. **Avoid candles**: they cause many house fires after disasters, and an open flame near a gas leak after an earthquake can be catastrophic. Put a torch and shoes by every bed.
+
+### Power: think in watt-hours
+
+Phones are torches, radios, maps and your link to family — but only while charged. Keep phones charged by habit, and store energy in **power banks**, plus optionally a small solar panel or a hand-crank radio with a USB port. A car can charge phones — outdoors only, never with the engine running in a garage.
+
+![Battery budget: a 20,000 mAh power bank at 3.7 volts holds about 74 watt-hours, about 55 usable, enough for about three phone charges or three nights of a 3-watt lantern](../../assets/diagrams/s16-battery-budget.svg)
+
+*Battery arithmetic: the number printed in mAh only becomes useful once converted to watt-hours.*
+
+> [!CAUTION]
+> **Generators and fuel-burning devices: never indoors**
+>
+> Portable generators, camping stoves, barbecues, patio heaters and running cars produce **carbon monoxide (CO)** — invisible, odourless and able to kill sleeping people. Run a generator **only outdoors, at least 6 m (20 ft) from doors, windows and vents**, with the exhaust pointing away — never in a house, garage, basement, shed, or on a balcony near a window, even with doors open. Install **battery CO alarms** on every level and near sleeping areas. Never connect a generator to the house wiring by plugging it into a wall socket: without a transfer switch installed by an electrician, it can **backfeed** the grid and electrocute line workers.
+
+![Generator placement: never inside the home, garage, basement or shed, even with doors open; outdoors at least 6 metres or 20 feet from doors, windows and vents, exhaust pointing away; CO alarms inside on every level](../../assets/diagrams/s16-generator.svg)
+
+*Generator placement. The safe spot is outside and away from every opening; a flat usually has no such spot.*
+
+### The rest of the home kit
+
+- **First aid** kit and manual; **medications** (a reserve of at least a week, if your prescriber and pharmacist agree), spare glasses, hearing-aid batteries.
+- **Battery or wind-up radio** for official broadcasts.
+- **Sanitation:** bucket, heavy bags, absorbent (cat litter/sawdust), soap, hand sanitiser, wipes, menstrual products (Lesson 5).
+- **Warmth or cooling:** sleeping bags and blankets for cold climates; battery fans and spray bottles for hot ones.
+- **Tools:** shut-off wrench, duct tape, plastic sheeting (for sealing a room in a chemical release), work gloves, dust masks, sturdy shoes, whistle.
+- **Fire extinguisher** and working smoke and CO alarms.
+- **Documents and cash** in a waterproof pouch; contacts on paper.
+- **Special needs:** infant supplies (formula, nappies), pet food, water, lead and carrier, mobility aids.
+
+[Simulation: Home Kit Builder](../../simulations/home-kit/index.html)
+
+Build a kit for different households and climates under a budget and storage limit. Watch how the gaps change.
+
+## Scientific and technical background
+
+### Water quantity
+
+Total water = people × litres per person per day × days (+ pets):
+
+$$
+W = n \times q \times d
+$$
+
+For **2 adults and 2 children** at $q = 4$ L for $d = 7$ days: $4 \times 4 \times 7 = 112$ L — about six 20 L containers. In a hot climate at 6 L: $4 \times 6 \times 7 = 168$ L. For comparison, humanitarian minimum standards (Sphere) aim for an average of **15 L per person per day** once a camp is running — the 4 L figure is a short-term survival-and-basic-hygiene figure, not a comfortable one.
+
+### Food energy
+
+Daily energy for the same family: $2 \times 2000 + 2 \times 1500 = 7000$ kcal. For a week: $49\,000$ kcal. Typical shelf-stable foods: dry oats ≈ 380 kcal per 100 g, peanut butter ≈ 590 kcal per 100 g, a 400 g can of beans ≈ 300–350 kcal. So a week of food could be, for example, 2 kg of oats (7,600 kcal) + 2 kg of peanut butter (11,800 kcal) + 20 cans of beans and fish (~7,000 kcal) + crackers, rice, dried fruit and nuts for the rest — and a variety that the family will actually eat.
+
+### Battery energy in watt-hours
+
+Energy (Wh) = charge (Ah) × voltage (V). Power banks print capacity in **mAh at the internal cell voltage** (about 3.7 V):
+
+$$
+E = \frac{20\,000\ \text{mAh}}{1000} \times 3.7\ \text{V} = 74\ \text{Wh}
+$$
+
+Converting to USB 5 V and charging a phone loses roughly a quarter, leaving about **55 Wh** usable. A phone battery of about 4,500 mAh at 3.8 V holds ≈ 17 Wh, so one such power bank gives roughly **3 full phone charges**. A 3 W LED lantern running 6 hours a night uses 18 Wh per night.
+
+Time a device runs = usable energy ÷ power: $55\ \text{Wh} \div 3\ \text{W} \approx 18$ hours of lantern light.
+
+## Examples
+
+**Small city flat.** Little storage space: water in 5–10 L bottles under beds and in wardrobes; food is the ordinary pantry kept a week deep; power banks and a small solar panel instead of a generator (a flat has no safe place 6 m from every opening).
+
+**Suburban house, cold winters.** Sleeping bags for everyone, a battery CO alarm on each floor, a plan for one warm room, stored water plus a filled bath at the start of an outage.
+
+**Hot desert city.** Water at 6+ L per person per day; battery fans, spray bottles and a plan for a cooling centre; medications that must stay below a set temperature identified in advance.
+
+**Rural property.** Wells need electric pumps: store water or have a manual option; livestock water; fuel stored safely; a longer self-reliance target (roads may be cut for longer).
+
+**Tropical coast (cyclone season).** Kit checked before the season; documents in waterproof bags; water stored before landfall, as supplies are often contaminated afterwards.
+
+**Subarctic town.** Food with extra energy for cold; warm clothing and sleeping bags rated for indoor temperatures that may fall near freezing; spare batteries kept warm (cold drains them).
+
+## Common mistakes
+
+- Storing water in old milk jugs, or never replacing self-filled water.
+- Buying “survival food” nobody likes, then letting it expire.
+- Forgetting a manual can opener, infant formula, pet food or medications.
+- Using candles as the main light source.
+- Myth: “A generator is safe in the garage with the door open.” It is not — CO builds up and seeps into the house. Outdoors only, ≥ 6 m from openings.
+- Myth: “My power bank says 20,000 mAh, so it charges a 4,000 mAh phone five times.” The mAh are at a different voltage and conversion loses energy; think in Wh — about three charges.
+- Keeping the whole kit in one place that a flood or collapse could make unreachable.
+
+## Practical exercises
+
+### Build and inventory a 72-hour home kit
+
+> [!WARNING]
+> **Home.** Safe to do at home or at a desk.
+>
+> Store fuel and batteries away from heat and children. Do not store petrol indoors.
+
+Level 3 (Safe physical) · 🏠 Home · about 120 min
+
+**Materials:** Containers for water; Your pantry; A marker and labels
+
+**Steps**
+
+1. Calculate water (people × 4 L × 3 days, more in heat, plus pets) and food (kcal per person per day × 3) for your household.
+2. Fill and date water containers or buy bottled water; store them in at least two places.
+3. Check your pantry against the food figure; add shelf-stable food you already eat, and a manual can opener.
+4. Assemble lights (one per person or two minimum), a radio, power banks, first aid, sanitation items, tools and documents.
+5. Write an inventory with expiry dates; set a 6-monthly reminder to rotate.
+
+**You have it when**
+
+- Water and food meet your calculated figures.
+- Every family member knows where the kit is.
+- A rotation reminder exists.
+
+Builds the skill: Household emergency plan and kit.
+
+### Pack a go-bag and time the grab
+
+Level 3 (Safe physical) · 🏠 Home · about 60 min
+
+**Steps**
+
+1. Pack one bag per person (children carry a small one): water, snacks, torch, whistle, copies of documents, cash, medications list, phone cable and power bank, a change of clothes, rain layer, contacts card.
+2. Place the bags by the exit you would use.
+3. Run a drill: from a random moment, everyone gets shoes, jacket and go-bag and reaches meeting place 1. Time it.
+4. Note anything missed; aim for under 2 minutes.
+
+**You have it when**
+
+- All bags packed and weighed so each person can carry theirs.
+- The drill takes under 2 minutes.
+
+Builds the skill: Pack and maintain a go-bag.
+
+### Battery budget for 72 hours
+
+Level 1 (Knowledge) · 🏠 Home · about 20 min
+
+**Steps**
+
+1. Read the capacity (mAh) of your power banks and phones; convert to Wh (mAh ÷ 1000 × 3.7 V).
+2. Estimate what you need for 3 days: phones on low-power mode (e.g., one charge per phone per day), lights (W × hours), radio.
+3. Compare with the usable energy (about 75 % of the power bank’s Wh). Decide what to add: another power bank, a solar panel, a crank radio.
+
+**You have it when**
+
+- You have a written Wh budget with a margin.
+
+Builds the skill: Household emergency plan and kit.
+
+## Scenario question
+
+You have a budget for one purchase this month for your family of four in a ground-floor flat in a city with cold winters and frequent storms. Your kit has 10 L of water, some canned food, one torch and no CO alarm.
+
+**What should you buy first?**
+
+1. A portable petrol generator
+2. Water containers to reach ~48 L (4 people × 4 L × 3 days), plus a battery CO alarm and a second light
+3. Freeze-dried survival food for a month
+4. A large stock of candles
+
+<details>
+<summary>Best choice and debrief</summary>
+
+**Best: 2.** Close the most dangerous gap first. As in Stage 1’s priorities, water outranks food on a 3-day horizon, and a cheap control (a CO alarm) guards against a severe and common consequence. Expensive kit that introduces new hazards (a generator in a flat) is a poor first buy.
+
+- **1.** Expensive, and a flat has no safe spot 6 m from all openings — it adds a CO hazard rather than removing one.
+- **2.** Best: water is the largest gap and cannot be improvised; the CO alarm protects against the commonest outage killer; lights are cheap.
+- **3.** Food is not your most limiting resource over 72 hours; water is.
+- **4.** Fire risk and dangerous after earthquakes (gas); use LED lights.
+
+</details>
+
+## Summary
+
+- Water: **~4 L per person per day** (more in heat), for at least 3 days — longer if your agency advises.
+- Food: ~2,000 kcal per adult per day; store what you eat; **rotate first in, first out**.
+- Flameless light; power measured in **Wh = Ah × V**; a 20,000 mAh bank ≈ 3 phone charges.
+- Generators and fuel burners **never indoors**; CO alarms on every level.
+- A stay-at-home kit and a go-bag per person; adapt to infants, older adults, pets and climate.
+
+## Further reading
+
+- Ready.gov (FEMA). [Build a Kit](https://www.ready.gov/kit).
+- US Centers for Disease Control and Prevention. [Creating and Storing an Emergency Water Supply](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html). 1 gallon per person per day for at least 3 days, 2 weeks if possible; container sanitising; replace every 6 months.
+- Ready.gov (FEMA). [Power Outages](https://www.ready.gov/power-outages). Generators outdoors ≥ 20 ft from windows and doors; fridge ~4 h, full freezer ~48 h; medical devices; unplug appliances.
+
+## References
+
+- Ready.gov (FEMA). [Build a Kit](https://www.ready.gov/kit).
+- US Centers for Disease Control and Prevention. [Creating and Storing an Emergency Water Supply](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html). 1 gallon per person per day for at least 3 days, 2 weeks if possible; container sanitising; replace every 6 months.
+- US Centers for Disease Control and Prevention. [How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html). Rolling boil 1 min (3 min above 6,500 ft / ~2,000 m); bleach dosing and 30-min contact.
+- Ready.gov (FEMA). [Power Outages](https://www.ready.gov/power-outages). Generators outdoors ≥ 20 ft from windows and doors; fridge ~4 h, full freezer ~48 h; medical devices; unplug appliances.
+- US Centers for Disease Control and Prevention. [Carbon Monoxide Poisoning Basics](https://www.cdc.gov/carbon-monoxide/about/index.html). Sources, symptoms and prevention, including camp stoves and generators.
+- US Consumer Product Safety Commission. [Carbon Monoxide Information Center](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center). Generators, CO alarms and symptoms.
+- Sphere Association. *The Sphere Handbook: Humanitarian Charter and Minimum Standards in Humanitarian Response*. 2018. WASH chapter: average of at least 15 L of water per person per day for drinking, cooking and personal hygiene in emergencies; toilet and hand-washing standards.
+- Ready.gov (FEMA). [Prepare Your Pets for Disasters](https://www.ready.gov/pets).
+- American Red Cross. [How to Prepare for Emergencies](https://www.redcross.org/get-help/how-to-prepare-for-emergencies.html).

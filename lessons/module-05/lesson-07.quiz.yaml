@@ -1,0 +1,79 @@
+- id: s5-l7-q1
+  question: |-
+    A shelter’s critical functions have reliabilities: site 0.98, roof 0.90, structure 0.85, bed 0.95. Assuming independence, what is the probability the whole night succeeds?
+  options:
+    - |-
+      About 0.71
+    - |-
+      About 0.85
+    - |-
+      About 0.92
+    - |-
+      About 0.68
+  correct: 0
+  explanation: |-
+    $0.98 \times 0.90 \times 0.85 \times 0.95 \approx 0.71$. The structure (0.85) is the weakest link — improve it first.
+
+- id: s5-l7-q2
+  question: |-
+    "The tarp blew down because the stakes pulled out of soft ground." Which is the most useful **root cause** to act on?
+  options:
+    - |-
+      The stakes were too short to hold in soft ground
+    - |-
+      You stopped too late, so it went up high and open to the wind
+    - |-
+      Unusually strong gusts that night — bad luck
+    - |-
+      The ground at the site was too soft for stakes
+  correct: 1
+  explanation: |-
+    Keep asking "why" until you reach a decision you control: here, stopping too late to pitch low and closed to the forecast wind.
+
+- id: s5-l7-q3
+  question: |-
+    Forest, rain then clear and 2 °C, 60 minutes of light, and you are standing in a hollow by the stream. Which order of jobs is right?
+  options:
+    - |-
+      Move up to the mid-slope bench → thick leaf bed → low A-frame → neaten
+    - |-
+      Stay in the hollow → low A-frame → thick leaf bed → neaten, to save time
+    - |-
+      Move up to the mid-slope bench → low A-frame → thick leaf bed → neaten
+    - |-
+      Low A-frame → thick leaf bed → neaten → move up to the bench if time allows
+  correct: 2
+  explanation: |-
+    Remove the lethal hazard (flood path, cold pool) first whatever it costs; then the highest value per minute in the rain (roof), then the bed, then polish.
+
+- id: s5-l7-q4
+  question: |-
+    You run a **pre-mortem** for a snow trench tonight. Which of these is **NOT** a credible failure mode to plan for?
+  options:
+    - |-
+      New snow loading and sagging the roof
+    - |-
+      Sweat from digging soaking my insulation
+    - |-
+      Cold conducted into the snow through a thin bed
+    - |-
+      Getting too hot in the trench around 03:00
+  correct: 3
+  explanation: |-
+    A pre-mortem asks "it failed at 03:00 — why?" and adds a check for each plausible answer: roof loading, sweat, a thin bed, and the entrance or vent drifting shut.
+
+- id: s5-l7-q5
+  question: |-
+    You have spent 90 minutes on a debris hut. Dark is 30 minutes away and it needs another 90 minutes. What should you do?
+  options:
+    - |-
+      Use the half-hut’s material as a thick bed under a quick cover
+    - |-
+      Finish the hut, or the 90 minutes already spent are wasted
+    - |-
+      Keep building after dark until the hut is fully complete
+    - |-
+      Abandon the site and start a smaller hut somewhere else
+  correct: 0
+  explanation: |-
+    The 90 minutes are spent either way (sunk cost). Decide on what gives the warmest night from *now*: perhaps use the half-hut’s material as a thick bed under a quick cover.

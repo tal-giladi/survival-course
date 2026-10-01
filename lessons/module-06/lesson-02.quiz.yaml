@@ -1,0 +1,79 @@
+- id: s6-l2-q2
+  question: |-
+    A tin of home-canned green beans has a bulging lid and spurts when opened, but smells normal. What do you do?
+  options:
+    - |-
+      Discard it without tasting, carefully, and clean up.
+    - |-
+      Boil it for 10 minutes and eat it.
+    - |-
+      Taste a little to check.
+    - |-
+      Eat it: normal smell means it is fine.
+  correct: 0
+  explanation: |-
+    Low-acid home-canned vegetables are the classic botulism source. When in doubt, throw it out — never taste.
+
+- id: s6-l2-q4
+  question: |-
+    The power has been off for 30 hours. Your freezer was full and kept closed. Which is right?
+  options:
+    - |-
+      Everything in the freezer must be discarded after 24 hours off.
+    - |-
+      Freezer food still icy or ≤ 4 °C is safe; warm fridge perishables go.
+    - |-
+      The fridge contents are fine as well, since the door stayed closed.
+    - |-
+      Taste or smell each item to decide what is still good to eat.
+  correct: 1
+  explanation: |-
+    Fridge ≈ 4 h; full freezer ≈ 48 h (24 h half full). Use a thermometer, not your tongue.
+
+- id: s6-l2-q6
+  question: |-
+    Which is the safe home method for canning low-acid vegetables such as green beans?
+  options:
+    - |-
+      A boiling-water bath, as long as it boils long enough
+    - |-
+      Filling jars with boiling food and sealing at once
+    - |-
+      Pressure canning
+    - |-
+      A boiling-water bath with a little extra salt
+  correct: 2
+  explanation: |-
+    Low-acid foods must be pressure canned; boiling water cannot reliably destroy botulinum spores.
+
+- id: s6-l2-q3
+  question: |-
+    Drying meat into jerky, salting fish and making jam with lots of sugar all prevent microbial growth mainly by…
+  options:
+    - |-
+      raising the acidity of the food
+    - |-
+      keeping the food too cold for growth
+    - |-
+      killing every microbe with heat
+    - |-
+      reducing the water available to microbes
+  correct: 3
+  explanation: |-
+    Drying, salt and sugar all lower water activity; acid (pickling) and cold (refrigeration) are different hurdles.
+
+- id: s6-l2-q1
+  question: |-
+    You carry 4,500 kcal. Rescue is expected in 3 days; you plan for 5, holding a 15 % reserve. What is the daily ration?
+  options:
+    - |-
+      765 kcal/day
+    - |-
+      900 kcal/day
+    - |-
+      1,275 kcal/day
+    - |-
+      1,500 kcal/day
+  correct: 0
+  explanation: |-
+    4,500 × 0.85 / 5 = **765 kcal/day**, with 675 kcal held back.

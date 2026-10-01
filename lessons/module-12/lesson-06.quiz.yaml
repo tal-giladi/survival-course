@@ -1,0 +1,79 @@
+- id: s12-l6-q5
+  question: |-
+    Summer, heavy overnight rain, on a trail below a steep slope burned last year. The stream beside the trail has turned thick and brown, and you hear a rumble upslope. What should you do?
+  options:
+    - |-
+      Continue quickly along the trail in the valley bottom.
+    - |-
+      Move sideways out of the channel and off the fan to higher ground immediately.
+    - |-
+      Shelter under the overhanging bank.
+    - |-
+      Wait by the stream to watch.
+  correct: 1
+  explanation: |-
+    Burn scars plus intense rain produce debris flows (USGS). Channels and fans are the danger zones; move sideways and up.
+
+- id: s12-l6-q2
+  question: |-
+    Which of these observations is **not**, in itself, a red flag that avalanche conditions exist now?
+  options:
+    - |-
+      Shooting cracks running out from your skis
+    - |-
+      "Whumpf" collapse sounds as you travel
+    - |-
+      A cold, clear day two weeks after snowfall
+    - |-
+      Fresh avalanche debris on similar slopes
+  correct: 2
+  explanation: |-
+    Red flags (cracking, whumpfs, fresh avalanches, snow plumes from active wind loading) are nature telling you directly. Any one should turn you away from avalanche terrain.
+
+- id: s12-l6-q4
+  question: |-
+    According to the European Avalanche Warning Services, at which danger level do roughly **half** of avalanche fatalities occur?
+  options:
+    - |-
+      1 Low
+    - |-
+      5 Very High
+    - |-
+      4 High
+    - |-
+      3 Considerable
+  correct: 3
+  explanation: |-
+    Risk = hazard × exposure. At Considerable the hazard is substantial and exposure (people travelling) is high.
+
+- id: s12-l6-q3
+  question: |-
+    Who or what triggers **most fatal avalanches**?
+  options:
+    - |-
+      The victim or someone in their own party
+    - |-
+      Natural releases during heavy snowfall
+    - |-
+      Another party higher on the same slope
+    - |-
+      Cornices collapsing in warm afternoons
+  correct: 0
+  explanation: |-
+    Most fatal avalanches are triggered by the victim or their party, which is why terrain choice, and resisting the FACETS traps (Stage 1), is the core of avalanche safety.
+
+- id: s12-l6-q1
+  question: |-
+    On a 1:25,000 map with a 20 m contour interval, adjacent contours are **1.0 mm** apart. What is the slope angle?
+  options:
+    - |-
+      51.3°
+    - |-
+      38.7°
+    - |-
+      4.6°
+    - |-
+      82.9°
+  correct: 1
+  explanation: |-
+    Run = 1.0 mm × 25,000 = 25 m. $\tan\theta = 20/25 = 0.8$, so $\theta \approx 38.7°$. That is in the prime avalanche band.

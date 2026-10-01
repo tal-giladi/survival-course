@@ -1,0 +1,159 @@
+- id: s12-rev-1
+  question: |-
+    Mountain day, 10:15. Cumulus are already towering and your barometer is steady. Your turnaround time was 13:00, set assuming "isolated afternoon storms". What is the best adjustment?
+  options:
+    - |-
+      Keep 13:00, because a turnaround time must never be changed.
+    - |-
+      Ignore the clouds, since the barometer has stayed steady.
+    - |-
+      Push it to 14:00, since the group is moving well today.
+    - |-
+      Move the turnaround earlier and set "first thunder = descend".
+  correct: 3
+  explanation: |-
+    A turnaround time is a ceiling, not a target. Evidence can bring it forward; pressure to continue must never push it back.
+
+- id: s12-rev-4
+  question: |-
+    Day 2 lost in a desert canyon, with a working PLB already activated. Thunderstorms are building over the plateau upstream. Your current spot in the dry wash has shade and good visibility from the air. What should you do?
+  options:
+    - |-
+      Move a short way up to a visible bench above the high-water marks.
+    - |-
+      Stay exactly where you are, since rescue has been alerted.
+    - |-
+      Hike out down-canyon along the wash to find help yourself.
+    - |-
+      Walk upstream toward the storm to find a source of water.
+  correct: 0
+  explanation: |-
+    "Stay" means staying near your reported location, not staying in a hazard. Move the minimum needed to get out of danger, and stay visible from the air.
+
+- id: s12-rev-6
+  question: |-
+    A route crosses a 34° snow slope for 200 m. The forecast is Moderate, with a wind-slab problem on this aspect. You have no avalanche training or rescue gear. Using likelihood × consequence, how should you rate this?
+  options:
+    - |-
+      Low risk, because the danger level is only 2 (Moderate).
+    - |-
+      Unacceptable for an untrained party: choose another route.
+    - |-
+      Acceptable, provided you cross the slope quickly.
+    - |-
+      Acceptable, provided you cross one at a time.
+  correct: 1
+  explanation: |-
+    Risk = likelihood × consequence (Stage 1). Avalanche consequences are severe, so even a modest likelihood is unacceptable without training, equipment and controls.
+
+- id: s12-rev-9
+  question: |-
+    Summer heatwave, desert hills. Heat index at 14:00: 41 °C in the shade; the trail is in full sun. A group member is flushed and has stopped sweating as much. What is the priority?
+  options:
+    - |-
+      Keep walking so you finish the route before the evening.
+    - |-
+      Give them salt tablets and keep going at a slower pace.
+    - |-
+      Stop in shade and actively cool them with wet clothing and fanning.
+    - |-
+      Sit down where you are and wait for the cooler evening air.
+  correct: 2
+  explanation: |-
+    Full sun can add up to ~8 °C to the heat index. Treat changes in sweating or mental state as warning signs, and any confusion as a medical emergency; cooling is the priority. Take a WFA course.
+
+- id: s12-rev-3
+  question: |-
+    You are wet, it is 4 °C, and a cold front has just passed, bringing a 40 km/h wind. Which of these actions would **hurt** your heat balance?
+  options:
+    - |-
+      Put a windproof shell on over your layers
+    - |-
+      Get out of the wind behind terrain or trees
+    - |-
+      Sit on your pack rather than the wet ground
+    - |-
+      Take off wet layers to dry them in the wind
+  correct: 3
+  explanation: |-
+    Behind a cold front the problem shifts from rain to wind and cold. Shield from wind, insulate from the ground, and keep producing heat by eating and moving at a steady, non-sweating pace.
+
+- id: s12-rev-8
+  question: |-
+    Which of these is **not** a good pre-committed trigger (decided before the trip)?
+  options:
+    - |-
+      "If it looks bad we will think about it."
+    - |-
+      "First thunder: we leave the ridge, no discussion."
+    - |-
+      "Gusts over 70 km/h forecast: we take the valley route."
+    - |-
+      "Any storm forecast over the catchment: no slot canyon."
+  correct: 0
+  explanation: |-
+    Specific, observable triggers (thunder, gust limits, catchment storms, red-flag warnings) set by your calm self defeat the commitment and social traps (FACETS) that act on your stressed self.
+
+- id: s12-rev-5
+  question: |-
+    A fast, thigh-deep, milky glacial river blocks your route at 15:00. Which option is **most** preferred?
+  options:
+    - |-
+      Detour 3 hours to reach a bridge
+    - |-
+      Camp on high ground and reassess at dawn
+    - |-
+      Cross at a wider braided section if clearly shallower
+    - |-
+      Cross here now, with the group linked together
+  correct: 1
+  explanation: |-
+    Preference order: wait, detour, braided section only if clearly shallower and slower, and never cross here now. Glacial rivers drop overnight, so waiting and detours are reversible and low-risk.
+
+- id: s12-rev-10
+  question: |-
+    A wildfire is burning below you on the slope. Which escape route is usually the best choice?
+  options:
+    - |-
+      The shortest route straight up to the ridge top
+    - |-
+      Up the nearest gully to the saddle above
+    - |-
+      Across or down-slope to a safety zone
+    - |-
+      Uphill into the thick, unburned forest
+  correct: 2
+  explanation: |-
+    Fire runs uphill, fastest through chimneys and saddles. Escape across or down-slope to a safety zone.
+
+- id: s12-rev-2
+  question: |-
+    Thunder follows a flash by 21 s. Using 343 m/s, how far away is it?
+  options:
+    - |-
+      4.2 km
+    - |-
+      0.7 km
+    - |-
+      72 km
+    - |-
+      7.2 km
+  correct: 3
+  explanation: |-
+    $21 \times 343 = 7203$ m ≈ **7.2 km**. That is within striking range, so move now.
+
+- id: s12-rev-7
+  question: |-
+    Your barometric altimeter read 850 m at 21:00 and 874 m at 06:00 while you slept in the same tent. About how much did the pressure fall? (≈ 8 m per hPa)
+  options:
+    - |-
+      3 hPa
+    - |-
+      24 hPa
+    - |-
+      192 hPa
+    - |-
+      0.33 hPa
+  correct: 0
+  explanation: |-
+    24 m ÷ 8 m/hPa = **3 hPa**: a moderate fall, signalling a change. Check the sky and update the plan.

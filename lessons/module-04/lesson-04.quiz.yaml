@@ -1,0 +1,79 @@
+- id: s4-l4-q1
+  question: |-
+    Why is water downstream of a village a special concern compared with water downstream of wild forest?
+  options:
+    - |-
+      Human sewage adds human viruses that wildlife mostly do not carry
+    - |-
+      Villages add silt and sediment, which carry most of the disease risk
+    - |-
+      Village runoff warms the water enough for bacteria to multiply
+    - |-
+      No real difference, as wildlife carry all the same pathogens
+  correct: 0
+  explanation: |-
+    Human sewage carries human viruses such as norovirus and hepatitis A. Where humans are upstream, treatment must cover viruses: boiling, chemical, UV or a true purifier.
+
+- id: s4-l4-q2
+  question: |-
+    Which of these hazards does **boiling** reliably deal with?
+  options:
+    - |-
+      Heavy metals from mine drainage
+    - |-
+      Giardia cysts
+    - |-
+      Microcystin from a cyanobacterial bloom
+    - |-
+      Nitrate from farm runoff
+  correct: 1
+  explanation: |-
+    Heat solves biology, not chemistry. Avoid chemically suspect and bloom water.
+
+- id: s4-l4-q6
+  question: |-
+    Which of these is **not** by itself a reason to avoid a lake completely for drinking and swimming?
+  options:
+    - |-
+      Green paint-like scum along the shore
+    - |-
+      Pea-soup green water with a foul smell in late summer
+    - |-
+      Slightly brown, tea-coloured water from peat in a boreal forest
+    - |-
+      A posted harmful-algal-bloom advisory
+  correct: 2
+  explanation: |-
+    Bloom toxins are not removed by boiling or ordinary filters; find another source. Tannin-stained water is harmless in itself.
+
+- id: s4-l4-q5
+  question: |-
+    Which statement about a cold, clear, fast-flowing mountain stream is correct?
+  options:
+    - |-
+      Its cold, fast water kills Giardia cysts within a few hours
+    - |-
+      It is safe to drink untreated if no people live upstream of it
+    - |-
+      Only still water carries cysts; fast flow washes them downstream
+    - |-
+      Giardia cysts and Crypto oocysts survive in it for weeks or months
+  correct: 3
+  explanation: |-
+    **Myth busted:** cold, clear water is not safe water. Cysts and oocysts survive for weeks to months in cold water; wildlife and livestock seed them everywhere.
+
+- id: s4-l4-q4
+  question: |-
+    Which pathogen typically has the **lowest** infective dose?
+  options:
+    - |-
+      Norovirus
+    - |-
+      Vibrio cholerae
+    - |-
+      Non-typhoidal Salmonella
+    - |-
+      They are all about the same
+  correct: 0
+  explanation: |-
+    Low-dose pathogens (norovirus, Giardia, Crypto, Shigella) are why "mostly clean" is not good enough.

@@ -1,0 +1,79 @@
+- id: s7-l5-q4
+  question: |-
+    A flake enters your partner’s eye while knapping and seems embedded. What is correct?
+  options:
+    - |-
+      Leave it in, shield the eye, cover both eyes, get urgent care
+    - |-
+      Pick it out carefully with clean tweezers, then rinse the eye
+    - |-
+      Have them blink and rub gently until the flake works loose
+    - |-
+      Rinse it, patch the eye and wait a day to see if it improves
+  correct: 0
+  explanation: |-
+    Do not rub or remove it; protect the eye from pressure and get medical care urgently. Loose grit may be irrigated gently; anything embedded is stabilised and evacuated (Stage 9). Prevention (impact-rated glasses) is far better.
+
+- id: s7-l5-q3
+  question: |-
+    Which of these does **not** belong among the controls for every knapping session?
+  options:
+    - |-
+      Impact-rated glasses for the knapper and everyone watching
+    - |-
+      Sunglasses in place of safety glasses when the sun is bright
+    - |-
+      Working outdoors or well ventilated, with no dry sweeping
+    - |-
+      Leather pads on the leg and on the palm holding the stone
+  correct: 1
+  explanation: |-
+    Eyes, lungs, hands, bystanders and waste: each has a control, including a tarp to catch debitage. Only impact-rated glasses protect the eyes.
+
+- id: s7-l5-q6
+  question: |-
+    On a desert hike on public land you find a scatter of worked chert flakes and a broken point. What should you do?
+  options:
+    - |-
+      Collect the broken point as a souvenir and leave the flakes
+    - |-
+      Use the loose flakes to practise knapping, but leave the point
+    - |-
+      Photograph it, note the spot, leave it, report it to the land manager
+    - |-
+      Pile the flakes neatly beside the trail so others can find them
+  correct: 2
+  explanation: |-
+    Look, photograph, leave, report. The same ethic applies to modern waste: never scatter your own flakes.
+
+- id: s7-l5-q1
+  question: |-
+    You strike the edge of a flint core where the platform angle is about 100°. What most likely happens?
+  options:
+    - |-
+      A long, thin flake detaches
+    - |-
+      The core splits in half along a plane
+    - |-
+      Nothing: flint cannot be broken by hand
+    - |-
+      The edge crushes and no flake comes off
+  correct: 3
+  explanation: |-
+    Platform angle under 90° (typically 60–80°) is the first requirement for a flake.
+
+- id: s7-l5-q2
+  question: |-
+    Using $\sigma_c = K_{IC}/\sqrt{\pi a}$, what stress breaks glass with $K_{IC}$ = 0.75 MPa·√m if it has a **4 mm** flaw?
+  options:
+    - |-
+      ≈ 6.7 MPa
+    - |-
+      ≈ 0.2 MPa
+    - |-
+      ≈ 11.9 MPa
+    - |-
+      ≈ 59.7 MPa
+  correct: 0
+  explanation: |-
+    √(π × 0.004) = √0.01257 = 0.112; 0.75/0.112 ≈ **6.7 MPa**, half the strength with a 1 mm flaw. Four times the flaw, half the strength.

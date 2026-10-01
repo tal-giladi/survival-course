@@ -1,0 +1,79 @@
+- id: s3-l4-q1
+  question: |-
+    After a day of rain, where is the driest kindling most likely to be?
+  options:
+    - |-
+      On top of the leaf litter in an open clearing
+    - |-
+      Thick moss peeled from the ground under the trees
+    - |-
+      Fallen branches gathered from a dry-looking stream bed
+    - |-
+      Dead twigs on the lower trunks of conifers under the canopy
+  correct: 3
+  explanation: |-
+    Off the ground and under cover — the canopy shelters them and the wind dries them.
+
+- id: s3-l4-q2
+  question: |-
+    In the rain, you have found dead standing wood, sheltered twigs and some resin wood. What should you do next?
+  options:
+    - |-
+      Split it to dry cores and make shavings, feather sticks and splits
+    - |-
+      Light your tinder at once and feed the twigs before the rain gets worse
+    - |-
+      Lay the wood around the fire site so it can start drying out
+    - |-
+      Rig the tarp tight and low over the site so no drops reach the tinder
+  correct: 0
+  explanation: |-
+    The order is find, split to dry cores, build a platform and shelter, light and feed to a hot core, then dry the next fuel around the edge. Materials and processing first; ignition is the short, easy part when the ladder is ready.
+
+- id: s3-l4-q4
+  question: |-
+    Which of these is **not** a safe way to protect a young fire from rain?
+  options:
+    - |-
+      Shield it with your body and pack while it catches.
+    - |-
+      Light it in the tent vestibule with the door zipped.
+    - |-
+      Rig a tarp high above, well clear of the flames.
+    - |-
+      Build a lean-to lay against a sheltering backlog.
+  correct: 1
+  explanation: |-
+    Shelter the fire, do not enclose it. Never light a fire in a tent or closed shelter.
+
+- id: s3-l4-q3
+  question: |-
+    Shavings from a split’s dry core are at 15 % moisture; shavings from its wet shell are at 40 %. Using $H_{net} = 18.5(1-m) - 2.44m$, how much more energy do the dry-core shavings provide?
+  options:
+    - |-
+      ≈ 4.6 MJ/kg more
+    - |-
+      ≈ 4.0 MJ/kg more
+    - |-
+      ≈ 5.2 MJ/kg more
+    - |-
+      ≈ 15.4 MJ/kg more
+  correct: 2
+  explanation: |-
+    At 15 %: 15.73 − 0.37 = 15.36. At 40 %: 11.1 − 0.98 = 10.12. Difference ≈ **5.2 MJ/kg** — about 50 % more.
+
+- id: s3-l4-q5
+  question: |-
+    You must light a fire where the snow is deep. What should the fire sit on?
+  options:
+    - |-
+      The snow surface itself, since it is flat and clean
+    - |-
+      A layer of snow stamped down hard to make it firm
+    - |-
+      A thin mat of dry twigs laid straight on the snow
+    - |-
+      A platform of green logs, or dig down to the ground
+  correct: 3
+  explanation: |-
+    A fire built directly on deep snow usually melts down and drowns itself, because melting snow absorbs 334 kJ/kg. Use a platform of green logs, or dig down to the ground where practical.

@@ -1,0 +1,159 @@
+- id: s9-rev-1
+  question: |-
+    A hiker has fallen into a stream bed below a waterfall; the water is rising after upstream rain. He is bleeding heavily from the thigh and is unresponsive. Which sequence of actions is correct?
+  options:
+    - |-
+      Tourniquet → airway → move out of the water → insulate and call → secondary survey
+    - |-
+      Move out of the water → tourniquet → airway → insulate and call → secondary survey
+    - |-
+      Move out of the water → airway → tourniquet → insulate and call → secondary survey
+    - |-
+      Move out of the water → tourniquet → airway → secondary survey → insulate and call
+  correct: 1
+  explanation: |-
+    Immediate danger first (Stage 1): size up and move him the minimum distance out of the rising water, then X-ABC, then protection and communication, then the full picture. With enough rescuers, bleeding and airway are handled at once.
+
+- id: s9-rev-2
+  question: |-
+    Why does a patient lying still on cold, damp ground cool much faster than a person walking in the same weather?
+  options:
+    - |-
+      Injured people have a lower metabolic rate by definition, so they make less heat.
+    - |-
+      Pain and stress lower the body’s core temperature directly, whatever the ground.
+    - |-
+      Heat production drops to resting levels while conduction into the ground rises.
+    - |-
+      It doesn’t: lying down curls the body up and conserves heat compared with walking.
+  correct: 2
+  explanation: |-
+    Walking can produce several hundred watts; resting ~100 W. Wet ground conducts heat away quickly. Insulate every patient from the ground.
+
+- id: s9-rev-3
+  question: |-
+    Which of these is correct current first-aid practice rather than a **myth**?
+  options:
+    - |-
+      A tourniquet is only a last resort for limb bleeding.
+    - |-
+      Suck the venom out of a snakebite as soon as you can.
+    - |-
+      Rub frostbitten fingers with snow to bring them back.
+    - |-
+      Cool a burn with cool running water for about 20 minutes.
+  correct: 3
+  explanation: |-
+    Each of these myths has caused real harm. Current practice: early tourniquets, no cutting/sucking, cool burns with water, thaw frostbite in warm water without rubbing, no alcohol.
+
+- id: s9-rev-4
+  question: |-
+    Desert, 14:00, 42 °C. A group member is hot, sweaty, weak and dizzy but thinking clearly. Two hours later, after resting in shade, she is confused and says it is morning. What changed, and what now?
+  options:
+    - |-
+      It has become heat stroke: cool her aggressively now, then evacuate.
+    - |-
+      Nothing important: confusion is common when tired, so carry on at dusk.
+    - |-
+      She is dehydrated: give her 2 L of water quickly and keep resting in shade.
+    - |-
+      It is hyponatraemia: withhold all fluids and wait for her to improve.
+  correct: 0
+  explanation: |-
+    Reassessment caught the change from heat exhaustion to heat stroke. Cool first, transport second.
+
+- id: s9-rev-5
+  question: |-
+    Using the adult rule of nines, what percentage of body surface is the whole back of the trunk plus the back half of both legs?
+  options:
+    - |-
+      54 %
+    - |-
+      36 %
+    - |-
+      27 %
+    - |-
+      72 %
+  correct: 1
+  explanation: |-
+    Back of trunk 18 % + half of each leg (9 % + 9 %) = **36 %**. A major burn: keep warm, evacuate emergently.
+
+- id: s9-rev-6
+  question: |-
+    Subarctic, 15:30, sunset 16:10, −8 °C. Your partner has a stable wrist fracture (splinted, CSM normal) and can walk. The cabin is 3 km on a marked trail; you both have headlamps and warm clothing. Stay or move?
+  options:
+    - |-
+      Stay and bivouac here, since you should never move an injured patient.
+    - |-
+      Call for a helicopter to fly her out before the light goes.
+    - |-
+      Move now, steadily, to the cabin, and reassess her on the way.
+    - |-
+      Make a quick shelter here and wait until morning to decide.
+  correct: 2
+  explanation: |-
+    The stay-or-move logic from Stage 1 applies to patients: the risk of moving (low here) vs the risk of staying (a cold night).
+
+- id: s9-rev-7
+  question: |-
+    After a fall, a resting patient’s pulse has gone from 72 to 96 in thirty minutes, and her skin is pale and moist. Which interpretation is correct?
+  options:
+    - |-
+      No concern yet, because a pulse of 96 is still within the normal range.
+    - |-
+      Shock can be ruled out until her blood pressure actually starts to fall.
+    - |-
+      It is just pain and anxiety, so recheck her vitals tomorrow morning.
+    - |-
+      Possible compensated shock: the rise at rest with skin changes is the warning.
+  correct: 3
+  explanation: |-
+    Trends matter more than single values. A 24-beat rise at rest with skin changes suggests blood loss, even though 96 is within the normal range.
+
+- id: s9-rev-8
+  question: |-
+    Tropical coast, 12:00. You find two people: one screaming with a painful, deformed ankle; one quiet, pale and sweaty, sitting against a rock after falling on it, holding his belly. Whom do you assess first?
+  options:
+    - |-
+      The quiet, pale, sweaty one — possible internal bleeding.
+    - |-
+      The screaming one — loud pain means a serious injury.
+    - |-
+      Whoever is closer, so no time is lost moving between them.
+    - |-
+      Neither of them until you have gone and fetched help.
+  correct: 0
+  explanation: |-
+    Count patients in the size-up; the quiet one with shock signs gets the first primary survey.
+
+- id: s9-rev-9
+  question: |-
+    Which of these first-aid skills needs an **instructor** rather than practice at home?
+  options:
+    - |-
+      Counting pulse and breathing on a partner
+    - |-
+      Reducing a dislocated shoulder
+    - |-
+      Splinting a partner’s forearm with a foam pad
+    - |-
+      Applying a tourniquet on a training aid
+  correct: 1
+  explanation: |-
+    Frameworks, vitals, splinting, documentation and training-aid drills are home skills; reductions, spine clearance and real-limb tourniquets are course skills.
+
+- id: s9-rev-10
+  question: |-
+    Mountain, 16:00, storm arriving. A companion has moderate hypothermia (drowsy, not shivering). You have a tent, sleeping bags, a stove and a satellite messenger. The hut is 2 km away. Best plan?
+  options:
+    - |-
+      Walk him briskly to the hut 2 km away so the exercise warms him up.
+    - |-
+      Give him hot sweet tea in the tent and wait to see whether he improves.
+    - |-
+      Pitch the tent, wrap him with heat sources, keep him flat, and message for evacuation.
+    - |-
+      Rub his limbs vigorously while the others go to fetch help from the hut.
+  correct: 2
+  explanation: |-
+    Here staying is right: moving the patient is the high-risk option. Protection first, then communication.

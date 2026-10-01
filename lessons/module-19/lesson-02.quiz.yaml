@@ -1,0 +1,79 @@
+- id: cap-2-q2
+  question: |-
+    What most clearly distinguishes heat stroke from heat exhaustion in the field?
+  options:
+    - |-
+      Altered mental status, such as confusion or collapse
+    - |-
+      Heavy sweating that soaks through clothing
+    - |-
+      A pounding headache together with nausea
+    - |-
+      Strong thirst and a dry mouth
+  correct: 0
+  explanation: |-
+    Confusion, odd behaviour, collapse or seizure in the heat means heat stroke. Check mental status repeatedly in anyone unwell in the heat; a change in behaviour means cool immediately.
+
+- id: cap-2-q3
+  question: |-
+    Stranded in the desert with limited water, which approach best extends your survival time?
+  options:
+    - |-
+      Ration it to small cups each hour so the supply lasts longer.
+    - |-
+      Drink to need, and cut sweat loss with shade, rest and timing.
+    - |-
+      Drink nothing until thirst is severe, then take only a little.
+    - |-
+      Sip small amounts while walking to reach help sooner.
+  correct: 1
+  explanation: |-
+    Water in the body, not the bottle, keeps you alive. Ration sweat, not water: drink to need and reduce sweat loss with shade, rest and timing.
+
+- id: cap-2-q4
+  question: |-
+    Which of these would make desert shade LESS effective?
+  options:
+    - |-
+      Two layers of material with an air gap between them
+    - |-
+      Sitting off the ground on a pad, cushion or branches
+    - |-
+      Enclosing the shade on all sides to block the hot wind
+    - |-
+      Wearing loose, long, light-coloured clothing underneath
+  correct: 2
+  explanation: |-
+    Desert shelter manages radiation (sun, hot ground) and conduction while keeping air moving.
+
+- id: cap-2-q5
+  question: |-
+    Spaced review (Stage 1 signaling): when should you light a smoke signal such as a burning spare tyre?
+  options:
+    - |-
+      Immediately after breaking down, so it’s going when searchers start.
+    - |-
+      At night, because flames are easier to see.
+    - |-
+      Never — smoke is not a recognised signal.
+    - |-
+      When you see or hear a searching vehicle or aircraft — prepared in advance so it lights quickly.
+  correct: 3
+  explanation: |-
+    Prepare signals early, trigger them when someone can see them. The mirror is the best daytime signal to aircraft.
+
+- id: cap-2-q1
+  question: |-
+    Walking in desert sun costs about 1.2 L of sweat per hour. At 4 km/h, how much water would one person need to walk the 38 km to the highway?
+  options:
+    - |-
+      About 11.4 L
+    - |-
+      About 9.5 L
+    - |-
+      About 45.6 L
+    - |-
+      About 7.9 L
+  correct: 0
+  explanation: |-
+    38 km ÷ 4 km/h = 9.5 h; 9.5 h × 1.2 L/h ≈ 11.4 L per person — more than twice what the two of you carry in total. The numbers make the stay-or-move decision for you.

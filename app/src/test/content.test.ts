@@ -118,3 +118,15 @@ describe('heat model', () => {
     expect(model({ ...d, act: 'rest', shelter: 'tarp', sky: 'sun' }).waterLph).toBeLessThan(model({ ...d, act: 'walk', sky: 'sun' }).waterLph)
   })
 })
+
+describe("Tal's Academy format", () => {
+  // The Academy imports only single-answer questions with exactly 4 options (see README, Academy export).
+  it('every question is single choice with 4 options, and every scenario question has 4 choices', () => {
+    const qs = [...lessons.flatMap((l) => l.quiz), ...Object.values(stageReviews).flat(), ...finalAssessment]
+    for (const q of qs) {
+      expect(q.kind, q.id).toBe('single')
+      if (q.kind === 'single') expect(q.choices.length, q.id).toBe(4)
+    }
+    for (const l of lessons) expect(l.scenario.choices.length, l.scenario.id).toBe(4)
+  })
+})

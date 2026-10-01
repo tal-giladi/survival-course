@@ -1,0 +1,79 @@
+- id: s15-l2-q3
+  question: |-
+    Which of these is **not** a structural countermeasure to plan continuation — one that works even when you do not feel biased?
+  options:
+    - |-
+      Promising yourself on the day to “stay objective” about conditions
+    - |-
+      A turnaround time written in the trip plan and told to everyone
+    - |-
+      A fixed go/no-go checkpoint at the col: time, weather, group, daylight
+    - |-
+      A pre-mortem the evening before on how the trip could go wrong
+  correct: 0
+  explanation: |-
+    Rules, checkpoints and pre-mortems act on the situation rather than relying on in-the-moment willpower. Promises to stay objective — like reading about biases once — have limited effect.
+
+- id: s15-l2-q1
+  question: |-
+    “We’ve carried the packrafts up 900 m — we’re not walking back down with them unused.” The river below is in spate. Which trap is speaking?
+  options:
+    - |-
+      Normalization of deviance
+    - |-
+      Sunk cost
+    - |-
+      Availability
+    - |-
+      Tunnel vision
+  correct: 1
+  explanation: |-
+    The 900 m is spent whichever way you decide. The only question is whether paddling a river in spate is a good idea from here.
+
+- id: s15-l2-q5
+  question: |-
+    Your group took a risky shortcut and nothing went wrong. How should you judge that decision?
+  options:
+    - |-
+      It was a good decision — the outcome proves it
+    - |-
+      It was fine, so the shortcut can be treated as safe next time
+    - |-
+      By what was known and the options available at the time
+    - |-
+      Only by whether anyone in the group felt uneasy afterwards
+  correct: 2
+  explanation: |-
+    That is outcome bias. A decision should be judged by what was known and what the options were at the time. Lucky escapes are near-misses to learn from.
+
+- id: s15-l2-q6
+  question: |-
+    Planning a family trip to a coastal national park, which hazard deserves the most attention in your plan?
+  options:
+    - |-
+      Shark attack along the swimming beaches
+    - |-
+      Venomous jellyfish in a temperate sea
+    - |-
+      Strangers at the campsite at night
+    - |-
+      Drowning — rip currents, tidal cut-off, cold water
+  correct: 3
+  explanation: |-
+    Slovic’s “dread” and availability effects make vivid hazards feel bigger. Plans should target the common killers: water, cold, falls, lightning, getting lost and the drive.
+
+- id: s15-l2-q2
+  question: |-
+    According to Kahneman and Klein, when is expert intuition trustworthy?
+  options:
+    - |-
+      In a regular environment with fast, clear feedback
+    - |-
+      Whenever the expert feels confident in the judgment
+    - |-
+      After about ten years of experience in any field
+    - |-
+      Never — deliberate analysis should always override it
+  correct: 0
+  explanation: |-
+    Valid intuition needs a regular environment and many judgments with fast, clear feedback. Avalanches, lightning and serious falls are rare and usually do not punish bad decisions immediately, so “gut feel” about them is often trained on misleading feedback.

@@ -1,0 +1,79 @@
+- id: s9-l6-q1
+  question: |-
+    A hiker in 40 °C heat is confused and combative, with hot sweaty skin. Which action comes first?
+  options:
+    - |-
+      Start walking him to the trailhead 3 km away so he can reach a hospital.
+    - |-
+      Make him drink a litre of water quickly to replace the fluid he has sweated.
+    - |-
+      Wrap him in an emergency blanket to prevent shock while you call for help.
+    - |-
+      Cool him aggressively now: creek immersion if possible, otherwise soak and fan.
+  correct: 3
+  explanation: |-
+    Altered mental status + heat = heat stroke. Cold-water immersion is the most effective field treatment (WMS 2024); if not possible, soak and fan continuously.
+
+- id: s9-l6-q2
+  question: |-
+    Which of these does **not** belong in the field care of **moderate** hypothermia (drowsy, shivering stopped)?
+  options:
+    - |-
+      Hot sweet drinks to rewarm them from the inside
+    - |-
+      Keep the patient horizontal and handle them gently
+    - |-
+      Hypothermia wrap with heat sources to chest and armpits
+    - |-
+      Arrange evacuation as soon as they are wrapped
+  correct: 0
+  explanation: |-
+    Stop heat loss, handle gently, wrap, evacuate. Food and drink only for alert patients, and never walk a moderately hypothermic patient.
+
+- id: s9-l6-q4
+  question: |-
+    A confused marathon runner has a normal body temperature and has drunk a lot of plain water. What is the best approach?
+  options:
+    - |-
+      Treat it as dehydration and give him plenty more water to drink quickly.
+    - |-
+      Suspect hyponatraemia: give no more water, and evacuate as he is confused.
+    - |-
+      Treat it as heat stroke and immerse him in cold water straight away.
+    - |-
+      Let him rest in the shade for an hour, then let him finish if he feels fine.
+  correct: 1
+  explanation: |-
+    Confusion, normal temperature and lots of plain water suggest exercise-associated hyponatraemia; more water makes it worse. Evacuate if mental status is altered.
+
+- id: s9-l6-q6
+  question: |-
+    Which weather combination most often produces hypothermia in hikers?
+  options:
+    - |-
+      Dry, calm, −10 °C with good clothing
+    - |-
+      Hot, humid 30 °C with heavy sweating
+    - |-
+      Wind and rain at 5–10 °C with wet clothing
+    - |-
+      Snow at 0 °C with a shell and dry insulation
+  correct: 2
+  explanation: |-
+    Most hypothermia happens above freezing: evaporation, convection and wet insulation combine.
+
+- id: s9-l6-q3
+  question: |-
+    You count 12 seconds between a lightning flash and its thunder. About how far away was the strike?
+  options:
+    - |-
+      About 12 km
+    - |-
+      About 36 km
+    - |-
+      About 2.4 km
+    - |-
+      About 4 km
+  correct: 3
+  explanation: |-
+    Sound travels ~1 km per 3 s: 12 / 3 ≈ **4 km** — well within striking distance. Get off exposed ground now.

@@ -1,0 +1,79 @@
+- id: s5-l6-q2
+  question: |-
+    Stranded at 11:00 in a desert, 40 °C and rising. When should you build your double-roof shade?
+  options:
+    - |-
+      Immediately and fast, before the day gets any hotter
+    - |-
+      After dark, when the temperature is at its lowest
+    - |-
+      Never; sit it out inside the car with the doors shut
+    - |-
+      Use the quickest shade now; build properly in the cool
+  correct: 3
+  explanation: |-
+    "Ration sweat, not water": take the quickest shade now and build properly in the evening or early morning. The timing of work is as important as the design.
+
+- id: s5-l6-q3
+  question: |-
+    Which of these is **NOT** a reason a **raised bed** is worth the effort in the tropics?
+  options:
+    - |-
+      It protects you from a river flooding its banks
+    - |-
+      Air flows underneath, drying and cooling you
+    - |-
+      Fewer ants, leeches and crawling visitors reach you
+    - |-
+      It keeps you off wet ground that conducts heat away
+  correct: 0
+  explanation: |-
+    Raised beds solve ground problems — run-off, wet ground, crawling insects, no air flow — not site problems. Choose the rise first.
+
+- id: s5-l6-q4
+  question: |-
+    Which shade setup keeps you coolest in the desert by day?
+  options:
+    - |-
+      A single dark tarp stretched 20 cm above your face
+    - |-
+      Two raised sheets with an air gap, light or reflective on top
+    - |-
+      A single dark tarp pitched low and closed on every side
+    - |-
+      One light sheet laid low over you to keep the sun off
+  correct: 1
+  explanation: |-
+    A single sheet in the sun gets very hot and, close to you, radiates heat onto you and blocks the breeze. Raise it, add a second layer with an air gap, and prefer a light or reflective top.
+
+- id: s5-l6-q5
+  question: |-
+    Which single item most reduces night-time mosquito bites in a malaria region?
+  options:
+    - |-
+      A smoky fire kept going by the bed
+    - |-
+      Sleeping next to standing water to be near a water source
+    - |-
+      A mosquito net tucked in all round
+    - |-
+      Eating plenty of garlic before bed
+  correct: 2
+  explanation: |-
+    Net for the night; EPA-registered repellent (DEET, picaridin), long sleeves and permethrin-treated clothing for the evening and day (CDC).
+
+- id: s5-l6-q1
+  question: |-
+    Resting in good shade instead of the open cuts your heat gain by **200 W** for **5 hours**. Using 2.4 MJ per litre of evaporated sweat, how much sweat does that save?
+  options:
+    - |-
+      0.67 L
+    - |-
+      3.6 L
+    - |-
+      8.6 L
+    - |-
+      1.5 L
+  correct: 3
+  explanation: |-
+    200 W × 5 × 3600 s = 3.6 MJ; 3.6 / 2.4 = **1.5 L**. Shade is water.

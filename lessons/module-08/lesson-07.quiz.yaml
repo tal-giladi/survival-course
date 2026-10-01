@@ -1,0 +1,79 @@
+- id: s8-l7-q5
+  question: |-
+    Your group is lost but safe in a sheltered spot at 03:30. Someone wants to leave now to find the trail. Considering physiology, what is the strongest argument for waiting?
+  options:
+    - |-
+      Search teams do not operate at night, so moving now gains nothing.
+    - |-
+      Moving in the dark is always wrong, whatever the situation is.
+    - |-
+      Eyes cannot adapt to darkness, so the headlamp is all you have.
+    - |-
+      Fatigue and the circadian low impair judgment; first light is only ~2 h away.
+  correct: 3
+  explanation: |-
+    The circadian low, fatigue and darkness all degrade judgment and vision. Make big, irreversible decisions after rest and in daylight when you can.
+
+- id: s8-l7-q2
+  question: |-
+    Which of these habits does **not** protect or make good use of your night vision?
+  options:
+    - |-
+      Checking your phone on full brightness every few minutes
+    - |-
+      Using a dim red light for map reading
+    - |-
+      Closing one eye when a bright light is unavoidable
+    - |-
+      Looking slightly to the side of a faint object
+  correct: 0
+  explanation: |-
+    Dark adaptation takes 20–40 minutes and seconds to lose. Use dim red light, protect one eye, and use averted vision.
+
+- id: s8-l7-q3
+  question: |-
+    Which statement about vitamin A (for example from carrots) and night vision is correct?
+  options:
+    - |-
+      Eating extra carrots noticeably sharpens a healthy person’s night vision.
+    - |-
+      Deficiency causes night blindness; extra does not improve normal vision.
+    - |-
+      Extra vitamin A shortens dark adaptation from 30 minutes to a few.
+    - |-
+      Vitamin A has no role in night vision; the carrot link is pure myth.
+  correct: 1
+  explanation: |-
+    Myth. Vitamin A deficiency causes night blindness, but extra vitamin A does not enhance normal night vision.
+
+- id: s8-l7-q1
+  question: |-
+    After about how many hours awake does performance resemble a blood alcohol concentration of 0.05 %?
+  options:
+    - |-
+      8–10 hours
+    - |-
+      36 hours
+    - |-
+      17–19 hours
+    - |-
+      Only after 48 hours
+  correct: 2
+  explanation: |-
+    About 17–19 hours awake resembles 0.05 % BAC. A long day that started at 06:00 reaches this by midnight.
+
+- id: s8-l7-q4
+  question: |-
+    You need 8 h of sleep but get 4.5 h, 5 h and 6 h on three nights. What is your total sleep debt?
+  options:
+    - |-
+      15.5 h
+    - |-
+      2.8 h
+    - |-
+      6.5 h
+    - |-
+      8.5 h
+  correct: 3
+  explanation: |-
+    (8 − 4.5) + (8 − 5) + (8 − 6) = 3.5 + 3 + 2 = **8.5 h**.

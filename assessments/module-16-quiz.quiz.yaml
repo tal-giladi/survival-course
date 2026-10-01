@@ -1,0 +1,159 @@
+- id: s16-rev-10
+  question: |-
+    After a strong earthquake your block is visibly cracked. It is 4 °C and dropping; a community shelter has opened 1 km away. Aftershocks continue. Where do you spend the night?
+  options:
+    - |-
+      Back in the flat — it is warmer and the cracks may be cosmetic
+    - |-
+      In the car parked beside the building
+    - |-
+      Walk to relatives 25 km away through the damaged city at night
+    - |-
+      In the community shelter, registered, with the go-bag, medicines and the elderly neighbour
+  correct: 3
+  explanation: |-
+    Stay or move (Stage 1) in a city: move away from the collapse hazard, but not into a long night journey. Community shelters exist for this night.
+
+- id: s16-rev-8
+  question: |-
+    Heatwave, 39 °C, the power is out. Your 80-year-old neighbour is confused, hot to the touch and has stopped sweating. What do you do?
+  options:
+    - |-
+      Call the emergency number and cool her fast: wet skin, fanning, cold packs
+    - |-
+      Give her plenty of water to drink and let her sleep it off
+    - |-
+      Drive her to the cooling centre in your car without calling anyone
+    - |-
+      Wrap her in a wet sheet and leave her to rest in the closed flat
+  correct: 0
+  explanation: |-
+    Stage 8: for heat stroke, cool first and fast, and get help. In heatwaves the victims are mostly older people alone — which is why neighbour checks matter.
+
+- id: s16-rev-1
+  question: |-
+    A gas explosion has damaged a neighbouring house. A man lies in the front garden, bleeding heavily from the thigh; there is a strong smell of gas. Which order of actions is correct?
+  options:
+    - |-
+      Control bleeding → assess the scene → call for help → move him clear
+    - |-
+      Assess the scene → call for help → move him clear → control bleeding
+    - |-
+      Move him clear → control bleeding → assess the scene → call for help
+    - |-
+      Assess the scene → control bleeding where he lies → call for help → move him clear
+  correct: 1
+  explanation: |-
+    Scene safety first (Stage 1): with gas and a damaged structure, the rescuer must not become a casualty. Call the emergency number early from a safe distance, move the casualty only as far as needed, then control life-threatening bleeding with firm direct pressure (Stage 9 — take a hands-on course).
+
+- id: s16-rev-2
+  question: |-
+    Your water supply is back on under a boil-water notice. The only fuel you have is a camping stove. Which plan is best for a family of four for today?
+  options:
+    - |-
+      Boil a large pot on the stove in the kitchen, windows shut to keep heat in
+    - |-
+      Run the cold tap for 10 minutes to flush the pipes, then drink it
+    - |-
+      Boil water outdoors for 1 minute, or bleach it at the label dose for 30 minutes
+    - |-
+      Pour it through a coffee filter to strip out the contamination
+  correct: 2
+  explanation: |-
+    Stage 4’s treatment logic plus this stage’s CO rule: treat for microbes (rolling boil or unscented bleach), and keep fuel-burning devices outdoors.
+
+- id: s16-rev-4
+  question: |-
+    You are trapped under debris after an earthquake, uninjured but unable to move out. Your phone has 20 % battery and one bar. What is the best way to be found?
+  options:
+    - |-
+      Shout for help continuously so anyone nearby will hear you
+    - |-
+      Call the emergency number repeatedly until someone answers
+    - |-
+      Stay silent to save energy until you hear rescuers close by
+    - |-
+      Text your location, then tap on a pipe or blow a whistle in threes at intervals
+  correct: 3
+  explanation: |-
+    Stage 1 signaling in a city: sound in threes, conserve energy, and use the channel most likely to get through — a text to your out-of-area contact and the emergency number if supported.
+
+- id: s16-rev-5
+  question: |-
+    You are driving home through a city in a storm. The underpass ahead has water across it; a car ahead made it through. What do you do?
+  options:
+    - |-
+      Turn around and take a higher route, or wait somewhere safe
+    - |-
+      Follow the other car slowly
+    - |-
+      Drive through fast to get momentum
+    - |-
+      Get out and wade to check the depth
+  correct: 0
+  explanation: |-
+    The FACETS traps from Stage 1 apply in towns too. Underpasses are among the deadliest places in urban floods.
+
+- id: s16-rev-3
+  question: |-
+    Day 2 of a winter power cut, 8 °C indoors. Which measure does **not** belong in a safe plan to improve your household’s **heat balance**?
+  options:
+    - |-
+      Gathering everyone in one small interior room, door closed
+    - |-
+      Leaving the gas oven on with its door open for warmth
+    - |-
+      Hats, layers, sleeping bags and mats under anyone lying down
+    - |-
+      Covering the windows with blankets or plastic sheeting
+  correct: 1
+  explanation: |-
+    The same heat-balance terms as in Stage 1: reduce losses (insulation, smaller space, windows), increase production (warm, high-energy food and drinks), never add a CO source.
+
+- id: s16-rev-6
+  question: |-
+    Your family plan and a hiking trip plan (Stage 1) share several features. Which one is **not** shared?
+  options:
+    - |-
+      A named contact who is not with you
+    - |-
+      Decisions made in advance, such as turnaround times or triggers
+    - |-
+      Relying on memory rather than paper, to keep it light
+    - |-
+      A time or condition that starts action by others
+  correct: 2
+  explanation: |-
+    Both plans are written down, convert a chaotic moment into pre-made decisions, and tell someone outside the situation what to do and when.
+
+- id: s16-rev-9
+  question: |-
+    During a long outage you want to charge phones from the car. Which way of doing it is safe?
+  options:
+    - |-
+      Run it in the closed garage for an hour while you stay in the house
+    - |-
+      Run it in the garage with the big door left half open
+    - |-
+      Run it in the garage only in short 15-minute bursts
+    - |-
+      Run the car outdoors, away from windows — or use power banks
+  correct: 3
+  explanation: |-
+    CO from a garage seeps into the house. Charge from a car only outdoors, away from windows — or use power banks.
+
+- id: s16-rev-7
+  question: |-
+    A household of 3 wants water for 7 days at 4 L per person per day. They already have 30 L. How many **20 L containers** must they add?
+  options:
+    - |-
+      3 containers
+    - |-
+      2 containers
+    - |-
+      4 containers
+    - |-
+      5 containers
+  correct: 0
+  explanation: |-
+    3 × 4 × 7 = 84 L; 84 − 30 = 54 L; 54 ÷ 20 = 2.7 → **3** containers.

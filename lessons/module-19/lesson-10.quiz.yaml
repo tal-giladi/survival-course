@@ -1,0 +1,79 @@
+- id: cap-10-q5
+  question: |-
+    You and a partner are ashore, soaked, after a capsize at 15:30, with gear and a four-day wait ahead. Which order of priorities is best?
+  options:
+    - |-
+      Check injuries → camp and fire → get warm and dry → signals → water and budget
+    - |-
+      Signals → get warm and dry → check injuries → camp and fire → water and budget
+    - |-
+      Camp and fire → water and budget → get warm and dry → check injuries → signals
+    - |-
+      Get warm and dry → check injuries → camp and fire → water and budget → signals
+  correct: 3
+  explanation: |-
+    Immediate threats first (cold, injuries), then tonight’s shelter, then the systems that keep you going for days — and signals by Day 2.
+
+- id: cap-10-q4
+  question: |-
+    Your canoe has just capsized in cold water. You are wearing a PFD. What matters most in the **first minute**?
+  options:
+    - |-
+      Control your breathing through the initial gasping
+    - |-
+      Swim hard for the shore while your muscles still work
+    - |-
+      Take off your PFD so you can swim faster to the bank
+    - |-
+      Leave the canoe behind so it does not slow you down
+  correct: 0
+  explanation: |-
+    The 1-10-1 frame: breathe through the first minute, use the next ~10 minutes of good movement to get out or onto the boat, and keep your flotation.
+
+- id: cap-10-q2
+  question: |-
+    Your squeeze filter has slowed to a trickle on Day 2. What is the best response?
+  options:
+    - |-
+      Drink the lake water untreated, since it looks perfectly clear.
+    - |-
+      Backflush it, pre-filter through cloth, and keep boiling as backup.
+    - |-
+      Ration drinking water heavily to save the filter’s remaining capacity.
+    - |-
+      Throw the filter away and boil all your water from now on.
+  correct: 1
+  explanation: |-
+    Maintain your primary method and keep an independent backup — redundancy for critical functions.
+
+- id: cap-10-q6
+  question: |-
+    On Day 4, your partner has watery diarrhoea (no blood, no high fever). What is the most important treatment?
+  options:
+    - |-
+      Stop drinking until the diarrhoea settles, to rest the gut
+    - |-
+      Eat as much as possible to replace the energy being lost
+    - |-
+      Oral rehydration: treated water with ORS in small, frequent sips
+    - |-
+      Anti-diarrhoea tablets alone, to stop the fluid losses
+  correct: 2
+  explanation: |-
+    Oral rehydration solution (or sugar and salt) is absorbed even during diarrhoea; add strict hand hygiene. Evacuate urgently for blood, high fever, persistent vomiting or signs of severe dehydration.
+
+- id: cap-10-q3
+  question: |-
+    Which statement about boiling water in the field is correct?
+  options:
+    - |-
+      Water needs at least ten minutes at a rolling boil before protozoa are inactivated.
+    - |-
+      Boiling makes water safe from microbes and from chemical contamination alike.
+    - |-
+      At high altitude a shorter boil is enough, because water boils more readily there.
+    - |-
+      A one-minute rolling boil makes clear water microbiologically safe at low altitude.
+  correct: 3
+  explanation: |-
+    A rolling boil for 1 minute (3 minutes above about 2,000 m) inactivates bacteria, viruses and protozoa. It does not remove chemicals.

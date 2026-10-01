@@ -1,0 +1,79 @@
+- id: s9-l3-q1
+  question: |-
+    Which is usually the **earliest** measurable sign of blood-loss shock?
+  options:
+    - |-
+      Rising heart rate
+    - |-
+      Falling blood pressure
+    - |-
+      Becoming unresponsive
+    - |-
+      A rising temperature
+  correct: 0
+  explanation: |-
+    Pulse and breathing rise and skin goes pale-cool-moist while blood pressure is still normal. Catch it there.
+
+- id: s9-l3-q3
+  question: |-
+    Which of these is **not** an appropriate first-aid measure for a patient in shock after a fall?
+  options:
+    - |-
+      Control any external bleeding
+    - |-
+      A shot of whisky to warm them up
+    - |-
+      Lie them flat and insulate from the ground
+    - |-
+      Repeat vital signs every 5–15 minutes
+  correct: 1
+  explanation: |-
+    Fix the cause, lie flat, keep warm, reassure, monitor, evacuate. Alcohol is a myth that worsens heat loss.
+
+- id: s9-l3-q4
+  question: |-
+    A friend goes pale and faints on seeing a wound, then recovers with normal vitals after lying down for 5 minutes. What is the most likely explanation?
+  options:
+    - |-
+      Early compensated shock that will keep getting worse over the next hour.
+    - |-
+      Late shock, since fainting means her blood pressure has already fallen.
+    - |-
+      An acute stress (vasovagal) reaction, which settles once she lies down.
+    - |-
+      Blood-loss shock that lying flat has now fully corrected on its own.
+  correct: 2
+  explanation: |-
+    That pattern fits an acute stress (vasovagal) reaction, which settles. Shock trends worse over repeated vitals.
+
+- id: s9-l3-q5
+  question: |-
+    Why does insulating a shocked patient matter even at 12 °C?
+  options:
+    - |-
+      Because shivering burns energy and is dangerous for an injured patient in itself.
+    - |-
+      Mainly for comfort, since a calm and comfortable patient copes better with pain.
+    - |-
+      It barely matters above 10 °C, as the ground is not cold enough to chill anyone.
+    - |-
+      A still body loses heat into the ground, and cooling impairs clotting and worsens shock.
+  correct: 3
+  explanation: |-
+    Stage 1 heat-loss physics applies to patients too: a still body on the ground loses heat by conduction, and wet or wind multiply it. Falling core temperature impairs clotting and worsens shock.
+
+- id: s9-l3-q2
+  question: |-
+    A 75 kg patient has lost about 1.2 L of blood. What percentage of blood volume is that (70 mL/kg)?
+  options:
+    - |-
+      23 %
+    - |-
+      77 %
+    - |-
+      16 %
+    - |-
+      2 %
+  correct: 0
+  explanation: |-
+    Blood volume = 75 × 70 = 5250 mL. 1200 / 5250 ≈ 0.23 → **23 %**: class II. Expect pulse > 100, anxiety, pale moist skin.

@@ -1,0 +1,79 @@
+- id: s14-l4-q1
+  question: |-
+    You are lost but uninjured in a forest at 16:00. A friend has your trip plan with an overdue time of 19:00. It will be dark at 18:30. What is the best choice?
+  options:
+    - |-
+      Walk in the direction you think the car is until it gets dark
+    - |-
+      Stay: pick the nearest open spot, build shelter and set out signals before dark
+    - |-
+      Follow the nearest stream downhill quickly to reach a road
+    - |-
+      Keep moving all night to stay warm instead of building a shelter
+  correct: 1
+  explanation: |-
+    The trip plan means a search will start this evening. Use the remaining daylight for shelter, insulation, signals and a whistle schedule (Stages 1 and 5).
+
+- id: s14-l4-q2
+  question: |-
+    Which of these is NOT a good reason to move from where you are?
+  options:
+    - |-
+      Water in your stream-bed camp is rising after rain upstream
+    - |-
+      You are under dense canopy and a clearing is 150 m away
+    - |-
+      You have waited 3 hours, feel bored and want to do something
+    - |-
+      Nobody will look for you, and a known trail to a road is 3 km away
+  correct: 2
+  explanation: |-
+    Move for immediate danger, to become findable nearby, or when no one will look and a certain route exists — not from impatience.
+
+- id: s14-l4-q6
+  question: |-
+    A child who is lost in the woods hears adults calling her name. What do “hug a tree” programmes teach her to do?
+  options:
+    - |-
+      Hide quietly, because strangers are calling
+    - |-
+      Run toward the voices as fast as she can
+    - |-
+      Keep walking carefully to find the way home
+    - |-
+      Stay by one tree and answer or whistle when she hears her name
+  correct: 3
+  explanation: |-
+    Stay put and respond: the two things that most increase a child’s probability of detection. Practise it with children before trips.
+
+- id: s14-l4-q5
+  question: |-
+    Yesterday you decided to stay put and wait for searchers. When should you re-run that decision?
+  options:
+    - |-
+      When a preset trigger is met: time, water, weather or injury
+    - |-
+      Never — once you decide to stay, the decision is final
+    - |-
+      Whenever you start to feel impatient or bored waiting
+    - |-
+      Only once you have seen or heard searchers nearby
+  correct: 0
+  explanation: |-
+    Set triggers (time, water, weather, injury) and re-run the decision when they are met. Staying is a default, not a vow.
+
+- id: s14-l4-q4
+  question: |-
+    You must leave your broken-down vehicle because a known farm is 4 km away along the track and nobody expects you for days. What do you do first?
+  options:
+    - |-
+      Pack water, warm layers, light, whistle and phone
+    - |-
+      Leave a dated note and a ground arrow at the vehicle
+    - |-
+      Set off along the track while there is daylight
+    - |-
+      Mark an arrow at the first track junction you reach
+  correct: 1
+  explanation: |-
+    Signs first (dated note, ground arrow), so that anyone who finds the vehicle knows your story; then pack and go deliberately with a turn-back time. (In heat, travel in the cool of morning or evening — Stage 8.)

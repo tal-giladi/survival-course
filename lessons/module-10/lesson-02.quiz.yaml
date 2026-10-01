@@ -1,0 +1,79 @@
+- id: s10-l2-q6
+  question: |-
+    Winter day trip, −10 °C. How should you carry your water bottles?
+  options:
+    - |-
+      In the side pockets of the pack, cap up
+    - |-
+      Empty, and eat snow along the way instead
+    - |-
+      Half-full so they slosh and cannot freeze
+    - |-
+      Inside the pack or jacket, insulated, and upside down
+  correct: 3
+  explanation: |-
+    Keep water liquid by insulating it and letting ice form where it does not block the lid.
+
+- id: s10-l2-q1
+  question: |-
+    Which is the **worst** choice for carrying drinking water?
+  options:
+    - |-
+      A rinsed antifreeze jug with a good screw cap
+    - |-
+      A new, unscented bin bag inside a rucksack
+    - |-
+      A zip-lock food bag tucked inside a sock
+    - |-
+      A cooking pot with its lid on
+  correct: 0
+  explanation: |-
+    Food safety is a property you cannot restore in the field. Containers that held chemicals are out.
+
+- id: s10-l2-q4
+  question: |-
+    You carry untreated water in a “dirty” bag and treat it into a clean bottle. Which habit puts the treated water at risk?
+  options:
+    - |-
+      Marking the dirty container so it is never confused
+    - |-
+      Dipping the clean bottle into the dirty bag to fill it faster
+    - |-
+      Pouring so the dirty bag never touches the bottle’s threads
+    - |-
+      Keeping the clean bottle closed between uses
+  correct: 1
+  explanation: |-
+    Stage 4’s safe-storage rules apply to improvised containers too: keep dirty and clean apart, and protect threads and mouths.
+
+- id: s10-l2-q5
+  question: |-
+    Is a thin PET drinks bottle a good pot for boiling water over a small fire?
+  options:
+    - |-
+      Yes — the water keeps the wall below 100 °C
+    - |-
+      Yes — as long as the bottle is filled to the brim
+    - |-
+      No — PET softens below 100 °C, so the bottle deforms
+    - |-
+      Yes — if you keep the flames low and slow
+  correct: 2
+  explanation: |-
+    Water limits the wall to about 100 °C, but PET softens well below that (roughly 70–80 °C), so it deforms. Boil in metal.
+
+- id: s10-l2-q2
+  question: |-
+    A group needs 20 L of water. The spring is 1.5 km away. Each trip carries 6 L. How many **trips** are needed?
+  options:
+    - |-
+      3 trips
+    - |-
+      8 trips
+    - |-
+      13 trips
+    - |-
+      4 trips
+  correct: 3
+  explanation: |-
+    $lceil 20/6 ceil = 4$ trips — 12 km of walking. More container capacity would cut that.

@@ -1,0 +1,79 @@
+- id: s6-l8-q6
+  question: |-
+    You are one of four people stranded for an expected 3–5 days with 6,000 kcal of food, water, and shelter. Which food strategy has the best expected outcome?
+  options:
+    - |-
+      Two people hunt every day while the other two stay and wait at camp.
+    - |-
+      Eat normally for the first two days, then start hunting if needed.
+    - |-
+      Ration with a reserve, rest, keep signals up, add only cheap legal options.
+    - |-
+      Walk out together immediately to look for food and help on the way.
+  correct: 2
+  explanation: |-
+    Short emergencies are solved by rationing, conserving and being found.
+
+- id: s6-l8-q4
+  question: |-
+    Why can’t plenty of lean rabbit meat alone meet your energy needs indefinitely?
+  options:
+    - |-
+      Rabbit meat carries too many parasites to eat every day.
+    - |-
+      Rabbit contains too little protein to maintain your muscle.
+    - |-
+      Lean meat is digested too slowly to release its energy in time.
+    - |-
+      Protein has a ceiling; without fat and carbs you get sick and weak.
+  correct: 3
+  explanation: |-
+    The protein ceiling: a lean-meat-only diet causes nausea, diarrhoea and weakness (“rabbit starvation”). Fat and carbohydrate are needed.
+
+- id: s6-l8-q5
+  question: |-
+    Which of these is **not** a reason this course does not teach snare or trap construction?
+  options:
+    - |-
+      Traps work too well and soon empty the forest of game.
+    - |-
+      Trapping is illegal in many places without licences, and snares are banned in some countries.
+    - |-
+      Improvised devices catch pets and protected species.
+    - |-
+      Untrained use causes animal suffering.
+  correct: 0
+  explanation: |-
+    Law, non-target captures and welfare — and low success for novices makes it a poor bet anyway.
+
+- id: s6-l8-q3
+  question: |-
+    Why do hunter-gatherer groups share large kills?
+  options:
+    - |-
+      Meat alone is not nutritious enough for any one person.
+    - |-
+      Large kills are rare, so sharing smooths out the high variance.
+    - |-
+      Sharing all meat is required by law in every country.
+    - |-
+      Carrying meat back to camp is too heavy for one hunter.
+  correct: 1
+  explanation: |-
+    A solo survivor has no group to buffer the variance — another reason high-variance hunting is a poor emergency strategy.
+
+- id: s6-l8-q1
+  question: |-
+    Model values: stalking game succeeds with p = 0.02 per hour, a success yields 2,000 kcal, and stalking costs 300 kcal/h. What is the expected net energy of **4 hours** of stalking?
+  options:
+    - |-
+      −260 kcal
+    - |-
+      +6,800 kcal
+    - |-
+      −1,040 kcal
+    - |-
+      −1,200 kcal
+  correct: 2
+  explanation: |-
+    4 × (0.02 × 2,000 − 300) = 4 × (40 − 300) = **−1,040 kcal** — before dressing and carrying.

@@ -1,0 +1,79 @@
+- id: s16-l5-q5
+  question: |-
+    After a flood, your well water looks clear but floodwater covered the wellhead. You have a stove and bleach. What is safest for drinking?
+  options:
+    - |-
+      Drink stored or official water until the well is tested and disinfected
+    - |-
+      Boil the well water at a rolling boil for one minute
+    - |-
+      Add the right dose of bleach and wait 30 minutes
+    - |-
+      Filter it through a clean cloth, then boil it as well
+  correct: 0
+  explanation: |-
+    Boiling and bleach make water microbiologically safer, not chemically safe. Floodwater often contains fuel, sewage and chemicals.
+
+- id: s16-l5-q2
+  question: |-
+    Which belief about spotting carbon-monoxide poisoning during a winter outage is **wrong**?
+  options:
+    - |-
+      Several people with headaches at once is a warning sign.
+    - |-
+      If there is no smell of exhaust, there is no CO present.
+    - |-
+      A lethargic family dog can be an early warning sign.
+    - |-
+      Confusion and drowsiness are symptoms; sleep can be fatal.
+  correct: 1
+  explanation: |-
+    Flu-like symptoms in several people or pets, especially improving when away from home, suggest CO; a smell of exhaust means other gases are present too, but no smell proves nothing. Fresh air and the emergency number.
+
+- id: s16-l5-q3
+  question: |-
+    Your fridge has been off for 6 hours in a warm flat; the door was opened several times. Its thermometer reads 9 °C. What do you do with the chicken inside?
+  options:
+    - |-
+      Smell it; if it smells fine, cook it well
+    - |-
+      Refreeze it when the power returns
+    - |-
+      Discard it — it has been above 4 °C for more than 2 hours
+    - |-
+      Eat it cold quickly before it gets worse
+  correct: 2
+  explanation: |-
+    When in doubt, throw it out. The rule is time above 4 °C (40 °F).
+
+- id: s16-l5-q7
+  question: |-
+    Mobile data is down and calls fail, but texts occasionally go through. What is the best way to get **official information** about shelters and water points?
+  options:
+    - |-
+      Keep refreshing official social-media accounts for updates
+    - |-
+      Call the emergency number and ask the operator directly
+    - |-
+      Drive around town looking for posted signs and notices
+    - |-
+      A battery or wind-up radio tuned to the local emergency station
+  correct: 3
+  explanation: |-
+    Broadcast radio is one-to-many and survives network overload; it is how authorities announce shelters, water and restoration times.
+
+- id: s16-l5-q6
+  question: |-
+    You are using a bucket toilet for several days. Which practice makes it **unsafe**?
+  options:
+    - |-
+      Emptying the full bags into the storm drain
+    - |-
+      Lining it with two heavy bags and keeping a tight lid on
+    - |-
+      Adding cat litter or sawdust after each use
+    - |-
+      Washing hands with soap or sanitiser every time
+  correct: 0
+  explanation: |-
+    Contain, cover, separate urine where possible, store sealed bags until collection — and wash hands every time.

@@ -1,0 +1,63 @@
+- id: s1-l5-q1
+  question: |-
+    Which of these is **NOT** a typical effect of the acute stress response?
+  options:
+    - |-
+      Tunnel vision
+    - |-
+      Reduced working memory
+    - |-
+      Improved fine motor control
+    - |-
+      A strong urge to move
+  correct: 2
+  explanation: |-
+    The stress response prepares for gross physical action, at the expense of perception, delicate tasks and complex reasoning.
+
+- id: s1-l5-q2
+  question: |-
+    According to Leach, what is the main reason people freeze in emergencies?
+  options:
+    - |-
+      Fear overwhelms them because they lack courage or determination
+    - |-
+      Low blood sugar caused by the sudden surge of stress hormones
+    - |-
+      Poor physical fitness leaves the body unable to respond quickly
+    - |-
+      Stress slows working memory, so building a new plan takes time
+  correct: 3
+  explanation: |-
+    Rehearsal lets you retrieve a plan instead of constructing one, which is why training and mental rehearsal prevent freezing.
+
+- id: s1-l5-q3
+  question: |-
+    You need to light a stove with cold, shaking hands after a scare. What should you do first?
+  options:
+    - |-
+      One minute of slow breathing, then prepare everything before striking.
+    - |-
+      Try repeatedly and quickly until it lights, before your hands get colder.
+    - |-
+      Skip the stove tonight; it is too fiddly with hands this shaky.
+    - |-
+      Hand the lighter to someone else and let them decide what to do.
+  correct: 0
+  explanation: |-
+    Delicate tasks tolerate less arousal. A minute of breathing is cheap and often decisive.
+
+- id: s1-l5-q4
+  question: |-
+    A group member becomes withdrawn and passive. What is the best response?
+  options:
+    - |-
+      Let them rest alone, without responsibilities, until they recover.
+    - |-
+      Give them a small, concrete job, such as collecting dry twigs.
+    - |-
+      Reassure them the group will handle everything so they can relax.
+    - |-
+      Tell them firmly to snap out of it and keep up with the others.
+  correct: 1
+  explanation: |-
+    Rest matters, but withdrawal and loss of initiative respond better to small, concrete tasks and choices that restore agency.

@@ -1,0 +1,79 @@
+- id: s18-l2-q6
+  question: |-
+    After a storm, a large dead branch now hangs over your shelter, and the ground beside the stream has flooded close to your latrine. It is 15:00 in winter; dark at 17:00. What is the best plan?
+  options:
+    - |-
+      Stay tonight as you are and decide everything tomorrow morning
+    - |-
+      Move the whole camp now to a better site about 1 km away
+    - |-
+      Pull the branch down yourself so the shelter can stay where it is
+    - |-
+      Move just the shelter from under the branch now; plan the rest tomorrow
+  correct: 3
+  explanation: |-
+    Deal with immediate dangers now; make big, costly decisions in the morning with food and daylight.
+
+- id: s18-l2-q2
+  question: |-
+    On day 4, two of your group have diarrhoea although all water has been filtered. What is the most likely cause?
+  options:
+    - |-
+      Re-contamination from hands, a shared pot or dirty bottle threads
+    - |-
+      The filter has suddenly stopped working and is letting germs through
+    - |-
+      Drinking more water than the body needs on cold, active days
+    - |-
+      Eating too little food, which weakens the gut over several days
+  correct: 0
+  explanation: |-
+    Look along the F-diagram: fingers, surfaces and food are routes that bypass water treatment. Fix hand washing, the clean/dirty system and who handles food.
+
+- id: s18-l2-q1
+  question: |-
+    You are laying out a five-day camp by a stream. Which choice makes the camp LESS safe?
+  options:
+    - |-
+      Collecting water upstream of the camp and of any washing
+    - |-
+      Placing the fire and kitchen a few metres upwind of the shelter
+    - |-
+      Putting the latrine downwind and at least 60 m from water and camp
+    - |-
+      Setting up a hand-washing station on the path to the latrine
+  correct: 1
+  explanation: |-
+    Zones are chosen for wind, drainage and distance from water, and the kitchen goes downwind of the bed. Dishes are also washed at least 60 m from the stream, never in it.
+
+- id: s18-l2-q5
+  question: |-
+    Evening routine at a cold camp: firewood, the evening water batch, a hot meal, getting the bed ready, and the ledger/plan for tomorrow. Which job should come first?
+  options:
+    - |-
+      The evening water batch, treating and filling clean bottles
+    - |-
+      A hot meal and hot drink to restore energy and warmth
+    - |-
+      Bringing in tonight’s and tomorrow morning’s firewood
+    - |-
+      The evening round, ledger and plan for tomorrow
+  correct: 2
+  explanation: |-
+    Daylight-dependent jobs first (wood), then water while the fire is going, then food, then the bed, then the plan. The routine protects you when you are tired.
+
+- id: s18-l2-q4
+  question: |-
+    Your hands are visibly dirty after using the latrine. Which statement about alcohol hand sanitiser is correct?
+  options:
+    - |-
+      It is a full replacement for soap and water in every situation
+    - |-
+      It works better than soap and water because it kills every germ
+    - |-
+      It is only useful on greasy hands, where soap struggles to work
+    - |-
+      It works poorly on visibly dirty hands; soap and water come first
+  correct: 3
+  explanation: |-
+    Sanitiser is a backup when soap and water are not available; it works poorly on visibly dirty or greasy hands and does not kill every germ.

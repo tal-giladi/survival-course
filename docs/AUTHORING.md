@@ -23,7 +23,7 @@ components, CSS). Everything a stage adds goes through its `StageContent` export
 export const stageN: StageContent = {
   n: N,
   lessons: [...],            // one per outline entry in curriculum.ts, same ids, titles and order
-  review: [...],             // 8–12 interleaved stage-review questions, ids 'sN-rev-K'
+  review: [...],             // 10–12 interleaved stage-review questions (single, 4 choices), ids 'sN-rev-K'; first 10 imported
   references: [...],         // NEW references only (reuse existing ids from references.ts freely)
   concepts: { 'concept-id': 'Human label' }, // every NEW concept tag you use
   skills: [...],             // optional NEW skills (existing skill ids in skills.ts may be reused)
@@ -49,9 +49,12 @@ Every lesson is a `Lesson` (see `app/src/content/types.ts`) matching the outline
 7. Common mistakes (including myths, flagged as myths)
 8. 1–3 practical exercises with `level` 1–4 and a `safety` class; physical skills link a `skill`
 9. Simulations where they fit (`simulations: ['id']` and/or `{ type: 'sim', id }` blocks)
-10. Quiz: 4–7 questions mixing kinds (single, multi, truefalse, order, numeric with tolerance) with
-    `why` text for **every** choice and an `explanation`; at least one judgment/scenario-style item
-11. Scenario question with 3–4 choices, `best`, per-choice `why`, and a debrief
+10. Quiz: 4–7 questions, every one `kind: 'single'` with exactly 4 choices (Tal's Academy imports only
+    single-answer multiple choice). `why` text for **every** choice and an `explanation`; at least one
+    judgment/scenario-style item. Only the first 5 are imported, so put the strongest first. Wrong options
+    are plausible mistakes; options of similar length (the correct one is not the longest); no
+    "all/none of the above".
+11. Scenario question with exactly 4 choices, `best`, per-choice `why`, and a debrief
 12. Summary bullets
 13. Further reading + references (ids that exist in `references.ts` or your stage’s `references`)
 
@@ -82,4 +85,7 @@ Never invent URLs, DOIs or statistics; if unsure of a URL, omit `url` and cite t
 ## Definition of done
 
 From `app/`: `npx tsc -b` passes, `npx vitest run` passes (it validates every id you reference),
-`npx oxlint src` shows no errors, and `npx vite build` succeeds. Commit your stage.
+`npx oxlint src` shows no errors, and `npx vite build` succeeds. Then `npm run export-academy` (regenerates the
+Academy markdown at the repo root) and, from the tals-academy repo,
+`npm run check-course -- ../course-creator/survival-course` reports 0 problems. Commit your stage with the
+regenerated files.

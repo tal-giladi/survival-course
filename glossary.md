@@ -1,0 +1,397 @@
+# Glossary
+
+The concepts the course tags its questions with, in alphabetical order.
+
+- Abdominal injuries
+- Acute stress response
+- After-action reviews
+- Afterdrop and gentle handling
+- Aftershocks
+- Aging tracks and sign
+- Aiming off
+- Airway, breathing, circulation
+- Allergy and anaphylaxis
+- Amatoxins and delayed poisoning
+- AMS, HAPE and HACE
+- Anchor principles (SERENE / ERNEST)
+- Angular error (1-in-60 rule)
+- Animal and plant clues to water
+- Animal bites and rabies
+- Ascent rate and acclimatisation
+- Audible signals (whistle, sound)
+- Avalanche terrain, problems and danger scale
+- Back bearings
+- Bark containers
+- Basal metabolic rate (Mifflin–St Jeor)
+- Basic shelter types
+- Basketry and weaving structures
+- Batoning and the wedge
+- Battery capacity and power budgeting
+- Bayesian updating of search probabilities
+- Beacon registration and testing
+- Being a responsive, findable subject
+- Being visible to searchers
+- Bird and animal alarm behaviour
+- Bites, stings and snakebite
+- Bleeding control and tourniquets
+- Body water and daily water balance
+- Boiling, pasteurisation and altitude
+- Bone and antler tools
+- Bracketing age with dated events
+- Build time, effort and sweat budget
+- Building evacuation
+- Burns: depth, area, cooling
+- Camp layout for hygiene
+- Camp zoning and layout
+- Capstan friction (T₂ = T₁·e^(μθ))
+- Carbon monoxide and ventilation
+- Carrying and moving water
+- Carrying loads and improvised pack frames
+- Cascading infrastructure failure
+- Catholes and human-waste disposal
+- Charcoal and pyrolysis
+- Checking on vulnerable people
+- Chemical contamination of water
+- Chest injuries
+- Clean/dirty separation in water and food systems
+- Clothing systems
+- Cloud identification (WMO genera)
+- Clues and clue awareness
+- Cognitive degradation under physical stress
+- Cold shock response
+- Cold-air drainage and pooling
+- Collecting rain, dew, fog and transpiration
+- Combustion and pyrolysis
+- Communication failure (SMS, radio)
+- Community resources and neighbourhood response teams
+- Compass anatomy and use
+- Conchoidal fracture
+- Conflict in groups
+- Contour interpretation
+- Convection and storm development
+- Coordinate formats
+- Cordage strength, loads and safety factors
+- Core vs shell temperature
+- CT: concentration × contact time
+- Cyanobacterial (blue-green algae) toxins
+- Daily camp routine
+- Daily resource ledger (stock, income, use)
+- Dead reckoning and cumulative error
+- Debiasing: pre-commitments, checklists and pre-mortems
+- Decision fatigue and the ego-depletion debate
+- Decisions under uncertainty
+- Defence cascade (freeze, flight, fight, immobility)
+- Dehydration
+- Device battery strategy
+- Direction from the Moon
+- Direction from the sun
+- Direction of travel from tracks and sign
+- Distress beacons (PLB, EPIRB, ELT) and Cospas-Sarsat
+- Distress messages (Mayday; who, where, what)
+- Disturbed vegetation and ground sign
+- Drainage and flood paths
+- Dress, set, tail, check — why knots fail
+- Drop, Cover, Hold On
+- Ember to flame
+- Emergency sanitation and hygiene
+- Emergency water and food quantities
+- Emotion regulation
+- Energy budgets
+- Energy requirements (BMR × activity × environment)
+- Energy return on food-getting
+- Engine exhaust and CO in a stranded vehicle
+- Evacuation decisions
+- Evacuation triggers
+- Evaporation and wet clothing
+- Extinguishing a fire
+- Extreme heat, cold and storms at home
+- Eye injuries
+- Faecal–oral transmission (F-diagram)
+- Fall factor and impact force
+- False alerts and responsible activation
+- Family communication plan and out-of-area contact
+- Fat oxidation
+- Fear and threat-response neurobiology
+- Feeding sign
+- Ferrocerium and flint-and-steel
+- Field repair techniques
+- Filter pore sizes vs organism sizes
+- Finding water: terrain, vegetation and animal clues
+- Fire law and restrictions
+- Fire lays
+- Fire reflectors
+- Fire reflectors and lean-tos
+- Fire safety and law
+- Fire triangle
+- Fire weather and wildfire risk
+- First-aid myths
+- Fishing gear and energy return
+- Fishing regulations
+- Flameless emergency lighting
+- Flash floods and catchments
+- Flash-to-bang distance and the 30-minute rule
+- Flintknapping safety (eyes, lungs, cuts)
+- Floods at home
+- Food poisoning and toxins
+- Food preservation hurdles
+- Food rationing
+- Food storage and rotation
+- Foot care and immersion (trench) foot
+- Footwear and clothing repair
+- Foraging law and protected species
+- Force of moving water
+- Fractures, sprains and dislocations
+- Freezing and behavioral response
+- Friction fire
+- Friction losses at pulleys and edges
+- Friction power and heat losses
+- Fuel and battery budgeting
+- Fuel moisture and energy
+- Functional fixedness
+- Fungi safety
+- Gaits and trail patterns
+- Game trails as handrails (and their traps)
+- Gas leaks
+- Generator safety (CO, backfeeding)
+- Giving up (“give-up-itis”)
+- Glycogen
+- Glycogen, fat and lean-tissue stores
+- Go-bag (grab-and-go kit)
+- Go/no-go hazard triggers
+- Grid references and coordinates
+- Ground insulation
+- Ground-to-air and body signals
+- Groundwater, springs, seeps and dune lenses
+- Group morale
+- Groupthink
+- Hand hygiene in the field
+- Handrails, catching features and attack points
+- Harvesting and collecting law (bark, wood, plants, stone)
+- Head injury
+- Heat acclimatisation
+- Heat balance
+- Heat illness
+- Heat inside a closed vehicle
+- Heat-loss mechanisms
+- HELP and huddle
+- Home practice vs formal training
+- Household emergency kit
+- Household emergency plan
+- How GNSS positioning works
+- How search and rescue is organised
+- Human factors and heuristic traps
+- Humidity and dew point
+- Hunting and trapping law and ethics
+- Hygiene around scat, droppings and carcasses
+- Hyponatremia
+- Hypothermia
+- Hypoxia at altitude
+- Immediate danger
+- Immersion hypothermia
+- Improvised tools
+- Improvised treatment and its limits
+- Improvised water containers and food safety
+- Infective dose and dose–response
+- Insect protection
+- Insects as food
+- Insulation and moisture
+- Integrated decision making
+- Interpreting forecasts for your terrain
+- Isolation and uncertainty
+- Keeping distance from wildlife
+- Keeping warm in a stranded vehicle
+- Knot efficiency and bend radius
+- Knots, hitches and bends (choosing by job)
+- Large-scale and local wind patterns
+- Leadership in emergencies
+- Leave No Trace fire practice
+- Leaving signs for rescuers
+- Lightning safety
+- Limiting resource and days of reserve
+- Limits of improvised rope rescue
+- Log reductions and multi-barrier treatment
+- Long-duration fires and fuel budgets
+- Long-term food acquisition realities
+- Lost-person behavior
+- Macronutrients and energy density
+- Magnetic declination
+- Major track families
+- Map scale and distance
+- Map symbols and datums
+- Matching a fire to its purpose
+- Material properties for improvising
+- Measuring prints and trails
+- Measuring sweat rate
+- Mechanical advantage (ideal and actual)
+- Melting snow and ice: the fuel cost
+- Moisture management in clothing and sleeping bags
+- Morale as a managed resource
+- Natural and debris shelters
+- Natural fiber sources and processing
+- Natural navigation signs
+- Natural pigments
+- Navigating without equipment
+- Navigation failure on remote roads
+- Navigation myths
+- Night vision and dark adaptation
+- Normalization of deviance
+- Official alerts and warnings
+- Offline maps
+- Opportunity cost of using critical gear
+- Oral rehydration
+- Pace counting
+- Panic — and the mass-panic myth
+- Parasites in wild food
+- Patient assessment system
+- Patient monitoring and trends
+- Phone and emergency numbers
+- Pine pitch glue
+- Plan-continuation bias
+- Plant identification discipline
+- Point last seen / last known point (IPP)
+- Poisoning
+- Polaris and latitude
+- Post-earthquake checks (injuries, gas, building)
+- Power outages
+- Pressure releases and their limits
+- Pressure trends
+- Preventive maintenance and the daily round
+- Primitive food preparation
+- Probability of area, detection and success
+- Protecting the IPP and clues
+- Psychological first aid
+- R-values and insulation layers
+- Radiant heat geometry
+- Radiative heat loss
+- Radio range and line of sight
+- Radio services and licensing
+- Recognising you are lost
+- Redundancy of critical functions
+- Reference tracks and aging stands
+- Relocation procedures
+- Remote-road planning (fuel, water, daylight, coverage)
+- Repair kit contents
+- Rescue response ladder (no second casualty, call, reach, care)
+- Resection and the cocked hat
+- Resource inventory
+- Reverse-wrap plying and torque balance
+- Reversible vs irreversible actions
+- Ridges, valleys, spurs and saddles
+- Risk = likelihood × consequence
+- Risk perception
+- Roadside breakdown and crash safety
+- Rockfall, landslides and debris flows
+- Roles in a survival group
+- Rolling several-day plans and re-plan triggers
+- Rope fibres and constructions (dynamic vs low-stretch)
+- Rope inspection, care and retirement
+- Rule of threes and its limits
+- Safe food temperatures
+- Safe knife work and the blood circle
+- Safe water storage
+- Satellite messengers and satellite SOS
+- Scat and droppings
+- Scene safety and size-up
+- Search area growth with time
+- Search tactics (hasty, efficient, thorough)
+- Shade and hot-climate shelter
+- Shadow-stick method
+- Shelter failure analysis
+- Shelter in place vs evacuate
+- Shelter site selection
+- Shelter volume and air exchange
+- Shivering thermogenesis
+- Shock
+- Sign cutting along track traps
+- Signal mirror aiming and range
+- Signaling from a vehicle
+- Signaling methods
+- Signals at night (lights, fire)
+- Site hazards (flood, overhead, rockfall, avalanche)
+- Sleep deprivation
+- Sleep systems for multi-day survival
+- Slope angle
+- Slope from contour spacing
+- Smoke production and uses
+- Smoke signals and contrast
+- Snow and ice hazards
+- Snow as insulation
+- Snow shelters
+- SOAP notes and SAMPLE/OPQRST
+- Sodium and electrolytes
+- Solar still yield vs sweat cost
+- Solar water disinfection (SODIS)
+- Southern Cross and pointers
+- Spinal assessment and motion restriction
+- Splinting principles
+- Spoilage and the danger zone
+- Square, diagonal and tripod lashings
+- Star navigation (Orion, rising and setting)
+- Starvation physiology
+- Stay or move
+- Staying with the vehicle
+- Step-by-step tracking and the tracking stick
+- Stone boiling and heat transfer
+- STOP / situation assessment
+- Storage and rotation of supplies
+- Stress-control techniques
+- Strong-wind hazards
+- Substrate and how it changes prints
+- Sunk-cost trap
+- Surface-to-volume ratio
+- Survival kit design
+- Survival priorities
+- Survival window vs time to rescue
+- Sweep width and coverage
+- Swim failure
+- Taking and following bearings
+- Tarp configurations
+- Temporary and community shelter
+- Terrain association
+- Terrain classes: when a slip becomes a fall
+- Test before trusting (load tests and safety factor)
+- The 12 questions
+- The decision loop
+- The improvisation method (function → properties → test)
+- Thermoregulation
+- Time and daylight budgeting
+- Tinder → kindling → fuel
+- Tinder, kindling and fuel selection
+- Toxic plants and deadly look-alikes
+- Track anatomy (toes, claws, pads, negative space)
+- Trails, runs, beds and marking sign
+- Travel-time estimation (Naismith)
+- Trip plans and turnaround times
+- Tripods, bipods and frames
+- Tropical shelter and raised beds
+- Tunnel vision and attentional narrowing
+- Turbidity and clarification
+- UV dose and water clarity
+- Vector angles and force multiplication
+- Vehicle emergency kit
+- Vital signs and normal ranges
+- Watch method and its error
+- Water before food
+- Water budgets (daily and multi-day)
+- Water crossings: when not to cross
+- Water outages
+- Water requirements
+- Water treatment methods
+- Waterborne pathogen classes and sizes
+- WBGT and heat-stress indices
+- Weather systems and fronts
+- Wet + wind danger
+- Wet-weather fire
+- Why the “universal edibility test” is unreliable
+- Why twist makes fibers into cordage
+- Wildfire behaviour (fuel, weather, topography)
+- Wildfire escape routes and safety zones
+- Wildfire readiness at home
+- Wind chill
+- Wind chill and heat index
+- Wind loading and line tension
+- Withdrawal, apathy and “give-up-itis”
+- Wooden tools and wood as a material
+- Work–rest scheduling and the value of a work block
+- Wound cleaning and care
+- Wound infection

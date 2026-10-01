@@ -1,0 +1,81 @@
+- id: s11-l4-q6
+  question: |-
+    Off-trail in the forest, you smell something rotten and find a large mound of leaves and soil heaped over what looks like a deer carcass. What do you do?
+  options:
+    - |-
+      Uncover it carefully to see what killed the deer
+    - |-
+      Camp nearby, out of sight, to watch for the predator
+    - |-
+      Leave promptly the way you came, stay alert, and report it
+    - |-
+      Take a leg bone as a souvenir before moving on
+  correct: 2
+  explanation: |-
+    Cached carcasses are among the most dangerous places to linger in predator country. Leave, and report.
+
+- id: s11-l4-q2
+  question: |-
+    You open a mountain hut that has been closed all winter and find mouse droppings on the floor and bunks. What should you do?
+  options:
+    - |-
+      Sweep them out quickly before unpacking so the floor is clean
+    - |-
+      Vacuum them up with the hut’s vacuum cleaner to avoid touching them
+    - |-
+      Leave them; a few mouse droppings in a hut are harmless to people
+    - |-
+      Ventilate, wear gloves, wet with disinfectant, wait, then wipe and bag
+  correct: 3
+  explanation: |-
+    Open doors and windows, wear gloves, wet the droppings with disinfectant, wait, then wipe up, bag them and wash hands — never sweep or vacuum dry droppings.
+
+- id: s11-l4-q1
+  question: |-
+    Willow twigs are bitten off at about 60 cm height with ragged, torn, fibrous ends. The most likely browser is:
+
+    ![Browse sign. A twig clipped by a rabbit, hare or rodent has a clean, angled cut about 45 degrees. A twig browsed by a deer is torn, ragged and often crushed, because deer have no upper front teeth.](../../assets/diagrams/s11-browse.svg)
+  options:
+    - |-
+      A deer or other ruminant
+    - |-
+      A hare
+    - |-
+      A vole
+    - |-
+      A beaver
+  correct: 0
+  explanation: |-
+    Ragged, torn tips point to ruminants; clean angled cuts to rabbits, hares and rodents.
+
+- id: s11-l4-q3
+  question: |-
+    Which statement about scat and pellets is correct?
+  options:
+    - |-
+      Owl pellets are owl scat packed with fur and bone
+    - |-
+      The white part of a bird dropping is uric acid
+    - |-
+      Scat shape alone identifies the species reliably
+    - |-
+      Dry scat is safe to break open with your fingers
+  correct: 1
+  explanation: |-
+    Owl pellets are regurgitated, not scat; dog-family scat is often tubular, twisted and tapered with hair and bone. Describe shape, size, contents and location — and never handle it.
+
+- id: s11-l4-q4
+  question: |-
+    At dawn you see a dark line through silver, dew-covered grass. What does it tell you about timing?
+  options:
+    - |-
+      Something passed through before the dew formed
+    - |-
+      It shows a route, but nothing at all about timing
+    - |-
+      Something passed through after the dew formed
+    - |-
+      Something passed through within the last few minutes
+  correct: 2
+  explanation: |-
+    Dew is a dated layer: anything that knocks it off passed after it formed (usually after midnight on clear nights).

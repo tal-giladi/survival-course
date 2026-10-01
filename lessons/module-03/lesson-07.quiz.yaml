@@ -1,0 +1,79 @@
+- id: s3-l7-q6
+  question: |-
+    Clear night, −5 °C, calm. You have a small fire, a tarp and a pile of spruce boughs. Which combination gives the biggest improvement in your heat balance?
+  options:
+    - |-
+      A bigger fire, sitting on bare ground right in front of it.
+    - |-
+      The fire only, standing up so you keep moving all night.
+    - |-
+      Bough bed, tarp lean-to behind you, fire in front at a safe distance.
+    - |-
+      The tarp wrapped around both you and the fire to trap heat.
+  correct: 2
+  explanation: |-
+    Fix the big losses first (conduction, back radiation), then add the fire’s radiant gain.
+
+- id: s3-l7-q3
+  question: |-
+    Which statement about fire reflectors is true?
+  options:
+    - |-
+      They capture the convective plume and send it back toward you.
+    - |-
+      A space blanket works best placed right next to the flames.
+    - |-
+      A good rock wall can triple the radiant heat that reaches you.
+    - |-
+      A log wall also works as a windbreak — often its biggest benefit.
+  correct: 3
+  explanation: |-
+    Reflectors return part of the radiation heading away from you — at best roughly doubling it — and do nothing for the plume. They are a real but modest gain; combine them with windbreak, shelter and insulation.
+
+- id: s3-l7-q4
+  question: |-
+    Why does a long-log fire warm a lying person more evenly than a small round fire?
+  options:
+    - |-
+      As a line source along you, its flux falls more like 1/d than 1/d².
+    - |-
+      Its long logs burn hotter, so more heat reaches the far end of your body.
+    - |-
+      It makes less smoke, so more of its infrared gets through to you.
+    - |-
+      Long logs hold more resin, which gives a steadier, more even flame.
+  correct: 0
+  explanation: |-
+    Geometry: a long source seen from close up spreads heat evenly along you, and its flux falls off more gently with distance.
+
+- id: s3-l7-q5
+  question: |-
+    You want to heat stones in the fire as bed warmers. Which choice is safest?
+  options:
+    - |-
+      Smooth river-bed stones, set right in the flames
+    - |-
+      Dry stones from high ground, warmed at the fire’s edge
+    - |-
+      Lake-shore stones, as long as their surface looks dry
+    - |-
+      Dry stones from high ground, buried in the hot coals
+  correct: 1
+  explanation: |-
+    Wet or porous stones, such as those from river beds, can crack or burst as trapped water turns to steam. Use dry stones from high ground, warmed at the fire’s edge.
+
+- id: s3-l7-q1
+  question: |-
+    You move from 2 m to 1 m from a small campfire. Roughly how does the radiant heat on your face change?
+  options:
+    - |-
+      It doubles.
+    - |-
+      No change; air temperature is the same.
+    - |-
+      It roughly quadruples.
+    - |-
+      It halves.
+  correct: 2
+  explanation: |-
+    Half the distance, a quarter of the area over which the heat spreads: about 4× the flux.

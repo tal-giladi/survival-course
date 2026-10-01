@@ -1,0 +1,237 @@
+---
+id: "14.4"
+module: 14
+minutes: 50
+practice_minutes: 90
+prerequisites: ["14.3"]
+objectives:
+  - "Apply a structured stay-or-move decision: immediate danger, whether anyone will look for you, and whether a known safe point is reachable within your budget."
+  - "Explain with search theory why staying usually wins, and when it does not."
+  - "Compare your survival window with the likely time to rescue, and set re-evaluation triggers."
+  - "Make short moves to become findable without leaving the search area."
+  - "Leave signs — notes, arrows, markers — that let rescuers follow you if you do move."
+level: advanced
+volatility: concept
+sources:
+  - title: "Lost Person Behavior"
+    url: https://www.dbs-sar.com/LostPersonBehavior.htm
+  - title: "AdventureSmart — trip planning and “if lost” guidance"
+    url: https://www.adventuresmart.ca/
+  - title: "ATP 3-50.21 Survival (supersedes FM 3-05.70 / FM 21-76)"
+    url: https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1005316
+  - title: "The Seven Principles of Leave No Trace"
+    url: https://lnt.org/why/7-principles/
+  - title: "National Association for Search and Rescue (SARTECH)"
+    url: https://www.nasar.org/
+last_verified: "2026-09-27"
+---
+
+# 14.4 · Stay or move
+
+Stay-or-move is the decision that most often turns an inconvenient night out into a fatal one. People who walk on after becoming lost frequently end up further from help, exhausted, in worse terrain and outside the area being searched. People who stay in a findable spot, keep warm and signal usually make the search short. Knowing the exceptions — and leaving signs when you do move — keeps rescuers’ probability map close to the truth.
+
+## Explanation
+
+Stage 1 introduced stay-or-move as a judgment; Stage 2 showed how lost people wander and why random walking covers little ground. With the search theory of Lesson 3 you can now see the decision the way a rescuer does.
+
+### The default: stay
+
+If someone knows your route and when to raise the alarm, or you have already sent an alert, **staying put is usually the best decision**:
+
+- **Searchers start where you were.** Your LKP and route anchor every POA. A stationary subject stays inside the segments being searched; a moving one can walk into segments already searched, out of the area altogether (ROW), or away from the trail teams are walking.
+- **The area grows with the square of distance.** If you could be anywhere within $r$ of the LKP, the area is $\pi r^2$. Walking from 2 km to 5 km out makes the possible area more than six times bigger.
+- **Stationary subjects are easier to detect.** You can set up large static signals, stay in the open, listen and answer. A moving person under canopy is a small, silent target.
+- **Moving costs what you need to survive:** energy, water, body heat, daylight, and the risk of falls, cold-water crossings and cliffs — especially late in the day and when tired (Stage 8).
+
+This is why SAR teams teach children to **“hug a tree”** — stay in one place, make noise, answer when called — and why the advice to stay with a broken-down vehicle, a floating capsized boat or a crashed aircraft is so consistent.
+
+![Stay or move decision. First: is where you are immediately dangerous? If yes, move the shortest distance to safety. If no: does someone know your route and when to raise the alarm, or have you sent an alert? If yes, stay, improve shelter and signals. If no: can you reach a known, certain safe point within your daylight and energy budget without major hazards? If yes, move deliberately and leave signs. If not, stay, signal and conserve.](../../assets/diagrams/s14-stay-move.svg)
+
+*A stay-or-move decision. Re-run it whenever conditions change.*
+
+### When moving is right
+
+1. **Immediate danger where you are.** Rising water, fire, rockfall or avalanche slopes, a tide coming in, a lightning-exposed ridge, cold with no shelter possible. Move the **shortest distance to safety**, then stay again.
+2. **Nobody will look — soon enough.** No trip plan, no alert sent, no signal, nobody expecting you for days, and your water, warmth or food will not last that long.
+3. **A known, certain route to safety within your budget.** Not “I think the road is that way” but: a trail you know, a handrail such as a river or track that leads to a road without hazards, with enough **daylight**, water and energy to reach it (Stage 2 daylight budget). Set a **turn-back time**.
+4. **Medical need** where waiting makes things clearly worse and moving is possible — usually by getting a message out, not by carrying someone. A group with a casualty normally **stays together** and alerts; if someone must go for help, send **two** with a written note of the casualty’s location, condition and needs.
+
+**Short moves are different.** Moving 100–300 m to a clearing, a river bank, a ridge top or out of a hazard — to become findable, to reach water or shelter — keeps you in the same search segment. Mark it: leave an arrow at the old spot and move in one straight line.
+
+[Simulation: Search Planner](../../simulations/search-sim/index.html)
+
+Tick “the subject keeps moving” and compare the cumulative probability of success with a subject who stays.
+
+### Survival window versus time to rescue
+
+A practical way to decide is to compare two times:
+
+- **Time to rescue** ≈ time until someone raises the alarm (your overdue time on the trip plan, or now if you have alerted) + time for rescuers to respond + time to find you.
+- **Survival window** ≈ how long you can stay safe where you are: water (Stage 4), warmth and shelter (Stages 5 and 8), food matters far less, injuries, medicines, and weather coming.
+
+If your survival window comfortably exceeds the time to rescue, **stay and improve both**: signals shorten the time to be found; shelter and water extend the window. If the window is shorter — and moving would genuinely lengthen it or bring rescue sooner — moving deserves serious thought.
+
+### Set triggers in advance
+
+Decide *before* you need to what would change your mind, and write it down: “If no sign of a search by noon on day 3 **and** water is below 1 L, we walk the stream down to the track at first light.” Triggers protect you from two opposite errors: **panic** (moving too early) and **plan continuation** (staying too long when the situation has clearly changed).
+
+### Leaving signs for rescuers
+
+Whether you stay or move, help searchers read your story.
+
+- **A note at the vehicle, hut, shelter or LKP**: date and time, names, how many, condition and injuries, which direction you went and why, where you plan to be and **when you will come back** if the route fails, what supplies you have. Protect it from rain (a plastic bag) and put it where it will be seen — on a windscreen, a door, the trail register.
+- **Arrows at every junction or change of direction**: sticks, stones, a scratched line in sand or snow, trail tape. A large arrow in the open means “proceeding in this direction” to aircraft.
+- **Drop a bright item** where you leave a trail, and at turns.
+- **Update** the signs if you return or change plan — an old arrow pointing the wrong way costs searchers hours.
+- **When you stay**, put your static signals where the route or nearest trail is, with an arrow pointing to your camp if it is out of sight.
+
+![Leaving signs for rescuers: a dated note at the vehicle or last known point stating time, direction, plan and condition; arrows made of sticks or stones at every junction pointing the way you went; a bright item or marker at each turn; and a large arrow in the open for aircraft.](../../assets/diagrams/s14-leave-signs.svg)
+
+*A note at the LKP, arrows at junctions, markers at turns and a big arrow in the open.*
+
+> [!IMPORTANT]
+> **Marking responsibly**
+>
+> In an emergency, markers that help rescuers are justified. Prefer **loose sticks, stones and removable tape** over cutting blazes into trees or painting rocks, which may be illegal in protected areas and permanent. After the emergency, remove or report any markers you left (Leave No Trace). Never move or remove official trail markers or other people’s emergency signs.
+
+## Scientific and technical background
+
+### What a moving subject does to the search
+
+In Lesson 3, an unsuccessful search lowers a segment’s POA. That only works if the subject **stays** where the probability was. Suppose a fraction $m$ of the probability in each segment leaves it between periods (the subject walks on) and spreads over other segments and the rest of the world. Then
+
+$$
+\text{POA}_i^{\text{next}} = (1 - m)\,\text{POA}_i' + m \times (\text{share of the moving probability landing in } i)
+$$
+
+Searched segments **refill**, and ROW grows. The planners’ effort is diluted, and cumulative POS falls.
+
+**Worked example.** A search achieves POS = 30 % per period on a subject who stays. After three periods the probability of having found them is $1 - 0.7^3 \approx 66\%$. If walking on lowers the effective POS to 20 % per period, the three-period figure drops to $1 - 0.8^3 \approx 49\%$ — and the subject has also spent energy, water and daylight. The Search Planner simulation shows the same effect with a moving subject.
+
+### Random walking and area
+
+From Stage 2, a lost person walking $n$ legs of length $L$ in random directions ends up only about $L\sqrt{n}$ from the start — lots of effort, little progress — yet the **possible** area is set by how far they *could* have gone, $\pi r^2$. Going from $r = 2$ km to $r = 5$ km multiplies the area by $(5/2)^2 = 6.25$.
+
+### Comparing times
+
+If the time to rescue $T_r$ is uncertain, think in ranges. Example: trip plan says “raise the alarm at 20:00”; teams need about 3 h to mobilise and reach the trailhead; a hasty search of the route takes 3–6 h. So the earliest likely contact is around 02:00–05:00 the next morning — plan to spend **one night** out, then decide on day 2 with triggers. If your survival window with shelter and water is several days, staying is clearly right.
+
+## Examples
+
+**Forest:** lost in the afternoon with a trip plan filed: stay, move 150 m to the nearest clearing, build insulation and shelter before dark, lay out bright gear, whistle in threes on a schedule (see Capstone 1).
+
+**Desert:** a stranded vehicle is the biggest, shadiest, most visible object for kilometres; stay with it and use it as a signal (Stage 17). Walking in heat burns water far faster than resting in shade.
+
+**Mountain:** if a storm is coming onto an exposed ridge, a short, careful descent to shelter is an immediate-danger move — then stay and signal. Never descend unknown steep ground in poor visibility to “find a way down”.
+
+**Arctic and subarctic:** travel in cold and wind is exhausting and risks sweating then chilling; staying in a snow shelter with signals outside is usually safer (Stage 5).
+
+**Coastal:** a tide coming in below cliffs is a reason to move — to the highest safe ground — early. At sea, staying with a capsized boat that floats keeps you with a bigger target.
+
+**Tropical:** following a river downstream is often suggested, but rivers bring waterfalls, gorges, flash floods and crossings (Stage 12). If people know where you are, stay by the river bank where you can be seen.
+
+**Rural:** on farmland, fences, tracks and roads are long catching features; a short, certain walk to a road in daylight can be a sound move — leave a note and arrows.
+
+**Urban disaster:** stay-or-move also applies to sheltering in place versus evacuating (Stage 16): move away from an immediate hazard, not into a long night journey.
+
+## Common mistakes
+
+- Walking on “to find the way” with no known route, especially late in the day.
+- Myth: following any stream downhill always leads to people. It can lead into gorges, waterfalls and flooding creeks.
+- Staying in a place with an obvious immediate hazard (a flood channel, avalanche path, below loose rock) because “the rule is to stay”.
+- Leaving the vehicle, boat or aircraft wreck — a large, visible target — to walk for help.
+- Moving without leaving a note or arrows, so the LKP points searchers the wrong way.
+- Splitting a group so that someone ends up alone and unaccounted for.
+- Having no pre-set triggers, then either panicking early or staying far too long after the situation has changed.
+
+## Practical exercises
+
+### Write your stay-or-move triggers
+
+Level 1 (Knowledge) · 🏠 Home · about 30 min
+
+**Materials:** Your next trip plan; Map of the area
+
+**Steps**
+
+1. For your next trip, write the overdue time and what your contact should do then.
+2. Estimate a rough time to rescue if you went missing at the furthest point (alarm time + response + search).
+3. List the immediate hazards on the route that would force a move (water, cliffs, weather exposure).
+4. Write two or three explicit triggers for moving (time, water level, weather, injury) and the planned move (e.g., “downstream path to the forest road, first light only”).
+5. Give a copy to your trip contact.
+
+**You have it when**
+
+- Your contact can say, from your plan, when to raise the alarm and what you are likely to do if lost.
+
+Builds the skill: Trip plan and check-in system.
+
+### Follow-my-signs walk
+
+> [!WARNING]
+> **Outdoor.** Outdoors with ordinary care. A partner is recommended.
+>
+> On paths in a familiar park or wood only, in daylight, both with phones. Use loose sticks, stones or removable tape and remove every marker afterwards; do not cut or paint trees.
+
+Level 2 (Simulation) · 🌲 Outdoor · about 60 min
+
+**Materials:** A partner; Paper, pencil and a plastic bag; Removable trail tape (optional)
+
+**Steps**
+
+1. Leave a note at the start (as in the lesson) and walk a route of about 1 km with 4–5 junctions, marking each with an arrow of sticks or stones.
+2. Your partner waits 20 minutes, then follows using only your signs.
+3. Together, walk back and collect every marker. Discuss which signs were missed and why.
+
+**You have it when**
+
+- Your partner followed the route without guessing.
+- All markers removed.
+
+Builds the skill: Making yourself findable.
+
+## Scenario question
+
+Late September in hilly northern forest. You and a friend left the trail to photograph a waterfall and cannot find it again. It is 15:30; sunset is at 18:45. It is 9 °C and drizzling. You left a trip plan with a neighbour (overdue time 20:00). You have 1 L of water between you, rain jackets, a lighter, a whistle, a headlamp and a phone with 15 % battery and no signal. The stream below the waterfall flows north; you believe the road is somewhere north, perhaps 5–6 km away, through unknown terrain.
+
+**What is your plan?**
+
+1. Follow the stream north as fast as possible to reach the road before dark.
+2. Split up: one goes north for help, the other waits.
+3. Stay near the waterfall, which is close to your planned route: move to the nearest open spot above the stream, build a rain-proof shelter with insulation from the ground while it is light, prepare a fire if legal and safe, set out bright gear and a note/arrow on the nearest path, phone off except for a check from the highest nearby point, whistle in threes on a schedule; decide on day 2 with triggers.
+4. Keep searching for the trail in widening circles until dark.
+
+<details>
+<summary>Best choice and debrief</summary>
+
+**Best: 3.** Every stage feeds this decision: STOP (Stage 1), the daylight budget and lost-person behaviour (Stage 2), wet-and-wind heat loss (Stage 8), shelter and insulation (Stage 5), fire only where legal (Stage 3), and search theory (this stage). With a trip plan filed and an alarm due in four hours, staying in a findable spot near the route is the high-probability, low-regret choice.
+
+- **1.** Unknown terrain, 3 hours of light, drizzle and a stream that may enter a gorge: high risk of a fall or a night caught out wet, and you leave the area near your route.
+- **2.** Two lost people instead of one, each alone in the dark and the wet.
+- **3.** Best: the alarm will be raised at 20:00 and the search will start from your route; you use daylight for shelter against wet and cold, stay findable and keep the phone for later.
+- **4.** A few short, marked searches can help early, but circling until dark burns energy and daylight and ends with no shelter.
+
+</details>
+
+## Summary
+
+- Default: **stay** when someone will look (trip plan or alert sent).
+- Staying keeps POA valid, keeps the area small ($\pi r^2$) and makes you easier to detect.
+- Move for **immediate danger**, when **nobody will look** in time, or along a **known, certain route** within your daylight and energy budget.
+- Short moves to become findable are fine — mark them.
+- Compare survival window with time to rescue; set written triggers and re-evaluate.
+- Leave a note at the LKP and arrows at every junction; update or remove them later.
+
+## Further reading
+
+- Robert J. Koester. [Lost Person Behavior](https://www.dbs-sar.com/LostPersonBehavior.htm). 2008. Statistical profiles of how lost people behave (ISRID, >145,000 incidents). Used by SAR planners worldwide.
+- Canada’s national SAR prevention program. [AdventureSmart — trip planning and “if lost” guidance](https://www.adventuresmart.ca/).
+
+## References
+
+- Robert J. Koester. [Lost Person Behavior](https://www.dbs-sar.com/LostPersonBehavior.htm). 2008. Statistical profiles of how lost people behave (ISRID, >145,000 incidents). Used by SAR planners worldwide.
+- Canada’s national SAR prevention program. [AdventureSmart — trip planning and “if lost” guidance](https://www.adventuresmart.ca/).
+- Donald C. Cooper, J. R. Frost, R. Quincy Robe. *Compatibility of Land SAR Procedures with Search Theory*. 2003. Report reconciling land SAR practice (POA, POD, segments, consensus) with search theory; introduced effective sweep width and detection experiments to land search planning.
+- US Army. [ATP 3-50.21 Survival (supersedes FM 3-05.70 / FM 21-76)](https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1005316). 2018. Current public US survival doctrine. Written for military contexts — use with judgment.
+- Leave No Trace Center for Outdoor Ethics. [The Seven Principles of Leave No Trace](https://lnt.org/why/7-principles/).
+- [National Association for Search and Rescue (SARTECH)](https://www.nasar.org/).

@@ -1,0 +1,79 @@
+- id: s8-l3-q1
+  question: |-
+    A walker is shivering, slurring words and stumbling, but answers questions. Which stage is most likely?
+  options:
+    - |-
+      Cold stressed, not hypothermic
+    - |-
+      Moderate hypothermia
+    - |-
+      Severe hypothermia
+    - |-
+      Mild hypothermia
+  correct: 3
+  explanation: |-
+    Stumbles, mumbles, fumbles, grumbles with shivering = mild. Treat, watch closely, and assume worse if uncertain.
+
+- id: s8-l3-q3
+  question: |-
+    A hypothermic hiker who was shivering hard has stopped shivering and is becoming more confused. What does this most likely mean?
+  options:
+    - |-
+      The core is still falling or fuel has run out — a danger sign.
+    - |-
+      They are warming up, so shivering is no longer needed.
+    - |-
+      They have adapted to the cold and can rest unattended.
+    - |-
+      The reflex has paused briefly and will restart in minutes.
+  correct: 0
+  explanation: |-
+    Shivering often stops as the core falls below about 32 °C or as fuel runs out. Loss of shivering with worsening mental status is a danger sign.
+
+- id: s8-l3-q2
+  question: |-
+    You are caring for a **moderately** hypothermic person. Which action goes **against** current guidance?
+  options:
+    - |-
+      Keep them horizontal and handle them gently
+    - |-
+      Rub their arms and legs vigorously to warm them
+    - |-
+      Wrapped heat packs on chest, armpits and back
+    - |-
+      Insulate underneath them as well as on top
+  correct: 1
+  explanation: |-
+    Package, insulate (below as well as above), heat the trunk, handle gently, evacuate. Rubbing limbs and making them walk to warm up are both wrong for moderate hypothermia.
+
+- id: s8-l3-q4
+  question: |-
+    A hiker in rain is mildly hypothermic. Which step of field care comes **first**?
+  options:
+    - |-
+      Replace wet layers with dry ones
+    - |-
+      Give calories and a warm sweet drink
+    - |-
+      Get out of the wind and rain, onto insulation
+    - |-
+      Put heat packs on the trunk
+  correct: 2
+  explanation: |-
+    Order: shelter and insulation underneath → dry layers → insulation, hat and heat to the trunk → calories → reassess. Stop the loss first, then add heat, then fuel, then decide.
+
+- id: s8-l3-q5
+  question: |-
+    A casualty’s net heat loss is 120 W and nothing changes. With 245 kJ per °C, about how long until the core has fallen 2 °C?
+  options:
+    - |-
+      ≈ 0.6 h
+    - |-
+      ≈ 0.9 h
+    - |-
+      ≈ 68 h
+    - |-
+      ≈ 1.1 h
+  correct: 3
+  explanation: |-
+    2 × 245,000 J / 120 W ≈ 4,080 s ≈ **1.1 h**. The body’s defences change this in practice, but the arithmetic shows why there is no time to waste.

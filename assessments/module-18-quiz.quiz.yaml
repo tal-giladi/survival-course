@@ -1,0 +1,159 @@
+- id: s18-rev-9
+  question: |-
+    On day 5, a search aircraft is expected tomorrow if the weather is clear. Your signal area is half-built; your firewood is fine; food is low but adequate. How do you spend today?
+  options:
+    - |-
+      Go fishing to top up the food supply while the weather holds
+    - |-
+      Finish and test the signals: ground markers, a laid signal fire, mirror
+    - |-
+      Rest all day so that you are fresh and alert for tomorrow
+    - |-
+      Walk to a nearby ridge tomorrow and wave at the aircraft from there
+  correct: 1
+  explanation: |-
+    A rolling plan puts rescue windows on the horizon so the work is done in time. The aircraft passes once; signals have to be ready.
+
+- id: s18-rev-4
+  question: |-
+    Your latrine is 20 m from the stream you drink from, uphill of it. It rained heavily overnight. What is the most important change?
+  options:
+    - |-
+      Keep the latrine but filter all drinking water twice from now on
+    - |-
+      Move the water collection point further downstream of camp
+    - |-
+      Close it; dig new catholes 60 m+ from water; collect upstream
+    - |-
+      Add a few drops of hand sanitiser to each bottle of water
+  correct: 2
+  explanation: |-
+    Rain carries faecal contamination downhill into water. Distance and position are the first barrier; treatment is the second.
+
+- id: s18-rev-2
+  question: |-
+    Winter camp, day 2. You have plenty of snow, 1 day of stove fuel and a large supply of dead wood. What is the best way to keep making water?
+  options:
+    - |-
+      Eat snow directly so that no fuel is spent on water at all
+    - |-
+      Use up the stove fuel first, then switch over to the wood fire
+    - |-
+      Drink less each day so that the stove fuel lasts longer
+    - |-
+      Melt snow over the wood fire; keep stove fuel as a reserve
+  correct: 3
+  explanation: |-
+    Match each need to the most plentiful resource and keep the scarce one as a reserve. A little water in the pot stops the snow scorching.
+
+- id: s18-rev-7
+  question: |-
+    Day 3 in a tropical forest. Rain every afternoon; everyone is soaked. What gives the biggest benefit for the rest of the wait?
+  options:
+    - |-
+      Nightly foot care, dry sleep clothes, a raised netted bed, morning work
+    - |-
+      Working through the afternoons to get the camp tasks done faster
+    - |-
+      Sleeping on the ground under the tarp to save building effort
+    - |-
+      Keeping boots on day and night so that feet stay protected
+  correct: 0
+  explanation: |-
+    In the tropics, moisture, feet, heat timing and insects decide comfort and health over several days (Stage 5 and this stage).
+
+- id: s18-rev-8
+  question: |-
+    A storm is forecast for tomorrow at your several-day camp. Today’s jobs: firewood, extra water, securing signal markers, reinforcing the shelter, and planning the storm day. Which job comes first?
+  options:
+    - |-
+      Stock two nights of firewood under cover
+    - |-
+      Re-tension the shelter and clear overhead hazards
+    - |-
+      Treat and store an extra day of drinking water
+    - |-
+      Secure the signal markers against the wind
+  correct: 1
+  explanation: |-
+    Shelter first (a failure in the storm is the biggest threat), then the fuel and water you cannot collect tomorrow, then signals; then plan the storm day in the evening. Stage 12 taught how to read the signs; this is how you act on them.
+
+- id: s18-rev-3
+  question: |-
+    Which of these does NOT belong in the evening part of a multi-day routine in a cold forest?
+  options:
+    - |-
+      Getting tomorrow’s firewood under cover before dark
+    - |-
+      Drying and inspecting feet; putting on dry socks for sleep
+    - |-
+      A long exploratory walk to look for a better camp site
+    - |-
+      Updating the ledger and planning tomorrow’s work blocks
+  correct: 2
+  explanation: |-
+    Evenings are for preparing the night and tomorrow — wood, an evening water batch, feet, the ledger. Big moves and explorations are morning jobs.
+
+- id: s18-rev-10
+  question: |-
+    Which of these statements is a myth?
+  options:
+    - |-
+      “Morale responds to routine, goals, food, warmth and company.”
+    - |-
+      “In a short wait, food-getting usually costs more than it returns.”
+    - |-
+      “Hand sanitiser is a backup and works poorly on dirty hands.”
+    - |-
+      “Trench foot only happens in temperatures below freezing.”
+  correct: 3
+  explanation: |-
+    Non-freezing cold injury needs only long hours wet and cool. Other common myths from this stage: rationing drinking water to make it last, and sanitiser replacing soap on dirty hands.
+
+- id: s18-rev-5
+  question: |-
+    Someone in camp has diarrhoea. Which statement about managing it is correct?
+  options:
+    - |-
+      Oral rehydration comes first; blood, high fever or vomiting fluids mean evacuate
+    - |-
+      Plain water is enough; salts only matter once the diarrhoea has stopped
+    - |-
+      Stop drinking for a day so that the gut can rest and settle down
+    - |-
+      Evacuation is only needed if it lasts more than a full week
+  correct: 0
+  explanation: |-
+    Oral rehydration (fluids plus salts) is the first treatment; blood in the stool, high fever or inability to keep fluids down are reasons to evacuate (Stages 8 and 9). Take a hands-on wilderness first-aid course.
+
+- id: s18-rev-1
+  question: |-
+    Two people will wait an estimated 4 days and plan for a margin of 1.5× that. Each needs 3.5 L of drinking water a day. How many litres should the plan cover?
+  options:
+    - |-
+      28 L
+    - |-
+      42 L
+    - |-
+      21 L
+    - |-
+      14 L
+  correct: 1
+  explanation: |-
+    $2 \times 3.5 \times (4 \times 1.5) = 42$ L. In practice that is usually a stock plus a reliable, treated source — the ledger shows whether income covers it.
+
+- id: s18-rev-6
+  question: |-
+    You carry two lighters in separate pockets. Each has an independent 5 % chance per day of being lost or failing. What is the chance that both have failed by the end of 7 days?
+  options:
+    - |-
+      About 30 %
+    - |-
+      About 49 %
+    - |-
+      About 9 %
+    - |-
+      About 0.25 %
+  correct: 2
+  explanation: |-
+    Each fails within a week with probability $1 - 0.95^7 \approx 0.30$; both: $0.30^2 \approx 0.09$, about 9 % — versus 30 % with one. Keep them apart so failures stay independent.

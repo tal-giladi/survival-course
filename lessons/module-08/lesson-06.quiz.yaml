@@ -1,0 +1,79 @@
+- id: s8-l6-q5
+  question: |-
+    Which plan best helps a person get through a cold night in a basic shelter?
+  options:
+    - |-
+      Skip dinner to save food for later; keep a drink within reach
+    - |-
+      Eat a snack before sleep, then exercise hard until warm and sweating
+    - |-
+      Eat a carb-and-fat snack before sleep; keep food and a drink within reach
+    - |-
+      Skip dinner, then exercise hard just before getting into the bag
+  correct: 2
+  explanation: |-
+    In the cold, food is heat. Eat before sleep, keep a snack handy, and avoid sweating.
+
+- id: s8-l6-q4
+  question: |-
+    A survivor has plenty of very lean rabbit meat but no fat or carbohydrate. What is the outlook?
+  options:
+    - |-
+      They will be fine indefinitely, as protein gives energy like any food.
+    - |-
+      They will be fine as long as they eat until they feel full each day.
+    - |-
+      They will be fine for months; only vitamin shortages cause trouble.
+    - |-
+      They will fall ill: protein can cover only a limited share of energy.
+  correct: 3
+  explanation: |-
+    Protein can supply only a limited share of energy; lean-meat-only diets cause “rabbit starvation”. Fat is essential.
+
+- id: s8-l6-q1
+  question: |-
+    Which fuel store is the main bottleneck for hard work and prolonged shivering?
+  options:
+    - |-
+      Glycogen
+    - |-
+      Fat
+    - |-
+      Protein
+    - |-
+      Blood glucose
+  correct: 0
+  explanation: |-
+    Glycogen is small and fast; fat is large and slow. Feed the glycogen tank on long or cold days.
+
+- id: s8-l6-q2
+  question: |-
+    Hard uphill work at 540 kcal/h draws 75 % from carbohydrate. How long does a 1,600 kcal glycogen store last with no food?
+  options:
+    - |-
+      ≈ 3.0 h
+    - |-
+      ≈ 4.0 h
+    - |-
+      ≈ 11.9 h
+    - |-
+      ≈ 0.25 h
+  correct: 1
+  explanation: |-
+    540 × 0.75 = 405 kcal/h; 1,600 / 405 ≈ **4.0 h**.
+
+- id: s8-l6-q3
+  question: |-
+    During total fasting (with water, at rest), what is the main fuel shift **after liver glycogen is used up**?
+  options:
+    - |-
+      The brain runs largely on ketones
+    - |-
+      Fat runs out and protein loss speeds up
+    - |-
+      Gluconeogenesis from protein rises
+    - |-
+      Protein is fully spared until fat is gone
+  correct: 2
+  explanation: |-
+    Liver glycogen (hours) → gluconeogenesis from protein (days) → ketosis spares protein (weeks) → fat depleted, accelerated protein loss. Judgment degrades early in the sequence.

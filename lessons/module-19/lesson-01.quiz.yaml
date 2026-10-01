@@ -1,0 +1,79 @@
+- id: cap-1-q1
+  question: |-
+    Why did the best plan use a bearing of 190° instead of pointing straight at the car park?
+  options:
+    - |-
+      Magnetic declination in that area is 10°, so the bearing had to be offset.
+    - |-
+      Walking slightly west keeps the sun behind you and the glare off the map.
+    - |-
+      Bearings set to exact cardinal directions are harder to follow accurately.
+    - |-
+      Aiming to one side means you know which way to turn when you hit the road.
+  correct: 3
+  explanation: |-
+    Aiming off converts an uncertain point target into a certain line target plus a known turn.
+
+- id: cap-1-q6
+  question: |-
+    Spaced review (Stage 1 phones): which phone plan best fits a lost, uninjured hiker at 38 % with weak signal?
+  options:
+    - |-
+      Send one SMS with position and plan, then airplane mode and brief scheduled checks.
+    - |-
+      Keep the map app open continuously so you never lose track of your position.
+    - |-
+      Switch the phone off completely until you are certain you need outside help.
+    - |-
+      Keep calling home and the emergency number until someone finally answers.
+  correct: 0
+  explanation: |-
+    The phone is primarily a communication device in an emergency: one SMS with coordinates and plan, then airplane mode and short scheduled checks. Navigate by map and compass and take occasional fixes.
+
+- id: cap-1-q3
+  question: |-
+    The sky is clearing and the wind dropping before a frosty night. Which sleeping spot is least likely to sit in a cold-air pool?
+  options:
+    - |-
+      The lowest point of a sheltered hollow on the valley floor.
+    - |-
+      Under a living conifer on a bench above the valley.
+    - |-
+      A flat patch where mist is starting to form this evening.
+    - |-
+      An open meadow on the valley floor, out of the trees.
+  correct: 1
+  explanation: |-
+    Calm, clear nights produce strong radiative cooling and cold-air drainage into hollows. A bench a few metres above a hollow can be several degrees warmer than its floor.
+
+- id: cap-1-q4
+  question: |-
+    You are lost in hilly forest and come across a stream. Which statement about following it downhill is correct?
+  options:
+    - |-
+      It reliably leads to a road or village, so it is a safe default.
+    - |-
+      It is safe as long as you walk in the streambed rather than the bank.
+    - |-
+      It often leads into gorges, waterfalls and thick vegetation first.
+    - |-
+      It is the best plan whenever your map does not show a nearby road.
+  correct: 2
+  explanation: |-
+    Streams often lead into gorges, waterfalls and dense vegetation before they lead anywhere useful. Check the map; if it shows a better catching feature, use it.
+
+- id: cap-1-q2
+  question: |-
+    It is 15:40. Useful light under the canopy ends at 17:30. You need 60 minutes of light to make a bed, gather fuel, treat water and lay out signals. How long can a relocation attempt take before your trigger must fire?
+  options:
+    - |-
+      110 min
+    - |-
+      30 min
+    - |-
+      170 min
+    - |-
+      50 min
+  correct: 3
+  explanation: |-
+    15:40 → 17:30 is 110 minutes of useful light; reserving 60 for protection leaves 50 minutes for the attempt. That is your trigger: 16:30.

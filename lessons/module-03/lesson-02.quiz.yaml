@@ -1,0 +1,79 @@
+- id: s3-l2-q4
+  question: |-
+    You need a fire to cook for an hour with even heat. Which fuel plan is best?
+  options:
+    - |-
+      Softwood only, because it lights easily and burns hot.
+    - |-
+      Softwood kindling first, then dry hardwood for coals.
+    - |-
+      Green hardwood, because it burns slowly and lasts.
+    - |-
+      Punky wood, because it smoulders for hours on end.
+  correct: 1
+  explanation: |-
+    Softwood to start, hardwood to sustain and to make coals.
+
+- id: s3-l2-q3
+  question: |-
+    You are checking dead wood for fuel. Which of these is **not** a sign of good, dry fuel wood?
+  options:
+    - |-
+      It snaps with a sharp crack.
+    - |-
+      It was held off the ground.
+    - |-
+      It bends before it breaks.
+    - |-
+      It feels light for its size.
+  correct: 2
+  explanation: |-
+    Snap, weight and position off the ground are quick, reliable dryness checks. Wood that bends is green or wet; wood that crumbles is punky.
+
+- id: s3-l2-q1
+  question: |-
+    Why does birch bark light even when damp?
+  options:
+    - |-
+      Its inner layers always stay dry, even after heavy rain.
+    - |-
+      Its white colour gives it a lower ignition temperature.
+    - |-
+      It holds more oxygen in its fibres than ordinary wood.
+    - |-
+      Its oily, water-repellent betulin, plus thin peeling layers.
+  correct: 3
+  explanation: |-
+    Fineness plus oils: thin layers heat fast and betulin sheds water and burns hot. Take it from dead or fallen birches only.
+
+- id: s3-l2-q2
+  question: |-
+    An armful of dry oak (700 kg/m³) and one of dry pine (450 kg/m³) have the same volume. How many times more **mass** (and roughly energy) does the oak armful have?
+  options:
+    - |-
+      ≈ 1.56×
+    - |-
+      ≈ 0.64×
+    - |-
+      ≈ 0.56×
+    - |-
+      ≈ 1.00×
+  correct: 0
+  explanation: |-
+    700 ÷ 450 ≈ **1.56**. Energy per kg is similar, so energy per armful scales with density.
+
+- id: s3-l2-q5
+  question: |-
+    Why does a feather stick work so well in wet weather?
+  options:
+    - |-
+      The curls are cut off and piled loose, where they burn hotter.
+    - |-
+      The attached curls act as tinder, the stick behind them as kindling.
+    - |-
+      Shaving strips the bark, which is the only part that holds water.
+    - |-
+      The knife cuts release resin, which is what actually lights.
+  correct: 1
+  explanation: |-
+    It is a self-contained mini-ladder: fine curls → thin shavings → the stick. It manufactures surface area from one dry-cored piece of wood.

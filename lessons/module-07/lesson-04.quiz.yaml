@@ -1,0 +1,79 @@
+- id: s7-l4-q4
+  question: |-
+    Which batoning setup is the safe one?
+  options:
+    - |-
+      A folding knife on a straight-grained round, resting on a block
+    - |-
+      A fixed blade driven into a round with a large knot in its middle
+    - |-
+      A fixed blade with only 1 cm of tip protruding past the wood
+    - |-
+      A fixed blade on a knot-free, wrist-thick round, tip well clear, on a block
+  correct: 3
+  explanation: |-
+    Full tang, knot-free, tip protruding, block underneath, body and other hand clear. Folders, knots and a short tip each make batoning unsafe.
+
+- id: s7-l4-q1
+  question: |-
+    Why is working over your lap the most dangerous carving position?
+  options:
+    - |-
+      A slip can cut the femoral artery in the inner thigh
+    - |-
+      Shavings fall into your lap and hide the line of the cut
+    - |-
+      You cannot see the wood clearly when it is held that low
+    - |-
+      It is only dangerous if the knife is dull and likely to slip
+  correct: 0
+  explanation: |-
+    The inner thigh carries the femoral artery, and a slip there can cause life-threatening bleeding within minutes. Always ask: if the blade slips now, where does it stop? Never in a person.
+
+- id: s7-l4-q3
+  question: |-
+    Which statement about a dull knife is correct?
+  options:
+    - |-
+      It is safer, because a dull edge is less likely to cut skin
+    - |-
+      It is more dangerous: you push harder, it skates, you slip
+    - |-
+      It is just as safe if you simply cut more slowly and carefully
+    - |-
+      It is safer for batoning, though riskier for fine carving
+  correct: 1
+  explanation: |-
+    A dull edge needs many times the force to reach cutting pressure. You push harder, it skates, and the uncontrolled stroke cuts you, often with a messier wound.
+
+- id: s7-l4-q5
+  question: |-
+    How should you harden the tip of a green digging stick?
+  options:
+    - |-
+      Char it black in the flames until the surface is hard
+    - |-
+      Soak it overnight in water so the fibers swell and lock
+    - |-
+      Dry it slowly near the coals until light brown, not charred
+    - |-
+      Leave it as it is: wood cannot be made harder in the field
+  correct: 2
+  explanation: |-
+    The "fire-hardening" that works is drying. Charring destroys the wood you wanted to harden.
+
+- id: s7-l4-q2
+  question: |-
+    A knife blade is 30 mm tall and 5 mm thick at the spine. Ignoring friction, what sideways splitting force does a 200 N baton strike produce?
+  options:
+    - |-
+      ≈ 33 N
+    - |-
+      200 N
+    - |-
+      2,400 N
+    - |-
+      1,200 N
+  correct: 3
+  explanation: |-
+    MA ≈ h/t = 30/5 = 6; 6 × 200 N = **1,200 N**. Friction reduces this in practice.

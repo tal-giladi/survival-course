@@ -1,0 +1,79 @@
+- id: s10-l5-q5
+  question: |-
+    A member of your group has diarrhoea on day 2 of 5. They usually cook. What is the best response?
+  options:
+    - |-
+      Let them keep cooking, since all the food is boiled anyway
+    - |-
+      Give them less water so they need the toilet less often
+    - |-
+      Someone else cooks; they get ORS, own utensils, a separate toilet
+    - |-
+      Carry on as normal and wait for it to pass on its own
+  correct: 2
+  explanation: |-
+    Isolate the routes (someone else cooks, own cup and utensils, separate toilet site, strict hand-washing) and replace fluid and salts with oral rehydration solution (Stage 8). Seek help for red flags.
+
+- id: s10-l5-q3
+  question: |-
+    In the F-diagram, which of these is the **primary** barrier (at the source) rather than a secondary one?
+  options:
+    - |-
+      Hand-washing with soap
+    - |-
+      Treating drinking water
+    - |-
+      Covering food against flies
+    - |-
+      Digging a proper cathole
+  correct: 3
+  explanation: |-
+    Primary: safe disposal. Secondary (blocking routes after faeces are in the environment): hands, water, food, flies.
+
+- id: s10-l5-q4
+  question: |-
+    After cooking, your hands are visibly greasy and dirty. What is the best way to clean them?
+  options:
+    - |-
+      Wash the grease and dirt off with water and soap
+    - |-
+      Rub in alcohol sanitiser; it works just as well
+    - |-
+      Use a double dose of sanitiser to cut the grease
+    - |-
+      Let your hands air-dry, then apply sanitiser
+  correct: 0
+  explanation: |-
+    Grease and dirt shield microbes from alcohol; remove them with water (and soap) first.
+
+- id: s10-l5-q1
+  question: |-
+    How deep should a cathole be in a typical forest soil?
+  options:
+    - |-
+      5 cm, so the sun can reach it
+    - |-
+      15–20 cm, in dark organic topsoil
+    - |-
+      50 cm, as deep as possible
+    - |-
+      Depth does not matter if it is covered
+  correct: 1
+  explanation: |-
+    15–20 cm deep, at least 60 m from water, camp and trails.
+
+- id: s10-l5-q6
+  question: |-
+    On a stream-side site, which order of camp zones runs correctly from **upstream** to **furthest away downstream/downhill**?
+  options:
+    - |-
+      Camp → water point → hand-wash → toilet area
+    - |-
+      Water point → hand-wash → camp → toilet area
+    - |-
+      Water point → camp → hand-wash → toilet area
+    - |-
+      Water point → camp → toilet area → hand-wash
+  correct: 2
+  explanation: |-
+    Collect water upstream of everything; route the toilet path past the hand-wash; keep the toilet area ≥ 60 m from water and camp.

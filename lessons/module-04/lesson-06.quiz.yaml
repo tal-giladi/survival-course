@@ -1,0 +1,79 @@
+- id: s4-l6-q1
+  question: |-
+    A bottle filter of gravel, sand and crushed campfire charcoal turns muddy water crystal clear. What should you do next?
+  options:
+    - |-
+      Drink it — it is clear
+    - |-
+      Run it through the filter twice more
+    - |-
+      Disinfect it: boil, chemical, UV or SODIS
+    - |-
+      Add more charcoal to make it activated carbon
+  correct: 2
+  explanation: |-
+    Improvised filters clarify. Pair every clarifier with a disinfection step.
+
+- id: s4-l6-q4
+  question: |-
+    This morning you boiled a bucket of water and left it open in camp. Which statement is correct?
+  options:
+    - |-
+      It stays safe for days, because boiling killed everything in it
+    - |-
+      It is safe as long as everyone dips only clean cups into it
+    - |-
+      It stays safe for about a week if the bucket is kept in shade
+    - |-
+      It has no residual protection, so cover it, pour, and use it soon
+  correct: 3
+  explanation: |-
+    Boiled water has no residual disinfectant; hands and cups re-contaminate it. Use covered, narrow-neck containers, pour, and use within a day or two.
+
+- id: s4-l6-q2
+  question: |-
+    Which of these setups meets the SODIS conditions (CDC/WHO/Eawag)?
+  options:
+    - |-
+      A clear 1 L PET bottle on a mostly cloudy day, left out for 2 consecutive days
+    - |-
+      A green glass bottle in the sun for a day
+    - |-
+      A 20 L clear bucket of muddy river water, 6 hours of sun
+    - |-
+      Clear PET bottles during a day of continuous rain
+  correct: 0
+  explanation: |-
+    Clear PET, ≤ 2 L, clear water, lying flat, ≥ 6 h sun or 2 days if cloudy.
+
+- id: s4-l6-q5
+  question: |-
+    You want to boil water by hot-rock boiling in a bark container. Which stones should you heat?
+  options:
+    - |-
+      Smooth stones from the riverbed — they are clean
+    - |-
+      Dry stones collected well away from water
+    - |-
+      Flint or glassy stones, because they hold heat best
+    - |-
+      Any stone — it makes no difference
+  correct: 1
+  explanation: |-
+    Trapped water turns to steam and can split a stone. Use dry stones; tongs or sticks; protect your eyes.
+
+- id: s4-l6-q6
+  question: |-
+    Cholera villages in Bangladesh used folded sari cloth to filter water. What did the trial show?
+  options:
+    - |-
+      Folded cloth eliminated cholera cases entirely
+    - |-
+      Cloth made no measurable difference to cases
+    - |-
+      It cut cases by about half by removing plankton
+    - |-
+      Cloth worked by removing viruses from the water
+  correct: 2
+  explanation: |-
+    Cloth filtration cut cholera by roughly half by removing plankton that carry the bacteria. Simple clarification lowers risk; it doesn’t replace disinfection.

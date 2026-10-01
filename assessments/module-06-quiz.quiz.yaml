@@ -1,0 +1,159 @@
+- id: s6-rev-1
+  question: |-
+    Subarctic, −18 °C, snowmobile failure, rescue expected in 36 hours. You have a stove, fuel, 3,000 kcal of food for two people, and good clothing. Which plan best combines warmth, water and food?
+  options:
+    - |-
+      Eat snow for water and save all the food for the ride out.
+    - |-
+      Keep walking around to stay warm instead of eating your food.
+    - |-
+      Melt snow on a vented stove, eat regular rations, more in the evening.
+    - |-
+      Fast for the first 24 hours to stretch the food over the wait.
+  correct: 2
+  explanation: |-
+    In cold, food is part of your heating system. Melt, don’t eat, snow; ventilate any stove use.
+
+- id: s6-rev-3
+  question: |-
+    Desert, 42 °C, vehicle breakdown, 8 L of water for two people, rescue expected tomorrow. You have salty crackers, jerky and dried fruit. What about food?
+  options:
+    - |-
+      Eat the jerky first, since protein will keep your strength up.
+    - |-
+      Walk to look for edible desert plants to save your own food.
+    - |-
+      Eat nothing and drink nothing until rescue arrives tomorrow.
+    - |-
+      Eat little, mostly dried fruit; rest in shade; ration sweat, not water.
+  correct: 3
+  explanation: |-
+    In heat, water is the limiting resource. Eat lightly, avoid salty/protein-heavy food, reduce sweat.
+
+- id: s6-rev-4
+  question: |-
+    Every control has gaps. Which method **does** reliably remove the hazard it is paired with?
+  options:
+    - |-
+      Cooking chicken to 74 °C — Salmonella
+    - |-
+      Boiling water — chemical pollutants
+    - |-
+      Cooking shellfish — paralytic shellfish toxins
+    - |-
+      Freezing Arctic bear meat — Trichinella
+  correct: 0
+  explanation: |-
+    Every control has gaps. Know which hazards each one leaves behind — for water and for food.
+
+- id: s6-rev-5
+  question: |-
+    Lost for 20 hours in a temperate forest with water, you find a plant you are “about 90 % sure” is edible. Which Stage 1 principle decides this?
+  options:
+    - |-
+      Rule of threes: food matters after three weeks, so it doesn’t matter either way.
+    - |-
+      Reversibility: a poisoning is irreversible and the benefit is tiny — refuse.
+    - |-
+      Stay or move: eat it and then move.
+    - |-
+      Redundancy: eat two different plants to spread the risk.
+  correct: 1
+  explanation: |-
+    A 10 % chance of a possibly fatal error for a few dozen kcal is a terrible trade.
+
+- id: s6-rev-6
+  question: |-
+    You follow every step of the universal edibility test on a plant and wait the full time with no reaction. What does that tell you?
+  options:
+    - |-
+      The plant is safe to eat in normal amounts from now on.
+    - |-
+      The plant is safe, provided you eat only the part you tested.
+    - |-
+      Little — delayed toxins and lethal small doses defeat the test.
+    - |-
+      The plant is safe for you, though not yet for the rest of your group.
+  correct: 2
+  explanation: |-
+    Small doses of some plants kill, some toxins are delayed or cumulative, and taste does not reveal toxicity.
+
+- id: s6-rev-7
+  question: |-
+    You want to cook a legally caught fish on a campfire in a national forest in late summer. What must you check first?
+  options:
+    - |-
+      Only the fishing regulations, since the fish was caught legally.
+    - |-
+      Nothing, since small cooking fires are always allowed in forests.
+    - |-
+      Whether the fish is big enough to be worth the firewood.
+    - |-
+      Current fire restrictions there, then cook the fish to 63 °C.
+  correct: 3
+  explanation: |-
+    Every food activity sits inside other rules: fire, land access, and wildlife law.
+
+- id: s6-rev-9
+  question: |-
+    A group is stranded for an uncertain 3–6 days with water and shelter. Which order of food actions, by priority, is right?
+  options:
+    - |-
+      Inventory → daily ration with reserve → hygiene → low-cost legal food-getting
+    - |-
+      Low-cost legal food-getting → inventory → daily ration with reserve → hygiene
+    - |-
+      Inventory → low-cost legal food-getting → daily ration with reserve → hygiene
+    - |-
+      Daily ration with reserve → inventory → hygiene → low-cost legal food-getting
+  correct: 0
+  explanation: |-
+    Inventory, then a daily ration with a reserve, then hand washing and safe handling, and only then low-cost legal food-getting (e.g., licensed fishing). Manage what you have before trying to get more; illness would cost more than any catch.
+
+- id: s6-rev-10
+  question: |-
+    A companion ate foraged mushrooms 8 hours ago and now has vomiting and diarrhoea. You are 2 days’ walk from a road but have a satellite messenger. What now?
+  options:
+    - |-
+      Treat it as gastroenteritis and walk out tomorrow if it gets worse.
+    - |-
+      SOS for evacuation now, report suspected amatoxin, keep remains, give fluids.
+    - |-
+      Wait and watch: if they improve by tomorrow, the danger has passed.
+    - |-
+      Induce vomiting to clear the stomach, then continue the trip.
+  correct: 1
+  explanation: |-
+    Late-onset GI symptoms after wild mushrooms = assume amatoxin; communication (Stage 1) is the decisive action.
+
+- id: s6-rev-11
+  question: |-
+    Which statement about food-getting in a short emergency is **not** correct?
+  options:
+    - |-
+      Passive, legal methods can return more energy than they cost.
+    - |-
+      Stalking game is usually energy-negative for an untrained person.
+    - |-
+      Leaving the shelter area to hunt improves your chance of rescue.
+    - |-
+      Insect gathering in cold weather usually costs more than it returns.
+  correct: 2
+  explanation: |-
+    Expected return minus cost, adjusted for risk and the effect on being found.
+
+- id: s6-rev-12
+  question: |-
+    A storm knocks out power for 3 days. What is the best order for eating your household food?
+  options:
+    - |-
+      Pantry first, then the freezer, and the fridge contents last.
+    - |-
+      Freezer first, because it holds the most valuable food.
+    - |-
+      Whatever still smells and looks fine, in any order you like.
+    - |-
+      Fridge perishables first, then thawing freezer food, then pantry.
+  correct: 3
+  explanation: |-
+    Fridge ~4 h, full freezer ~48 h, pantry indefinitely. Keep doors shut and use a thermometer.

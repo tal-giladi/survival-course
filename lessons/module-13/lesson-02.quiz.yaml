@@ -1,0 +1,79 @@
+- id: s13-l2-q6
+  question: |-
+    At an indoor climbing wall course, your partner is about to climb. Their tie-in knot looks different from the one you were taught, and they say “it’s fine, I always do it like that”. What do you do?
+  options:
+    - |-
+      Trust them, since they have more experience and use that knot every week
+    - |-
+      Say nothing, but watch them closely during the first few moves of the climb
+    - |-
+      Stop them, ask them to show you, and ask the instructor if either of you is unsure
+    - |-
+      Tie a second knot above theirs as a backup before they set off
+  correct: 2
+  explanation: |-
+    Social pressure and expert halo are heuristic traps (Stage 1). The partner check only works if doubt stops the action.
+
+- id: s13-l2-q5
+  question: |-
+    Which statement about the reef (square) knot is correct?
+  options:
+    - |-
+      It is a reliable bend for joining two ropes that will carry a load
+    - |-
+      It is a secure bend as long as both ropes have the same diameter
+    - |-
+      It is the standard camp knot for joining two cords of unequal size
+    - |-
+      It is a binding knot; used as a bend it can capsize and slide apart
+  correct: 3
+  explanation: |-
+    It is a binding knot for bundles and bandages; as a bend it can capsize and slide apart. Use a sheet bend (camp) or a double fisherman’s.
+
+- id: s13-l2-q1
+  question: |-
+    You need a loop in the middle of a rope that can be pulled from either end and from the loop. Which knot fits?
+  options:
+    - |-
+      Alpine butterfly
+    - |-
+      Bowline
+    - |-
+      Clove hitch
+    - |-
+      Reef knot
+  correct: 0
+  explanation: |-
+    Choose the knot by the job and by the directions it will be loaded.
+
+- id: s13-l2-q3
+  question: |-
+    Which pair are both **bends** (knots that join two rope ends)?
+  options:
+    - |-
+      Sheet bend and clove hitch
+    - |-
+      Sheet bend and double fisherman’s
+    - |-
+      Double fisherman’s and figure-eight loop
+    - |-
+      Clove hitch and figure-eight loop
+  correct: 1
+  explanation: |-
+    Knots (stoppers, loops) live in one rope; hitches attach to things; bends join two ends.
+
+- id: s13-l2-q2
+  question: |-
+    Which sequence is the routine for every knot?
+  options:
+    - |-
+      Set, dress, confirm the tail, check
+    - |-
+      Dress, check, set, confirm the tail
+    - |-
+      Dress, set, confirm the tail, check
+    - |-
+      Check, dress, set, confirm the tail
+  correct: 2
+  explanation: |-
+    Dress, set, tail, check — every time (with a partner check for life safety). The check catches the commonest failure: a knot never finished.

@@ -1,0 +1,79 @@
+- id: s6-l3-q5
+  question: |-
+    After eating, a companion develops double vision, drooping eyelids and difficulty swallowing. What does this suggest and what do you do?
+  options:
+    - |-
+      Ordinary gastroenteritis — rest and fluids.
+    - |-
+      Possible botulism or a toxin — urgent evacuation/medical help now.
+    - |-
+      Fatigue — sleep it off.
+    - |-
+      Give more of the same food to “settle the stomach”.
+  correct: 1
+  explanation: |-
+    Descending weakness starting with the eyes and swallowing is the classic botulism picture. Call for help; keep the suspect food for investigators.
+
+- id: s6-l3-q1
+  question: |-
+    You have legally obtained wild boar meat in camp. What is the safe approach?
+  options:
+    - |-
+      Freeze it for a week, then cook to medium-rare.
+    - |-
+      Smoke it into jerky without cooking first.
+    - |-
+      Cook to at least 74 °C (165 °F) in the thickest part, measured.
+    - |-
+      Cook until the outside is brown.
+  correct: 2
+  explanation: |-
+    Measured internal temperature is the control. For carnivorous and omnivorous wild game: ≥ 74 °C.
+
+- id: s6-l3-q2
+  question: |-
+    Which of these food hazards **is** reliably removed by thorough cooking?
+  options:
+    - |-
+      Paralytic shellfish toxins in mussels
+    - |-
+      *Staphylococcus aureus* toxin in food left warm
+    - |-
+      Ciguatoxin in reef fish
+    - |-
+      *Salmonella* bacteria in poultry
+  correct: 3
+  explanation: |-
+    Cooking kills live bacteria and parasites, but pre-formed toxins survive it. They are prevented, not cured: official closures, local advice, and keeping food out of the danger zone.
+
+- id: s6-l3-q4
+  question: |-
+    Bear meat has been frozen for several weeks. Which statement about eating it is correct?
+  options:
+    - |-
+      It still needs cooking to ≥ 74 °C; freezing may not kill its parasites.
+    - |-
+      Freezing has killed any parasites, so it can be eaten medium-rare.
+    - |-
+      Freezing plus slow drying into jerky makes it safe without cooking.
+    - |-
+      Freezing works for bear only if it was shot outside the Arctic.
+  correct: 0
+  explanation: |-
+    Freeze-resistant Trichinella species occur in wild game, especially in Arctic and subarctic regions. Cook to ≥ 74 °C.
+
+- id: s6-l3-q6
+  question: |-
+    Why should stones for stone boiling come from dry ground above the waterline?
+  options:
+    - |-
+      River stones are too cold and take far longer to heat up.
+    - |-
+      Trapped water turns to steam and can burst them violently.
+    - |-
+      Dry stones hold more heat per kilogram than wet ones do.
+    - |-
+      River stones are often protected and must not be removed.
+  correct: 1
+  explanation: |-
+    Heated wet stones can explode and throw hot fragments. Dense, dry stones; tongs; eye protection in practice.

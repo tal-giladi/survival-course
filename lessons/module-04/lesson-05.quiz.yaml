@@ -1,0 +1,79 @@
+- id: s4-l5-q3
+  question: |-
+    At 4,500 m, water boils at about 85 °C. What does that mean for boiling as a treatment?
+  options:
+    - |-
+      Boiling no longer works; use chemicals only
+    - |-
+      It still works; use the CDC 3-minute rule for margin
+    - |-
+      Boil for 20 minutes to compensate
+    - |-
+      Just bring it to 60 °C to save fuel
+  correct: 1
+  explanation: |-
+    Pathogens die rapidly well below 83 °C. The 3-minute rule above 2,000 m is a guideline margin.
+
+- id: s4-l5-q6
+  question: |-
+    Your hollow-fibre filter froze overnight, but water still flows through it the next morning. What should you do?
+  options:
+    - |-
+      Trust it: if water still flows, the fibres are intact
+    - |-
+      Backflush it hard once it thaws, then trust it again
+    - |-
+      Treat it as cracked: back it up with chemical or boiling
+    - |-
+      Trust it as long as the filtered water comes out clear
+  correct: 2
+  explanation: |-
+    Ice can crack fibres invisibly; flow says nothing about integrity. Keep filters warm; replace one that may have frozen, or add chemical/boiling as a backup.
+
+- id: s4-l5-q4
+  question: |-
+    Which of these does **not** reduce the effectiveness of a UV pen?
+  options:
+    - |-
+      Cloudy water
+    - |-
+      Tea-coloured water rich in dissolved organic matter
+    - |-
+      Cold batteries
+    - |-
+      Using a wide-mouth bottle as instructed
+  correct: 3
+  explanation: |-
+    UV dose = intensity × time. Anything that blocks light or weakens the lamp cuts the dose.
+
+- id: s4-l5-q2
+  question: |-
+    For 3-log Giardia inactivation with free chlorine at 5 °C, CT ≈ 140 mg·min/L. With a 2 mg/L residual, how long a contact time do you need?
+  options:
+    - |-
+      70 min
+    - |-
+      30 min
+    - |-
+      140 min
+    - |-
+      280 min
+  correct: 0
+  explanation: |-
+    t = CT / C = 140 / 2 = **70 min** — more than double the standard 30 minutes, because the water is cold.
+
+- id: s4-l5-q5
+  question: |-
+    Which chain for a silty river below a village is in the right order?
+  options:
+    - |-
+      Collect → microfilter → settle and cloth → chlorine → store
+    - |-
+      Collect → settle and cloth → microfilter → chlorine → store
+    - |-
+      Collect → settle and cloth → chlorine → microfilter → store
+    - |-
+      Collect → chlorine → settle and cloth → microfilter → store
+  correct: 1
+  explanation: |-
+    Clarify before the filter (clogging) and before chemicals (demand, shielding); disinfect last so the residual protects stored water in a clean narrow-neck container.

@@ -1,0 +1,79 @@
+- id: s18-l1-q2
+  question: |-
+    Evening ledger on day 2 in a cold forest: water 5 days of reserve, food 3 days, firewood 0.5 nights, phone 6 days. What should tomorrow morning be built around?
+  options:
+    - |-
+      Food — it is the next most urgent after firewood, so start fishing
+    - |-
+      Phone — send a status message while it still has some charge left
+    - |-
+      Firewood — it runs out tonight and a fireless cold night costs warmth and sleep
+    - |-
+      Water — it is always the first priority, whatever the ledger says
+  correct: 2
+  explanation: |-
+    Plan around the resource with the fewest days of reserve among those whose shortage harms you soonest. Priorities are a starting point; the ledger tells you what they mean today.
+
+- id: s18-l1-q3
+  question: |-
+    You are waiting for rescue for several days in a hot, dry place with limited water. Which of these does NOT stretch the water budget safely?
+  options:
+    - |-
+      Doing heavy work at dawn and dusk and resting in shade through midday
+    - |-
+      Keeping clothing on and loose so that it shades the skin from the sun
+    - |-
+      Eating less protein-heavy food while water is in short supply
+    - |-
+      Drinking only small sips, well below thirst, to make the supply last
+  correct: 3
+  explanation: |-
+    Reduce water use through timing, shade, clothing and diet rather than rationing drinking below need. Drinking less than you need only moves the deficit into your body.
+
+- id: s18-l1-q6
+  question: |-
+    Day 1 at a cold, wet forest camp where you will wait several days. Which order of tasks for the morning and afternoon is best?
+  options:
+    - |-
+      Shelter and bed insulation → water routine → tonight’s firewood → signals → passive food-getting
+    - |-
+      Water routine → passive food-getting → shelter and bed insulation → signals → firewood
+    - |-
+      Signals → firewood → water routine → passive food-getting → shelter and bed insulation
+    - |-
+      Firewood → signals → passive food-getting → water routine → shelter and bed insulation
+  correct: 0
+  explanation: |-
+    In cold, wet conditions warmth dominates the first night, then water, then fuel before dark and signals before any aircraft could come; food-getting is last. In a desert, water and shade would lead; if an aircraft were expected today, signals would move up.
+
+- id: s18-l1-q5
+  question: |-
+    You expect to wait a few days for rescue. Which statement about spending most of each day looking for food is correct?
+  options:
+    - |-
+      It is a good investment, because food is energy and energy keeps you working
+    - |-
+      It usually costs more than it returns and takes time from shelter, fuel and signals
+    - |-
+      It should be the first job on day 1, while you are still at your strongest
+    - |-
+      It pays off as long as it is done in the afternoon heat, when camp work is done
+  correct: 1
+  explanation: |-
+    In a short wait, food-getting usually returns fewer calories than it costs, and it takes time and water away from shelter, fuel, signals and rest. Food matters over weeks; carry enough for the days you might be delayed.
+
+- id: s18-l1-q1
+  question: |-
+    You carry 6 L of treated water. You need 4 L a day, and one collection trip a day yields 2.5 L of treated water. How many days of reserve do you have?
+  options:
+    - |-
+      1.5 days
+    - |-
+      2.4 days
+    - |-
+      4 days
+    - |-
+      0.9 days
+  correct: 2
+  explanation: |-
+    Net loss = 4 − 2.5 = 1.5 L/day; $D = 6 / 1.5 = 4$ days. Without the trip it would be $6/4 = 1.5$ days — protecting income matters as much as stock.

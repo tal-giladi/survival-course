@@ -1,0 +1,81 @@
+- id: s2-l7-q6
+  question: |-
+    You are unsure of your position in forest at 16:40; sunset is 17:20. Which action is **not** sound?
+  options:
+    - |-
+      Stop first and estimate the circle your position must lie in.
+    - |-
+      Search in widening loops until you find the path, however long.
+    - |-
+      Backtrack on your track to the last junction if it is close.
+    - |-
+      If relocation fails in 15–20 min, prepare to stay, keep warm, signal.
+  correct: 1
+  explanation: |-
+    Relocation is time-boxed. With 40 minutes of light plus twilight, keep enough to prepare for the night.
+
+- id: s2-l7-q5
+  question: |-
+    Your three-bearing resection produces a **very large** cocked hat. What does it most likely mean?
+  options:
+    - |-
+      You are probably at its centre, so plot that as your fix
+    - |-
+      The lines are fine; take the corner nearest your route
+    - |-
+      A mistake: wrong feature, bad bearing or declination sign
+    - |-
+      You are somewhere inside it, so search the whole triangle
+  correct: 2
+  explanation: |-
+    A large cocked hat signals a mistake — a misidentified feature, a bad bearing or declination applied the wrong way. Find the error before trusting any point.
+
+- id: s2-l7-q2
+  question: |-
+    Which pair of features gives the most reliable two-line fix?
+  options:
+    - |-
+      Two summits at bearings 040° and 055°
+    - |-
+      A summit at 010° and a lake at 185°
+    - |-
+      Any two, if you are careful
+    - |-
+      A summit at 020° and a mast at 110°
+  correct: 3
+  explanation: |-
+    Position error ≈ sideways error ÷ sin(angle between lines). Aim for 60–120°.
+
+- id: s2-l7-q1
+  question: |-
+    Declination is 8° W (magnetic = grid + 8°). You take a bearing of **075° magnetic** to a cairn. What **grid** back bearing do you draw from the cairn toward yourself?
+
+    ![Resection: back-bearing lines from three features forming a cocked hat](../../assets/diagrams/resection.svg)
+  options:
+    - |-
+      247°
+    - |-
+      263°
+    - |-
+      255°
+    - |-
+      067°
+  correct: 0
+  explanation: |-
+    Grid bearing = 075 − 8 = 067°. Back bearing = 067 + 180 = **247°**.
+
+- id: s2-l7-q4
+  question: |-
+    Relocation procedure: you have stopped moving. What is the **next** step?
+  options:
+    - |-
+      Estimate the circle you must be in
+    - |-
+      Identify your last known point and time
+    - |-
+      Look for major features or a resection
+    - |-
+      Backtrack or head for a catching feature
+  correct: 1
+  explanation: |-
+    Freeze the problem, anchor it (last known point and time), bound it (circle), gather evidence, then choose a reversible action.

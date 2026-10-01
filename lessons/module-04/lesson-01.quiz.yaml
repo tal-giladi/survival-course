@@ -1,0 +1,79 @@
+- id: s4-l1-q5
+  question: |-
+    On a long, hot hike, a companion has been drinking large amounts of plain water, has **gained weight** and now has a headache and nausea. What should you do?
+  options:
+    - |-
+      Give more plain water: headache and nausea mean they are still behind
+    - |-
+      Stop forcing fluids, give salty food, get help if they become confused
+    - |-
+      Withhold all fluids completely until the headache has gone away
+    - |-
+      Rest them in shade and have them drink a litre of water every hour
+  correct: 1
+  explanation: |-
+    Weight gain plus headache and nausea after heavy plain-water drinking suggests **hyponatraemia**. More plain water can make it worse. Stop forcing fluids, give salty food, and seek medical help if confused, vomiting or drowsy (Stage 8 and 9).
+
+- id: s4-l1-q4
+  question: |-
+    Which of these **reduces** daily water need or loss rather than increasing it?
+  options:
+    - |-
+      Breathing cold, dry air at altitude
+    - |-
+      Walking at midday rather than at dawn in the desert
+    - |-
+      Resting in shade on an insulated pad
+    - |-
+      Diarrhoea from drinking contaminated water
+  correct: 2
+  explanation: |-
+    Need rises with heat load, work, dry air and illness. Shade, insulation from hot ground and covering clothing cut losses.
+
+- id: s4-l1-q6
+  question: |-
+    Why do winter travellers often end the day dehydrated even though they barely sweat?
+  options:
+    - |-
+      Cold air holds lots of water, which they absorb
+    - |-
+      Because melted snow is not real water and does not hydrate
+    - |-
+      Because the body stops producing metabolic water in the cold
+    - |-
+      Breathing dry air, cold-induced urination and blunted thirst
+  correct: 3
+  explanation: |-
+    Plan 3–4 L/day in the cold and budget the fuel to make it (lesson 3).
+
+- id: s4-l1-q1
+  question: |-
+    Before a hike you weigh 80.0 kg; after 3 h you weigh 78.2 kg. You drank 1.5 L and did not urinate. What was your sweat rate?
+  options:
+    - |-
+      1.1 L/h
+    - |-
+      0.6 L/h
+    - |-
+      3.3 L/h
+    - |-
+      0.1 L/h
+  correct: 0
+  explanation: |-
+    Sweat rate = (mass before − after + drink − urine) / hours: (80.0 − 78.2 + 1.5 − 0) / 3 = 3.3 / 3 = **1.1 L/h**.
+
+- id: s4-l1-q3
+  question: |-
+    Two people, 3 days in the desert. Plan per person per day: baseline 2.5 L, 8 h resting in shade at 0.3 L/h, 4 h of cool-hours work at 0.7 L/h. Add a 25 % margin. Total water for the group?
+  options:
+    - |-
+      ≈ 46 L
+    - |-
+      ≈ 58 L
+    - |-
+      ≈ 39 L
+    - |-
+      ≈ 29 L
+  correct: 1
+  explanation: |-
+    Per person-day: 2.5 + 8 × 0.3 + 4 × 0.7 = 2.5 + 2.4 + 2.8 = 7.7 L. × 2 people × 3 days = 46.2 L. × 1.25 = **≈ 58 L**. Even a careful cool-hours desert plan needs close to 8 L per person-day.

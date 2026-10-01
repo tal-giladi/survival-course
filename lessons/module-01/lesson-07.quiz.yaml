@@ -1,0 +1,79 @@
+- id: s1-l7-q1
+  question: |-
+    Sitting on a cold rock loses heat mainly by…
+  options:
+    - |-
+      Conduction
+    - |-
+      Radiation
+    - |-
+      Convection
+    - |-
+      Evaporation
+  correct: 0
+  explanation: |-
+    Conduction is heat transfer through direct contact. Insulate yourself from the ground.
+
+- id: s1-l7-q2
+  question: |-
+    Evaporating 1 litre of water absorbs about 2.4 MJ. How much heat does evaporating **150 ml** from your clothing remove?
+  options:
+    - |-
+      3600 kJ
+    - |-
+      360 kJ
+    - |-
+      36 kJ
+    - |-
+      16 kJ
+  correct: 1
+  explanation: |-
+    0.15 L × 2400 kJ/L = **360 kJ** — about 1.5 °C of core-equivalent heat for a 70 kg person.
+
+- id: s1-l7-q3
+  question: |-
+    Which pairing of a control with the heat-loss mechanism it targets is **wrong**?
+  options:
+    - |-
+      A windproof shell mainly reduces convection.
+    - |-
+      A foam pad mainly reduces conduction.
+    - |-
+      Walking faster reduces evaporative loss.
+    - |-
+      A tarp overhead cuts radiation to a clear sky.
+  correct: 2
+  explanation: |-
+    Each control targets a mechanism. Exertion adds heat but also sweat, which later costs heat through evaporation.
+
+- id: s1-l7-q4
+  question: |-
+    Under which conditions do many hypothermia cases occur?
+  options:
+    - |-
+      Well below −10 °C, in calm, dry and clear weather.
+    - |-
+      Below −20 °C, mostly at high altitude in winter.
+    - |-
+      Only once the air temperature drops below freezing.
+    - |-
+      Between 0 and 10 °C, when people are wet and in wind.
+  correct: 3
+  explanation: |-
+    Many occur between 0 and 10 °C when people are wet and exposed to wind.
+
+- id: s1-l7-q5
+  question: |-
+    A 70 kg person (≈245 kJ per °C) has a net heat loss of 50 W for 2 hours with no compensation. Roughly how many **°C** of core-equivalent heat is that?
+  options:
+    - |-
+      1.5 °C
+    - |-
+      0.7 °C
+    - |-
+      5.1 °C
+    - |-
+      0.02 °C
+  correct: 0
+  explanation: |-
+    50 W × 7200 s = 360 kJ; 360 / 245 ≈ **1.5 °C**.

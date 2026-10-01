@@ -1,0 +1,79 @@
+- id: s1-l11-q4
+  question: |-
+    Which of these is **NOT** a good fire-safety practice?
+  options:
+    - |-
+      Use an existing fire ring where one exists.
+    - |-
+      Clear about 3 m around the fire of flammable material.
+    - |-
+      Drown, stir and feel before leaving.
+    - |-
+      Build on deep leaf litter or peat for insulation.
+  correct: 3
+  explanation: |-
+    Site, size, supervision, and complete extinguishing — on bare mineral soil or rock, never on peat or deep litter, and never in enclosed spaces.
+
+- id: s1-l11-q6
+  question: |-
+    No fire ban is posted where you are hiking. What should you conclude?
+  options:
+    - |-
+      Check with the land manager; rules and bans may only be online.
+    - |-
+      Fires are allowed, since any ban would be posted at the trailhead.
+    - |-
+      Fires are allowed anywhere, as long as you clear 3 m around them.
+    - |-
+      Fires are allowed outside the summer season, when fire danger is low.
+  correct: 0
+  explanation: |-
+    Many areas prohibit fires outside designated rings year-round, and bans may be posted only online. Check with the land manager.
+
+- id: s1-l11-q3
+  question: |-
+    What is the correct ferro-rod technique?
+  options:
+    - |-
+      Hold the rod above the tinder and push the striker down hard.
+    - |-
+      Rest the rod tip in the tinder, hold the striker still, and pull the rod back.
+    - |-
+      Warm the rod in your hand first, then strike it hard and fast.
+    - |-
+      Strike the rod against a rock held just above the tinder.
+  correct: 1
+  explanation: |-
+    Pulling the rod back keeps your hand and the tinder steady.
+
+- id: s1-l11-q1
+  question: |-
+    Why does a 1 mm shaving catch fire from a match when a 2 cm stick does not?
+  options:
+    - |-
+      Shavings come from the oily outer wood, so they burn more easily.
+    - |-
+      Thin wood holds less oxygen inside, so it ignites at lower heat.
+    - |-
+      Its surface-to-volume ratio is ~20× higher, so it heats through fast.
+    - |-
+      Thick sticks always carry moisture inside, even when they look dry.
+  correct: 2
+  explanation: |-
+    Thin fuel absorbs heat over a large area relative to its mass, reaching pyrolysis temperature quickly.
+
+- id: s1-l11-q2
+  question: |-
+    Which sequence of fuel thicknesses builds the fire ladder correctly, from first to last?
+  options:
+    - |-
+      Hair-fine → pencil → pencil lead → thumb → wrist
+    - |-
+      Pencil lead → hair-fine → pencil → thumb → wrist
+    - |-
+      Hair-fine → pencil lead → thumb → pencil → wrist
+    - |-
+      Hair-fine → pencil lead → pencil → thumb → wrist
+  correct: 3
+  explanation: |-
+    Each rung is roughly 2–3× thicker than the previous one.

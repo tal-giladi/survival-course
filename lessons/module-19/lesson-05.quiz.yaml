@@ -1,0 +1,79 @@
+- id: cap-5-q2
+  question: |-
+    Your partner, who has had a headache since midday at 3,400 m, now can’t walk heel-to-toe along a line and seems confused. What does this indicate and what is the priority?
+  options:
+    - |-
+      Dehydration: rest and drink, then continue.
+    - |-
+      Mild AMS: rest here overnight.
+    - |-
+      Hypoglycaemia: give sugar and wait an hour.
+    - |-
+      HACE: descend immediately, together, and call for rescue.
+  correct: 3
+  explanation: |-
+    The heel-to-toe (tandem gait) test is a quick field check for HACE. Even a few hundred metres of descent can help dramatically.
+
+- id: cap-5-q4
+  question: |-
+    Which human-factor trap is NOT really at work in “We’re 45 minutes from the summit — let’s go for it” on a route new to you?
+  options:
+    - |-
+      Familiarity with the route
+    - |-
+      Scarcity / summit fever
+    - |-
+      Commitment / sunk cost
+    - |-
+      Not wanting to disappoint a partner
+  correct: 0
+  explanation: |-
+    Summit fever, sunk cost and social pressure all push toward the summit here. Naming the trap out loud, and having pre-agreed triggers, is the best defence.
+
+- id: cap-5-q3
+  question: |-
+    You are on a ridge and thunder is close. Where should you go?
+  options:
+    - |-
+      Into a shallow cave or under a rock overhang
+    - |-
+      Down off the ridge, away from exposed features
+    - |-
+      Under the tallest lone tree on the ridge
+    - |-
+      Stay crouched on the ridge crest until it passes
+  correct: 1
+  explanation: |-
+    Shallow caves and overhangs are not safe: current can arc across the opening and travel through ground and rock. Descend and leave summits, ridges and lone features.
+
+- id: cap-5-q5
+  question: |-
+    Spaced review (Stage 1 reversibility): why is the known ascent route better than the loose couloir, even if it takes longer?
+  options:
+    - |-
+      The ascent route is always the faster way down a mountain.
+    - |-
+      Couloirs attract lightning more than any other feature on a mountain.
+    - |-
+      Its hazards are known and you can reverse it; the couloir may commit you.
+    - |-
+      Mountain rules say you must always descend the way you came up.
+  correct: 2
+  explanation: |-
+    Under time pressure, prefer the option whose worst case you already know.
+
+- id: cap-5-q6
+  question: |-
+    Spaced review (Stage 1 trip plans): which part of the pair’s plan most reduced the consequences of the day going wrong?
+  options:
+    - |-
+      They carried two emergency bivvy bags.
+    - |-
+      They had a map.
+    - |-
+      They started early.
+    - |-
+      The hut warden had their names, route and expected return time.
+  correct: 3
+  explanation: |-
+    A trip plan with a responsible person is the cheapest rescue insurance there is.

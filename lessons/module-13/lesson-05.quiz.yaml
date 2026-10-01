@@ -1,0 +1,79 @@
+- id: s13-l5-q5
+  question: |-
+    Your companion has slid 10 m down a steep, grassy slope and stopped on a small ledge above a drop. They are conscious and holding a tussock. You have a 20 m rope. What first?
+  options:
+    - |-
+      Tie the rope round a tree and climb down it hand over hand to them
+    - |-
+      Tell them to stay still, get yourself to safe ground and call for help with your location
+    - |-
+      Throw them the rope end and pull them back up the slope together
+    - |-
+      Go for help on foot straight away, without stopping to tell them
+  correct: 1
+  explanation: |-
+    Stop, stabilise, call. Then care without rope: talk, lower gear (not people) if safe, warmth and signalling.
+
+- id: s13-l5-q6
+  question: |-
+    A farm worker has collapsed at the bottom of a grain silo. What should others at the scene do?
+  options:
+    - |-
+      Go in quickly with a rope tied round the waist so others can pull you out
+    - |-
+      Lower a ladder and climb down to check their breathing and pulse
+    - |-
+      Stay out, call the fire service now, keep others away, shut off equipment if safe
+    - |-
+      Wait a while to see if they recover before calling anyone
+  correct: 2
+  explanation: |-
+    The rescuer-as-second-casualty pattern is common in confined spaces, water and cliffs. Call, isolate, keep others out.
+
+- id: s13-l5-q3
+  question: |-
+    An untrained group on steep snow considers tying themselves together with a rope. Which statement is correct?
+  options:
+    - |-
+      It makes everyone safer, because the others can hold a person who slips
+    - |-
+      It is safe as long as the strongest person goes last to hold any slip
+    - |-
+      It is safe as long as the rope is a dynamic climbing rope
+    - |-
+      A sliding person can pull the others off; roped travel is a trained skill
+  correct: 3
+  explanation: |-
+    Without anchors and trained technique, the forces of a sliding person pull the others off. Roped travel is a trained skill.
+
+- id: s13-l5-q4
+  question: |-
+    Which of these can you do for real without formal, hands-on training?
+  options:
+    - |-
+      Inspecting and logging your own rope
+    - |-
+      Belaying a climber at a crag
+    - |-
+      Rappelling (abseiling) down a drop
+    - |-
+      Building an anchor to hold a person
+  correct: 0
+  explanation: |-
+    Knots, inspection and force reasoning are home skills. Anything that holds a person — belaying, rappelling, anchors, raising or lowering an injured person — is formal-training only.
+
+- id: s13-l5-q1
+  question: |-
+    Which sequence is the rescue response ladder, from first to last?
+  options:
+    - |-
+      Call → stay safe → reach/throw → care → rope rescue
+    - |-
+      Stay safe → call → reach/throw → care → rope rescue
+    - |-
+      Stay safe → reach/throw → rope rescue → call → care
+    - |-
+      Stay safe → reach/throw → care → call → rope rescue
+  correct: 1
+  explanation: |-
+    Most lives are saved on the upper rungs. Rope rescue is the last rung and belongs to trained teams.

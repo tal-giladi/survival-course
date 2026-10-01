@@ -1,0 +1,79 @@
+- id: s12-l5-q4
+  question: |-
+    You are hiking up a canyon toward a saddle. Smoke rises from the canyon floor 2 km below you, and the afternoon upslope wind is blowing toward you. What is the best action?
+  options:
+    - |-
+      Move across-slope to the big scree field you passed, then call.
+    - |-
+      Climb fast to the saddle and drop over the other side.
+    - |-
+      Descend straight toward the smoke to get back to the trailhead.
+    - |-
+      Stay put in the dense brush and wait for the fire to pass.
+  correct: 0
+  explanation: |-
+    Fire runs uphill, fastest in the afternoon with upslope wind, and funnels through saddles. Get across to low-fuel ground and call for help.
+
+- id: s12-l5-q5
+  question: |-
+    There is a red-flag warning with extreme fire danger for your hiking area, but no fire has started yet. What is the best decision?
+  options:
+    - |-
+      Go ahead, since there is no fire to escape from yet.
+    - |-
+      Treat it as a no-go: change your area or your date.
+    - |-
+      Go, but carry extra water in case a fire does start.
+    - |-
+      Go, and turn back only if you see smoke on the route.
+  correct: 1
+  explanation: |-
+    Red-flag conditions mean any new ignition can spread explosively. Change your area or date.
+
+- id: s12-l5-q1
+  question: |-
+    Which are the three sides of the **fire behaviour** triangle?
+  options:
+    - |-
+      Heat, fuel and oxygen
+    - |-
+      Fuel, oxygen and topography
+    - |-
+      Fuel, weather and topography
+    - |-
+      Weather, fuel and ignition source
+  correct: 2
+  explanation: |-
+    The fire triangle (heat, fuel, oxygen) explains combustion; the behaviour triangle (fuel, weather, topography) predicts how a wildfire moves.
+
+- id: s12-l5-q3
+  question: |-
+    Flames are about 8 m high. Using the NWCG rule of thumb, what is the minimum separation distance from the flames in a safety zone?
+  options:
+    - |-
+      64 m
+    - |-
+      8 m
+    - |-
+      16 m
+    - |-
+      32 m
+  correct: 3
+  explanation: |-
+    4 × 8 m = **32 m** in every direction, so the clear area is about 64 m across plus room for people. Go further on slopes or downwind.
+
+- id: s12-l5-q2
+  question: |-
+    Using "spread doubles per 10° of slope", a fire spreading at 0.5 km/h on flat ground reaches a 30° slope. What is the spread rate?
+  options:
+    - |-
+      4 km/h
+    - |-
+      1.5 km/h
+    - |-
+      3 km/h
+    - |-
+      1 km/h
+  correct: 0
+  explanation: |-
+    $0.5 \times 2^{3} = 4$ km/h. That is faster than anyone can walk uphill on a 30° slope.

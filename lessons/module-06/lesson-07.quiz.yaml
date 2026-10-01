@@ -1,0 +1,79 @@
+- id: s6-l7-q5
+  question: |-
+    The best fishing spot on a cold mountain river is reached by wading across a thigh-deep run. What do you do?
+  options:
+    - |-
+      Wade carefully with a stick.
+    - |-
+      Fish from your safe bank, even if the spot is worse.
+    - |-
+      Wade across in the evening when fish bite best.
+    - |-
+      Take off your boots so they stay dry.
+  correct: 1
+  explanation: |-
+    Stage 13 covers water crossings; here the value of a slightly better spot is tiny compared with the risk.
+
+- id: s6-l7-q1
+  question: |-
+    You carry a fishing kit in your survival pack. Which statement about using it is correct?
+  options:
+    - |-
+      The kit lets you fish anywhere without a licence in an emergency.
+    - |-
+      A licence is needed only if you keep the fish rather than release it.
+    - |-
+      Fishing rules still apply, and many also restrict methods like set-lines.
+    - |-
+      With a licence, any method is allowed, including unattended set-lines.
+  correct: 2
+  explanation: |-
+    Fishing rules apply to everyone; many also restrict methods like set-lines. Check before you go.
+
+- id: s6-l7-q4
+  question: |-
+    Where in a river are fish **least** likely to hold?
+  options:
+    - |-
+      In the eddy behind a large rock
+    - |-
+      Under an undercut bank or fallen tree
+    - |-
+      At the seam between fast and slow water
+    - |-
+      In the fastest, shallowest open riffle at midday
+  correct: 3
+  explanation: |-
+    Fish need food, cover and comfortable current: edges, eddies, seams and structure.
+
+- id: s6-l7-q2
+  question: |-
+    You fish actively for 3 hours. You catch 0.3 fish per hour on average, each worth 160 kcal, and fishing costs 80 kcal/h above rest. What is the expected **net** energy?
+  options:
+    - |-
+      −96 kcal
+    - |-
+      +144 kcal
+    - |-
+      +64 kcal
+    - |-
+      −32 kcal
+  correct: 0
+  explanation: |-
+    Gain 3 × 0.3 × 160 = 144; cost 3 × 80 = 240; net **−96 kcal**.
+
+- id: s6-l7-q3
+  question: |-
+    Catch rate is 0.3 fish per hour. What is the probability of catching nothing in 4 hours?
+  options:
+    - |-
+      ≈ 76 %
+    - |-
+      ≈ 24 %
+    - |-
+      ≈ 0.8 %
+    - |-
+      ≈ 0 %
+  correct: 1
+  explanation: |-
+    The chance of no fish in an hour is 0.7, so 0.7⁴ ≈ 0.24 → **24 %**. Plan rations for the blank day.

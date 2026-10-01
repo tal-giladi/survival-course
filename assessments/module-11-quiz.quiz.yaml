@@ -1,0 +1,161 @@
+- id: s11-rev-3
+  question: |-
+    You come across a trail of very fresh, large bear prints crossing your route to a lake camp at 17:00. Sunset is 19:30. Using the STOP routine, what is the best plan?
+  options:
+    - |-
+      Follow the prints to see where the bear went, so you can avoid it
+    - |-
+      Continue to the planned camp, since bears usually avoid people
+    - |-
+      Make noise, stay together, and camp well away from the trail before dark
+    - |-
+      Turn back and walk out to the car, even if it means walking in the dark
+  correct: 2
+  explanation: |-
+    Tracks are information for decisions. Stage 1’s STOP and daylight budgeting apply: change the plan early while you still have light — an alternative camp away from the trail and any food sources, set up well before dark, with food stored properly.
+
+- id: s11-rev-10
+  question: |-
+    Hiking alone, you realise you left the trail following what you took to be a path, and it has faded into dense scrub. You can see your own boot prints behind you in soft ground. What is the best first move?
+  options:
+    - |-
+      Push on through the scrub; the path must reappear soon
+    - |-
+      Head straight downhill through the scrub to find water
+    - |-
+      Climb a nearby tree to look around for the lost path
+    - |-
+      STOP, then backtrack along your own prints to your last sure point
+  correct: 3
+  explanation: |-
+    Stage 1’s STOP and Stage 2’s relocation logic: return to your last known point. Reading your own trail is tracking too.
+
+- id: s11-rev-5
+  question: |-
+    A clear pool at the end of converging game trails is ringed by hoof prints and dung. You have a filter and chlorine tablets. How do you use it?
+  options:
+    - |-
+      Collect from the cleanest point, filter, then disinfect for the full contact time
+    - |-
+      Drink it directly, since the water in the pool looks perfectly clear
+    - |-
+      Skip the filter and rely on the chlorine tablets alone for this pool
+    - |-
+      Skip it entirely and look elsewhere, since animal water is never usable
+  correct: 0
+  explanation: |-
+    Animal-used sources are among the most contaminated; treat with more than one barrier — pre-filter or settle if cloudy, filter, then disinfect with the tablets for the full contact time.
+
+- id: s11-rev-1
+  question: |-
+    A print in firm mud: round, four toes with one leading toe, no claw marks, and a large heel pad with a three-lobed rear edge. Which family?
+
+    ![Eight major track families: dog family with four toes and claws; cat family with four toes and no claws; weasel family with five toes and a C-shaped pad; bears with five toes and a very wide pad; hoofed animals with two hoof halves; rabbits and hares with furry prints and long hind feet; birds with three forward toes; humans with heel, ball and tread.](../assets/diagrams/s11-track-families.svg)
+  options:
+    - |-
+      Dog family
+    - |-
+      Cat family
+    - |-
+      Weasel family
+    - |-
+      Bear
+  correct: 1
+  explanation: |-
+    Describe, then match: roundness, asymmetry, missing claws and pad shape point to the cat family.
+
+- id: s11-rev-8
+  question: |-
+    Where should you **not** pitch an emergency shelter?
+  options:
+    - |-
+      On a small rise 80 m from water with no animal sign and no dead trees overhead
+    - |-
+      In the lee of a boulder on a south-facing (sunny) slope in cold weather, checked for rockfall
+    - |-
+      On a well-used game trail with fresh scat
+    - |-
+      In a clearing 100 m from the nearest trail, with no dead branches overhead
+  correct: 2
+  explanation: |-
+    Stage 5 site selection plus this stage’s sign reading: stay off animal highways.
+
+- id: s11-rev-4
+  question: |-
+    Which statement about direction of travel is **not** correct?
+  options:
+    - |-
+      In a hare’s bound, the two long hind prints are at the front of each group
+    - |-
+      The toe end of a print is usually deeper, as weight rolls forward at push-off
+    - |-
+      Vegetation is pressed in the direction of travel
+    - |-
+      One blurred print is enough to be sure of the direction
+  correct: 3
+  explanation: |-
+    Hind prints lead in a bound, toe ends dig deeper, and vegetation leans the way of travel — but use several independent cues along several prints.
+
+- id: s11-rev-6
+  question: |-
+    You are using a game trail as a handrail toward your destination. Which rule is correct?
+  options:
+    - |-
+      Use it only while it goes your way, checking your bearing at junctions
+    - |-
+      Follow it to its end, since game trails lead to roads or water
+    - |-
+      At junctions, take the more-used branch, as it is the main route
+    - |-
+      Avoid game trails entirely, as they never help with navigation
+  correct: 0
+  explanation: |-
+    Game trails are good handrails only while they go your way; check your bearing at every junction. Animals travel to their destinations, not yours (Stage 2).
+
+- id: s11-rev-7
+  question: |-
+    A friend is overdue from a day walk and their car is at the trailhead. Which sequence of actions is right?
+  options:
+    - |-
+      Protect car and trail start; gather details; brief searchers; call emergency number
+    - |-
+      Call emergency number; protect car and trail start; gather details; brief searchers
+    - |-
+      Gather details; call emergency number; brief searchers; protect car and trail start
+    - |-
+      Call emergency number; search the trail yourself; gather details; brief searchers
+  correct: 1
+  explanation: |-
+    Call and give the trip plan details, keep people and vehicles away from the car and trail start, gather footwear (sole photo), clothing, phone number, plans and time last seen, then brief the arriving searchers and do what you are assigned.
+
+- id: s11-rev-2
+  question: |-
+    It is 16:00. Prints lie on top of a tyre track made at 09:00, and a tyre track made at 13:00 crosses and deforms them. What is the **minimum** age of the prints?
+  options:
+    - |-
+      7 hours
+    - |-
+      4 hours
+    - |-
+      3 hours
+    - |-
+      5 hours
+  correct: 2
+  explanation: |-
+    Made before 13:00 → at least 16:00 − 13:00 = 3 h old; made after 09:00 → at most 7 h. Window: 3–7 h.
+
+- id: s11-rev-9
+  question: |-
+    A lost person could move at up to 1.5 km/h. By what factor is the circle of possible area larger after 6 hours than after 3 hours?
+  options:
+    - |-
+      2 times
+    - |-
+      8 times
+    - |-
+      16 times
+    - |-
+      4 times
+  correct: 3
+  explanation: |-
+    Area ∝ t². Doubling time multiplies area by 4 — the reason to report early.

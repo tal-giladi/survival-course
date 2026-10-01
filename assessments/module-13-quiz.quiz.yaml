@@ -1,0 +1,159 @@
+- id: s13-rev-1
+  question: |-
+    A river is too deep and fast to wade safely. A companion suggests stringing a rope across and tying each person to it with a loop round the waist. What is the main danger?
+  options:
+    - |-
+      Current on a roped person can pin them under water, and a tied-on person may not escape
+    - |-
+      The rope may be too short to span the river once tied off at both ends
+    - |-
+      Wet nylon loses some strength, so the rope may snap mid-crossing
+    - |-
+      There is little danger as long as every waist knot is tied well
+  correct: 0
+  explanation: |-
+    Stage 12’s rule stands: if it is too deep or fast to wade, do not cross. Rope work in moving water is a specialised swiftwater course.
+
+- id: s13-rev-5
+  question: |-
+    On a descent you reach a 35° slope of hard, icy snow above rocks. You have no crampons or ice axe and no training in their use. The alternative route adds 2 hours; sunset is in 4 hours. What do you do?
+  options:
+    - |-
+      Cross carefully, kicking steps
+    - |-
+      Take the longer route — it fits the daylight budget
+    - |-
+      Rope the group together so others can hold a slip
+    - |-
+      Wait for the snow to soften in the afternoon sun
+  correct: 1
+  explanation: |-
+    Slope angle (Stage 12), terrain consequence (this stage) and the daylight budget (Stage 1) all point the same way.
+
+- id: s13-rev-7
+  question: |-
+    A friend has slipped into a steep gully and is lying injured on a snow patch 20 m below you at dusk. Which order of actions is best?
+  options:
+    - |-
+      Call/PLB → get safe → talk to them → bring warmth or prepare signals
+    - |-
+      Get safe → talk to them → bring warmth or prepare signals → call/PLB
+    - |-
+      Get safe → call/PLB → talk to them → bring warmth or prepare signals
+    - |-
+      Talk to them → get safe → call/PLB → bring warmth or prepare signals
+  correct: 2
+  explanation: |-
+    The rescue ladder: no second casualty, call early, then care without rope — reach them only by an easy, safe route, and protect against cold on the snow (Stage 8).
+
+- id: s13-rev-3
+  question: |-
+    A tarp ridgeline is pulled so tight it barely sags. A storm is coming. Why is that a problem?
+  options:
+    - |-
+      A drum-tight tarp collects more rain, which overloads the fabric
+    - |-
+      It is not a problem, because a tight line is the strongest set-up
+    - |-
+      The tarp will sit too low to shed the wind once the storm arrives
+    - |-
+      A flat line turns the wind load into very high tension in the line and both trees
+  correct: 3
+  explanation: |-
+    Stage 5 wind loads plus this stage’s angles: leave some sag, and let a trucker’s hitch re-tension when needed.
+
+- id: s13-rev-9
+  question: |-
+    A mountain-rescue team arrives to evacuate a walker with a suspected ankle fracture from steep ground. They choose to lower the stretcher down a gully instead of raising it to the ridge path. Why is lowering often preferred?
+  options:
+    - |-
+      Gravity does the work, friction controls speed, and anchor forces are lower
+    - |-
+      Lowering needs no anchor, so the team can set it up much faster
+    - |-
+      Raising a stretcher is against rescue regulations on steep ground
+    - |-
+      Stretchers cannot be raised safely on steep ground, only lowered
+  correct: 0
+  explanation: |-
+    Friction is the enemy of hauling and the friend of lowering. The evacuation route decision (Stage 9) is made with the terrain, the team and the patient.
+
+- id: s13-rev-10
+  question: |-
+    Which of these statements is a fact rather than a myth?
+  options:
+    - |-
+      “Two anchor points always halve the load.”
+    - |-
+      “Peak fall force depends on the fall factor, not the fall length.”
+    - |-
+      “A reef knot is a good bend for load-bearing lines.”
+    - |-
+      “More mechanical advantage is always safer.”
+  correct: 1
+  explanation: |-
+    Each myth sounds like common sense; the physics says otherwise. Another one: “paracord is fine for body weight if doubled” — utility cord is not life-safety rope.
+
+- id: s13-rev-6
+  question: |-
+    A backup shares the same anchor, rope and knot as the main system. Which statement is correct?
+  options:
+    - |-
+      It is truly redundant, because there are now two systems instead of one
+    - |-
+      It is truly redundant as long as the shared knot is a strong one
+    - |-
+      It is not truly redundant: the shared parts are still single points of failure
+    - |-
+      It is truly redundant as long as the backup rope is kept slack
+  correct: 2
+  explanation: |-
+    Redundancy (Stage 1 kit design, and here) means independent components: if everything goes through one point, that point is still a single point of failure.
+
+- id: s13-rev-4
+  question: |-
+    Which of these rope uses is camp rigging you may practise without formal training?
+  options:
+    - |-
+      Lowering an injured walker down a slope in a litter
+    - |-
+      Descending a canyon drop on a rope
+    - |-
+      Holding the rope for a friend climbing a boulder
+    - |-
+      Tensioning a tarp ridgeline with a trucker’s hitch
+  correct: 3
+  explanation: |-
+    The line runs between gear and people: if the rope could hold a person, it needs formal training and certified equipment. Camp skills such as hitches and Stage 7 lashings are yours to practise.
+
+- id: s13-rev-2
+  question: |-
+    A cord wraps one full turn (2π rad) round a smooth post with μ = 0.2. How many times the holding force can the load be? (capstan: $e^{\mu\theta}$)
+  options:
+    - |-
+      3.5 ×
+    - |-
+      1.9 ×
+    - |-
+      2.3 ×
+    - |-
+      1.2 ×
+  correct: 0
+  explanation: |-
+    $e^{0.2 \times 2\pi} = e^{1.26} \approx 3.5$. The same exponential that makes hitches hold makes carabiners and edges waste haul force.
+
+- id: s13-rev-8
+  question: |-
+    A 60 kg load hangs from two anchor legs 90° apart. What is the force in each leg? (g = 9.81 m/s²)
+  options:
+    - |-
+      294 N
+    - |-
+      416 N
+    - |-
+      832 N
+    - |-
+      42 N
+  correct: 1
+  explanation: |-
+    $W = 589$ N; $T = 589/(2\cos 45°) = 589/1.414 \approx 416$ N.

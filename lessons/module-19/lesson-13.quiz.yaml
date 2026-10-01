@@ -1,0 +1,63 @@
+- id: final-q1
+  question: |-
+    What does a high final-assessment score demonstrate?
+  options:
+    - |-
+      Field competence in every physical skill
+    - |-
+      A recognised survival certification
+    - |-
+      Sound decision making and understanding
+    - |-
+      That you can skip hands-on first aid training
+  correct: 2
+  explanation: |-
+    Knowledge and judgment are necessary, not sufficient.
+
+- id: final-q2
+  question: |-
+    Which next step does NOT help turn this course into real capability?
+  options:
+    - |-
+      A hands-on WFA/WAFA course
+    - |-
+      Logged practice of physical skills within their safety class
+    - |-
+      Local navigation or orienteering events
+    - |-
+      Unsupervised solo testing in extreme conditions
+  correct: 3
+  explanation: |-
+    Train → consolidate → assess, as professional programs do, escalating gradually and safely.
+
+- id: final-q4
+  question: |-
+    Which question ends the 12 questions, as the output the others feed?
+  options:
+    - |-
+      What is my next highest-value action?
+    - |-
+      Am I in immediate danger?
+    - |-
+      Should I stay or move?
+    - |-
+      What is the biggest risk overnight?
+  correct: 0
+  explanation: |-
+    The 12 questions end with “What is my next highest-value action?” — every other question feeds that one.
+
+- id: final-q3
+  question: |-
+    In the decision loop (Observe → Assess → … → Reassess), which step comes right after Assess?
+  options:
+    - |-
+      Plan
+    - |-
+      Prioritize
+    - |-
+      Act
+    - |-
+      Reassess
+  correct: 1
+  explanation: |-
+    Observe → Assess → Prioritize → Plan → Act → Reassess: the loop that runs through the whole course.

@@ -1,0 +1,79 @@
+- id: s7-l1-q5
+  question: |-
+    In a dry desert you have fresh yucca leaves, and later you will tie tight knots. What is the best preparation?
+  options:
+    - |-
+      Extract the fibers, and soak them before plying and before knotting
+    - |-
+      Use the fibers bone-dry for maximum strength
+    - |-
+      Use the whole leaf without extracting the fibers first
+    - |-
+      Char the fibers lightly over the fire to harden them
+  correct: 0
+  explanation: |-
+    Brittle dry fibers lose far more strength at knots. Basket makers and cordage makers soak material for the same reason.
+
+- id: s7-l1-q4
+  question: |-
+    Compared with a single twisted strand, which of these is **not** something reverse-wrap plying achieves?
+  options:
+    - |-
+      It balances torque, so the cord does not unwind or kink
+    - |-
+      It makes the individual fibers themselves stronger
+    - |-
+      It locks the twist in under load, so the fibers keep gripping
+    - |-
+      It averages out thin spots, since the other ply backs a weak one
+  correct: 1
+  explanation: |-
+    Plying is structural engineering: it balances torque and shares load, turning twist into lasting strength. The fibers themselves are no stronger.
+
+- id: s7-l1-q2
+  question: |-
+    A 3 mm cord breaks at 350 N. Ignoring the small size effect, what should a **4 mm** cord of the same fiber and construction hold?
+  options:
+    - |-
+      ≈ 197 N
+    - |-
+      ≈ 467 N
+    - |-
+      ≈ 622 N
+    - |-
+      ≈ 830 N
+  correct: 2
+  explanation: |-
+    Strength ∝ d²: 350 × (4/3)² = 350 × 1.78 ≈ **622 N**. One more millimetre gives 78 % more strength, and 78 % more fiber and work.
+
+- id: s7-l1-q3
+  question: |-
+    Which statement about twist and cord strength is correct?
+  options:
+    - |-
+      Strength keeps rising the more twist you put into each ply
+    - |-
+      Twist adds no strength; only the fiber type sets the strength
+    - |-
+      Strength peaks at about 45°, where grip and alignment balance
+    - |-
+      Strength peaks at roughly 15–28° of surface twist, then falls
+  correct: 3
+  explanation: |-
+    Strength rises up to roughly 15–28° of surface twist and then falls: fibers lie at a steeper angle (only ≈ cos α of their strength acts along the cord), are pre-strained, and kink.
+
+- id: s7-l1-q6
+  question: |-
+    Where does the most, and most harmless, bast fiber come from in the temperate zone?
+  options:
+    - |-
+      Dead standing stalks in late autumn and winter, cut above ground
+    - |-
+      Green summer nettle stalks pulled up by the root
+    - |-
+      Bark stripped in a ring around a young tree
+    - |-
+      Any plant in a national park, since it is public land
+  correct: 0
+  explanation: |-
+    The best technique is also the most sustainable one: dead stalks, cut above ground, with permission.

@@ -1,0 +1,83 @@
+- id: s11-l6-q1
+  question: |-
+    A walker has not returned; their car is at the trailhead. You are the first person there. Relatives want to rush up the trail shouting. What is the most useful thing to do first?
+  options:
+    - |-
+      Call the emergency number, keep everyone off the trail start, gather details
+    - |-
+      Lead the relatives up the trail at speed while the sign is fresh
+    - |-
+      Drive the nearby roads looking for the walker before calling anyone
+    - |-
+      Wait until the next morning in case the walker comes back on their own
+  correct: 0
+  explanation: |-
+    The IPP holds the best sign: keep people and vehicles away from the car and trail start. Give searchers early, detailed information — time last seen, footwear, clothing, plans, phone number.
+
+- id: s11-l6-q6
+  question: |-
+    In step-by-step tracking, you lose the trail on hard ground. What do you do?
+
+    ![Step-by-step tracking with a tracking stick. The stick is marked with the length of the subject’s step. Place the mark at the heel of the last confirmed print; the next print should lie near the tip, within a small arc. Search that arc slowly, low-angle light behind the sign, before moving on. Never step on the sign — walk beside the trail.](../../assets/diagrams/s11-tracking-stick.svg)
+  options:
+    - |-
+      Guess the direction and walk on until you pick up the trail again
+    - |-
+      Go back to the last marked print and search the likely zone, then arcs
+    - |-
+      Abandon tracking and call off the search, since the trail is lost
+    - |-
+      Ask the whole group to fan out ahead and look for the next print
+  correct: 1
+  explanation: |-
+    The last known print is the anchor: return to it, use the tracking stick and low-angle light, and search the expected zone, then widening arcs. Slow and systematic beats fast and lost.
+
+- id: s11-l6-q3
+  question: |-
+    You are a searcher and find a possible clue — a candy wrapper beside a boot print on your assigned trail. Which sequence of actions is right?
+  options:
+    - |-
+      Report by radio; stop; mark and photograph; record details
+    - |-
+      Bag the wrapper; mark and photograph; record details; report
+    - |-
+      Stop; mark and photograph; record details; report by radio
+    - |-
+      Stop; report by radio; walk on; record details at the debrief
+  correct: 2
+  explanation: |-
+    Stop without touching or stepping near it; mark and photograph it with a scale; record time, coordinates, print direction and age bracket; report by radio and follow instructions. The search manager decides what happens next.
+
+- id: s11-l6-q4
+  question: |-
+    You need to cut for sign across a subject’s likely direction of travel. Which is the **poorest** place to do it?
+
+    ![Search support. Around the last known point (LKP), the area a person could have reached grows with the square of time. Searchers cut for sign along natural track traps — trails, stream banks, roads and soft ground — around the LKP. One confirmed print with a direction of travel narrows the search to a sector.](../../assets/diagrams/s11-sar-cut.svg)
+  options:
+    - |-
+      The soft edges of a trail crossing that direction
+    - |-
+      A sandy or muddy stream bank across that line
+    - |-
+      A dusty dirt road, perhaps dragged smooth first
+    - |-
+      A bare rock slab across the subject’s route
+  correct: 3
+  explanation: |-
+    Track traps are linear, soft features that anyone crossing must mark — trail edges, stream banks, dirt roads, and fresh snow that fell after the subject went missing.
+
+- id: s11-l6-q5
+  question: |-
+    An adult friend is several hours overdue from a day walk and you are worried. When should you report them missing?
+  options:
+    - |-
+      Now, as soon as you are concerned
+    - |-
+      After 24 hours, the waiting period for adults
+    - |-
+      Only after you have searched the area yourself
+    - |-
+      Next morning, if they have still not returned
+  correct: 0
+  explanation: |-
+    There is no rule that you must wait 24 hours. Report an overdue person as soon as you are concerned: early searches cover smaller areas with fresher sign.

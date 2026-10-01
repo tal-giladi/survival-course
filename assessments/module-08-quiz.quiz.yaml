@@ -1,0 +1,159 @@
+- id: s8-rev-1
+  question: |-
+    Moorland, 4 °C, rain, 30 km/h wind, 16:00, sunset 17:10. Your partner has twisted an ankle and cannot walk far; she is soaked in cotton and starting to shiver. You carry a tarp, foam pads, a dry synthetic layer set, food and a phone with weak signal. What is the highest-value first action?
+  options:
+    - |-
+      Shelter her from the wind on pads in dry layers under the tarp, feed her, then message.
+    - |-
+      Help her hobble the 6 km back to the car before it gets dark.
+    - |-
+      Climb to high ground first to get a better phone signal out.
+    - |-
+      Wait for the rain to ease before starting to sort anything out.
+  correct: 0
+  explanation: |-
+    Name the mechanisms (evaporation, convection, conduction) and cut them cheaply; then communicate. Stay-or-move with an injured, cooling person usually means stay and call.
+
+- id: s8-rev-2
+  question: |-
+    Using the 2001 formula $WC = 13.12 + 0.6215T - 11.37V^{0.16} + 0.3965TV^{0.16}$, what is the wind chill at −15 °C with 20 km/h wind? ($20^{0.16} \approx 1.615$.)
+  options:
+    - |-
+      ≈ −15 °C
+    - |-
+      ≈ −24 °C
+    - |-
+      ≈ −5 °C
+    - |-
+      ≈ −19 °C
+  correct: 1
+  explanation: |-
+    13.12 + 0.6215(−15) − 11.37(1.615) + 0.3965(−15)(1.615) = 13.12 − 9.32 − 18.36 − 9.61 ≈ **−24 °C**.
+
+- id: s8-rev-3
+  question: |-
+    A hiker in 38 °C heat becomes confused and stumbles. What is the right response?
+  options:
+    - |-
+      Check first whether their skin is dry before deciding it is heat stroke.
+    - |-
+      Walk them slowly to the trailhead so that transport can take over.
+    - |-
+      Cool them at once, by immersion if possible, and call for evacuation now.
+    - |-
+      Rest them in shade with sips of water and reassess in 30 minutes.
+  correct: 2
+  explanation: |-
+    CNS dysfunction separates heat stroke from exhaustion. Time above ~40 °C drives the damage, so cool immediately and call early.
+
+- id: s8-rev-4
+  question: |-
+    Desert, 40 °C, 10 km from the road, 3 L of water. Which plan best reflects both Stage 1 water rules and heat physiology?
+  options:
+    - |-
+      Walk now at midday, sipping sparingly to make the water last.
+    - |-
+      Strip to shorts to stay cool, and walk out now while you can.
+    - |-
+      Drink all 3 L now to “bank” it in your body, then walk out.
+    - |-
+      Rest in shade through the heat, drink to thirst, stay clothed; walk evening and morning.
+  correct: 3
+  explanation: |-
+    Resting in shade cuts metabolic and solar heat — the biggest water saving available.
+
+- id: s8-rev-5
+  question: |-
+    You are first on scene: a kayaker has just been pulled onto a dock after 40 minutes in 6 °C water. He is drowsy and not shivering. What do you do **first**?
+  options:
+    - |-
+      Keep him lying down and handle him gently
+    - |-
+      Sit him up to check his airway and breathing
+    - |-
+      Call emergency services before touching him
+    - |-
+      Wrap him in insulation with heat to the trunk
+  correct: 0
+  explanation: |-
+    Gentle, horizontal handling from the first second (circum-rescue collapse), then airway and breathing (he may have inhaled water), call, then package. Learn it on a WFA course.
+
+- id: s8-rev-6
+  question: |-
+    On a clear, calm night, how does adding a tarp overhead affect your heat loss?
+  options:
+    - |-
+      It does nothing, because the air temperature under it is unchanged.
+    - |-
+      It cuts radiative loss by replacing the cold sky with a warmer surface.
+    - |-
+      It helps only by blocking wind, which matters little on a calm night.
+    - |-
+      It traps warm air like a tent and raises the air temperature a lot.
+  correct: 1
+  explanation: |-
+    The tarp replaces a very cold sky with a surface near air temperature, cutting radiative loss (Stefan–Boltzmann) even though the air temperature is unchanged.
+
+- id: s8-rev-7
+  question: |-
+    A 60 kg walker loses 1.5 L more than she drinks. What % of body mass is that?
+  options:
+    - |-
+      2.6 %
+    - |-
+      0.025 %
+    - |-
+      2.5 %
+    - |-
+      40 %
+  correct: 2
+  explanation: |-
+    1.5 / 60 × 100 = **2.5 %** — past the ~2 % point where endurance and judgment suffer.
+
+- id: s8-rev-8
+  question: |-
+    Night 2 of a winter bivouac. You slept 3 hours last night, have eaten little, and at 03:00 your partner proposes descending an unknown icy gully by headlamp. Your shelter is adequate. What is the best reasoning?
+  options:
+    - |-
+      Go now: moving down the gully will warm you both up again.
+    - |-
+      Split up so that one of you can go on ahead and get help.
+    - |-
+      Stay awake all night to be sure you do not get too cold.
+    - |-
+      Eat, make a warm drink, stay put until first light, then decide with a checklist.
+  correct: 3
+  explanation: |-
+    Fatigue, hunger and darkness stack. Prefer reversible options and make irreversible decisions in daylight after food.
+
+- id: s8-rev-9
+  question: |-
+    You planned a trek that sleeps at 3,000, 3,900 and 4,600 m on consecutive nights. What is the main problem?
+  options:
+    - |-
+      Gains of 900 and 700 m a night exceed ~500 m/day, with no rest day.
+    - |-
+      Nothing, as long as everyone in the group is fit.
+    - |-
+      Only that the nights at 4,600 m will be very cold.
+    - |-
+      The first night, at 3,000 m, is set too low to be useful.
+  correct: 0
+  explanation: |-
+    Fix the plan before you go: add nights so sleeping gain is ≤ 500 m/day above 3,000 m with rest days — a trip-plan decision, not a mountain one.
+
+- id: s8-rev-10
+  question: |-
+    Someone may fall into 8 °C water from a small boat on a warm spring day. Which clothing or kit choice is a **mistake**?
+  options:
+    - |-
+      Wearing (not just carrying) a PFD
+    - |-
+      Cotton layers, because the air is warm
+    - |-
+      Dressing for the water temperature (wetsuit or drysuit)
+    - |-
+      A whistle and a waterproof way to call for help
+  correct: 1
+  explanation: |-
+    Dress for immersion, wear flotation, carry signalling: the Stage 1 kit logic applied to water.

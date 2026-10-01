@@ -1,0 +1,81 @@
+- id: s11-l2-q2
+  question: |-
+    In a hare’s bounding group, two long prints lie side by side and two small prints lie one behind the other. Which end of the group points the way the hare went?
+
+    ![Trail patterns of four gaits, travelling left to right: walk as a zig-zag of single prints; trot as a straight narrow line; lope as groups of three or four prints in a slanting line with gaps; hare bound as groups of four with the two long hind prints ahead of the two front prints.](../../assets/diagrams/s11-gaits.svg)
+  options:
+    - |-
+      The end with the two long hind prints
+    - |-
+      The end with the two small front prints
+    - |-
+      You cannot tell from a single bounding group
+    - |-
+      It depends on whether the hare went uphill
+  correct: 0
+  explanation: |-
+    Rabbits, hares and squirrels place their hind feet ahead of their front feet when bounding, so the long hind prints lead.
+
+- id: s11-l2-q3
+  question: |-
+    A trail of blurred prints crosses a grassy path. Which of these does **not** help establish the direction of travel?
+  options:
+    - |-
+      Grass stems bent and pressed one way
+    - |-
+      The colour of the soil in each print
+    - |-
+      The deeper toe end of each print
+    - |-
+      The order of prints within each group
+  correct: 1
+  explanation: |-
+    Vegetation lean, toe dig, group order and context (where the trail leads a few metres each way) are all cues. Combine independent cues; any single cue can mislead in poor ground.
+
+- id: s11-l2-q1
+  question: |-
+    A long, nearly straight line of evenly spaced, single oval prints with claws, trail width only a few centimetres. What is the animal most likely doing?
+  options:
+    - |-
+      Bounding
+    - |-
+      Galloping
+    - |-
+      Trotting — a dog-family animal travelling
+    - |-
+      Stalking prey
+  correct: 2
+  explanation: |-
+    The dog family’s travelling gait is a trot, usually direct register, which makes a straight line of single prints.
+
+- id: s11-l2-q6
+  question: |-
+    The same fox left four trails. W: zig-zag of single prints, short steps, occasional stops. T: straight line of single prints, longer even steps. L: groups of 3–4 prints in a slant, gaps about 1 m. G: groups of 4 prints, gaps over 2 m, deep toe digs. Which order runs from slowest to fastest?
+  options:
+    - |-
+      W, L, T, G
+    - |-
+      T, W, L, G
+    - |-
+      W, T, G, L
+    - |-
+      W, T, L, G
+  correct: 3
+  explanation: |-
+    Walk → trot → lope → gallop; group spacing and toe digs grow with speed.
+
+- id: s11-l2-q5
+  question: |-
+    Tiny ridges and crumbles inside a print are called pressure releases. Which statement about them is best supported?
+  options:
+    - |-
+      They record turns, stops and slips; claims about intent are untested
+    - |-
+      Trained trackers can reliably read the animal’s intentions from them
+    - |-
+      They are random crumbles that say nothing about how the animal moved
+    - |-
+      They mainly show the print’s age rather than how the animal moved
+  correct: 0
+  explanation: |-
+    Turns, stops, accelerations and slips leave readable marks, but detailed claims about intentions or head movements from pressure releases have not been systematically tested. Treat them as hypotheses.

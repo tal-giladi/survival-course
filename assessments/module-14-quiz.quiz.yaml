@@ -1,0 +1,159 @@
+- id: s14-rev-1
+  question: |-
+    You are sending a satellite-messenger SOS follow-up. Which location is most useful to rescuers?
+  options:
+    - |-
+      “North side of the lake, below the red cliff”
+    - |-
+      “47.1234, 11.5678 (decimal degrees, WGS84), below the red cliff”
+    - |-
+      “47 12 34, 11 56 78 — north shore of the lake”
+    - |-
+      “About 3 hours’ walk north of the car park”
+  correct: 1
+  explanation: |-
+    Stage 2: always say the coordinate format (and datum where relevant). Add a landmark description as a cross-check.
+
+- id: s14-rev-2
+  question: |-
+    Day 2, stranded in hot desert with a vehicle and a satellite messenger. Which action both extends your survival window and shortens the time to rescue?
+  options:
+    - |-
+      Walking to a road 30 km away at noon to flag down help
+    - |-
+      Rationing water severely while working hard in the sun
+    - |-
+      Resting in shade by the vehicle during the heat of the day
+    - |-
+      Sending long status updates and photos every hour
+  correct: 2
+  explanation: |-
+    The best actions work on both sides of the ledger: conserve water and heat, and make the rescue faster and more certain — shade by the vehicle, scheduled position messages and a large dark V on pale ground.
+
+- id: s14-rev-3
+  question: |-
+    It is dry and windy in a pine forest with a posted fire ban. You hear an aircraft. Which signal do you use?
+  options:
+    - |-
+      A small smoke fire of green boughs to show your position
+    - |-
+      Long whistle blasts in groups of three toward the sound
+    - |-
+      Wait and save energy until the aircraft is right overhead
+    - |-
+      Mirror sweeps toward the sound from open ground, then a bright tarp
+  correct: 3
+  explanation: |-
+    A signal fire is never worth starting a wildfire. On a sunny day, the mirror outranges smoke anyway; a bright tarp laid out and waved adds a static signal.
+
+- id: s14-rev-4
+  question: |-
+    You accidentally activate your registered PLB. Which statement is correct?
+  options:
+    - |-
+      Reported promptly it is routine; unreported, it can launch a search
+    - |-
+      Once you switch it off, the alert is cancelled automatically
+    - |-
+      Because it is registered, the RCC will simply ignore the alert
+    - |-
+      Any accidental activation means a full search and a fine
+  correct: 0
+  explanation: |-
+    Switch it off and call the RCC or registry immediately. Registration lets them resolve it with a phone call.
+
+- id: s14-rev-5
+  question: |-
+    Planners assign segment D a POA of 20 %. A team searches it with coverage C = 1.5. Using POD = 1 − e^(−C), what is the POS of that search?
+  options:
+    - |-
+      About 78 %
+    - |-
+      About 16 %
+    - |-
+      About 30 %
+    - |-
+      About 4 %
+  correct: 1
+  explanation: |-
+    POD = 1 − e^(−1.5) ≈ 0.78; POS = 0.20 × 0.78 ≈ **16 %**.
+
+- id: s14-rev-6
+  question: |-
+    Your group has a casualty with a suspected broken ankle, far from roads, with no signal. It is 13:00 in summer. There are four of you and a PLB. What is the best plan?
+  options:
+    - |-
+      Activate the PLB only if the casualty’s condition worsens; meanwhile splint, insulate and shelter, and send two people with a written note of location and condition to the nearest point with signal
+    - |-
+      Send one person alone to run for help
+    - |-
+      Activate the PLB now if you cannot evacuate the casualty yourselves; then splint, insulate, shelter and signal, and keep the group together
+    - |-
+      Carry the casualty out over rough ground together
+  correct: 2
+  explanation: |-
+    If you cannot self-evacuate and life or limb could be at risk while you wait, alert early. Keep the group together; take a hands-on WFA course to learn splinting and casualty care.
+
+- id: s14-rev-7
+  question: |-
+    After two hours lost, you think “I’ve come this far, the road must be just over the next rise” and keep walking. Which heuristic trap from Stage 1 is this?
+  options:
+    - |-
+      Social proof
+    - |-
+      Scarcity
+    - |-
+      Expert halo
+    - |-
+      Commitment / plan continuation
+  correct: 3
+  explanation: |-
+    Pre-set triggers are the antidote: they decide in advance what evidence makes you stop and stay.
+
+- id: s14-rev-8
+  question: |-
+    You are lost in a forest late in the afternoon with a trip plan filed. You have done STOP: sat, breathed, thought and checked for immediate danger. What comes next?
+  options:
+    - |-
+      Decide to stay, since someone will look, and pick the nearest open spot
+    - |-
+      Build shelter and ground insulation while there is daylight
+    - |-
+      Put static signals out and get mirror, whistle and light ready
+    - |-
+      Start a signal-and-listen routine and a phone battery schedule
+  correct: 0
+  explanation: |-
+    Stage 1’s first hour, with this stage’s signal routine: STOP, decide to stay, shelter while there is daylight, static signals, then a signal-and-listen routine — think, decide, protect, then make yourself findable.
+
+- id: s14-rev-9
+  question: |-
+    You carry a licence-free walkie-talkie. Your partner is 6 km away on the other side of a ridge and you cannot reach them. What is most likely to help?
+  options:
+    - |-
+      Hold the transmit button longer and speak more slowly
+    - |-
+      Climb to the ridge crest or any spot with line of sight to them
+    - |-
+      Switch to an aviation or marine channel for better reach
+    - |-
+      Walk down into the valley so you are closer to them
+  correct: 1
+  explanation: |-
+    Radio horizon $d \approx 4.1(\sqrt{h_1}+\sqrt{h_2})$ km; terrain blocks more than distance.
+
+- id: s14-rev-10
+  question: |-
+    A night search is under way for you. It is 2 °C and damp. Which of these actions does NOT help?
+  options:
+    - |-
+      Staying in your insulated shelter with light and whistle at hand
+    - |-
+      Answering calls with three whistle blasts and your light
+    - |-
+      Running your strobe continuously all night
+    - |-
+      Keeping a bright item outside the shelter by the path
+  correct: 2
+  explanation: |-
+    Stay warm (Stage 8), stay put, respond when searchers are near and leave static clues. Walking toward distant lights or draining your batteries early both work against you.

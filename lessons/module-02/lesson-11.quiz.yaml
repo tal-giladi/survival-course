@@ -1,0 +1,81 @@
+- id: s2-l11-q5
+  question: |-
+    Which statement about phone GNSS in the field is **false**?
+  options:
+    - |-
+      Fixes are usually most accurate at the bottom of a narrow gorge.
+    - |-
+      Most modern phones can get a GNSS fix in airplane mode with no cell signal.
+    - |-
+      Without a downloaded map, a fix with no data may show a dot on a blank screen.
+    - |-
+      A cold phone that shuts down may work again once it is warmed.
+  correct: 0
+  explanation: |-
+    Positions are free and offline; maps must be downloaded; geometry and cold are the big practical limits. (Datums matter too: the same numbers on different datums can be tens to hundreds of metres apart.)
+
+- id: s2-l11-q3
+  question: |-
+    A dispatcher types “46° 34.35′ N” into an app as **46.3435°**. How far north–south is the plotted point from the true one? (1° ≈ 111 km.)
+  options:
+    - |-
+      254 km
+    - |-
+      25.4 km
+    - |-
+      13.7 km
+    - |-
+      2.5 km
+  correct: 1
+  explanation: |-
+    46° 34.35′ = 46 + 34.35/60 = 46.5725°. Error = 46.5725 − 46.3435 = 0.229°; × 111 ≈ **25.4 km**.
+
+- id: s2-l11-q6
+  question: |-
+    Which order of trip-preparation steps for digital navigation makes most sense?
+  options:
+    - |-
+      Charge, leave plan → download map → trail routine → test offline
+    - |-
+      Download map → charge, leave plan → trail routine → test offline
+    - |-
+      Download map → test offline → charge, leave plan → trail routine
+    - |-
+      Test offline → download map → charge, leave plan → trail routine
+  correct: 2
+  explanation: |-
+    Download the topographic map with a margin, test map and position at home in airplane mode, charge phone and power bank and leave a trip plan — then on the trail use airplane mode, screen off, check at decision points and keep a reserve.
+
+- id: s2-l11-q2
+  question: |-
+    Why does a GNSS receiver need signals from at least **four** satellites for a position?
+
+    ![GNSS positioning: range circles from satellites intersecting at the receiver, with clock error blurring every range](../../assets/diagrams/gnss-trilateration.svg)
+  options:
+    - |-
+      One for each of north, south, east and west.
+    - |-
+      Because each constellation contributes one satellite.
+    - |-
+      Three for position and one to download the map.
+    - |-
+      To solve three position coordinates plus the receiver’s clock error.
+  correct: 3
+  explanation: |-
+    The cheap receiver clock is the fourth unknown. Extra satellites add accuracy and let bad signals be rejected.
+
+- id: s2-l11-q4
+  question: |-
+    Your phone is at 70 %. You want to keep a 25 % reserve, and continuous screen-on navigation uses 15 % per hour. How long can you afford to navigate screen-on?
+  options:
+    - |-
+      3 h
+    - |-
+      4.7 h
+    - |-
+      1.7 h
+    - |-
+      6.3 h
+  correct: 0
+  explanation: |-
+    (70 − 25) / 15 = **3 h**. Switching to screen-off with checks at decision points could stretch the same 45 % to well over a day.

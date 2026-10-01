@@ -1,0 +1,81 @@
+- id: s2-l1-q6
+  question: |-
+    It is 15:30, sunset is 17:00, and you have about 20 minutes of useful twilight. The hut is 2.8 km away by a winding trail. You planned at 4 km/h on flat ground, but you had measured the trail as a straight line (1.9 km). What is the soundest reading of your position?
+  options:
+    - |-
+      Plenty of time: the 1.9 km I measured takes under 30 minutes at 4 km/h.
+    - |-
+      Too tight to risk: the extra 0.9 km means I should turn back right now.
+    - |-
+      Fine either way: scale errors do not matter while it is still daylight.
+    - |-
+      Fine, but check: 2.8 km at 4 km/h is 42 min, arriving ~16:15; recheck climb.
+  correct: 3
+  explanation: |-
+    2.8 km ÷ 4 km/h = 0.7 h = 42 min, and light lasts until about 17:20, so there is margin. But the straight-line error cut the true distance by a third — budget against daylight with the measured route, not the straight line.
+
+- id: s2-l1-q5
+  question: |-
+    Your phone GPS shows a position that seems ~150 m off the trail on your paper map, even though you are standing on the trail. Which of these could **not** explain the offset?
+  options:
+    - |-
+      The paper map’s scale is 1:50,000 rather than 1:25,000.
+    - |-
+      The map uses an older local datum, while the phone uses WGS84.
+    - |-
+      The trail has been rerouted since the map was last revised.
+    - |-
+      You read the coordinate in a different format (e.g. DMS vs decimal).
+  correct: 0
+  explanation: |-
+    Datum, revision date and coordinate format can all shift where you appear to be; check the margin and the format before deciding which to trust. Scale affects measurement, not plotting.
+
+- id: s2-l1-q3
+  question: |-
+    A spring lies in the square whose south-west corner is where easting **62** meets northing **18**. It is about 3 tenths east of line 62 and 9 tenths north of line 18. What is its 6-figure grid reference?
+
+    ![Working out a six-figure grid reference 344 577 inside a one-kilometre grid square](../../assets/diagrams/grid-ref.svg)
+  options:
+    - |-
+      189 623
+    - |-
+      623 189
+    - |-
+      629 183
+    - |-
+      6218
+  correct: 1
+  explanation: |-
+    Eastings first (along the corridor), then northings (up the stairs); each gets its line number plus tenths.
+
+- id: s2-l1-q1
+  question: |-
+    On a **1:50,000** map a trail between two huts measures **6.2 cm** with the paper-edge method. How long is it on the ground?
+  options:
+    - |-
+      1.55 km
+    - |-
+      31 km
+    - |-
+      3.1 km
+    - |-
+      0.31 km
+  correct: 2
+  explanation: |-
+    At 1:50,000, 1 cm = 500 m. 6.2 × 500 m = 3,100 m = **3.1 km**.
+
+- id: s2-l1-q4
+  question: |-
+    How precisely does a **6-figure** grid reference locate a feature?
+  options:
+    - |-
+      To a 10 m × 10 m square
+    - |-
+      To a 1 km × 1 km square
+    - |-
+      To about 1 m, like a GPS
+    - |-
+      To a 100 m × 100 m square
+  correct: 3
+  explanation: |-
+    A 6-figure reference names a **100 m × 100 m** square. You need 8 figures for 10 m — usually only from a GPS or a careful romer measurement.

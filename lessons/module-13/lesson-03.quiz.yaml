@@ -1,0 +1,79 @@
+- id: s13-l3-q6
+  question: |-
+    Your group wants to string a rope tight between two trees across a slippery stream gully as a “railing” to hold while crossing a log. What is the main problem from a forces point of view?
+  options:
+    - |-
+      None, because a rope is many times stronger than a person’s weight
+    - |-
+      The rope will stretch too much to support anyone who leans on it
+    - |-
+      Trees on a stream bank are always weaker than any rope you could tie
+    - |-
+      A slip shock-loads a near-flat line, multiplying the force, and grip cannot hold a fall
+  correct: 3
+  explanation: |-
+    Improvised “railings” give false confidence: the tension in the rope and both anchors multiplies on a flat line. Find a safer crossing or turn back (Stage 12 water-crossing rules).
+
+- id: s13-l3-q4
+  question: |-
+    Which of these is NOT one of the anchor principles that instructors check (SERENE / ERNEST)?
+  options:
+    - |-
+      Rigged as tight and flat as possible
+    - |-
+      Redundant — no single point of failure
+    - |-
+      No extension if one point fails
+    - |-
+      Strong and solid in the direction of pull
+  correct: 0
+  explanation: |-
+    Strong, Redundant, Equalised, No Extension, Efficient/Timely — plus direction of pull and the edge. Efficient means simple and checkable, not more knots.
+
+- id: s13-l3-q5
+  question: |-
+    You pull a food-hang line tighter so it sags less. What happens to the tension in the line?
+  options:
+    - |-
+      It falls, because the bag is now held higher off the ground
+    - |-
+      It rises, because a flatter line needs more tension to hold the bag
+    - |-
+      It stays the same, because the bag still weighs the same
+    - |-
+      It falls, because the load is shared better between the trees
+  correct: 1
+  explanation: |-
+    Less sag means a flatter line and **more** tension: $T = W/(2\sin\alpha)$. At 5° sag a 10 kg bag puts ≈ 560 N in the line.
+
+- id: s13-l3-q2
+  question: |-
+    Which leg angle loads each of two anchor points the least (for the same load)?
+  options:
+    - |-
+      90°
+    - |-
+      120°
+    - |-
+      30°
+    - |-
+      160°
+  correct: 2
+  explanation: |-
+    $T = W / (2\cos(\beta/2))$ grows as the angle opens, slowly at first, then very steeply.
+
+- id: s13-l3-q1
+  question: |-
+    An 80 kg load hangs from a two-leg anchor with 120° between the legs. About how much force is in each leg? (g = 9.81 m/s²)
+  options:
+    - |-
+      0.39 kN
+    - |-
+      0.45 kN
+    - |-
+      1.57 kN
+    - |-
+      0.78 kN
+  correct: 3
+  explanation: |-
+    $W = 80 \times 9.81 = 785$ N; $T = W / (2\cos 60°) = 785$ N ≈ 0.78 kN — each leg carries the whole load.

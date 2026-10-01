@@ -1,0 +1,79 @@
+- id: s1-l2-q1
+  question: |-
+    Which sequence orders these threats by the rule of threes (most urgent first)?
+  options:
+    - |-
+      Blocked airway → no water → severe exposure → no food
+    - |-
+      Severe exposure → blocked airway → no water → no food
+    - |-
+      Blocked airway → severe exposure → no food → no water
+    - |-
+      Blocked airway → severe exposure → no water → no food
+  correct: 3
+  explanation: |-
+    Minutes → hours → days → weeks. Remember it as an ordering, then adjust for the environment.
+
+- id: s1-l2-q2
+  question: |-
+    In which situation is the rule-of-threes ordering most misleading?
+  options:
+    - |-
+      A hot desert at 42 °C with no shade.
+    - |-
+      A temperate forest in mild autumn rain.
+    - |-
+      A snowy mountainside at dusk.
+    - |-
+      A person with a blocked airway.
+  correct: 0
+  explanation: |-
+    In extreme heat, water and shade become hour-scale priorities. The rule is an ordering heuristic that the environment can override.
+
+- id: s1-l2-q3
+  question: |-
+    It is 16:30 in cold drizzle. Which action has the **highest value per unit cost** right now?
+  options:
+    - |-
+      Carving a fishing hook.
+    - |-
+      Putting on your waterproof shell before you get wet.
+    - |-
+      Walking fast toward a ridge to look for landmarks.
+    - |-
+      Checking your phone for a signal every few minutes.
+  correct: 1
+  explanation: |-
+    Cheap actions that prevent big problems come first. Staying dry is far easier than getting dry.
+
+- id: s1-l2-q4
+  question: |-
+    Which of these does **NOT** belong to **Protection** in the Protection → Location → Acquisition ordering?
+  options:
+    - |-
+      First aid for a bleeding wound
+    - |-
+      A fire for warmth
+    - |-
+      Laying out a ground-to-air signal
+    - |-
+      Improving shelter insulation
+  correct: 2
+  explanation: |-
+    Protection keeps the body working (first aid, clothing, shelter, warmth). Location is getting found. Acquisition is water and food.
+
+- id: s1-l2-q5
+  question: |-
+    In cold weather, why can a vigorous burst of shelter building raise your overnight hypothermia risk?
+  options:
+    - |-
+      Hard work burns the calories your body needs to keep generating heat overnight.
+    - |-
+      It does not — working hard keeps you warm, so faster building is always safer.
+    - |-
+      Exertion dehydrates you, and dehydration is what lowers your core temperature.
+    - |-
+      Sweat soaks your insulation, and evaporating it later robs heat while you rest.
+  correct: 3
+  explanation: |-
+    Sweat-soaked insulation loses much of its value, and evaporating moisture removes heat later when you are still. Pace work and vent layers.

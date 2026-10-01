@@ -1,0 +1,79 @@
+- id: cap-7-q1
+  question: |-
+    19:00, fully dark, clear and calm, 2 °C forecast to fall to −1 °C. You are uninjured, 300 m from a marked trail across wind-thrown trees, with a failing headlamp, warm layers, a pad and a large bag. Your coordinates have been sent to the emergency services. What is the best plan?
+  options:
+    - |-
+      Cross the 300 m to the trail by phone torch — it is very close.
+    - |-
+      Stop here, make a thick ground bed on a slight rise, and stay put.
+    - |-
+      Walk on toward a road 3 km away using the stars for direction.
+    - |-
+      Keep walking in a small circle all night to generate body heat.
+  correct: 1
+  explanation: |-
+    At night the risks of moving over unseen ground usually outweigh the risks of a calm, cold night with insulation — especially once someone knows where you are. Pick a slight rise under living trees and build a thick ground bed.
+
+- id: cap-7-q6
+  question: |-
+    At 23:00 you are shivering in your bivouac, frightened by noises, with an overwhelming urge to "just go". What helps most?
+  options:
+    - |-
+      Walk out by phone light so the fear stops building.
+    - |-
+      Keep the phone on and scroll until dawn to distract yourself.
+    - |-
+      Slow breathing, calm self-talk, and small tasks like eating and a scheduled phone check.
+    - |-
+      Try hard to push the fear out of your mind and not think about it.
+  correct: 2
+  explanation: |-
+    Structured routines and breathing with a long exhale are the practical tools for managing fear on a long night: eat, sip water, adjust insulation, keep to the phone schedule.
+
+- id: cap-7-q2
+  question: |-
+    Clear, calm night. Which bivouac site is **best**?
+  options:
+    - |-
+      Beside a loud stream on the valley floor, so water is close
+    - |-
+      On the bare top of a rock outcrop, where you can be seen
+    - |-
+      In the bottom of a hollow, out of sight of the wind
+    - |-
+      A slight rise under living trees, beside a small opening
+  correct: 3
+  explanation: |-
+    Warmth, safety and findability together: above the cold pool, under living cover with no dead limbs overhead, beside an opening.
+
+- id: cap-7-q4
+  question: |-
+    You realise at dusk that you are lost and your light is failing. What should you do **first**?
+  options:
+    - |-
+      Stop, sit, and slow your breathing
+    - |-
+      Add layers and a hat, and eat something
+    - |-
+      Get a position fix and send it with a status
+    - |-
+      Choose a site and start building a ground bed
+  correct: 0
+  explanation: |-
+    The order is: stop and breathe; add layers and eat; send one fix and status, then airplane mode; build a site and ground bed; set a schedule for phone checks and signals. Stop the errors, stop the heat loss, tell someone, then build protection.
+
+- id: cap-7-q3
+  question: |-
+    Searchers believe you are within 0.5 km of your last known point. You walk on through the night and could now be anywhere within 1.5 km. By what **factor** has the possible search area grown?
+  options:
+    - |-
+      3×
+    - |-
+      9×
+    - |-
+      8×
+    - |-
+      2.25×
+  correct: 1
+  explanation: |-
+    Area ∝ r². $(1.5 / 0.5)^2 = 3^2 = 9$. Moving at night can multiply the search problem while making it harder for you to be seen.

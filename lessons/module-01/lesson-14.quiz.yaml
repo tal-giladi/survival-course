@@ -1,0 +1,63 @@
+- id: s1-l14-q1
+  question: |-
+    A hiker is lost at 16:00 with no immediate danger. Which sequence of first-hour actions is correct?
+  options:
+    - |-
+      STOP → decide stay or move → inventory and message → shelter and fire prep → reassess
+    - |-
+      STOP → shelter and fire prep → inventory and message → decide stay or move → reassess
+    - |-
+      STOP → inventory and message → decide stay or move → shelter and fire prep → reassess
+    - |-
+      Inventory and message → STOP → decide stay or move → shelter and fire prep → reassess
+  correct: 2
+  explanation: |-
+    Stop → information → decision → protection → reassess. It mirrors the decision loop.
+
+- id: s1-l14-q2
+  question: |-
+    In the worked example, why was a mid-slope bench chosen over the valley bottom? (Review of lesson 10.)
+  options:
+    - |-
+      Better phone signal for updating the trip-plan contact
+    - |-
+      Closer to dry fuel and food sources for the night
+    - |-
+      Easier to light a fire sheltered from the west wind
+    - |-
+      Cold-air pooling and flood risk in the valley bottom
+  correct: 3
+  explanation: |-
+    Valley bottoms collect cold air on calm nights and carry flood risk.
+
+- id: s1-l14-q3
+  question: |-
+    Which Stage 1 idea made the "stay" decision fast and unemotional in the worked example?
+  options:
+    - |-
+      A decision trigger set in advance
+    - |-
+      The rule of threes
+    - |-
+      The fire triangle
+    - |-
+      Box breathing
+  correct: 0
+  explanation: |-
+    Triggers pre-commit a decision while you are calm.
+
+- id: s1-l14-q4
+  question: |-
+    Spaced review — which statement is correct?
+  options:
+    - |-
+      Chlorine reliably inactivates Cryptosporidium.
+    - |-
+      Evaporating 100 ml of water removes about 240 kJ of heat.
+    - |-
+      In the cold, keep a lighter in an outer pocket, ready to hand.
+    - |-
+      Doubling the radius of a search area doubles its size.
+  correct: 1
+  explanation: |-
+    These mechanisms keep coming back — that is the point of spaced review.

@@ -1,0 +1,79 @@
+- id: s1-l4-q1
+  question: |-
+    Which best describes **risk**?
+  options:
+    - |-
+      Anything on the route, such as a river or a cliff, that can cause harm.
+    - |-
+      How likely harm is and how bad it would be, given what you are doing.
+    - |-
+      How dangerous an environment feels to the people travelling in it.
+    - |-
+      The total number of hazards along the route you are planning to take.
+  correct: 1
+  explanation: |-
+    Hazard is the source of harm; risk is likelihood × consequence in your specific situation.
+
+- id: s1-l4-q2
+  question: |-
+    An activity has a 2 % chance of an incident each hour, independently. What is the probability of **at least one** incident over 5 hours? (Rounded to one decimal.)
+  options:
+    - |-
+      10.0 %
+    - |-
+      90.4 %
+    - |-
+      9.6 %
+    - |-
+      7.8 %
+  correct: 2
+  explanation: |-
+    $1 - 0.98^5 = 1 - 0.904 = 0.096$ → **9.6 %**. Small hourly risks add up with exposure time.
+
+- id: s1-l4-q3
+  question: |-
+    "We’ve planned this trip for a year and driven six hours — let’s push on even though the storm is early." Which FACETS trap is this?
+  options:
+    - |-
+      Familiarity
+    - |-
+      Expert halo
+    - |-
+      Social facilitation
+    - |-
+      Consistency / commitment
+  correct: 3
+  explanation: |-
+    Sunk costs (time, travel, planning) create pressure to continue. The mountain does not know how far you drove.
+
+- id: s1-l4-q4
+  question: |-
+    You are about to hand your contact a trip plan. Which entry should you rewrite before leaving?
+  options:
+    - |-
+      “Probably back by evening — don’t worry if I’m a bit late.”
+    - |-
+      “Call for help if you have not heard from me by 20:00.”
+    - |-
+      “Route: north ridge, back via the lake trail if windy.”
+    - |-
+      “Red jacket, grey pack; blue hatchback at the trailhead.”
+  correct: 0
+  explanation: |-
+    A trip plan should let someone who is not you start an effective search: route and alternatives, descriptions, vehicle, and a specific time to call for help.
+
+- id: s1-l4-q5
+  question: |-
+    The ascent to a viewpoint takes 3 h and the descent 2 h. Sunset is at 18:00 and you want 25 % margin on the descent. What is the latest sensible **turnaround time**?
+  options:
+    - |-
+      16:00
+    - |-
+      15:30
+    - |-
+      17:00
+    - |-
+      Whenever you reach the top
+  correct: 1
+  explanation: |-
+    Turnaround = sunset − (descent time × 1.25) = 18:00 − 2 h 30 min = 15:30.

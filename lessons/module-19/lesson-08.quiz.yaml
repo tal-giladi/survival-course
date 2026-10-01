@@ -1,0 +1,79 @@
+- id: cap-8-q4
+  question: |-
+    18:30, 35 minutes of daylight left, 300 m of steep, wet gully between you and easy ground. Mild weather, spare layers, sacks. Which reasoning is soundest?
+  options:
+    - |-
+      Descend now: most of the gully will be behind you before it is fully dark.
+    - |-
+      Descend quickly to beat the dark, since speed shortens your time on the rock.
+    - |-
+      Stay high: a mild night out is uncomfortable, a gully fall could be disastrous.
+    - |-
+      Start down now and stop partway if the wet rock becomes too difficult.
+  correct: 2
+  explanation: |-
+    Risk is likelihood × consequence. A likely but mild discomfort beats a less likely but severe injury.
+
+- id: cap-8-q1
+  question: |-
+    You stop for an unplanned night. Your T-shirt is damp with sweat; you have a dry merino top in your pack. What should you do?
+  options:
+    - |-
+      Put every layer over the damp T-shirt and keep the dry top for tomorrow.
+    - |-
+      Take off your jacket so the T-shirt dries in the breeze.
+    - |-
+      Wait until you start shivering, then change.
+    - |-
+      Change into the dry top next to your skin now, with insulation and a shell over it; bag the damp one.
+  correct: 3
+  explanation: |-
+    The moment you stop is when a dry layer is worth most: sweat production drops and the damp layer becomes a heat sink.
+
+- id: cap-8-q2
+  question: |-
+    On a mild, damp, breezy night in a light bivouac, which measure does **NOT** meaningfully reduce heat loss?
+  options:
+    - |-
+      A foil blanket as your only layer over the wet ground
+    - |-
+      A thick, dry bed of heather or leaves under you
+    - |-
+      A rubbish sack as a windproof, waterproof outer layer
+    - |-
+      Eating some food before the coldest hours of the night
+  correct: 0
+  explanation: |-
+    Insulate from the ground with a thick dry bed, block wind and wet, and fuel the furnace. Foil alone does little against conduction into wet ground.
+
+- id: cap-8-q6
+  question: |-
+    You are building an improvised bivouac from a day kit and have chosen a slightly raised site out of the wind. What should you do **next**?
+  options:
+    - |-
+      Build a thick insulating bed
+    - |-
+      Change into dry layers next to the skin
+    - |-
+      Get into the windproof outer layer
+    - |-
+      Arrange food, water and a night plan
+  correct: 1
+  explanation: |-
+    Site first; dry skin before you cool down; then a thick bed (ground before roof); then the windproof outer; then settle in with food, water and a plan for the coldest hours.
+
+- id: cap-8-q5
+  question: |-
+    You lit a small fire on moorland with deep peat, and it now looks completely out on the surface. Which statement is correct?
+  options:
+    - |-
+      With no smoke or flame on the surface, the fire is fully out.
+    - |-
+      Peat is too wet to burn, so only the heather could have caught.
+    - |-
+      It can still be smouldering underground and re-emerge elsewhere.
+    - |-
+      An underground peat fire dies within an hour of surface flames.
+  correct: 2
+  explanation: |-
+    Peat can smoulder below the surface for days and re-emerge elsewhere. That is one reason for fire bans on moorland.

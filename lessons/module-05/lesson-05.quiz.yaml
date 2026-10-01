@@ -1,0 +1,79 @@
+- id: s5-l5-q2
+  question: |-
+    Two hours into the night in a quinzhee, your partner has a headache and feels sick and sleepy. A candle is burning inside. What do you do **first**?
+  options:
+    - |-
+      Put out the candle and stay inside to keep warm
+    - |-
+      Let them sleep it off; headaches are common in the cold
+    - |-
+      Get everyone out into fresh air immediately
+    - |-
+      Watch the candle — while it burns, the air is fine
+  correct: 2
+  explanation: |-
+    CO symptoms are nonspecific and easy to explain away. Fresh air first, then remove the source and check the vent and entrance before anyone goes back in; seek medical help if symptoms persist.
+
+- id: s5-l5-q6
+  question: |-
+    You have 90 minutes of light, firm snow about 1 m deep and a tarp. Which snow shelter fits?
+  options:
+    - |-
+      A quinzhee
+    - |-
+      An igloo
+    - |-
+      A snow cave into the nearest steep drift
+    - |-
+      A snow trench roofed with the tarp
+  correct: 3
+  explanation: |-
+    Match the shelter to the time available: a finished trench beats an unfinished quinzhee.
+
+- id: s5-l5-q3
+  question: |-
+    Why should the entrance of a snow shelter be **lower** than the sleeping platform?
+  options:
+    - |-
+      Cold, dense air drains out and warm air stays above
+    - |-
+      So blowing snow cannot drift into the chamber
+    - |-
+      Because a low entrance is quicker to dig out
+    - |-
+      To keep carbon monoxide from leaving the shelter
+  correct: 0
+  explanation: |-
+    The same density difference that fills valley hollows with cold air drains a snow shelter through a low door, trapping warm air above the platform.
+
+- id: s5-l5-q5
+  question: |-
+    Which statement about digging a snow cave into a wind-drifted lee slope is correct?
+  options:
+    - |-
+      It is ideal: the snow is deep and firm, so the cave roof will hold well.
+    - |-
+      It is risky: the wind loading that deepens the drift builds slab avalanches.
+    - |-
+      It is safe as long as you dig in near the bottom of the slope.
+    - |-
+      It is safe once the snow has been left to sinter for an hour or two.
+  correct: 1
+  explanation: |-
+    The snow is deep and firm because wind loaded the slope — the same process that forms slab avalanches. Dig in low-angle terrain with no slope above.
+
+- id: s5-l5-q4
+  question: |-
+    Which is the right order of steps for building a quinzhee?
+  options:
+    - |-
+      Choose safe site → pile and mix snow → wait 1–2 h → push in depth sticks → hollow out
+    - |-
+      Choose safe site → pile and mix snow → push in depth sticks → hollow out → wait 1–2 h
+    - |-
+      Choose safe site → pile and mix snow → push in depth sticks → wait 1–2 h → hollow out
+    - |-
+      Choose safe site → push in depth sticks → pile and mix snow → wait 1–2 h → hollow out
+  correct: 2
+  explanation: |-
+    Site first (low-angle, no slope above); pile and mix; push in 30 cm sticks before the wait so they are ready as gauges; hollow from a low entrance only after sintering, then poke a vent.

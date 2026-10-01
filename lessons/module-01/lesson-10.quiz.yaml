@@ -1,0 +1,81 @@
+- id: s1-l10-q1
+  question: |-
+    On a calm, clear night, which site is usually **coldest**?
+
+    ![Terrain cross-section showing good and bad shelter sites](../../assets/diagrams/shelter-sites.svg)
+  options:
+    - |-
+      A sheltered bench part-way up the slope
+    - |-
+      The lee side of a large boulder mid-slope
+    - |-
+      The valley floor near the stream
+    - |-
+      Under dense evergreen canopy mid-slope
+  correct: 2
+  explanation: |-
+    Cold-air pooling makes valley bottoms and hollows colder on calm, clear nights; they also carry flood risk.
+
+- id: s1-l10-q2
+  question: |-
+    Which list gives the **5 Ws** of site selection?
+  options:
+    - |-
+      Widowmakers, water, wind, weather, warmth
+    - |-
+      Wind, water, wood, warmth, wiggly things
+    - |-
+      Widowmakers, water, wind, wood, wildlife
+    - |-
+      Widowmakers, water, wind, wiggly things, wood
+  correct: 3
+  explanation: |-
+    Widowmakers, water, wind, wiggly things, wood.
+
+- id: s1-l10-q3
+  question: |-
+    You have 20 minutes of light left, a tarp, cord and a forest floor full of dry leaves. What gives the most warmth tonight?
+  options:
+    - |-
+      A quick, low A-frame and a leaf bed 20–30 cm thick before compression
+    - |-
+      A perfectly tensioned tarp pitched high, sleeping on bare ground
+    - |-
+      A large lean-to with a wide opening and room to sit up inside
+    - |-
+      Skip the shelter and keep walking through the night to stay warm
+  correct: 0
+  explanation: |-
+    Simple cover + thick dry insulation underneath is the highest-value combination.
+
+- id: s1-l10-q4
+  question: |-
+    Using $Q = kA\Delta T/d$ with $k = 0.05$ W/(m·K), $A = 0.5$ m², $\Delta T = 25$ K and $d = 0.025$ m (2.5 cm of compressed leaves), estimate the heat loss to the ground.
+  options:
+    - |-
+      0.25 W
+    - |-
+      25 W
+    - |-
+      50 W
+    - |-
+      0.016 W
+  correct: 1
+  explanation: |-
+    $0.05 \times 0.5 \times 25 / 0.025 = 25$ W. Halving the thickness doubles the loss — pile more.
+
+- id: s1-l10-q5
+  question: |-
+    Why is a flat, sandy dry streambed a poor shelter site?
+  options:
+    - |-
+      Sand holds moisture and will soak your insulation during the night.
+    - |-
+      Animals use dry channels as trails, so you will be disturbed all night.
+    - |-
+      It can flash-flood from rain far upstream, even with no local rain.
+    - |-
+      Its loose sand is too soft to hold stakes, so a tarp will not stay up.
+  correct: 2
+  explanation: |-
+    Dry channels can flash-flood from rain far upstream, sometimes with no local rain at all.

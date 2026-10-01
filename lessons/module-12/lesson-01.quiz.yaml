@@ -1,0 +1,79 @@
+- id: s12-l1-q6
+  question: |-
+    Summer, 09:30, mountains. Cumulus that were small at 08:00 are now taller than they are wide, and you saw turreted altocumulus at dawn. Your route reaches an exposed summit at 13:00. What is the best decision?
+  options:
+    - |-
+      Bring the turnaround forward, or switch to a lower objective.
+    - |-
+      Continue as planned, since the forecast only said "isolated storms".
+    - |-
+      Wait at the col until 13:00 to see how the clouds develop.
+    - |-
+      Push the pace hard to reach the summit before the storms.
+  correct: 0
+  explanation: |-
+    Clouds are a live update to the forecast. Adjust your turnaround time (Stage 1) before the storm, not during it, for example by being off the summit ridge by 11:30.
+
+- id: s12-l1-q3
+  question: |-
+    You are camped at 1,200 m. Your watch altimeter read 1,200 m at bedtime and 1,248 m at dawn; you have not moved. What does this most likely mean?
+  options:
+    - |-
+      Pressure rose overnight, so settled fine weather is likely ahead.
+    - |-
+      Pressure fell about 6 hPa overnight; bad weather is likely coming.
+    - |-
+      The watch sensor or battery is failing and the reading has drifted.
+    - |-
+      Pressure barely changed; a 48 m drift is normal overnight noise.
+  correct: 1
+  explanation: |-
+    An altimeter is a barometer. An apparent climb while stationary is a pressure fall. About 6 hPa in 8–10 hours is a strong signal of wind and rain.
+
+- id: s12-l1-q4
+  question: |-
+    You suspect a cold front has just passed (Northern Hemisphere). Which observation does **not** fit that?
+  options:
+    - |-
+      The wind has veered from SW to NW
+    - |-
+      Temperature dropped several degrees in an hour
+    - |-
+      A cirrostratus halo thickening to altostratus
+    - |-
+      Pressure is rising again after a low point
+  correct: 2
+  explanation: |-
+    Behind a cold front: veer, temperature drop, pressure rise, clearing to Sc/Cu. It is often gusty and cold, so wind chill now matters more than rain.
+
+- id: s12-l1-q1
+  question: |-
+    Which is the classic **warm-front** cloud sequence, in the order an observer sees it?
+  options:
+    - |-
+      Cirrostratus halo → cirrus → altostratus → nimbostratus
+    - |-
+      Altostratus → cirrus → cirrostratus halo → nimbostratus
+    - |-
+      Nimbostratus → altostratus → cirrostratus halo → cirrus
+    - |-
+      Cirrus → cirrostratus halo → altostratus → nimbostratus
+  correct: 3
+  explanation: |-
+    The frontal surface slopes gently, so the highest cloud is furthest ahead: Ci → Cs → As → Ns, typically over 12–24 hours.
+
+- id: s12-l1-q2
+  question: |-
+    At the trailhead the temperature is 22 °C and the dew point 10 °C. Using 125 m per °C of spread, about how high is the cumulus cloud base above the trailhead?
+  options:
+    - |-
+      1500 m
+    - |-
+      2750 m
+    - |-
+      1250 m
+    - |-
+      1200 m
+  correct: 0
+  explanation: |-
+    $125\ \text{m} \times (22 - 10) = 1500\ \text{m}$. A route that climbs higher than that will be in cloud.

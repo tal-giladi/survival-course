@@ -1,0 +1,79 @@
+- id: s16-l1-q5
+  question: |-
+    Your neighbour, 80, lives alone and uses an oxygen concentrator. What is the most useful thing to add to **your** plan?
+  options:
+    - |-
+      Agree to check on her in any outage and know where her backup oxygen and contacts are.
+    - |-
+      Nothing extra — her own family is responsible for her care in an emergency.
+    - |-
+      Buy her a small generator so she can run the concentrator in her hallway.
+    - |-
+      Remind her to call the emergency number as soon as the power fails.
+  correct: 0
+  explanation: |-
+    Electricity-dependent medical equipment is one of the most urgent needs in outages, so she needs a named check-in person who also knows the nearest place with power. She should also ask her supplier about backup and any utility priority register.
+
+- id: s16-l1-q1
+  question: |-
+    Why does a family plan use an **out-of-area** contact rather than a local one?
+  options:
+    - |-
+      Out-of-area contacts are usually calmer and give better advice.
+    - |-
+      Local networks are jammed and locals are affected; a distant hub relays news.
+    - |-
+      Emergency regulations require one contact outside your region.
+    - |-
+      Long-distance calls are usually free of charge during disasters.
+  correct: 1
+  explanation: |-
+    One hub outside the disaster area is reachable more often and saves everyone from calling everyone.
+
+- id: s16-l1-q2
+  question: |-
+    Which of these does **not** belong in a household emergency plan?
+  options:
+    - |-
+      Three meeting places: near home, in the neighbourhood, out of town
+    - |-
+      Each member’s medications, doses and medical devices
+    - |-
+      Everyone’s phone numbers, stored only in one family phone
+    - |-
+      Who is authorised to collect the children from school
+  correct: 2
+  explanation: |-
+    A plan must work when phones are flat and people are apart, so numbers go on paper cards for everyone. Meeting places, medical needs, school pick-up and utility shut-offs all belong in it.
+
+- id: s16-l1-q4
+  question: |-
+    In the first hours after a large earthquake, who rescues most of the people trapped in damaged buildings?
+  options:
+    - |-
+      Professional urban search-and-rescue teams
+    - |-
+      The city’s fire brigade and ambulance crews
+    - |-
+      International rescue teams flown in to help
+    - |-
+      Family, neighbours and bystanders already on the scene
+  correct: 3
+  explanation: |-
+    Professional responders are overwhelmed early, so family, neighbours and bystanders do most of the early rescuing — which is why neighbourhood plans and response-team training matter.
+
+- id: s16-l1-q3
+  question: |-
+    On a congested network each text attempt gets through with probability 0.3, independently. What is the probability that at least one of **4** attempts gets through?
+  options:
+    - |-
+      About 76 %
+    - |-
+      About 24 %
+    - |-
+      About 99 %
+    - |-
+      About 1 %
+  correct: 0
+  explanation: |-
+    $1 - 0.7^4 = 1 - 0.2401 = 0.76$ → **76 %**. Texts are queued and retried; that is why they often get through when calls do not.

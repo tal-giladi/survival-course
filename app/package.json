@@ -9,7 +9,8 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "test": "vitest run",
-    "gen-docs": "tsx ../scripts/gen-docs.mts"
+    "gen-docs": "tsx ../scripts/gen-docs.mts",
+    "export-academy": "tsx --tsconfig tsconfig.app.json --import ./academy/css-stub.mjs academy/export.mts && vite build --config vite.sims.config.ts"
   },
   "dependencies": {
     "katex": "^0.18.9",

@@ -1,0 +1,79 @@
+- id: s10-l4-q1
+  question: |-
+    Your boot sole has come away at the toe with 12 km of rocky trail left. Which repair is best?
+  options:
+    - |-
+      Several tight wraps of duct tape around the toe
+    - |-
+      Cable ties or cord round the sole, covered with tape
+    - |-
+      Glue it using the stove’s fuel as a solvent
+    - |-
+      Walk on carefully; the sole will hold as it is
+  correct: 1
+  explanation: |-
+    Separate the load path (abrasion-resistant binding) from the cover (tape).
+
+- id: s10-l4-q5
+  question: |-
+    It is −25 °C and a ski binding is loose. Which fixing should you be cautious with?
+  options:
+    - |-
+      Cord lashings tied with tested knots
+    - |-
+      Soft wire twisted tight with pliers
+    - |-
+      Cable ties carried in an outside pocket
+    - |-
+      A multitool used to tighten the screws
+  correct: 2
+  explanation: |-
+    Material properties change with temperature: plastics stiffen and can snap in deep cold.
+
+- id: s10-l4-q4
+  question: |-
+    A climbing sling has a small cut. What should you do with it?
+  options:
+    - |-
+      Tape over the cut tightly and keep using it
+    - |-
+      Keep using it after a body-weight test on the ground
+    - |-
+      Tie a knot to isolate the cut and keep using it
+    - |-
+      Retire it — damaged life-safety gear is not repaired
+  correct: 3
+  explanation: |-
+    Life-safety equipment that is damaged is retired, never patched.
+
+- id: s10-l4-q3
+  question: |-
+    Which of these makes field tape **less** likely to stick?
+  options:
+    - |-
+      Applying it over frost to “freeze it in place”
+    - |-
+      Wiping the surface clean and dry first
+    - |-
+      Warming the tape inside your jacket first
+    - |-
+      Pressing firmly and rubbing it down
+  correct: 0
+  explanation: |-
+    Clean, dry, warm, pressed, rounded corners — frost under the tape defeats the adhesive.
+
+- id: s10-l4-q2
+  question: |-
+    A tear behaves like an ellipse with half-length a = 30 mm and half-width b = 2 mm. What is the **stress concentration factor** $1 + 2a/b$?
+  options:
+    - |-
+      16×
+    - |-
+      31×
+    - |-
+      30×
+    - |-
+      1.13×
+  correct: 1
+  explanation: |-
+    $1 + 2 	imes 30 / 2 = 31$. Rounding the tip (making $b$ larger) cuts it sharply; a round hole gives 3.

@@ -1,0 +1,79 @@
+- id: s3-l6-q3
+  question: |-
+    You bow hard for two minutes with damp willow. Steam rises, the dust is pale, the temperature never seems to climb. What is the physics?
+  options:
+    - |-
+      Willow is simply not a friction-fire wood, however dry it might be.
+    - |-
+      Heat goes into boiling water, and water cuts friction, so it stalls near 100 °C.
+    - |-
+      You need to bow faster for longer; it always works eventually.
+    - |-
+      The notch is cut too big, so the hot dust spills out and cools.
+  correct: 1
+  explanation: |-
+    The same moisture physics as in lesson 1: water must boil off before temperature can rise, and water also lubricates the surfaces.
+
+- id: s3-l6-q5
+  question: |-
+    Why does a 3 cm spindle often fail where a 2 cm spindle succeeds with the same effort?
+  options:
+    - |-
+      It spins faster at the same cord speed, so the dust is thrown out.
+    - |-
+      Thicker spindles hold more resin, which melts and glazes the socket.
+    - |-
+      Its bigger contact area spreads the heat and loses more to conduction.
+    - |-
+      The friction coefficient is lower for thick wood than for thin wood.
+  correct: 2
+  explanation: |-
+    Temperature is set by the balance of heat in vs heat lost; a bigger hot zone loses more and warms more slowly, lowering the temperature ceiling.
+
+- id: s3-l6-q4
+  question: |-
+    Which wood is most likely to work for a bow drill?
+  options:
+    - |-
+      Resinous pine
+    - |-
+      Dense, dry oak
+    - |-
+      Punky half-rotten wood
+    - |-
+      Dry basswood (lime)
+  correct: 3
+  explanation: |-
+    Soft-to-medium, dry, non-resinous woods (basswood, western red cedar) produce fine dark dust that holds heat. Resinous, very hard and punky woods fail.
+
+- id: s3-l6-q6
+  question: |-
+    What role should friction fire play in your emergency fire-starting plan?
+  options:
+    - |-
+      A last-resort skill, behind a lighter and a ferro rod
+    - |-
+      The primary method, since it needs no carried gear
+    - |-
+      The backup to a lighter, so no ferro rod is needed
+    - |-
+      The primary method in dry areas with good friction wood
+  correct: 0
+  explanation: |-
+    Friction fire is a last-resort skill, not a primary method. Carry a lighter and a ferro rod (redundancy, Stage 1).
+
+- id: s3-l6-q1
+  question: |-
+    Friction coefficient 0.4, downward force 90 N, average rubbing speed 1.0 m/s. Using $P = \mu N v$, what is the friction power?
+  options:
+    - |-
+      90 W
+    - |-
+      36 W
+    - |-
+      225 W
+    - |-
+      3.6 W
+  correct: 1
+  explanation: |-
+    0.4 × 90 × 1.0 = **36 W** of heat at the rubbing surfaces.

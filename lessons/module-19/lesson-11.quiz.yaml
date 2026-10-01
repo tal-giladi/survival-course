@@ -1,0 +1,79 @@
+- id: cap-11-q6
+  question: |-
+    A mildly hypothermic walker has been walking slowly with support. Which change means she should **stop walking** and be wrapped and evacuated?
+  options:
+    - |-
+      Her speech slurs, she stumbles repeatedly and seems confused.
+    - |-
+      She says she is cold and asks someone to find her hat.
+    - |-
+      She is shivering hard but still chatting and joking normally.
+    - |-
+      She says she is very hungry and asks to stop for food.
+  correct: 0
+  explanation: |-
+    Confusion, slurred speech, stumbling and drowsiness mark progression beyond mild hypothermia: handle gently, keep horizontal, wrap, evacuate.
+
+- id: cap-11-q1
+  question: |-
+    In sleet and wind, which group member should you attend to first?
+  options:
+    - |-
+      The one shouting angrily that the group is too slow
+    - |-
+      The one who has gone quiet, is shivering hard and fumbling with a zip
+    - |-
+      The one breathing fast and saying they will die
+    - |-
+      Whoever asks first
+  correct: 1
+  explanation: |-
+    Quiet casualties are easily overlooked. Triage by threat to life.
+
+- id: cap-11-q4
+  question: |-
+    Conditions are bad and the fittest person in the group could reach help faster alone. What is usually the best decision?
+  options:
+    - |-
+      Send the fittest person alone, since speed matters most now.
+    - |-
+      Walk the whole group out together at the fittest person’s pace.
+    - |-
+      Prefer communication; if someone must go, send a pair on a short task.
+    - |-
+      Send the fittest person alone, with a fixed time to turn back.
+  correct: 2
+  explanation: |-
+    A lone person moving fast in bad conditions is at high risk, and if they get into trouble nobody knows. Prefer communication; if someone must go, send a pair on a short, specific task.
+
+- id: cap-11-q3
+  question: |-
+    A group member is hyperventilating, with tingling hands, saying they cannot breathe. What is the best first response?
+  options:
+    - |-
+      Tell them firmly to pull themselves together and keep moving.
+    - |-
+      Have them breathe into a paper bag until the tingling stops.
+    - |-
+      Leave them alone for a few minutes so they calm down by themselves.
+    - |-
+      Breathe slowly with them, longer out than in, then give them a job.
+  correct: 3
+  explanation: |-
+    Eye contact, slow breathing plus a concrete task. If symptoms persist or there is chest pain with risk factors, treat it as a possible medical emergency.
+
+- id: cap-11-q2
+  question: |-
+    Which of these is **NOT** an appropriate field treatment for **mild** hypothermia (shivering, alert, clumsy)?
+  options:
+    - |-
+      A drink of spirits to help warm them up from inside
+    - |-
+      Getting them out of the wind and off the ground
+    - |-
+      Replacing or covering wet clothing and adding a hat
+    - |-
+      Food or a sweet drink, if they can swallow safely
+  correct: 0
+  explanation: |-
+    Shelter, insulation, dry or covered layers, calories — and monitoring. No alcohol, and no vigorous rubbing, which does not rewarm the core and can harm tissue.

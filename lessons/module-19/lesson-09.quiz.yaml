@@ -1,0 +1,79 @@
+- id: cap-9-q5
+  question: |-
+    Which situation most clearly calls for **stopping and sheltering** rather than continuing to navigate?
+  options:
+    - |-
+      Fog, but a known wall 1 km south and several hours of daylight.
+    - |-
+      Steady drizzle and low cloud while you are on a well-marked, cairned path.
+    - |-
+      You have lost the compass, but the valley below you is clearly visible.
+    - |-
+      Whiteout near a corniced edge, no reachable catching feature, dusk falling.
+  correct: 3
+  explanation: |-
+    Stop when every available method is unsafe or unreliable — especially near edges and at nightfall.
+
+- id: cap-9-q3
+  question: |-
+    In fog without a compass, which of these is **NOT** a useful relocation clue?
+  options:
+    - |-
+      A strong, steady feeling that the car is "this way"
+    - |-
+      A steep edge that exists in only one place on the map
+    - |-
+      Time and pace count since your last known point
+    - |-
+      The direction the ground slopes, compared with the map
+  correct: 0
+  explanation: |-
+    Relocation uses evidence: unique features, measured time and distance, slope, and cross-checked direction cues such as a steady wind — not a feeling of certainty.
+
+- id: cap-9-q1
+  question: |-
+    A long wall runs east–west across your route; the gate you need is somewhere on it. You have no compass. Why aim deliberately to the west of the gate?
+  options:
+    - |-
+      Because walls like this are usually easier to cross on their west side.
+    - |-
+      So at the wall you know the gate lies to your left (east).
+    - |-
+      Because the prevailing westerly wind will help you hold a straight line.
+    - |-
+      Because aiming to one side makes the overall route to the gate shorter.
+  correct: 1
+  explanation: |-
+    Aim off by more than your likely directional error, then follow the catching feature toward the target.
+
+- id: cap-9-q4
+  question: |-
+    In thick fog, what usually happens to walkers who concentrate hard on walking straight?
+  options:
+    - |-
+      They hold a straight line, because concentration makes up for landmarks.
+    - |-
+      They walk straight but lose all sense of how far they have gone.
+    - |-
+      They drift and often curve, while still feeling confident.
+    - |-
+      They stop trusting themselves and so take more care with direction.
+  correct: 2
+  explanation: |-
+    Without external references, walkers drift and often curve, while feeling confident. Use aiming points, cross-checked cues and catching features.
+
+- id: cap-9-q6
+  question: |-
+    What is the difference between a **handrail** and a **catching feature**?
+  options:
+    - |-
+      They are two names for the same thing: any linear feature such as a wall.
+    - |-
+      A handrail must be man-made, while a catching feature must be natural.
+    - |-
+      A handrail is what you aim off from; a catching feature is what you follow.
+    - |-
+      A handrail is a line you follow; a catching feature crosses your path and stops you.
+  correct: 3
+  explanation: |-
+    Plan legs that follow handrails and end on catching features — ideally with aiming off.

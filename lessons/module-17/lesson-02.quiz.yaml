@@ -1,0 +1,79 @@
+- id: s17-l2-q6
+  question: |-
+    Nobody knows your route, you have no beacon, the highway is 25 km away along the track you drove in on, and you have 12 L of water. The car cannot be freed. What is the most reasonable plan?
+  options:
+    - |-
+      Walk out now, at 13:00, while you are still fresh and rested
+    - |-
+      Stay by the car indefinitely and rest, without laying out signals
+    - |-
+      Wait in shade until evening, signal, leave a note, then walk the known track by night
+    - |-
+      Walk cross-country toward a town you think is closer than the highway
+  correct: 2
+  explanation: |-
+    Staying is the default because a search is coming. Without a trip plan or beacon that assumption fails, and a night walk on a known route carrying most of the water can be the better option — which is exactly why the trip plan matters.
+
+- id: s17-l2-q5
+  question: |-
+    Your friend, who has been digging in the sun, becomes confused and aggressive and his skin is hot. What do you do first?
+  options:
+    - |-
+      Give him water and let him rest inside the car out of the sun
+    - |-
+      Have him sit quietly and wait to see whether he improves
+    - |-
+      Walk him slowly to the road so you can flag down help
+    - |-
+      Treat it as heat stroke: shade, soak and fan him, and call for help
+  correct: 3
+  explanation: |-
+    Altered mental state plus heat exposure means heat stroke: move to shade and cool first, fast — soak and fan, cold packs to neck, armpits and groin, immerse if possible (WMS) — and evacuate. A WFA course teaches this hands-on.
+
+- id: s17-l2-q1
+  question: |-
+    Your car is stuck in sand at 11:00; it will be 44 °C by mid-afternoon. Where should you wait?
+  options:
+    - |-
+      In raised, preferably double-layer shade rigged beside the car, sitting off the ground
+    - |-
+      Inside the car with the windows up to keep out the hot wind
+    - |-
+      Inside the car with the windows cracked
+    - |-
+      Lying on the sand in the car’s shadow
+  correct: 0
+  explanation: |-
+    Use the car as a shade frame, not an oven: shade overhead, air moving, and something between you and the hot ground.
+
+- id: s17-l2-q4
+  question: |-
+    You are waiting by a stranded car in the desert. Which of these does NOT reduce your water loss?
+  options:
+    - |-
+      Resting in shade through the middle of the day
+    - |-
+      Eating a large meal to keep your strength up
+    - |-
+      Doing your tasks at dawn, dusk and night
+    - |-
+      Sitting on a mat or seat rather than the ground
+  correct: 1
+  explanation: |-
+    Ration sweat: cut sun (shade, loose light clothing and a hat), heat gain from ground and air, and metabolic heat from work and digestion.
+
+- id: s17-l2-q2
+  question: |-
+    You are stranded in desert heat with a limited supply of water. How should you drink?
+  options:
+    - |-
+      Sip it as slowly as possible so the supply lasts longer
+    - |-
+      Drink nothing during the day and save it all for the night
+    - |-
+      Drink to replace your losses, and cut the losses with shade and rest
+    - |-
+      Hold off drinking until you start to feel clearly dehydrated
+  correct: 2
+  explanation: |-
+    Drink to replace losses and cut the losses themselves (shade, rest, work in the cool). Water in the body is what keeps you alive; dehydration also raises core temperature.

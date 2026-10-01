@@ -1,0 +1,79 @@
+- id: s3-l8-q3
+  question: |-
+    Three people in a snow shelter with a stove running all develop headaches and nausea. What is the most likely cause and action?
+  options:
+    - |-
+      Altitude sickness — rest tonight, then descend tomorrow.
+    - |-
+      Dehydration — everyone should drink more and rest.
+    - |-
+      Cold — turn the stove up and close the entrance.
+    - |-
+      Carbon monoxide — stove off, everyone into fresh air, call for help.
+  correct: 3
+  explanation: |-
+    Everyone ill at once in an enclosed space with combustion = CO until proven otherwise.
+
+- id: s3-l8-q2
+  question: |-
+    Fires are normally allowed here. Which of these conditions is generally **not** a reason to skip the fire?
+  options:
+    - |-
+      An overcast, calm, damp evening
+    - |-
+      Strong, gusty wind
+    - |-
+      Air temperature (°C) above relative humidity (%)
+    - |-
+      Cured, dry grass and crunchy leaf litter
+  correct: 0
+  explanation: |-
+    Hot, dry, windy, low humidity, fine dry fuel, or an official high or extreme danger rating: go without, or use a stove where allowed.
+
+- id: s3-l8-q4
+  question: |-
+    You have very little water left. How should you put out your campfire?
+  options:
+    - |-
+      Bury it under a thick layer of soil so no air can reach it
+    - |-
+      Burn it to ash, mix in mineral soil, stir, and check by hand
+    - |-
+      Smother it with leaves and duff, then stir until it stops smoking
+    - |-
+      Pour your last splash on it and leave once the hissing stops
+  correct: 1
+  explanation: |-
+    Covering a fire with soil is not reliable: buried coals can stay hot for many hours. With little water, let it burn down, mix mineral soil in and stir, then check by hand.
+
+- id: s3-l8-q6
+  question: |-
+    Which statement about fire rules is correct?
+  options:
+    - |-
+      If a fire was allowed there last week, it is allowed today.
+    - |-
+      Stoves are always exempt from fire bans.
+    - |-
+      Fire rules depend on the land manager and season; check on the day.
+    - |-
+      Rain automatically lifts a fire ban.
+  correct: 2
+  explanation: |-
+    Land manager, season, day. Make the check part of every trip plan.
+
+- id: s3-l8-q5
+  question: |-
+    Heating 1 kg of water from 15 °C and evaporating it absorbs about 2.6 MJ. How much water must fully evaporate to absorb **3.9 MJ** from hot coals?
+  options:
+    - |-
+      0.7 kg
+    - |-
+      1.7 kg
+    - |-
+      10.1 kg
+    - |-
+      1.5 kg
+  correct: 3
+  explanation: |-
+    3.9 ÷ 2.6 = **1.5 kg** — and in practice you need several times more, because much of the water runs off.

@@ -1,0 +1,79 @@
+- id: s10-l1-q5
+  question: |-
+    Sleet, 2 °C, 3 hours from the road. A friend’s pack strap tears. What is the best material to fix it?
+  options:
+    - |-
+      Your rain jacket, knotted firmly into a strap
+    - |-
+      Duct tape wrapped around the torn ends only
+    - |-
+      Cord or a stuff-sack strap, tied with a tested knot
+    - |-
+      Strips cut from your foam sleeping pad
+  correct: 2
+  explanation: |-
+    Match the property (tension) and avoid cannibalising critical gear in cold, wet weather.
+
+- id: s10-l1-q1
+  question: |-
+    Your only water bottle split. What is the best first step?
+  options:
+    - |-
+      Search the pack carefully for a spare bottle
+    - |-
+      Drink all the remaining water now so nothing needs carrying
+    - |-
+      Refill the empty fuel bottle and carry on as before
+    - |-
+      List what the bottle did: hold, stay food-safe, close, carry
+  correct: 3
+  explanation: |-
+    Define the function first; then choose objects by their properties.
+
+- id: s10-l1-q4
+  question: |-
+    An improvised cord-and-branch rig has held twice your body weight in a ground-level test. Can it be used to lower a person down a short cliff?
+  options:
+    - |-
+      No — lowering a person needs certified gear and training
+    - |-
+      Yes — a safety factor of 2 shows it is strong enough
+    - |-
+      Yes, as long as the person lowered is lighter than you
+    - |-
+      No — but it would be fine after a test at 3× body weight
+  correct: 0
+  explanation: |-
+    Never. Life-safety rope work needs certified equipment, proper anchors and training. Dynamic loads, edge abrasion and hidden flaws make improvised rigs unpredictable (Stage 13).
+
+- id: s10-l1-q3
+  question: |-
+    Which of these does **NOT** help break **functional fixedness**?
+  options:
+    - |-
+      Describe objects by their properties, not their names
+    - |-
+      Wait until you remember where the proper tool is kept
+    - |-
+      Empty the pack and lay everything out where you can see it
+    - |-
+      Ask “what else could this do?” three times per item
+  correct: 1
+  explanation: |-
+    Properties, visibility and forced alternatives all widen what you can see; waiting for the “proper” tool narrows it.
+
+- id: s10-l1-q2
+  question: |-
+    A hanger will carry a 6 L water bag. With a safety factor of 2, what **test mass** should you load it with?
+  options:
+    - |-
+      6 kg
+    - |-
+      3 kg
+    - |-
+      12 kg
+    - |-
+      8 kg
+  correct: 2
+  explanation: |-
+    6 L of water ≈ 6 kg; 2 × 6 = 12 kg. Test at ground level.

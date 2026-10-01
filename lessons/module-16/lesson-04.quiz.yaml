@@ -1,0 +1,79 @@
+- id: s16-l4-q6
+  question: |-
+    Your street is flooding fast at night and the ground floor has 30 cm of water. The road outside is a river. What is the best place to wait for rescue?
+  options:
+    - |-
+      In the car on the drive, ready to leave as the water drops
+    - |-
+      Up in the closed attic, since it is the highest point inside
+    - |-
+      Across the road at a neighbour’s house, wading along the wall
+    - |-
+      On the highest floor with a way onto the roof, power off, signalling with a torch
+  correct: 3
+  explanation: |-
+    Go up, keep an exit onto the roof, switch the electricity off, stay dry, and signal (Stage 1 signaling applies: light, sound, phone).
+
+- id: s16-l4-q1
+  question: |-
+    A train derailment releases a toxic gas cloud 2 km upwind. Phone alerts say “shelter in place”. What do you do?
+  options:
+    - |-
+      Go inside, shut windows and doors, turn off ventilation, use an interior room
+    - |-
+      Drive away from the area as fast as possible before it arrives
+    - |-
+      Open all the windows so the gas is diluted inside the house
+    - |-
+      Go down to the basement, as far from the outside air as possible
+  correct: 0
+  explanation: |-
+    When the outside air is the danger, a closed building protects you while the plume passes.
+
+- id: s16-l4-q3
+  question: |-
+    Which of these does **not** reduce the chance of your house igniting in a wildfire?
+  options:
+    - |-
+      Clearing leaves and needles from the gutters and roof
+    - |-
+      Planting a dense hedge against the walls for shade
+    - |-
+      Removing mulch, woodpiles and doormats within 1.5 m of the walls
+    - |-
+      Fitting ember screens over the house vents
+  correct: 1
+  explanation: |-
+    Embers cause most home ignitions; remove what they can light near the house, then leave early rather than staying to defend it with a hose.
+
+- id: s16-l4-q5
+  question: |-
+    During a 40 °C heatwave, your 85-year-old neighbour sits in a closed flat with only an electric fan running. What is the best response?
+  options:
+    - |-
+      Leave her be — the fan keeps the air moving, which is enough
+    - |-
+      Bring her a second fan so that both can blow straight at her
+    - |-
+      Cool her with water and help her to a cooler place or cooling centre
+    - |-
+      Check on her again tomorrow evening when it is cooler
+  correct: 2
+  explanation: |-
+    At very high temperatures fans alone do not prevent heat illness and may even add heat. Cool the body with water, move to a cooler place or a cooling centre, and check on the person twice a day.
+
+- id: s16-l4-q4
+  question: |-
+    A fire will close your only road in about 150 minutes. You need 15 min to decide, 45 min to pack people and pets, and the drive out takes 60 min in heavy traffic. How much margin do you have if you start deciding now?
+  options:
+    - |-
+      45 min
+    - |-
+      75 min
+    - |-
+      90 min
+    - |-
+      30 min
+  correct: 3
+  explanation: |-
+    150 − (15 + 45 + 60) = 30 min. Thin, with an uncertain fire: go now, and cut the packing.

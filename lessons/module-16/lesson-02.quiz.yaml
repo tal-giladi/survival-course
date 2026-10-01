@@ -1,0 +1,79 @@
+- id: s16-l2-q3
+  question: |-
+    Where is it safe to run a portable generator during a power cut?
+  options:
+    - |-
+      In the garage with the big up-and-over door fully open
+    - |-
+      Outdoors, 6 m (20 ft) from doors, windows and vents, with CO alarms inside
+    - |-
+      On the flat’s balcony, next to the living-room window
+    - |-
+      In the basement, where it stays dry and out of the rain
+  correct: 1
+  explanation: |-
+    Generators are for outdoors only, at least 6 m from openings with the exhaust pointing away. CO is odourless; sleeping people can die without waking.
+
+- id: s16-l2-q5
+  question: |-
+    After an earthquake at night, the power is out. What is the best light source to reach first?
+  options:
+    - |-
+      A candle and matches from the kitchen drawer
+    - |-
+      A lighter, briefly, to find the torch
+    - |-
+      The headlamp and shoes kept by the bed
+    - |-
+      The car headlights
+  correct: 2
+  explanation: |-
+    Keep a torch or headlamp and shoes by every bed. Never use a flame until you know there is no gas leak.
+
+- id: s16-l2-q4
+  question: |-
+    Which of these is **not** good practice for stored water and food?
+  options:
+    - |-
+      Replacing self-filled water containers every 6 months
+    - |-
+      Storing water in several containers in different places
+    - |-
+      Rotating food first in, first out, with new stock at the back
+    - |-
+      Reusing old plastic milk jugs as water containers
+  correct: 3
+  explanation: |-
+    Use proper food-grade containers and rotate water on a schedule. For food, store what you eat and eat what you store — food nobody eats is not a supply.
+
+- id: s16-l2-q1
+  question: |-
+    A household of 3 adults and 1 child in a hot climate plans 6 L per person per day. How much water do they need for **5 days**?
+  options:
+    - |-
+      120 L
+    - |-
+      90 L
+    - |-
+      80 L
+    - |-
+      24 L
+  correct: 0
+  explanation: |-
+    $4 \times 6 \times 5 = 120$ L — about six 20 L containers.
+
+- id: s16-l2-q2
+  question: |-
+    A power bank is rated 10,000 mAh at 3.7 V. About how many watt-hours are **usable** at the USB port if about 75 % survives conversion?
+  options:
+    - |-
+      About 37 Wh
+    - |-
+      About 28 Wh
+    - |-
+      About 49 Wh
+    - |-
+      About 2 Wh
+  correct: 1
+  explanation: |-
+    $10\ \text{Ah} \times 3.7\ \text{V} = 37$ Wh nominal; $37 \times 0.75 \approx 28$ Wh usable — about one and a half charges of a typical phone.

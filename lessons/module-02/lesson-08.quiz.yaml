@@ -1,0 +1,85 @@
+- id: s2-l8-q4
+  question: |-
+    The watch method assumes the sun’s azimuth moves 15° per hour. In which case is it still accurate to within a few degrees?
+
+    ![Watch method for northern and southern hemispheres at 16:00 solar time](../../assets/diagrams/watch-method.svg)
+  options:
+    - |-
+      Mid-morning at 40° N in midsummer
+    - |-
+      Near noon at 10° N, any time of year
+    - |-
+      Mid-morning at 40° N in midwinter
+    - |-
+      Any latitude, if you forget daylight saving
+  correct: 2
+  explanation: |-
+    The method assumes 15° of azimuth per hour. That holds for a low sun; it fails for a high sun and in the tropics, and a forgotten DST hour adds about 15° more.
+
+- id: s2-l8-q5
+  question: |-
+    Where in the northern hemisphere is the sun at solar noon reliably **due south**?
+  options:
+    - |-
+      Everywhere north of the equator, all year round
+    - |-
+      Only north of the Arctic Circle (≈66.6° N)
+    - |-
+      Only between the equator and the Tropic of Cancer
+    - |-
+      Only north of the Tropic of Cancer (≈23.4° N)
+  correct: 3
+  explanation: |-
+    Only north of the Tropic of Cancer (≈23.4° N). In the northern tropics, around midsummer the noon sun is north of overhead.
+
+- id: s2-l8-q1
+  question: |-
+    You are at 40° N in late June. Roughly where does the sun rise?
+
+    ![Sun paths across the sky at the equator, 40 degrees north and 60 degrees north for solstices and equinox](../../assets/diagrams/sun-path.svg)
+  options:
+    - |-
+      About 059°, north-east
+    - |-
+      Due east (090°)
+    - |-
+      About 120°, south-east
+    - |-
+      About 030°
+  correct: 0
+  explanation: |-
+    In summer the sun rises north of east, in winter south of east; the swing grows with latitude.
+
+- id: s2-l8-q3
+  question: |-
+    In a shadow-stick reading, the first mark is at A and the second (20 minutes later) at B. The line A → B points…
+
+    ![Shadow-stick method: two marks of the shadow tip give a west to east line](../../assets/diagrams/shadow-stick.svg)
+  options:
+    - |-
+      Roughly east → west
+    - |-
+      Roughly west → east
+    - |-
+      North → south
+    - |-
+      West → east in the north, east → west in the south
+  correct: 1
+  explanation: |-
+    First mark = west, second = east. Stand with the first mark on your left to face roughly north.
+
+- id: s2-l8-q6
+  question: |-
+    In the southern hemisphere, using a watch on standard time, how do you find north?
+  options:
+    - |-
+      Point the hour hand at the sun; north is midway to 12.
+    - |-
+      Point 6 at the sun; north is at 12.
+    - |-
+      Point 12 at the sun; north is midway between 12 and the hour hand.
+    - |-
+      It doesn’t work in the southern hemisphere.
+  correct: 2
+  explanation: |-
+    South of the equator the midday sun is in the north, so the method is mirrored: 12 on the sun, bisect to the hour hand.

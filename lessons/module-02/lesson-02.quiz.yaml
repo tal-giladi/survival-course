@@ -1,0 +1,79 @@
+- id: s2-l2-q3
+  question: |-
+    You are descending in poor visibility. On the map, the contours below you are widely spaced near your position and become crowded lower down. Which statement is **wrong**?
+  options:
+    - |-
+      The slope will get gentler the further down you go.
+    - |-
+      This is a convex slope: wide spacing above, crowded below.
+    - |-
+      You may not see the steep lower section from where you stand.
+    - |-
+      Check the map for cliff symbols and pick a spur or path first.
+  correct: 0
+  explanation: |-
+    Convex slopes hide their steepest part. Slow down, check the map and pick the safest line before committing.
+
+- id: s2-l2-q2
+  question: |-
+    Where contour lines cross a stream, they form Vs. Which way do the Vs point?
+  options:
+    - |-
+      Downstream, toward lower ground
+    - |-
+      Upstream, toward higher ground
+    - |-
+      Always toward north
+    - |-
+      It depends on the contour interval
+  correct: 1
+  explanation: |-
+    V-rule: in valleys the Vs point upstream (uphill); on spurs they point downhill.
+
+- id: s2-l2-q6
+  question: |-
+    Between two summits the contours form an **hourglass** pattern. What does it show?
+  options:
+    - |-
+      A knoll, a small extra summit best avoided when crossing
+    - |-
+      A re-entrant that funnels water down off the ridge
+    - |-
+      A saddle, usually the easiest place to cross the ridge
+    - |-
+      A cliff band blocking the way between the two summits
+  correct: 2
+  explanation: |-
+    A saddle (col, pass) is the lowest point on the ridge between two highs, which is why trails and passes cross there.
+
+- id: s2-l2-q1
+  question: |-
+    On a **1:25,000** map with a **10 m** contour interval, adjacent contours are **1 mm** apart. What is the slope angle?
+  options:
+    - |-
+      68.2°
+    - |-
+      76.0°
+    - |-
+      2.3°
+    - |-
+      21.8°
+  correct: 3
+  explanation: |-
+    1 mm × 25 m/mm = 25 m horizontal. Gradient = 10/25 = 0.4. arctan(0.4) ≈ **21.8°**.
+
+- id: s2-l2-q4
+  question: |-
+    Your route climbs from the **340 m** contour to the **520 m** contour. The contour interval is **20 m**. How many contour **intervals** do you climb through?
+  options:
+    - |-
+      9 intervals
+    - |-
+      8 intervals
+    - |-
+      10 intervals
+    - |-
+      26 intervals
+  correct: 0
+  explanation: |-
+    (520 − 340) ÷ 20 = **9** intervals (you will cross 8 intermediate lines between the two named ones). Count intervals, not lines, when computing height gain.

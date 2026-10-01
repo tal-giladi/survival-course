@@ -1,0 +1,79 @@
+- id: s14-l1-q3
+  question: |-
+    Sunny morning. A search aircraft is to the east; the Sun is low in the west, almost directly behind you. What do you do with your mirror?
+  options:
+    - |-
+      Give up on the mirror — it cannot work with the Sun behind you
+    - |-
+      Flash straight up at the sky so it is seen from all directions
+    - |-
+      Turn or move so the Sun is more to your side, then aim and sweep
+    - |-
+      Hold the mirror flat on the ground so it catches the most sunlight
+  correct: 2
+  explanation: |-
+    Effective area = $A\cos(\theta/2)$. With θ near 180° the mirror is edge-on; a few metres’ move or a turn can make a big difference.
+
+- id: s14-l1-q6
+  question: |-
+    Night in a forest. You hear distant voices calling a name — yours. Your headlamp is at 30 %. What is the best first action?
+  options:
+    - |-
+      Shout back continuously until the searchers reach you
+    - |-
+      Head toward the voices in the dark so they find you sooner
+    - |-
+      Stay quiet to save energy and headlamp until they are close
+    - |-
+      Whistle in threes, pause to listen, then aim your light at them
+  correct: 3
+  explanation: |-
+    Match the signal to the searcher: sound for ground teams, then light to guide them. Stay put.
+
+- id: s14-l1-q4
+  question: |-
+    Where fire is legal and safe, which smoke signal is most likely to be seen well?
+  options:
+    - |-
+      Pale smoke above dark conifer forest on a calm morning
+    - |-
+      Pale smoke from green boughs in a strong, gusty wind
+    - |-
+      A smoky fire built under dense forest canopy
+    - |-
+      Pale smoke against a white overcast sky
+  correct: 0
+  explanation: |-
+    Smoke must contrast with its background (pale over dark forest, dark over snow) and be able to rise. And only where fire is legal and safe.
+
+- id: s14-l1-q5
+  question: |-
+    A helicopter crew is passing and looking your way. Which body signal clearly says you need help?
+  options:
+    - |-
+      Waving one arm overhead
+    - |-
+      Both arms raised in a Y
+    - |-
+      One arm up and one arm down
+    - |-
+      One arm held straight up, still
+  correct: 1
+  explanation: |-
+    Both arms raised in a **Y** means “need help”. A one-armed wave can be read as a friendly “all fine”; one arm up and one down means “no help needed”.
+
+- id: s14-l1-q1
+  question: |-
+    V-finger mirror method: the target is framed in your V and the sun spot is now resting on your fingers. What is the next step?
+  options:
+    - |-
+      Hold the mirror perfectly still so the spot stays on the V
+    - |-
+      Lower your arm so the flash can travel on to the target
+    - |-
+      Rock the mirror slightly so the spot flicks on and off the V
+    - |-
+      Move the mirror away from your eye to widen the flash
+  correct: 2
+  explanation: |-
+    Frame the target in a V, hold the mirror close under your eye, tilt until the spot falls on your fingers, then rock slightly so repeated flashes cross the target.

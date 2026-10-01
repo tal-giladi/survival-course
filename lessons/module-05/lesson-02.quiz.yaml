@@ -1,0 +1,79 @@
+- id: s5-l2-q3
+  question: |-
+    You find a flat, sheltered spot under a large tree. Which observation does **NOT** give you a reason to rule it out?
+  options:
+    - |-
+      Broken dead limbs hanging in the crown
+    - |-
+      Twigs and grass lodged in low branches, silt on the trunk
+    - |-
+      Pale, angular rock fragments without lichen scattered around
+    - |-
+      Dry leaf litter about 20 cm deep around the base
+  correct: 3
+  explanation: |-
+    Look up, upstream and around before comfort: dead limbs, high-water marks and fresh rockfall each rule a site out. Materials and sound trees are positives.
+
+- id: s5-l2-q4
+  question: |-
+    No rain is falling where you are. Which statement about sleeping in a dry desert wash is correct?
+  options:
+    - |-
+      It is unsafe: rain far upstream on the catchment can send a flood down it.
+    - |-
+      It is safe as long as the sky directly overhead stays clear all night.
+    - |-
+      It is safe if the sand is dry, since that shows no water is on its way.
+    - |-
+      It is safe if you sleep tight against the cut bank, not mid-channel.
+  correct: 0
+  explanation: |-
+    Flash floods come from rain on the catchment upstream, which may be many kilometres away and out of sight. A wash is never a safe bed, whatever the local sky.
+
+- id: s5-l2-q5
+  question: |-
+    In snow country you find a perfect deep drift for a snow cave on the lee side of a steep, corniced slope. What is the problem?
+  options:
+    - |-
+      None — a deep drift is ideal for digging a cave
+    - |-
+      Wind-loaded lee slopes and cornices are avalanche terrain
+    - |-
+      Snow on lee slopes is too soft to hold a cave roof
+    - |-
+      The drift is too deep to dig down to firm ground
+  correct: 1
+  explanation: |-
+    Dig in low-angle terrain away from slopes above and their runout zones, and use the regional avalanche forecast when travelling in the mountains in winter.
+
+- id: s5-l2-q1
+  question: |-
+    Which night makes the valley floor coldest relative to the slopes?
+  options:
+    - |-
+      Overcast, 40 km/h wind
+    - |-
+      Steady rain, light wind
+    - |-
+      Clear, calm, dry air
+    - |-
+      Overcast, calm, light drizzle
+  correct: 2
+  explanation: |-
+    Clear skies let the ground radiate (~80 W/m² in the worked example); calm air lets the cooled, denser air drain and pool.
+
+- id: s5-l2-q2
+  question: |-
+    A gully drains a **0.5 km²** catchment. A storm drops **30 mm** of rain on it, and about **40 %** runs off. How much water comes down the gully?
+  options:
+    - |-
+      15 000 m³
+    - |-
+      60 000 m³
+    - |-
+      6 m³
+    - |-
+      6 000 m³
+  correct: 3
+  explanation: |-
+    0.5 km² = 500 000 m². Volume = 500 000 × 0.03 × 0.4 = **6 000 m³** — more than two Olympic swimming pools’ worth, arriving through one channel.

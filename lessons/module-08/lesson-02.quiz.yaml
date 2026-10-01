@@ -1,0 +1,79 @@
+- id: s8-l2-q3
+  question: |-
+    On a clear, calm, −10 °C night you are warm enough in your bag but wake cold. Which single change most directly attacks the dominant loss the course model identifies?
+  options:
+    - |-
+      A windproof bivy shell pulled over the sleeping bag.
+    - |-
+      Drinking an extra litre of water before going to sleep.
+    - |-
+      A tarp or dense canopy overhead, plus thicker insulation underneath.
+    - |-
+      Sleeping on top of the pack out in the open.
+  correct: 2
+  explanation: |-
+    Calm and clear = radiation up and conduction down. Cover the sky and insulate the ground.
+
+- id: s8-l2-q2
+  question: |-
+    The air is +2 °C and the wind chill is −6 °C. What happens to a wet water bottle left outside?
+  options:
+    - |-
+      It freezes, because the wind takes it down to −6 °C.
+    - |-
+      It freezes only on the side that faces into the wind.
+    - |-
+      It settles at about −2 °C, between air and wind chill.
+    - |-
+      It cools faster but not below +2 °C, so it will not freeze.
+  correct: 3
+  explanation: |-
+    Wind speeds cooling but cannot take an object below the air temperature. Wind chill describes how fast bare skin loses heat, not a temperature anything reaches.
+
+- id: s8-l2-q5
+  question: |-
+    You must sit on snow for an hour. Which ground layer (same area) insulates you **best**?
+  options:
+    - |-
+      2 cm closed-cell foam pad
+    - |-
+      5 cm of compressed dry boughs
+    - |-
+      Empty rucksack (about 1 cm of foam)
+    - |-
+      Wet trousers on their own
+  correct: 0
+  explanation: |-
+    Low conductivity and dry thickness win: foam > compressed boughs > empty pack > wet trousers. Pile boughs deep (20–30 cm) to rival foam.
+
+- id: s8-l2-q4
+  question: |-
+    Your clothing dries 0.3 L of water in 1 hour. Roughly how many **watts** is that evaporation removing? (2.4 MJ per litre.)
+  options:
+    - |-
+      ≈ 670 W
+    - |-
+      ≈ 200 W
+    - |-
+      ≈ 12,000 W
+    - |-
+      ≈ 0.2 W
+  correct: 1
+  explanation: |-
+    0.3 × 2,400,000 J / 3,600 s = **200 W** — about twice resting heat production.
+
+- id: s8-l2-q1
+  question: |-
+    Use the 2001 formula $WC = 13.12 + 0.6215T - 11.37V^{0.16} + 0.3965TV^{0.16}$ for −5 °C air and 40 km/h wind ($40^{0.16} \approx 1.804$). What is the wind chill?
+  options:
+    - |-
+      ≈ −11 °C
+    - |-
+      ≈ −7 °C
+    - |-
+      ≈ −14 °C
+    - |-
+      ≈ −10 °C
+  correct: 2
+  explanation: |-
+    13.12 + 0.6215(−5) − 11.37(1.804) + 0.3965(−5)(1.804) = 13.12 − 3.11 − 20.51 − 3.58 ≈ **−14 °C**, matching the published chart.

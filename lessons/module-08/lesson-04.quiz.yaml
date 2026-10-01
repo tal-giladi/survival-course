@@ -1,0 +1,79 @@
+- id: s8-l4-q1
+  question: |-
+    Which single finding most clearly separates heat stroke from heat exhaustion?
+  options:
+    - |-
+      Confusion or other altered mental status
+    - |-
+      Hot, dry skin with no sweating
+    - |-
+      A severe, pounding headache
+    - |-
+      A noticeably fast pulse
+  correct: 0
+  explanation: |-
+    Any confusion or odd behaviour in the heat is heat stroke until proven otherwise — cool immediately.
+
+- id: s8-l4-q2
+  question: |-
+    A runner collapses at 35 °C, confused and very hot to touch. A creek is nearby and you have a companion. Which sequence is right?
+  options:
+    - |-
+      Send for help → carry to the trailhead → cool in the vehicle on the way to care
+    - |-
+      Send for help → immerse in creek → monitor while cooling → remove when improving → evacuate
+    - |-
+      Immerse in creek → remove after 2 minutes → walk them out → call from the road
+    - |-
+      Send for help → move into shade → monitor airway → start cooling when help arrives
+  correct: 1
+  explanation: |-
+    Cool first, transport second. Call early so help is on the way while you cool; take them out when clearly improving (or ~39 °C if measurable).
+
+- id: s8-l4-q6
+  question: |-
+    Heat exhaustion: a hiker is dizzy, nauseated and sweaty but fully alert. Best care?
+  options:
+    - |-
+      Keep walking slowly so you reach the car before it gets worse.
+    - |-
+      Have them drink as much plain water as possible, as fast as possible.
+    - |-
+      Rest in shade, legs up, cool the skin, sip salty fluids; reassess in 30 min.
+    - |-
+      Start cold-water immersion straight away, as for heat stroke.
+  correct: 2
+  explanation: |-
+    Heat exhaustion should improve within about 30 minutes of rest and cooling. If mental status changes, treat as heat stroke.
+
+- id: s8-l4-q5
+  question: |-
+    Compare 32 °C at 80 % humidity with 38 °C at 15 % humidity. Which statement is correct?
+  options:
+    - |-
+      The hotter day is always worse, because air temperature sets heat stress.
+    - |-
+      They are about equal, because extra sweating offsets the humidity.
+    - |-
+      The dry day is worse, because dry air makes sweat evaporate too fast.
+    - |-
+      The humid day can be worse, because humidity limits sweat evaporation.
+  correct: 3
+  explanation: |-
+    Humidity limits the maximum evaporative cooling, so heat stress at 32 °C/80 % can exceed 38 °C/15 %. WBGT captures this; air temperature alone does not.
+
+- id: s8-l4-q4
+  question: |-
+    Which of these is **not** an effect of 10–14 days of heat acclimatisation?
+  options:
+    - |-
+      You need less water through the day
+    - |-
+      Sweating starts earlier and at a higher rate
+    - |-
+      Sweat becomes less salty
+    - |-
+      Plasma volume expands and heart rate falls
+  correct: 0
+  explanation: |-
+    Acclimatisation makes cooling more effective, not cheaper in water: earlier, heavier, less salty sweat and a larger plasma volume.

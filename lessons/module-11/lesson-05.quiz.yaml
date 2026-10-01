@@ -1,0 +1,81 @@
+- id: s11-l5-q4
+  question: |-
+    You find a waterhole with trampled, dung-covered margins at the end of converging game trails. It is late afternoon. What is the best plan?
+  options:
+    - |-
+      Camp right beside it so you have water through the night
+    - |-
+      Drink straight from the middle, where the water looks clear
+    - |-
+      Avoid it entirely and keep searching for a cleaner source
+    - |-
+      Fill up now in daylight, camp 60 m away off the trails, and treat it
+  correct: 3
+  explanation: |-
+    Use animal water sources quickly in daylight, camp at least 60 m away and well off the trails, and treat the water fully (filter and disinfect, or boil).
+
+- id: s11-l5-q5
+  question: |-
+    You are following a deer trail as a handrail through dense forest toward a road to the east. At a junction, one branch continues north-east, the other turns north-west. What do you do?
+  options:
+    - |-
+      Check the compass, take the north-east branch, leave it if it swings away
+    - |-
+      Take the better-used branch, since more traffic means a better route
+    - |-
+      Take the north-west branch, because game trails usually lead to water
+    - |-
+      Stop following game trails and push straight east through the forest
+  correct: 0
+  explanation: |-
+    Use a trail only while it serves your bearing; check at every junction (Stage 2).
+
+- id: s11-l5-q6
+  question: |-
+    Sitting quietly at the edge of a thicket, you notice birds suddenly go silent in a wave moving toward you, then a blackbird gives a rapid alarm call from a bush 30 m away. What is the most reasonable reading?
+  options:
+    - |-
+      A storm is coming and the birds are falling silent
+    - |-
+      Something is moving toward you through the thicket
+    - |-
+      The birds have finished feeding for the day
+    - |-
+      Nothing; bird behaviour is too variable to read
+  correct: 1
+  explanation: |-
+    Alarm moves with the disturbance. It is a clue to look and listen more carefully — not proof of what it is.
+
+- id: s11-l5-q2
+  question: |-
+    Fresh fox tracks cross a frozen lake you want to cross on foot. What do they tell you about the ice?
+  options:
+    - |-
+      It will hold a person, since an animal crossed it very recently
+    - |-
+      It is safe as long as you step exactly where the fox stepped
+    - |-
+      Nothing useful: a fox is far lighter and spreads its weight on four feet
+    - |-
+      It is safe near the tracks but may be thin elsewhere on the lake
+  correct: 2
+  explanation: |-
+    A fox weighs a small fraction of a person’s weight and spreads it over four feet. Judge ice on its own terms (thickness, type, colour, local knowledge).
+
+- id: s11-l5-q1
+  question: |-
+    In a desert, you are weighing clues that there may be water in a nearby wash. Which of these is **not** a clue to water?
+
+    ![Landscape clues to water. Game trails converge and run downhill into a dry wash. A line of greener, taller vegetation follows the wash. Birds fly low and direct toward water at dawn and dusk. Dig at the outside of a bend in the wash, at the lowest point. All are clues, not proof, and any water found must be treated.](../../assets/diagrams/s11-water-sign.svg)
+  options:
+    - |-
+      Several game trails converging downhill to the wash
+    - |-
+      A line of tamarisk and reeds growing along the wash
+    - |-
+      Doves flying low in the same direction at dusk
+    - |-
+      A raptor circling high overhead above the wash
+  correct: 3
+  explanation: |-
+    Independent clues pointing to the same place strengthen each other; single weak clues (like one bee) do not, and raptors are not a water clue at all.

@@ -1,0 +1,79 @@
+- id: s5-l4-q1
+  question: |-
+    A debris hut needs about **4.5 m³** of leaves. One armful is about **0.05 m³** and takes **1.5 min** to gather and place. How long does the leaf pile take?
+  options:
+    - |-
+      90 min
+    - |-
+      135 min
+    - |-
+      60 min
+    - |-
+      13.5 min
+  correct: 1
+  explanation: |-
+    4.5 / 0.05 = 90 armfuls × 1.5 min = **135 min** — over two hours before the frame and bed. If sunset is in 90 minutes, this is the wrong shelter.
+
+- id: s5-l4-q2
+  question: |-
+    Inside your finished debris hut in daylight, you can see small spots of light through the walls. What does it mean?
+  options:
+    - |-
+      It is well ventilated — good
+    - |-
+      The frame is too big for the pile
+    - |-
+      The walls are much too thin; keep piling
+    - |-
+      Nothing; debris huts are always leaky
+  correct: 2
+  explanation: |-
+    Leakage, not conduction through leaves, is what cools a thin hut. Pile until no light shows — arm-deep, allowing for settling.
+
+- id: s5-l4-q3
+  question: |-
+    Which of these is **NOT** a real hazard of sheltering under a **rock overhang**?
+  options:
+    - |-
+      Rockfall from the roof or the cliff above
+    - |-
+      Lightning currents arcing across the opening
+    - |-
+      Animals such as snakes or scorpions using it already
+    - |-
+      The rock radiates heat and makes you too warm at night
+  correct: 3
+  explanation: |-
+    A natural feature is a head start, not a finished shelter — run the full hazard check: rockfall, lightning, animals and water running down the rock or through the floor.
+
+- id: s5-l4-q4
+  question: |-
+    When is a lean-to with a reflector fire the best option (assuming fires are permitted and you have time to gather fuel)?
+  options:
+    - |-
+      A cold, calm, dry night with plenty of dead wood
+    - |-
+      A windy, rainy night with little dead wood
+    - |-
+      A clear, hot desert night after a scorching day
+    - |-
+      Any cold night when you have no tarp with you
+  correct: 0
+  explanation: |-
+    The fire is the heater; the lean-to and reflector only direct its heat. It needs a cold, calm, dry night, abundant fuel, permission and time to gather — no fuel, no warmth.
+
+- id: s5-l4-q5
+  question: |-
+    Which statement about using fire to warm a debris hut is correct?
+  options:
+    - |-
+      A small fire inside is safe if you keep it to a handful of dry twigs.
+    - |-
+      Never light one inside: the hut is dry tinder, and smoke and CO build up.
+    - |-
+      A fire inside is safe as long as you leave the door open for the smoke.
+    - |-
+      A fire inside is fine once you damp the nearby leaves down with water.
+  correct: 1
+  explanation: |-
+    A debris hut is a pile of dry tinder around your body, and fire in an enclosed space adds smoke and carbon monoxide. Never — keep any fire at a safe distance outside.

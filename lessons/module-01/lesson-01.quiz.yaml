@@ -1,0 +1,79 @@
+- id: s1-l1-q4
+  question: |-
+    A hiker notices at 16:00 that they are off-route. Night falls at 17:45. They are uninjured, dry and warm. What is the **best first move**?
+  options:
+    - |-
+      Walk faster in the direction that feels right to make up time.
+    - |-
+      Start building a debris shelter immediately.
+    - |-
+      Stop, run STOP/the 12 questions, and decide with the remaining daylight in mind.
+    - |-
+      Light a signal fire.
+  correct: 2
+  explanation: |-
+    Stopping to observe and assess is itself the highest-value first action when there is no immediate danger.
+
+- id: s1-l1-q3
+  question: |-
+    What do incident analyses show drives most wilderness deaths?
+  options:
+    - |-
+      A lack of advanced primitive skills such as friction fire or trapping.
+    - |-
+      A single sudden accident that no amount of planning could have prevented.
+    - |-
+      Running out of food during the first few days of being lost or stranded.
+    - |-
+      A chain of ordinary decisions: late starts, cotton clothing, no route left.
+  correct: 3
+  explanation: |-
+    Most outcomes turn on ordinary decisions — preparation, timing, clothing, communication, and whether people adapted their plans — rather than exotic skills.
+
+- id: s1-l1-q5
+  question: |-
+    Which statement about the 12 questions is **NOT** true?
+  options:
+    - |-
+      You ask them once at the start of an emergency.
+    - |-
+      Earlier questions can override later ones.
+    - |-
+      They apply in urban disasters as well as wilderness.
+    - |-
+      Questions 10 and 11 force different time horizons.
+  correct: 0
+  explanation: |-
+    The questions are ordered, repeated, and environment-independent. Two explicit time horizons stop you from solving only the problem in front of you.
+
+- id: s1-l1-q1
+  question: |-
+    Which sequence shows the decision loop in the correct order?
+  options:
+    - |-
+      Assess → Observe → Prioritize → Plan → Act → Reassess
+    - |-
+      Observe → Assess → Prioritize → Plan → Act → Reassess
+    - |-
+      Observe → Prioritize → Assess → Plan → Act → Reassess
+    - |-
+      Observe → Assess → Plan → Prioritize → Act → Reassess
+  correct: 1
+  explanation: |-
+    Facts first (observe), then meaning (assess), then choice (prioritize), then a concrete plan, then action — and always a reassessment, because conditions change.
+
+- id: s1-l1-q2
+  question: |-
+    Which of the 12 questions is the **output** that the others feed into?
+  options:
+    - |-
+      Am I in immediate danger?
+    - |-
+      Should I stay or move?
+    - |-
+      What is my next highest-value action?
+    - |-
+      What resources do I have?
+  correct: 2
+  explanation: |-
+    The 12 questions end in a single action. Survival is a stream of "what next?" decisions.

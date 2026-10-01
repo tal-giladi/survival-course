@@ -1,0 +1,79 @@
+- id: s1-l8-q1
+  question: |-
+    Why does insulation lose much of its effectiveness when wet?
+  options:
+    - |-
+      Water adds weight, which compresses the fibres and flattens the loft.
+    - |-
+      Water replaces the trapped air, conducts heat far better, and evaporates.
+    - |-
+      Wet fibres stop generating heat, so the layer can no longer warm you.
+    - |-
+      Only cotton is affected; wool and synthetics keep all of their warmth.
+  correct: 1
+  explanation: |-
+    Insulation works by trapping still air. Water replaces the air and conducts heat much better, and drying it costs body heat through evaporation.
+
+- id: s1-l8-q2
+  question: |-
+    In which environment is loose cotton clothing a reasonable choice?
+  options:
+    - |-
+      Autumn hills in rain
+    - |-
+      Subarctic winter
+    - |-
+      Hot, dry desert
+    - |-
+      Spring snow travel
+  correct: 2
+  explanation: |-
+    The same property that makes cotton dangerous in the cold (holding water) is useful in dry heat.
+
+- id: s1-l8-q3
+  question: |-
+    Using $Q = A(T_{skin}-T_{air})/(0.155 \times I_{clo})$ with $A = 1.8$ m², skin 33 °C, air 3 °C and 3 clo, estimate heat loss through clothing.
+  options:
+    - |-
+      128 W
+    - |-
+      1045 W
+    - |-
+      18 W
+    - |-
+      116 W
+  correct: 3
+  explanation: |-
+    $1.8 \times 30 / (0.155 \times 3) = 54 / 0.465 \approx$ **116 W** — slightly above resting heat production, so a resting person would slowly cool.
+
+- id: s1-l8-q4
+  question: |-
+    Which of these is **NOT** a good layer-management habit?
+  options:
+    - |-
+      Wear every layer from the start so you never feel cold.
+    - |-
+      Vent or remove a layer before you start sweating on a climb.
+    - |-
+      Add your insulation layer as soon as you stop for a break.
+    - |-
+      Keep a spare dry layer sealed in a waterproof bag.
+  correct: 0
+  explanation: |-
+    Layering is active: adjust before you are too hot or too cold.
+
+- id: s1-l8-q5
+  question: |-
+    Which statement about mittens and gloves of the same material is correct?
+  options:
+    - |-
+      Gloves are warmer, because each finger is insulated on all sides.
+    - |-
+      Mittens are warmer: keeping fingers together reduces surface area.
+    - |-
+      Mittens are warmer, because the moisture they trap holds heat in.
+    - |-
+      Both are equally warm, since warmth depends only on the material.
+  correct: 1
+  explanation: |-
+    Mittens keep fingers together, reducing surface area and heat loss.

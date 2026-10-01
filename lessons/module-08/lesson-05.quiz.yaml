@@ -1,0 +1,79 @@
+- id: s8-l5-q3
+  question: |-
+    A hiker is confused after a long hot day. Which finding points toward **dehydration** rather than hyponatremia?
+  options:
+    - |-
+      Has drunk 6 L of water in 5 hours and barely urinated
+    - |-
+      Very dark, scanty urine and has drunk almost nothing
+    - |-
+      Body weight is higher than it was at the start
+    - |-
+      Puffy fingers, with rings that now feel tight
+  correct: 1
+  explanation: |-
+    Drinking history and weight change separate them. Do not give more water to a suspected EAH patient; evacuate if confused.
+
+- id: s8-l5-q2
+  question: |-
+    What is the main cause of exercise-associated hyponatremia?
+  options:
+    - |-
+      Not drinking enough over a long, hot day
+    - |-
+      Eating too much salty food on the trail
+    - |-
+      Drinking more fluid than you lose over many hours
+    - |-
+      Exercising for hours in cold weather
+  correct: 2
+  explanation: |-
+    Overdrinking, often plain water, with AVP still active, dilutes plasma sodium. Drink to thirst.
+
+- id: s8-l5-q5
+  question: |-
+    How should you manage drinking on a long day in cold weather?
+  options:
+    - |-
+      Rely on thirst alone, because you sweat very little in the cold.
+    - |-
+      Drink only once your urine turns dark, since cold cuts water loss.
+    - |-
+      Drink little, because cold diuresis sends it straight through you.
+    - |-
+      Schedule warm drinks, because thirst is blunted while losses continue.
+  correct: 3
+  explanation: |-
+    Thirst is blunted in the cold, while breathing cold dry air, cold diuresis and heavy work still cost water. Schedule warm drinks.
+
+- id: s8-l5-q1
+  question: |-
+    An 80 kg hiker weighs 77.6 kg after a hot 6-hour walk (no food or drink during it). What % of body mass has he lost?
+  options:
+    - |-
+      3.0 %
+    - |-
+      3.1 %
+    - |-
+      2.4 %
+    - |-
+      0.03 %
+  correct: 0
+  explanation: |-
+    (80 − 77.6) / 80 × 100 = **3.0 %** — endurance, heat tolerance and thinking are measurably worse.
+
+- id: s8-l5-q4
+  question: |-
+    Why does ORS contain glucose as well as salt?
+  options:
+    - |-
+      Glucose mainly improves the taste so people drink enough.
+    - |-
+      Sodium and glucose are absorbed together, and water follows them.
+    - |-
+      Glucose helps kill the gut pathogens causing diarrhoea.
+    - |-
+      Glucose supplies most of the day’s calories when ill.
+  correct: 1
+  explanation: |-
+    Sodium–glucose co-transport (SGLT1) is why ORS rehydrates faster than water in diarrhoea.

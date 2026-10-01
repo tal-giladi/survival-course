@@ -1,0 +1,79 @@
+- id: s6-l1-q3
+  question: |-
+    You are stranded in desert heat with 3 L of water and a bag of beef jerky. What should you do about food?
+  options:
+    - |-
+      Eat the jerky to keep your strength up.
+    - |-
+      Eat the jerky but drink only small sips.
+    - |-
+      Walk to find food while it is still daylight.
+    - |-
+      Eat little or nothing until water is secure; rest in shade.
+  correct: 3
+  explanation: |-
+    Water limits survival in heat; food can wait days. Digesting protein produces urea that must be excreted with water.
+
+- id: s6-l1-q6
+  question: |-
+    You face a 3-day cold-weather emergency. Which statement about eating is correct?
+  options:
+    - |-
+      A large deficit erodes warmth, performance and judgment within a day or two.
+    - |-
+      Food barely matters, since people can survive for weeks without eating.
+    - |-
+      Hunger only starts to affect performance after the first full week.
+    - |-
+      Eating matters more in heat than in cold, because sweat burns calories.
+  correct: 0
+  explanation: |-
+    Survival time without food is long, but performance, warmth and judgment degrade within a day or two of a large deficit — especially in cold.
+
+- id: s6-l1-q4
+  question: |-
+    Which statement about the body’s fuel stores is **not** correct?
+  options:
+    - |-
+      Glycogen stores hold roughly 2,000 kcal in an average adult.
+    - |-
+      Protein, mostly in muscle, is the body’s main energy reserve.
+    - |-
+      Fat stores hold tens of thousands of kcal, even in lean people.
+    - |-
+      Low glycogen reduces cold tolerance, as shivering runs on carbs.
+  correct: 1
+  explanation: |-
+    Small fast tank (glycogen), large slow tank (fat), and structure you don’t want to burn (protein).
+
+- id: s6-l1-q2
+  question: |-
+    A man with a BMR of about 1,650 kcal skis out for 8 hours at −20 °C: PAL 2.3, environment factor 1.25. What is his estimated daily expenditure?
+  options:
+    - |-
+      ≈ 3,795 kcal
+    - |-
+      ≈ 3,036 kcal
+    - |-
+      ≈ 4,744 kcal
+    - |-
+      ≈ 5,858 kcal
+  correct: 2
+  explanation: |-
+    1,650 × 2.3 × 1.25 ≈ **4,740 kcal** — nearly three times his BMR, and more than most people carry.
+
+- id: s6-l1-q5
+  question: |-
+    For a weight-limited 5-day ski trip, which food choice gives the most energy per kilogram carried?
+  options:
+    - |-
+      Tinned stew
+    - |-
+      Fresh apples
+    - |-
+      Lean jerky only
+    - |-
+      Nuts, chocolate and cheese
+  correct: 3
+  explanation: |-
+    Fat carries 9 kcal/g. Mix it with carbohydrate for hard efforts and a little protein for repair.

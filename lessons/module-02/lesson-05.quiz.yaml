@@ -1,0 +1,81 @@
+- id: s2-l5-q6
+  question: |-
+    It is 15:00; sunset is 17:30 with about 30 minutes of useful twilight. Your Naismith estimate to the hut is 1 h 50 min on good paths, but the last 3 km are through deep snow and you will need at least 40 minutes to prepare an emergency camp if you don’t make it. What is the best judgment?
+  options:
+    - |-
+      Go now — 1 h 50 min gets you to the hut at 16:50, well before dark.
+    - |-
+      Go, but walk faster than the Naismith pace to build in a safety margin.
+    - |-
+      Ignore the timing and just follow the bearing until the hut comes into view.
+    - |-
+      Correct for snow, set a decision time, and pick a fallback camp you can reach in light.
+  correct: 3
+  explanation: |-
+    Latest start for camp prep ≈ 17:30 + 30 − 40 = 17:20. With a realistic snow correction the hut may be marginal, so decide in advance where and when you will switch plans.
+
+- id: s2-l5-q2
+  question: |-
+    Your pace count is 5 % short on every leg because you calibrated on a track and are now in heather. After **nine** 400 m legs, how large is the accumulated error from this bias?
+
+    ![Random errors grow with the square root of the number of legs; systematic bias grows linearly](../../assets/diagrams/pace-error.svg)
+  options:
+    - |-
+      180 m
+    - |-
+      20 m
+    - |-
+      60 m
+    - |-
+      0 m — errors average out over many legs
+  correct: 0
+  explanation: |-
+    Systematic error grows as n·b = 9 × 20 m = **180 m**. A random ±20 m per leg would grow only to √9 × 20 = ±60 m. Calibrating for the ground removes the bias.
+
+- id: s2-l5-q5
+  question: |-
+    How does Langmuir’s correction adjust the Naismith estimate on a **steep** descent (more than about 12°)?
+  options:
+    - |-
+      Subtracts 10 min per 300 m of descent
+    - |-
+      Adds 10 min per 300 m of descent
+    - |-
+      No change — descent time is free
+    - |-
+      Adds 1 min per 10 m, as for climbing
+  correct: 1
+  explanation: |-
+    Only gentle descents (≈5–12°) are faster: subtract 10 min per 300 m. Steep descents are slower: **add** 10 min per 300 m.
+
+- id: s2-l5-q4
+  question: |-
+    Which condition usually does **not** increase your paces per 100 m?
+  options:
+    - |-
+      Walking uphill on a steady climb
+    - |-
+      Wading through deep soft snow
+    - |-
+      A gentle downhill on a smooth path
+    - |-
+      Fatigue late in a long day
+  correct: 2
+  explanation: |-
+    Anything that shortens your stride raises the count — climbing, soft snow, darkness, fatigue. Steep downhill does too, but a gentle smooth descent usually does not.
+
+- id: s2-l5-q1
+  question: |-
+    Using Naismith (5 km/h + 1 min per 10 m of ascent), how long should you allow for a leg of **2.4 km** with **300 m** of climb?
+  options:
+    - |-
+      29 min
+    - |-
+      78 min
+    - |-
+      89 min
+    - |-
+      59 min
+  correct: 3
+  explanation: |-
+    Flat: 2.4 / 5 = 0.48 h = 28.8 min. Climb: 300 / 10 = 30 min. Total ≈ **59 min** — before stops, rough ground or a slow group.

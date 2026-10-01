@@ -1,0 +1,63 @@
+- id: s1-l9-q1
+  question: |-
+    Which of these is **NOT** one of the **Ten Essentials** systems?
+  options:
+    - |-
+      Navigation
+    - |-
+      Fire
+    - |-
+      Fishing kit
+    - |-
+      Headlamp
+  correct: 2
+  explanation: |-
+    The Ten Essentials cover navigation, light, sun, first aid, knife, fire, shelter, extra food, extra water, extra clothes.
+
+- id: s1-l9-q2
+  question: |-
+    Which pairing gives the **best** fire redundancy?
+  options:
+    - |-
+      Two identical butane lighters
+    - |-
+      A box of ordinary matches
+    - |-
+      A lighter and a phone
+    - |-
+      A butane lighter and a ferrocerium rod with tinder
+  correct: 3
+  explanation: |-
+    Good redundancy is diverse redundancy.
+
+- id: s1-l9-q3
+  question: |-
+    Why keep a pocket kit on your body rather than in your pack?
+  options:
+    - |-
+      Packs get lost or swept away; the critical minimum must stay on you.
+    - |-
+      It is quicker to reach snacks and the map without stopping.
+    - |-
+      It spreads the load and makes your pack lighter to carry all day.
+    - |-
+      Park and land-agency regulations generally require it on trails.
+  correct: 0
+  explanation: |-
+    Many survival stories start with separation from the pack: a fall, a river, a detour to find water.
+
+- id: s1-l9-q4
+  question: |-
+    Which addition matters most for a solo day hike in a remote area with no phone coverage?
+  options:
+    - |-
+      A heavier knife
+    - |-
+      A PLB or satellite messenger
+    - |-
+      A fishing line
+    - |-
+      A second compass
+  correct: 1
+  explanation: |-
+    Solo + remote + no coverage means rescue depends on someone noticing you are overdue. A beacon removes that delay.

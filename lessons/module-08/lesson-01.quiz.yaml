@@ -1,0 +1,79 @@
+- id: s8-l1-q5
+  question: |-
+    A hypothermic person has been shivering hard for hours without food. Why might their core temperature now start falling faster even though the weather has not changed?
+  options:
+    - |-
+      Their skin has warmed up, so it now loses more heat to the air.
+    - |-
+      Glycogen is running out, so shivering weakens and heat production drops.
+    - |-
+      Their clothes have dried, so they trap less warm air than before.
+    - |-
+      Shivering always switches off after exactly 2 hours.
+  correct: 1
+  explanation: |-
+    Shivering burns glycogen; when the fuel runs low, heat production falls. Feed a cold person who can swallow safely to keep the shivering furnace going.
+
+- id: s8-l1-q4
+  question: |-
+    A companion suggests a drink of spirits to warm up a cold walker. Which statement about this is correct?
+  options:
+    - |-
+      It warms the core quickly because alcohol releases heat as it is burned.
+    - |-
+      A small amount is useful because it helps restart weak shivering.
+    - |-
+      It feels warming but dilates skin vessels and increases heat loss.
+    - |-
+      It is harmless, just no more effective than a warm sweet drink.
+  correct: 2
+  explanation: |-
+    Myth. Alcohol dilates skin vessels (feels warm) while increasing heat loss, can blunt shivering and impairs judgment. Offer warm, sweet, non-alcoholic drinks to a person who can swallow safely.
+
+- id: s8-l1-q1
+  question: |-
+    Why do your fingers become cold and clumsy long before your core temperature falls?
+  options:
+    - |-
+      The hypothalamus has already started to fail in the cold.
+    - |-
+      Fingers lack temperature sensors, so they cool unnoticed.
+    - |-
+      Shivering in the arms pulls blood away from the hands.
+    - |-
+      Skin and limb blood flow is cut to keep the core warm.
+  correct: 3
+  explanation: |-
+    The core (brain, heart, organs) is defended at the expense of the shell (skin, limbs) by vasoconstriction. Do fine-motor tasks early, before the hands cool.
+
+- id: s8-l1-q3
+  question: |-
+    Effectors are the things the body or person does to change heat flow. Which of these is **not** an effector of thermoregulation?
+  options:
+    - |-
+      Skin temperature sensors
+    - |-
+      Constricting skin blood vessels
+    - |-
+      Shivering
+    - |-
+      Putting on a jacket
+  correct: 0
+  explanation: |-
+    Sensors feed the hypothalamus; effectors are vasomotor tone, shivering, sweating and behaviour.
+
+- id: s8-l1-q2
+  question: |-
+    Shivering adds 180 W of heat for 5 hours. About how many **kcal** of fuel is that? (1 kcal = 4,184 J.)
+  options:
+    - |-
+      ≈ 3,240 kcal
+    - |-
+      ≈ 770 kcal
+    - |-
+      ≈ 13 kcal
+    - |-
+      ≈ 13,560 kcal
+  correct: 1
+  explanation: |-
+    180 W × 5 × 3,600 s = 3.24 MJ; 3,240,000 / 4,184 ≈ **774 kcal** — a large part of a person’s glycogen store.

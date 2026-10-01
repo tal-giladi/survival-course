@@ -1,0 +1,79 @@
+- id: s3-l5-q1
+  question: |-
+    Why does ordinary tinder light from a ferro rod but usually not from flint-and-steel sparks?
+  options:
+    - |-
+      Ferro sparks are hotter and larger, so carry more energy.
+    - |-
+      Flint sparks are cold, so they cannot heat any tinder.
+    - |-
+      Ferro rods contain petroleum that coats the tinder.
+    - |-
+      Flint sparks are too fast to stay on loose tinder.
+  correct: 0
+  explanation: |-
+    Energy per spark decides what it can ignite. Flint-and-steel needs char, which glows at a few hundred degrees.
+
+- id: s3-l5-q5
+  question: |-
+    Which of these is **not** an advantage of a ferro rod over a butane lighter?
+  options:
+    - |-
+      It still works after being soaked, once wiped.
+    - |-
+      It lights coarse, damp tinder more easily.
+    - |-
+      It still works in severe cold.
+    - |-
+      It gives thousands of strikes with no fuel.
+  correct: 1
+  explanation: |-
+    Sparks carry little energy, so they need fine tinder; a lighter flame copes better with poor tinder. Carry both: the lighter for easy fires, the ferro rod for when the lighter fails.
+
+- id: s3-l5-q3
+  question: |-
+    What is happening inside the char-cloth tin?
+  options:
+    - |-
+      The cotton burns to ash in the trapped heat.
+    - |-
+      The cotton melts into a dense, waxy sheet.
+    - |-
+      The cotton pyrolyses, leaving carbon char.
+    - |-
+      The hot tin coats the cotton with metal.
+  correct: 2
+  explanation: |-
+    Controlled pyrolysis leaves porous carbon that catches a spark and glows. Let the tin cool before opening.
+
+- id: s3-l5-q4
+  question: |-
+    Which sequence correctly takes a glowing ember to flame?
+  options:
+    - |-
+      Place ember → make nest → blow gently, then harder → into the lay
+    - |-
+      Make nest → place ember → blow hard, then gently → into the lay
+    - |-
+      Make nest → place ember → into the lay → blow gently, then harder
+    - |-
+      Make nest → place ember → blow gently, then harder → into the lay
+  correct: 3
+  explanation: |-
+    Bundle ready before the spark; gentle oxygen first; move fast once it flames.
+
+- id: s3-l5-q2
+  question: |-
+    A spark particle of 0.2 mg (2 × 10⁻⁴ g) with c = 0.45 J/(g·°C) cools from 3,000 °C. Using $E = mc\Delta T$, how much energy does it carry?
+  options:
+    - |-
+      0.27 J
+    - |-
+      270 J
+    - |-
+      0.027 J
+    - |-
+      0.60 J
+  correct: 0
+  explanation: |-
+    2×10⁻⁴ × 0.45 × 3000 = **0.27 J** — far less than the ~45 J needed to heat 0.1 g of tinder, so only hair-fine fibres ignite.

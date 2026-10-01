@@ -1,0 +1,79 @@
+- id: s7-l3-q5
+  question: |-
+    Your stone-boiled water has started to steam. When is it safe to drink from a pathogen point of view?
+  options:
+    - |-
+      Now: steam shows the water has reached 100 °C
+    - |-
+      Once it is too hot to keep a finger in for long
+    - |-
+      After a rolling boil of 1 min (3 min above ~2,000 m)
+    - |-
+      After a rolling boil, which also clears any chemicals
+  correct: 2
+  explanation: |-
+    Steaming happens well below boiling. CDC guidance is a rolling boil for 1 minute (3 minutes above ~2,000 m), and chemical contaminants remain.
+
+- id: s7-l3-q3
+  question: |-
+    Which stones are the right ones to heat for stone boiling?
+  options:
+    - |-
+      Rounded, smooth stones from the stream bed
+    - |-
+      Flat pieces of layered slate or shale
+    - |-
+      Dense, glassy flint or obsidian nodules
+    - |-
+      Dry, dense, fine-grained stones from a hillside
+  correct: 3
+  explanation: |-
+    Wet stream stones can burst, layered stones split, and glassy stones shatter. Choose dry, dense, unlayered stones and still wear eye protection.
+
+- id: s7-l3-q1
+  question: |-
+    You want to heat **1 L** of water from 10 °C to 100 °C with stones at 500 °C (c = 0.8 kJ/(kg·°C)), with η = 0.7. Water c = 4.18 kJ/(kg·°C). How many **kg** of stones?
+  options:
+    - |-
+      ≈ 1.7 kg
+    - |-
+      ≈ 0.8 kg
+    - |-
+      ≈ 1.2 kg
+    - |-
+      ≈ 1.3 kg
+  correct: 0
+  explanation: |-
+    Water: 1 × 4.18 × 90 = 376 kJ. Stone: 0.8 × 400 = 320 kJ/kg × 0.7 = 224 kJ/kg. 376/224 ≈ **1.7 kg**, about three or four fist-sized stones.
+
+- id: s7-l3-q2
+  question: |-
+    Why does a birch-bark pot of water sitting on coals not burn through?
+  options:
+    - |-
+      Birch bark contains oils that make it resistant to fire
+    - |-
+      The water keeps the wetted bark near 100 °C, below ignition
+    - |-
+      Coals are not hot enough to ignite bark that touches them
+    - |-
+      Steam rising off the pot smothers the coals beneath it
+  correct: 1
+  explanation: |-
+    The Stage 3 combustion stages explain it: wood must reach pyrolysis temperature (~250–350 °C) to burn, and wet wood cannot go above ~100 °C until it dries.
+
+- id: s7-l3-q4
+  question: |-
+    You make a round basket with a single continuous weaver in plain weave. How many stakes?
+  options:
+    - |-
+      An even number
+    - |-
+      It does not matter
+    - |-
+      An odd number
+    - |-
+      Exactly 12
+  correct: 2
+  explanation: |-
+    An odd count makes the pattern alternate automatically round after round.

@@ -1,0 +1,79 @@
+- id: cap-3-q3
+  question: |-
+    You’re in a snow shelter with a stove running. Which of these is NOT a sign of carbon-monoxide poisoning?
+  options:
+    - |-
+      A headache that builds while the stove runs
+    - |-
+      A smell of gas inside the shelter
+    - |-
+      Nausea that starts after you settle inside
+    - |-
+      Unusual drowsiness or confusion
+  correct: 1
+  explanation: |-
+    CO has no smell, so watch for headache, nausea and drowsiness. Turn off the source and get to fresh air; symptoms often resemble exhaustion or altitude illness, which is why CO is so easy to miss.
+
+- id: cap-3-q2
+  question: |-
+    Which first aid for frostnipped or frostbitten skin is correct?
+  options:
+    - |-
+      Rub it briskly with snow to restore circulation.
+    - |-
+      Thaw frostbite in warm water at once, even if it may refreeze.
+    - |-
+      Rewarm frostnip skin-to-skin; don’t rub frostbite.
+    - |-
+      Massage it firmly with dry hands until the colour returns.
+  correct: 2
+  explanation: |-
+    Rubbing damages frozen tissue, and snow cools it further. Rewarm frostnip skin-to-skin; for frostbite, protect it and rewarm rapidly in warm water only when refreezing can be prevented (WMS 2024).
+
+- id: cap-3-q1
+  question: |-
+    Why strip down to a base layer and shell before digging a snow trench at −15 °C?
+  options:
+    - |-
+      To move more freely.
+    - |-
+      Because cold air makes you work faster.
+    - |-
+      So the snow doesn’t melt on your clothes.
+    - |-
+      To keep your insulating layers dry so they still work when you stop.
+  correct: 3
+  explanation: |-
+    Heat production during work is high; insulation you need at rest becomes a sweat trap if worn while working.
+
+- id: cap-3-q6
+  question: |-
+    Spaced review (Stage 1 stay-or-move): which fact most strongly supports staying with the snowmobile?
+  options:
+    - |-
+      Searches will follow your known route, and the sled holds your gear and is easy to see.
+    - |-
+      The engine stays warm for hours, so you can shelter against it.
+    - |-
+      Walking any real distance through deep snow is simply impossible.
+    - |-
+      Daylight returns at 07:30, so you can walk out safely in the morning.
+  correct: 0
+  explanation: |-
+    The lodge knows your route, so searches run along that trail. A trip plan converts “somewhere in the forest” into “on trail 3” — a search area a sled can cover in an hour.
+
+- id: cap-3-q5
+  question: |-
+    Spaced review (Stage 8): a companion is mildly hypothermic — shivering but coherent. Which field care step comes first?
+  options:
+    - |-
+      Replace wet layers with dry ones or add a vapour barrier
+    - |-
+      Get them out of wind and wet and insulate them from the ground
+    - |-
+      Give calories and warm sweet drinks to fuel shivering
+    - |-
+      Put hot bottles or heat packs on the chest and armpits
+  correct: 1
+  explanation: |-
+    Shelter, dry layers, fuel, then external heat to the trunk: stop the loss first, then fuel the body’s own heat production, then add heat. Mild hypothermia responds well to this sequence.

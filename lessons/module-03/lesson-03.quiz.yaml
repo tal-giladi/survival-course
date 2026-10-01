@@ -1,0 +1,79 @@
+- id: s3-l3-q4
+  question: |-
+    Daytime, forested valley, helicopter search likely. What is the most visible fire signal?
+  options:
+    - |-
+      A small, bright flame kept going under the trees
+    - |-
+      A Dakota hole, so the fire burns hot and cleanly
+    - |-
+      A hot fire in a clearing, with green boughs for white smoke
+    - |-
+      Burning a tyre from a vehicle for thick black smoke
+  correct: 2
+  explanation: |-
+    By day, smoke; by night, flame. Choose contrast with the background, and keep it controllable.
+
+- id: s3-l3-q1
+  question: |-
+    You need to boil water and cook for the next hour with little wood. Which lay fits best?
+  options:
+    - |-
+      A tall teepee, for its concentrated flame
+    - |-
+      A long-log fire, for hours of even heat
+    - |-
+      A big bonfire, so it lasts the whole hour
+    - |-
+      A hardwood star fire, or a cabin burned to coals
+  correct: 3
+  explanation: |-
+    Cook on coals. Star and log-cabin fires both give stable, even heat with little fuel.
+
+- id: s3-l3-q3
+  question: |-
+    Which statement about the Dakota hole is correct?
+  options:
+    - |-
+      Dug into roots or peat, it can start an underground fire.
+    - |-
+      It is the best lay for warming yourself on a cold night.
+    - |-
+      Leave No Trace prefers it over using existing fire rings.
+    - |-
+      It works well in wet ground, since the pit shelters it.
+  correct: 0
+  explanation: |-
+    The Dakota hole is a specialised, efficient, low-signature cooking fire — not a general survival fire. It gives almost no warmth, floods, disturbs soil and can ignite roots.
+
+- id: s3-l3-q5
+  question: |-
+    Using $P = \dot m \times H_{net} / 3.6$, what is the output of a fire burning 1.5 kg/h of wood with $H_{net}$ = 14.4 MJ/kg?
+  options:
+    - |-
+      21.6 kW
+    - |-
+      6 kW
+    - |-
+      77.8 kW
+    - |-
+      2.7 kW
+  correct: 1
+  explanation: |-
+    1.5 × 14.4 = 21.6 MJ/h; ÷ 3.6 = **6 kW** — a sensible cooking fire.
+
+- id: s3-l3-q2
+  question: |-
+    A long-log fire burns **2.5 kg/h**. How much wood do you need for **10 hours**?
+  options:
+    - |-
+      4 kg
+    - |-
+      2.5 kg
+    - |-
+      25 kg
+    - |-
+      250 kg
+  correct: 2
+  explanation: |-
+    2.5 × 10 = **25 kg** — about five armfuls, to be processed before dark.

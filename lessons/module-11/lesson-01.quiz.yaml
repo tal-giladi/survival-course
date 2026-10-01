@@ -1,0 +1,81 @@
+- id: s11-l1-q5
+  question: |-
+    You find a line of large, very fresh prints with five toes and long claw marks crossing your path in a forest known for bears. What do you do?
+  options:
+    - |-
+      Follow them quietly for a few hundred metres to get a photo
+    - |-
+      Measure every print along the trail to be sure of the species
+    - |-
+      Ignore them and carry on, since tracks alone tell you nothing useful
+    - |-
+      Photograph one print with a scale, then leave the other way and report it
+  correct: 3
+  explanation: |-
+    Tracking is for interpretation and avoidance, not for getting close. Very fresh sign of large, potentially dangerous animals is a reason to change your plan — record it, move away making your presence known, and tell others.
+
+- id: s11-l1-q1
+  question: |-
+    A clear print in mud: four toes, claw marks, an oval outline, a small triangular pad, and you can draw an X through the raised ground between pads. Which family?
+
+    ![Anatomy of a dog-family print and a cat-family print. Dog: four toes, claw marks, oval symmetrical outline, small triangular heel pad and an X-shaped negative space. Cat: four toes with one leading toe, no claws, round asymmetrical outline, large heel pad with three lobes at the rear.](../../assets/diagrams/s11-track-anatomy.svg)
+  options:
+    - |-
+      Dog family
+    - |-
+      Cat family
+    - |-
+      Weasel family
+    - |-
+      Hoofed animal
+  correct: 0
+  explanation: |-
+    Describe first (toes, claws, pad shape, symmetry, negative space), then match. The X is a quick test that separates dog from cat family in good prints.
+
+- id: s11-l1-q2
+  question: |-
+    A walking trail on flat ground might be a cat. Which of these features does **not** point toward the cat family?
+  options:
+    - |-
+      A round outline, about as wide as long
+    - |-
+      Sharp claw marks on every print in the trail
+    - |-
+      One toe clearly further forward than the others
+    - |-
+      A large heel pad with three lobes at the rear
+  correct: 1
+  explanation: |-
+    Cat prints are round, asymmetrical, with a big three-lobed heel pad, and usually no claws in a walking trail. Five toes in a fan with a C-shaped pad would point to the weasel family instead.
+
+- id: s11-l1-q3
+  question: |-
+    One print on a trail is unusually deep. Which statement about print depth is correct?
+  options:
+    - |-
+      A deeper print always means a heavier animal made it
+    - |-
+      Depth is a reliable weight guide on the same patch of ground
+    - |-
+      Depth depends on pressure, speed and substrate, not weight alone
+    - |-
+      A bounding animal leaves shallower prints than a walking one
+  correct: 2
+  explanation: |-
+    Depth depends on pressure (force ÷ area), speed and the substrate. A light animal on small feet, or any animal landing from a bound, can sink deeper than a heavier one walking.
+
+- id: s11-l1-q4
+  question: |-
+    A 20 kg animal puts its weight on one foot with a contact area of 25 cm². What pressure does it apply? (g = 9.81 m/s².)
+  options:
+    - |-
+      About 8 kPa
+    - |-
+      About 7.8 kPa
+    - |-
+      About 785 kPa
+    - |-
+      About 78 kPa
+  correct: 3
+  explanation: |-
+    $P = mg/A = 20 \times 9.81 / 0.0025 = 78\,480$ Pa ≈ 78 kPa (25 cm² = 0.0025 m²) — about three times the pressure under a 70 kg person’s boot.

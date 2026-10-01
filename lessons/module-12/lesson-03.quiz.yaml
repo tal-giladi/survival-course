@@ -1,0 +1,79 @@
+- id: s12-l3-q6
+  question: |-
+    You are in a dry wash. The water around your feet starts to rise and turn muddy, and you hear a rumble upstream. What do you do?
+  options:
+    - |-
+      Run downstream as fast as you can to reach the canyon exit.
+    - |-
+      Climb onto the biggest boulder in the channel and hold on.
+    - |-
+      Climb straight up the side to high ground now, leaving gear.
+    - |-
+      Pack up your gear quickly first, then climb out of the wash.
+  correct: 2
+  explanation: |-
+    Up and out, now. Beforehand, know the escape points along the route.
+
+- id: s12-l3-q3
+  question: |-
+    You have no formal river-crossing training. Which of these conditions is **not**, in itself, a no-go for a crossing?
+  options:
+    - |-
+      Fast-flowing water above knee depth
+    - |-
+      A log jam 50 m downstream of the ford
+    - |-
+      Water that is rising and turning brown
+    - |-
+      Clear, slow, shin-deep water over gravel
+  correct: 3
+  explanation: |-
+    Depth, speed, trend, downstream hazards and temperature (e.g., a snowmelt river near its afternoon peak) each can make a crossing a no-go. Alternatives: wait, go around, turn back.
+
+- id: s12-l3-q2
+  question: |-
+    If water speed **doubles** at the same depth, the drag force on your legs…
+  options:
+    - |-
+      quadruples
+    - |-
+      doubles
+    - |-
+      stays the same
+    - |-
+      increases by about 40 %
+  correct: 0
+  explanation: |-
+    $F \propto v^2$. A river that looks "a bit faster" may be pushing twice as hard.
+
+- id: s12-l3-q4
+  question: |-
+    According to the US National Weather Service, about how deep does rushing water need to be to carry away **most cars**?
+  options:
+    - |-
+      About 15 cm (6 in)
+    - |-
+      About 30 cm (12 in)
+    - |-
+      About 60 cm (24 in)
+    - |-
+      About 1 m (40 in)
+  correct: 1
+  explanation: |-
+    NWS: ~15 cm of fast water can knock an adult over; ~30 cm can carry away most cars; ~60 cm SUVs and trucks. Turn Around, Don’t Drown.
+
+- id: s12-l3-q1
+  question: |-
+    Using $F = \tfrac{1}{2}\rho C_d A v^2$ with $\rho = 1000$, $C_d = 1$, $A = 0.15$ m², what is the force at **2.5 m/s**?
+  options:
+    - |-
+      938 N
+    - |-
+      188 N
+    - |-
+      469 N
+    - |-
+      375 N
+  correct: 2
+  explanation: |-
+    $0.5 \times 1000 \times 1 \times 0.15 \times 2.5^2 = 468.75$ N. That is well above the grip of feet on a slippery bed.

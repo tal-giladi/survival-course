@@ -1,0 +1,159 @@
+- id: s15-rev-1
+  question: |-
+    On a ridge you hear the first thunder at 11:40. Your turnaround time is 12:30 and the summit is 30 minutes away. A friend says: “We’ve got 50 minutes before turnaround — plenty of time.” What is the best response?
+  options:
+    - |-
+      Agree — you are still inside your turnaround time
+    - |-
+      Summit quickly, then descend as fast as you safely can
+    - |-
+      Descend now: first thunder is its own trigger, whatever the clock says
+    - |-
+      Wait on the ridge to see whether the storm gets closer
+  correct: 2
+  explanation: |-
+    A trip needs several triggers (time, weather, group, daylight). Any one of them firing is enough. Treating the turnaround time as permission to continue is plan continuation in disguise.
+
+- id: s15-rev-9
+  question: |-
+    At the trailhead, the most experienced person in your group says conditions are fine; you have a nagging doubt about the avalanche forecast. What is the most useful thing to do?
+  options:
+    - |-
+      Stay quiet — they know much more about avalanches than you
+    - |-
+      Go along with the plan, but choose to ski at the back
+    - |-
+      Quietly go home without telling the group why
+    - |-
+      Say you are uneasy, why, and propose the south-facing option
+  correct: 3
+  explanation: |-
+    Concern + reason + proposal (“I’m uneasy — the forecast says considerable on north aspects. Can we pick the south-facing option?”), repeated if not acknowledged. Good leaders invite exactly this.
+
+- id: s15-rev-2
+  question: |-
+    Lost at dusk in a forest, you feel a strong urge to walk fast to “find the path before dark”. Which response goes **against** both Stage 1 and this stage?
+  options:
+    - |-
+      Walk quickly in the direction that “feels right”
+    - |-
+      Stop, sit down and do a minute of slow breathing
+    - |-
+      Say out loud what you know and what you do not know
+    - |-
+      Use the last light for shelter and signals; decide in the morning
+  correct: 0
+  explanation: |-
+    Stress pushes towards movement; STOP, breathing and naming the situation bring the planning brain back online. Dusk is for shelter and signals; decide on moving in daylight.
+
+- id: s15-rev-8
+  question: |-
+    Day 3, lost with two friends in a tropical forest, waiting near a clearing where you have made a signal. Which measure does **not** protect judgment and morale?
+  options:
+    - |-
+      Fixed times for signalling, drinking treated water and checking the shelter
+    - |-
+      Avoiding all talk about rescue so as not to raise anyone’s hopes
+    - |-
+      Giving each person a role and rotating the hard jobs fairly
+    - |-
+      Deciding whether to move at a set morning time after food and water
+  correct: 1
+  explanation: |-
+    Routines, a written log, roles and timed decisions are the practical form of Hobfoll’s calming, efficacy and hope — and hope needs honest talk about rescue.
+
+- id: s15-rev-10
+  question: |-
+    After a close call on a river crossing, everyone is safe but shaken. The next evening your group meets. Which is the best approach?
+  options:
+    - |-
+      Ask each person to describe in detail how frightened they were
+    - |-
+      Agree as a group not to mention the crossing again
+    - |-
+      A blame-free after-action review; feelings shared only if wished
+    - |-
+      Work out whose fault it was so it does not happen again
+  correct: 2
+  explanation: |-
+    Review the decisions — planned, happened, why, next time — without blame, and let anyone share feelings if they wish. Operational learning (AAR) and humane support (PFA) are different jobs; do both, without blame or pressure.
+
+- id: s15-rev-3
+  question: |-
+    Your group has crossed the same snow slope on three previous trips without incident, although each time you noticed cracks. Today the cracks are longer. Someone says: “It’s always like this.” Which trap is this?
+  options:
+    - |-
+      Sunk cost
+    - |-
+      Risk perception of dread hazards
+    - |-
+      Tonic immobility
+    - |-
+      Normalization of deviance
+  correct: 3
+  explanation: |-
+    Shooting cracks are a classic avalanche warning sign (Stage 12). Past crossings without incident are misleading feedback, not evidence of safety.
+
+- id: s15-rev-4
+  question: |-
+    A normally talkative companion becomes quiet, clumsy and irritable after hours in cold rain. What is the most likely explanation to act on first?
+  options:
+    - |-
+      Mild hypothermia (the “umbles”): warm, dry, shelter, food
+    - |-
+      Early giving up; give them a motivational talk
+    - |-
+      Groupthink pulling the whole group’s mood down
+    - |-
+      Normal tiredness; carry on to the planned camp
+  correct: 0
+  explanation: |-
+    Mumbles, fumbles, grumbles and stumbles are early hypothermia signs (Stage 8). Physical causes of apathy and irritability always come first.
+
+- id: s15-rev-5
+  question: |-
+    A kitchen fire starts in a holiday flat; your friend Maya freezes, staring at it. What do you do first?
+  options:
+    - |-
+      Call the emergency number from inside the flat
+    - |-
+      Short command using her name: “Maya! Out! Now!”
+    - |-
+      Check that everyone in the flat is accounted for
+    - |-
+      Gather your belongings and then close the doors
+  correct: 1
+  explanation: |-
+    Break the freeze with a clear command, get out (closing doors slows the fire — Stage 16), then call and account for everyone, stopping anyone going back in. Never go back in for belongings.
+
+- id: s15-rev-7
+  question: |-
+    You have a written trip plan with a turnaround time. Which statement about the psychological traps from Lesson 2 is correct?
+  options:
+    - |-
+      They no longer matter, because the plan decides for you
+    - |-
+      They matter only for groups, not for solo travellers
+    - |-
+      They still work by renegotiating triggers on the spot
+    - |-
+      They matter only if the plan was not shared with a contact
+  correct: 2
+  explanation: |-
+    Plans only help if they are kept. The traps work by renegotiating triggers on the spot (“just 30 more minutes”). Tell the group in advance that the triggers are not up for debate.
+
+- id: s15-rev-6
+  question: |-
+    Stranded in a snowed-in car, three people rotate a watch to keep the exhaust clear and the engine run times short. The night is 13.5 hours. How long is each watch if one person is awake at a time?
+  options:
+    - |-
+      6.75 h
+    - |-
+      3.4 h
+    - |-
+      40.5 h
+    - |-
+      4.5 h
+  correct: 3
+  explanation: |-
+    $13.5 / 3 = 4.5$ h. The watcher keeps the exhaust pipe clear of snow and the engine runs short (carbon monoxide — Stage 16) — a role that protects everyone while the others sleep.

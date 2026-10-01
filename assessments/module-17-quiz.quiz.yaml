@@ -1,0 +1,159 @@
+- id: s17-rev-5
+  question: |-
+    Two occupants of a snowbound car have headaches and nausea after hours of idling; one is hard to wake. What is the first action?
+  options:
+    - |-
+      Engine off, doors open for fresh air, and call or signal for medical help
+    - |-
+      Give them painkillers and let them rest until they feel better
+    - |-
+      Turn up the heater so they stay warm while you wait
+    - |-
+      Crack a window a little and keep the engine running
+  correct: 0
+  explanation: |-
+    Stage 1: deal with the immediate danger first. CO is it — and clear the tailpipe before any further engine use.
+
+- id: s17-rev-3
+  question: |-
+    Desert, 13:00, 42 °C, car bogged, search expected tomorrow morning. You have 12 L of water for two people. Which statement is correct?
+  options:
+    - |-
+      Drink as little as possible so the 12 L lasts several days
+    - |-
+      Drink to need, rest in raised shade through the heat, do work at dusk and dawn
+    - |-
+      Sit in the car with the windows closed to keep the hot wind out
+    - |-
+      Walk to find help now while you are fresh
+  correct: 1
+  explanation: |-
+    Stage 4 and Stage 8: water is for the body; losses are what you control.
+
+- id: s17-rev-2
+  question: |-
+    Stranded in a snowbound car at night. Which of these is NOT safe?
+  options:
+    - |-
+      Clearing the tailpipe before each engine run
+    - |-
+      Running the engine ~10 minutes each hour with a downwind window cracked
+    - |-
+      Using a camping stove inside the car for warmth
+    - |-
+      Taking turns sleeping so someone stays on watch
+  correct: 2
+  explanation: |-
+    Insulate first (sleeping bag on, blanket underneath, windows covered), heat briefly with a clear exhaust, and never burn fuel inside the cabin.
+
+- id: s17-rev-1
+  question: |-
+    Which single preparation most increases the chance that someone comes for you if your car breaks down on a remote road with no coverage?
+  options:
+    - |-
+      A larger, better-stocked first-aid kit in the boot
+    - |-
+      A second phone, kept charged as a backup
+    - |-
+      Enough snacks and food to last three days
+    - |-
+      A trip plan with route and alarm time, held by someone
+  correct: 3
+  explanation: |-
+    Stage 1: a trip plan converts “missing” into “searched for”. A beacon is the other way to start a rescue.
+
+- id: s17-rev-10
+  question: |-
+    A dip in a desert road is covered by fast, muddy water after a distant thunderstorm. The other side looks shallow. What is best?
+  options:
+    - |-
+      Wait on high ground or take another route until it passes
+    - |-
+      Drive through slowly in a low gear, keeping the revs up
+    - |-
+      Wade across first to test the depth and the current
+    - |-
+      Park in the dip and wait there for the water to drop
+  correct: 0
+  explanation: |-
+    Stage 12 again: turn around, don’t drown — flash floods in washes often pass within hours, and never wait in a wash.
+
+- id: s17-rev-8
+  question: |-
+    A navigation app directs you onto a rutted track in forest country as night approaches. Which Stage 1 principle most directly applies?
+  options:
+    - |-
+      The rule of threes for survival time limits
+    - |-
+      Prefer reversible actions while they are still easy
+    - |-
+      Food is the lowest priority in a short emergency
+    - |-
+      Fire first, for warmth and for signalling
+  correct: 1
+  explanation: |-
+    Backtracking on a known road is cheap; getting stuck on an unknown track at night is not.
+
+- id: s17-rev-9
+  question: |-
+    Your car is stuck in snow on a closed rural road at −20 °C with wind. Which of these is NOT a sign of developing hypothermia in your passenger (Stage 8)?
+  options:
+    - |-
+      Intense shivering and fumbling hands
+    - |-
+      Slurred speech and poor decisions
+    - |-
+      Flushed, sweaty skin on the face and body
+    - |-
+      Shivering that stops as they become drowsy
+  correct: 2
+  explanation: |-
+    Shivering, fumbling, slurred speech and drowsiness as shivering stops all signal hypothermia. Insulate from below and around, protect from wind, warm sweet drinks if fully alert, handle gently, get help (WMS).
+
+- id: s17-rev-7
+  question: |-
+    You come across a single-car crash on a rural road at dusk. Which sequence is right?
+  options:
+    - |-
+      Park safely with hazards and hi-vis on, check the occupants, check for dangers, then call
+    - |-
+      Check the occupants, park safely with hazards and hi-vis on, call, then check for dangers
+    - |-
+      Park safely with hazards and hi-vis on, call, check the occupants, then check for dangers
+    - |-
+      Park safely with hazards and hi-vis on, check for dangers, call, then check the occupants
+  correct: 3
+  explanation: |-
+    Scene safety first (Stage 9): park off the road behind the scene, then check for traffic, fuel leaks and fire; call with the location; then check the occupants and control life-threatening bleeding. A first-aid course turns this into skill.
+
+- id: s17-rev-6
+  question: |-
+    You have just activated a PLB beside your broken-down car. What should you do next?
+  options:
+    - |-
+      Stay with the beacon and the vehicle and wait for rescuers
+    - |-
+      Walk toward the nearest road so rescuers reach you faster
+    - |-
+      Carry the beacon to the nearest hilltop and wait there
+    - |-
+      Leave the beacon at the car and walk out to meet them
+  correct: 0
+  explanation: |-
+    Stay with the beacon and the vehicle; rescuers go to the transmitted position, and moving makes you harder to find.
+
+- id: s17-rev-4
+  question: |-
+    A 3-person family plans a desert drive with a 2-day stranding margin on top of a 1-day trip, at 5 L per person per day. How much water should they carry?
+  options:
+    - |-
+      30 L
+    - |-
+      45 L
+    - |-
+      15 L
+    - |-
+      10 L
+  correct: 1
+  explanation: |-
+    $3 \times (1 + 2) \times 5 = 45$ L — 45 kg, easy in a car and impossible on foot.

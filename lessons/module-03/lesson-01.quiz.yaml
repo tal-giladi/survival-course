@@ -1,0 +1,79 @@
+- id: s3-l1-q5
+  question: |-
+    A small fire produces thick white smoke and little flame. Which of these is the **least** likely cause?
+  options:
+    - |-
+      The fire is getting too much oxygen through the base
+    - |-
+      The fuel is too wet, so heat is going into making steam
+    - |-
+      The fuel is packed too tightly, so gases escape unburned
+    - |-
+      The pieces are too thick for the flame to pyrolyse
+  correct: 0
+  explanation: |-
+    Smoke is unburned volatiles plus steam: wet, tightly packed or too-thick fuel all cause it. Fix it with drier, finer fuel and bigger air gaps, not with less air.
+
+- id: s3-l1-q4
+  question: |-
+    Diffusion time scales as $t \approx r^2/\alpha$. If a 4 mm stick takes about 25 s to heat through, roughly how long does an 8 mm stick take?
+  options:
+    - |-
+      ~25 s
+    - |-
+      ~100 s
+    - |-
+      ~50 s
+    - |-
+      ~200 s
+  correct: 1
+  explanation: |-
+    Twice as thick, four times as long. That is why each rung of the ladder should be only 2–3× the previous one.
+
+- id: s3-l1-q2
+  question: |-
+    Using $H_{net} = 18.5(1-m) - 2.44m$ MJ/kg, what is the net energy of wood at **30 %** moisture (wet basis)?
+  options:
+    - |-
+      ≈ 13.0 MJ/kg
+    - |-
+      ≈ 13.7 MJ/kg
+    - |-
+      ≈ 12.2 MJ/kg
+    - |-
+      ≈ 3.8 MJ/kg
+  correct: 2
+  explanation: |-
+    18.5 × 0.7 = 12.95; 2.44 × 0.3 = 0.73; 12.95 − 0.73 ≈ **12.2 MJ/kg**, about 15 % less than wood at 20 %.
+
+- id: s3-l1-q3
+  question: |-
+    A forester says a green log is at “100 % moisture content, dry basis”. What fraction of the log’s mass is water?
+  options:
+    - |-
+      All of it
+    - |-
+      One tenth
+    - |-
+      It cannot be known
+    - |-
+      Half of it
+  correct: 3
+  explanation: |-
+    Water equals the dry mass, so water is half the total. Always check which basis a moisture figure uses.
+
+- id: s3-l1-q1
+  question: |-
+    Which sequence correctly orders the stages as a stick heats in a fire?
+  options:
+    - |-
+      Drying → pyrolysis → flaming → glowing char
+    - |-
+      Pyrolysis → drying → flaming → glowing char
+    - |-
+      Drying → flaming → pyrolysis → glowing char
+    - |-
+      Drying → pyrolysis → glowing char → flaming
+  correct: 0
+  explanation: |-
+    Heat first evaporates water, then pyrolyses the wood; the volatiles burn as flame; the char burns last as glowing coals.

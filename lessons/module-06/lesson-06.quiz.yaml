@@ -1,0 +1,79 @@
+- id: s6-l6-q1
+  question: |-
+    Which of these practices does **not** make eating insects safer?
+  options:
+    - |-
+      Choosing flies found on carrion because they are abundant
+    - |-
+      Cooking them thoroughly before eating
+    - |-
+      Avoiding brightly coloured, hairy or foul-smelling species
+    - |-
+      Avoiding insects from sprayed fields and roadsides
+  correct: 0
+  explanation: |-
+    Cook, avoid warning signals, choose clean sources — and check legality and allergy.
+
+- id: s6-l6-q5
+  question: |-
+    Which statement about collecting insects to eat is correct?
+  options:
+    - |-
+      It is legal anywhere, because insects are not protected wildlife.
+    - |-
+      Parks and reserves may ban it, and some insect species are protected.
+    - |-
+      Only selling insects is regulated; collecting for yourself is fine.
+    - |-
+      It is legal anywhere outside national parks, whatever the species.
+  correct: 1
+  explanation: |-
+    Many parks and reserves prohibit collecting any wildlife, some insect species are protected, and sale as food is regulated in some places.
+
+- id: s6-l6-q4
+  question: |-
+    Why should snails and slugs never be eaten raw in warm regions?
+  options:
+    - |-
+      They contain amatoxins.
+    - |-
+      They have too much fat.
+    - |-
+      They can carry rat lungworm, which causes meningitis.
+    - |-
+      They are always illegal to collect.
+  correct: 2
+  explanation: |-
+    Angiostrongylus larvae are killed by thorough cooking; wash hands after handling.
+
+- id: s6-l6-q2
+  question: |-
+    Who is most likely to react to eating insects?
+  options:
+    - |-
+      People with a peanut allergy
+    - |-
+      People with lactose intolerance
+    - |-
+      Nobody — insects are hypoallergenic
+    - |-
+      People allergic to shellfish or dust mites
+  correct: 3
+  explanation: |-
+    Crustaceans, dust mites and insects are all arthropods with related allergens.
+
+- id: s6-l6-q3
+  question: |-
+    You spend 2 hours turning logs and find 50 g of grubs (250 kcal/100 g). The extra effort costs 120 kcal per hour. What is your **net** energy?
+  options:
+    - |-
+      −115 kcal
+    - |-
+      +125 kcal
+    - |-
+      +5 kcal
+    - |-
+      −365 kcal
+  correct: 0
+  explanation: |-
+    Gain 0.5 × 250 = 125 kcal; cost 2 × 120 = 240 kcal; net **−115 kcal**.

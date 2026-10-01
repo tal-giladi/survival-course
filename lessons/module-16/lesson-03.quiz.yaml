@@ -1,0 +1,79 @@
+- id: s16-l3-q6
+  question: |-
+    On a beach, you feel shaking that makes it hard to stand and lasts about 40 seconds. No siren sounds. What should you do?
+  options:
+    - |-
+      Wait for an official tsunami warning
+    - |-
+      Go to the water’s edge to see whether the sea recedes
+    - |-
+      Walk or run to high ground or inland immediately
+    - |-
+      Drive along the coast road to get home
+  correct: 2
+  explanation: |-
+    “Long or strong, get gone.” Natural warnings — strong shaking, a roar, the sea rising or draining — mean leave now, on foot if possible.
+
+- id: s16-l3-q2
+  question: |-
+    You are in a supermarket when strong shaking starts. What do you do?
+  options:
+    - |-
+      Run for the exit right away, before the crowd blocks it
+    - |-
+      Stand in the stockroom doorway until the shaking stops
+    - |-
+      Lie down beside a sturdy shelf so it forms a void over you
+    - |-
+      Step away from tall shelves, then drop, cover your head and neck, and hold on
+  correct: 3
+  explanation: |-
+    Protect yourself where you are; do not try to move far during shaking.
+
+- id: s16-l3-q3
+  question: |-
+    After a strong earthquake your building has new diagonal cracks in its concrete walls. When is it reasonable to go back in?
+  options:
+    - |-
+      Only after the building has been inspected and cleared
+    - |-
+      Once a full hour has passed without any aftershocks
+    - |-
+      Once the largest aftershock has passed and things settle
+    - |-
+      Right away, as long as you are quick and stay near exits
+  correct: 0
+  explanation: |-
+    Aftershocks can come days later, and the largest is often only about one magnitude unit smaller than the main shock. Stay out until the building is inspected.
+
+- id: s16-l3-q1
+  question: |-
+    Strong shaking at night has just stopped; you are at home and no one is trapped. Which order of first actions is correct?
+  options:
+    - |-
+      Text contact → shoes and torch → injuries → gas → building damage
+    - |-
+      Shoes and torch → injuries → gas → building damage → text contact
+    - |-
+      Injuries → shoes and torch → building damage → gas → text contact
+    - |-
+      Shoes and torch → gas → building damage → injuries → text contact
+  correct: 1
+  explanation: |-
+    Protect the rescuer (shoes, flameless light), then life-threatening injuries, then the hazards that can kill everyone (gas, collapse), then communication.
+
+- id: s16-l3-q5
+  question: |-
+    Your office building is on fire and you are heading out. Which of these actions is a mistake?
+  options:
+    - |-
+      Taking the stairs rather than the lift
+    - |-
+      Feeling doors with the back of your hand first
+    - |-
+      Leaving doors open behind you for others
+    - |-
+      Staying low where the smoke is thinnest
+  correct: 2
+  explanation: |-
+    Use the stairs, stay low, check doors and close them behind you to slow fire and smoke. Once outside, never go back in — not even for a laptop.

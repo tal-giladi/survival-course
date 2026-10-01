@@ -1,0 +1,79 @@
+- id: s2-l12-q7
+  question: |-
+    Day hike, trip plan left with a friend, due back at 18:00. At 16:30 you realise you are lost in dense, hilly forest, uninjured, with warm layers. Sunset is 18:20. Which is the best plan?
+  options:
+    - |-
+      Keep walking fast downhill until you find a road, while there is still daylight left.
+    - |-
+      STOP; 15–20 min of marked out-and-back searches; if no trail by 17:15, prepare for night and signal.
+    - |-
+      Climb the highest hill in sight to get a phone signal, however long that takes you.
+    - |-
+      Sit down immediately where you are and do nothing at all until rescuers find you.
+  correct: 1
+  explanation: |-
+    The trip plan means a search will start near your route; a short, anchored relocation attempt with a trigger, then a well-prepared stay at the nearest safe open spot, gives the best odds.
+
+- id: s2-l12-q1
+  question: |-
+    Which of these is **not** a warning sign that you may already be lost?
+  options:
+    - |-
+      You tell yourself the stream on the map “must be seasonal” because it isn’t there.
+    - |-
+      A junction expected at 20 minutes has not appeared after 40.
+    - |-
+      You pass the features you expected, in order and on time.
+    - |-
+      You notice you are walking faster and checking the map less.
+  correct: 2
+  explanation: |-
+    Mismatches (such as descending when the route should climb), time overruns, explaining away evidence and speeding up all mean: STOP now.
+
+- id: s2-l12-q2
+  question: |-
+    Which lost-person strategy keeps a fixed anchor while testing options?
+  options:
+    - |-
+      Random traversing
+    - |-
+      Route traveling
+    - |-
+      View enhancing
+    - |-
+      Direction sampling
+  correct: 3
+  explanation: |-
+    Direction sampling (and marked out-and-back searches) keeps your last known point as a safe base.
+
+- id: s2-l12-q5
+  question: |-
+    In the relocation sequence, which step comes **immediately before** you commit at your trigger time (catching feature, or stay and signal)?
+  options:
+    - |-
+      Try short, marked, reversible searches
+    - |-
+      Stop, sit, drink and calm down
+    - |-
+      Identify your last known point and circle
+    - |-
+      Match the visible terrain to the map
+  correct: 0
+  explanation: |-
+    Calm first, then known facts, then observation, then cheap reversible actions, then a committed decision at a pre-set trigger.
+
+- id: s2-l12-q6
+  question: |-
+    Sunset is at 16:40. Under cloud you expect 20 minutes of useful twilight and need 70 minutes to prepare shelter. It is 14:50. How long do you have for relocation before you must start preparing?
+  options:
+    - |-
+      40 minutes
+    - |-
+      60 minutes
+    - |-
+      20 minutes
+    - |-
+      130 minutes
+  correct: 1
+  explanation: |-
+    Latest start = 16:40 + 20 − 70 = 15:50. From 14:50 that is **60 minutes**.

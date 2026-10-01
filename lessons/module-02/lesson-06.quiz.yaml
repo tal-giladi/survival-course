@@ -1,0 +1,83 @@
+- id: s2-l6-q6
+  question: |-
+    In fog you reach “the stream” sooner than expected, and it flows the opposite way to the one on your map. What should you conclude?
+  options:
+    - |-
+      Likely a different stream — I may be off position; stop and relocate.
+    - |-
+      The map is probably wrong about which way this stream flows.
+    - |-
+      Streams can change direction over time, so I can carry on.
+    - |-
+      Follow it anyway — any stream is a handrail to lower ground.
+  correct: 0
+  explanation: |-
+    When the ground disagrees with the map, believe the ground and question your position. Lesson 7 covers relocation.
+
+- id: s2-l6-q3
+  question: |-
+    Which of these makes the best **catching feature** for a hut 800 m ahead?
+
+    ![Handrail stream leading to an attack point, a short compass leg to the target, and a road beyond as a catching feature](../../assets/diagrams/handrails.svg)
+  options:
+    - |-
+      A cliff edge running 100 m beyond the hut
+    - |-
+      A road crossing your line 300 m beyond the hut
+    - |-
+      A single large boulder 200 m beyond the hut
+    - |-
+      A big river crossing your line 3 km beyond
+  correct: 1
+  explanation: |-
+    A catching feature must be linear, obvious, safe to reach and not too far beyond the target.
+
+- id: s2-l6-q5
+  question: |-
+    You are lost. When is following a stream downhill a sound plan?
+  options:
+    - |-
+      Always — streams reliably lead down to roads and to people
+    - |-
+      Whenever visibility is too poor to use any other navigation
+    - |-
+      Only when the map shows where it goes and that the route is safe
+    - |-
+      Whenever the stream is big enough to be named on the map
+  correct: 2
+  explanation: |-
+    Myth: “follow water to people”. Streams can lead into gorges, waterfalls, swamps or empty valleys. A stream is a handrail only when the map shows where it goes and that route is safe.
+
+- id: s2-l6-q4
+  question: |-
+    Which sequence is a typical **attack-point** approach to a small target?
+  options:
+    - |-
+      Precise bearing → handrail → collecting feature → attack point
+    - |-
+      Attack point → handrail → collecting feature → precise final leg
+    - |-
+      Handrail → attack point → precise final leg → collecting feature
+    - |-
+      Handrail → collecting feature → attack point → precise final leg
+  correct: 3
+  explanation: |-
+    Fast and rough where the terrain guides you; slow and precise only for the short final leg.
+
+- id: s2-l6-q1
+  question: |-
+    You aim off **6°** to the left of a footbridge on a river **1.5 km** away. Using the 1-in-60 rule, about how far left of the bridge do you expect to hit the river?
+
+    ![Aiming directly at a river junction versus aiming off to one side](../../assets/diagrams/aiming-off.svg)
+  options:
+    - |-
+      150 m
+    - |-
+      15 m
+    - |-
+      1,500 m
+    - |-
+      25 m
+  correct: 0
+  explanation: |-
+    1,500 × 6 / 60 = **150 m**. On reaching the river, turn right and walk about 150 m.

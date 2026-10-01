@@ -1,0 +1,81 @@
+- id: s1-l13-q1
+  question: |-
+    What is the widely recognised audible distress pattern with a whistle?
+  options:
+    - |-
+      One long continuous blast
+    - |-
+      Three blasts, pause, repeat
+    - |-
+      Two short blasts
+    - |-
+      Short blasts, as many as you can
+  correct: 1
+  explanation: |-
+    Groups of three are the general distress convention. (The Alpine signal is six per minute.)
+
+- id: s1-l13-q2
+  question: |-
+    Which of these does **NOT** help extend phone battery life in an emergency?
+  options:
+    - |-
+      Airplane mode between scheduled checks
+    - |-
+      Keeping the phone warm inside your clothing
+    - |-
+      Repeatedly redialling when the call fails
+    - |-
+      Low-power mode and lowest screen brightness
+  correct: 2
+  explanation: |-
+    Minimise radio searching, screen time and cold; schedule checks; try SMS.
+
+- id: s1-l13-q3
+  question: |-
+    Ground-to-air code: what does a large **X** mean?
+
+    ![Ground-to-air emergency code symbols](../../assets/diagrams/ground-to-air.svg)
+  options:
+    - |-
+      Require assistance
+    - |-
+      No
+    - |-
+      Proceeding in this direction
+    - |-
+      Require medical assistance
+  correct: 3
+  explanation: |-
+    V = require assistance; X = require medical assistance; N = no; Y = yes; arrow = travelling this way.
+
+- id: s1-l13-q4
+  question: |-
+    A person could be anywhere within 3 km of their last known point. If they walk on and could now be anywhere within 6 km, by what **factor** does the possible search area grow?
+  options:
+    - |-
+      4×
+    - |-
+      2×
+    - |-
+      9×
+    - |-
+      8×
+  correct: 0
+  explanation: |-
+    Area ∝ r². Doubling the radius multiplies the area by **4**: $\pi (6)^2 / \pi (3)^2 = 36 / 9 = 4$.
+
+- id: s1-l13-q5
+  question: |-
+    Why does a PLB need to be registered?
+  options:
+    - |-
+      So it can connect to the satellites; unregistered units cannot transmit.
+    - |-
+      So rescuers can identify the owner and reach their emergency contacts.
+    - |-
+      So it can receive two-way text messages from the rescue centre.
+    - |-
+      So the subscription stays active, since a PLB stops working if it lapses.
+  correct: 1
+  explanation: |-
+    Registration links the beacon’s ID to you and your emergency contacts, speeding response and reducing false-alarm effort.
