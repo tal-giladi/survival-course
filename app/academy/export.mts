@@ -305,7 +305,6 @@ for (const id of usedSims) {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${def.title}</title>
-<link rel="stylesheet" href="../common/sim.css">
 </head>
 <body data-sim="${id}">
 <div id="root"></div>
